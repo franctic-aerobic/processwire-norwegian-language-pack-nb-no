@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Spor IP-adresser i sesjonsdata?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Spor brukeragent i sesjonsdata?"
+        }
+    }
+}

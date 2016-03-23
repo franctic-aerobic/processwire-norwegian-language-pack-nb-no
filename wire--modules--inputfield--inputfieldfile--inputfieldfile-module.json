@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beskrivelse"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Merkelapper"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Slett"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "dra og slipp filer her"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Ingen filetternavn er definert for dette feltet."
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Filen feilet validering"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "La til fil:"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Nektet filen %s fordi den er allerede i filsystemet og eies av et annet felt."
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Slettet fil:"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "destinationPath er tom eller eksisterer ikke"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "destinationPath er ikke skrivbar"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Maks st\u00f8rrelse p\u00e5 filopplasting n\u00e5dd"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Pakk ut ZIP-filer?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Om avkrysset vil ZIP-arkiv bli pakket ut og alle gyldige filer lagt til som opplastinger (dersom det st\u00f8ttes av hosting-milj\u00f8et). Maks antall filer m\u00e5 settes til 0 (ingen maksgrense) for at ZIP-opplastinger skal fungere."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Overskrive eksisterende filer?"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Antall rader for beskrivelsesfeltet?"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Filer"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "En eller flere filopplastinger (sorterbart)"
+        }
+    }
+}

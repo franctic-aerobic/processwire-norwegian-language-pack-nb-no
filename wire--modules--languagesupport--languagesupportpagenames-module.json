@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Aktiv?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Sidetall-prefisk for sidenavigering"
+        },
+        "6119a76d8e8915737cda0e4151922c06": {
+            "text": "Sidetallet er tilf\u00f8yd dette ordet i sidenummererte URLer for dette spr\u00e5k. Om utelatt s\u00e5 vil \"%s\" bli brukt."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Standard spr\u00e5ks hjemme-URL den samme som rot-URL?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Velg **Ja** om du vil at hjemmesiden til ditt standardspr\u00e5k skal bli gitt rot-URL **\/** (anbefalt). Velg **Nei** dom du vil at rot-URL skal vidersende til **\/navn\/** (hvor \/navn\/ er din hjemmesides standardspr\u00e5ks navn)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Denne innstillinger virker kun p\u00e5 hjemmesidens oppf\u00f8rsel. Om du velger Nei, m\u00e5 du ogs\u00e5 passe p\u00e5 at hjemmesiden har et navn definert for standard spr\u00e5k."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Ja - Rot-URL gir standard spr\u00e5ks hjemmeside (anbefalt)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Nei - Rot-URL utf\u00f8rer vidersending til: \/navn\/"
+        }
+    }
+}

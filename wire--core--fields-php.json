@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "side-for-side"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "enkel-sp\u00f8rring"
+        },
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Slettet felt \"%1$s\" data i %2$d rad(er) fra %3$d side(r)."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Feil ved sletting av felt \"%1$s\" data, %2$d rad(er), %3$d side(r)."
+        }
+    }
+}

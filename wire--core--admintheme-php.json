@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/AdminTheme.php",
+    "textdomain": "wire--core--admintheme-php",
+    "translations": {
+        "244cf4a0f690a8c69a4dacf0a0c78a2e": {
+            "text": "Avansert modus"
+        },
+        "1e7f9a369b1d2688c0a9de0ba9adeb43": {
+            "text": "For \u00e5 bruke dette temaet m\u00e5 du velge det fra brukerprofilen din."
+        },
+        "e3d8856720f3539d3fd3e02238f095ef": {
+            "text": "Installerte feltet \"admin_theme\" og la det til brukerprofilens innstillinger."
+        },
+        "40c0ca08425d862d797f41d0fe0ff368": {
+            "text": "Fjernet feltet \"admin_theme\" fra systemet."
+        }
+    }
+}

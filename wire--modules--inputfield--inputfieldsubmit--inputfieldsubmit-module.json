@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSubmit\/InputfieldSubmit.module",
+    "textdomain": "wire--modules--inputfield--inputfieldsubmit--inputfieldsubmit-module",
+    "translations": {
+        "297eb192f98270827a86fb18005b1e35": {
+            "text": "Send inn-knapp for skjema"
+        }
+    }
+}

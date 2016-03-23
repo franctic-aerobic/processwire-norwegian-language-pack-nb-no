@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Ugyldig bilde"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Bilde av %s oppfyller ikke det minstekravet for st\u00f8rrelse"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Bilde av %s overg\u00e5r maks tillatt st\u00f8rrelse"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Bilde har endret st\u00f8rrelse til \u00e5 passe maks tillatte dimensjoner"
+        },
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Variasjoner av %s"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Slett"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "Flytt til bunnen"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Flytt til toppen"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Vis miniatyrbilder i sidebehandleren?"
+        },
+        "183cf71ab1252b747070605a2aa370c2": {
+            "text": "Miniatyrbilder tar mindre plass og er enklere \u00e5 sortere n\u00e5r du har flere bilder. Om ikke avkrysser vil original bildest\u00f8rrelse bli vis i sidebehandleren."
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "Standard visning"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Rader"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "Rutenett"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "Begge visningene kan bli byttet til ved \u00e5 trykke ikonet for rutenett\/rad i bildefeltet. Dette definerer kun hva som er standard. Rader er anbefalt som standard."
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Maks fildimensjoner"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Bilder"
+        },
+        "6a1c2d713d3598f27c30a6c448197f0e": {
+            "text": "Fil kan ikke vises"
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maks bredde for opplastede bilder"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maks h\u00f8yde for oppastede bilder"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Nekt bilder som overg\u00e5r maksst\u00f8rrelsene?"
+        }
+    }
+}

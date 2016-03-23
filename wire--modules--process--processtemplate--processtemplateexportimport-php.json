@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplateExportImport.php",
+    "textdomain": "wire--modules--process--processtemplate--processtemplateexportimport-php",
+    "translations": {
+        "adb6c5041788e54ab20e2a3ef58fbe6e": {
+            "text": "Velg malene du vil eksportere"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NAVN"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "MERKELAPP"
+        },
+        "60f5cde0d3f7fde81ba481a6a2ea2c49": {
+            "text": "FELTER"
+        },
+        "40e3819215b52841e19a7cac06b5f065": {
+            "text": "ENDRET"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+trykk for \u00e5 velge flere i sekvensen. Ctrl+trykk (eller Cmd+trykk) for \u00e5 velge flere individuelt. Ctrl+A (eller Cmd+A) for \u00e5 velge alle."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Eksporter data"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Kopier og lim inn data i \"Import\"-boksen p\u00e5 en annen installasjon."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Trykk hvor som helst i boksen for \u00e5 velge all eksportdata. N\u00e5r valgt, kopier dataen med Ctrl+C eller Cmd+C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Lim inn data fra en eksport."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Kopier eksportert data fra en annen installasjon og lim den inn i boksen over med Ctrl+V eller Cmd+V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Forh\u00e5ndsvis"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "ny"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Endringer"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Egenskap"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Gammel verdi"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Ny verdi"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Ingen endringer venter"
+        },
+        "10683c4dcfaf72824f906297f56bf7a5": {
+            "text": "Endre denne malen?"
+        },
+        "8ed3116cc653ca014c306d4750f6fdb4": {
+            "text": "Opprett denne malen?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "trykk ja for \u00e5 vise endringer"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Noen ganger tar det to fors\u00f8k f\u00f8r alle endringer er gjort. Vennligst g\u00e5 gjennom kommende endringer under og send dem inn som det trengs."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Vennligst g\u00e5 gjennom endringene under og send dem inn n\u00e5r de er klare. Om det er noen endringer du ikke \u00f8nsker \u00e5 f\u00e5 gjort, fjern avhukingen ved boksene hvor det gjelder."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Gj\u00f8r endringer"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Dine endringer har blitt gjort!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Ingen endringer ble funnet"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Lagret:"
+        },
+        "9e8f440807ceee9139987ab8fc6af288": {
+            "text": "Lagt til:"
+        },
+        "c5537dee88da6f333d20bfd49cfe1ce4": {
+            "text": "Endret:"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Eksporter"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "Ok"
+        },
+        "12c658575040446e9b2ffdfaaf7bc115": {
+            "text": "Importer"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Ja"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nei"
+        },
+        "1de056630a16e4be557e090c25f5791e": {
+            "text": "%d melding"
+        },
+        "f96edcbe75239be800209c48ae9beb65": {
+            "text": "%d meldinger"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Fann %d egenskap \u00e5 legge til."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Fann %d egenskaper \u00e5 legge til."
+        },
+        "55c3a7525ed259e874a6d8f5e7e1b951": {
+            "text": "Meldinger i %d mal"
+        },
+        "c444fb69a513bb955e7fc6d2743259c0": {
+            "text": "Meldinger i %d maler"
+        },
+        "941d6506a00bb692b6fef9cd4ae4b5e1": {
+            "text": "Fann %d ny mal \u00e5 legge til"
+        },
+        "5788268970dc1d50bc88a88494487e11": {
+            "text": "Fann %d ny maler \u00e5 legge til"
+        },
+        "6c0ca3ff5408385efd5418b46d06cd85": {
+            "text": "Fann %d eksisterende mal \u00e5 oppdatere"
+        },
+        "b51b8d4de5d4fd2422af0fb2ad529875": {
+            "text": "Fann %d eksisterende maler \u00e5 oppdatere"
+        },
+        "9b64d9a70291ddd3f6c42edec1bb9866": {
+            "text": "La til %d element"
+        },
+        "0f1a6168f03f3ac45f46090fef3bf688": {
+            "text": "La til %d elementer"
+        },
+        "1992f81aea256b7d907c455b395d5ea4": {
+            "text": "Endret %d element"
+        },
+        "91cfce0d08404cef27087ea2d7c9043a": {
+            "text": "Endret %d elementer"
+        },
+        "c95e1b7b8cdab666cefec077890996f5": {
+            "text": "Hoppet over %d element"
+        },
+        "fc9475948584941277524f1216bb18ff": {
+            "text": "Hoppet over %d elementer"
+        }
+    }
+}

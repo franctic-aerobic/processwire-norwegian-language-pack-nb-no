@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "Antall minutter"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Tid"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Bruker"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Side"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Oppdater"
+        },
+        "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
+            "text": "Sesjoner"
+        }
+    }
+}

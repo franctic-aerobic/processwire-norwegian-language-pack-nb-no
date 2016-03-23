@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "\u00c5pne i modalvindu?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Huk av denne boksen for \u00e5 \u00e5pne fanen i sitt eget modalvindu. Dette kan forbetre ytelsen med store skjemaer."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "For \u00e5 l\u00f8se et lignende behov kan du vurdere AJAX-valget, tilgjengelig her: Inndata (fane) > Synlighet > Presentasjon."
+        }
+    }
+}

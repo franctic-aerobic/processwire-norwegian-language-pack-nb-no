@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "Ikke i stand til \u00e5 fullf\u00f8re opplastingen"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Ingen opplastinger funnet"
+        },
+        "c8e5b4f1bb72c62949a522f6925e80c8": {
+            "text": "Ikke i stand til \u00e5 fullf\u00f8re nedlastingen"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "Ugyldig nedlastings URL spesifiser"
+        },
+        "e830879e542fd52ca82f599ce41b6668": {
+            "text": "Lastet ned ZIP-fil: %s (%d bytes)"
+        }
+    }
+}

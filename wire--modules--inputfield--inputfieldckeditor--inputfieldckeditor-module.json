@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Avbryt"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Sett inn lenke"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Rediger lenke"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Velg bilde"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Rediger bilde"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Din bildetekst her"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Lagrer bilde"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Sett inn dette bilde"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Velg et annet bilde"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "CKEditor inline-modus krever bruk av MarkupHTMLPurifier-modulen. Bruk heller normal modus."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nei"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Eksempel:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "CKEditor-innstillinger"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "CKEditor-verkt\u00f8yslinje"
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Bruk ACD?"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Innstikk"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Ekstra innstikk"
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Minst et innstikk m\u00e5 v\u00e6re avhuket"
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "anbefalt"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "%s innstillinger"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Fjern innstikk"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Legg til felt"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Repeater elementmerker"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Skriv inn feltnavnet som skal brukes for repeater-merker i sideredigeringen, eller forbli blant for \u00e5 skape automatisk."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Eksempel: #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Merkelapp for \u00e5 legge til nytt element"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Skriv inn merkelappen du \u00f8nsker \u00e5 bruke for \"Legg til nytt element\"-teksten\/knappen, eller forbli tom for \u00e5 bruke standard."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nye elementer \u00e5pen, eksisterende elementer kollapset (anbefalt i de fleste tilfeller)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Elementer alltid \u00e5pen (deaktiverer dynamisk lasting for eksisterende elementer)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Elementer alltid kollapset"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Av"
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Slett gamle\/ubrukte repeater-elementer?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Det er **%d** gamle\/ubrukte repeater-element(er), huk av denne boksen for \u00e5 slette dem."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Maks antall Repeater-elementer"
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Repeater-type"
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Repeater-felter"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Er tom og 0 tilsvarende?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Dette virker inn p\u00e5 hvordan ProcessWire sammenfatter sider i databasens finn-operasjoner."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Ja - Tom og 0 er tilsvarende"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Nei - Tom og 0 har ulike betydning"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Standard verdi"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Denne verdien er gitt som standard for dette feltet ved nye opprettede sider. Det virker ikke inn p\u00e5 eksisterende sider."
+        }
+    }
+}

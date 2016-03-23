@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
+    "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
+    "translations": {
+        "369edfa695c186fc693c7cdfea26b6d2": {
+            "text": "Superbruker-merknad: Andre brukere kan se og klikke p\u00e5 bokmerker, men kan ikke legge til nye eller redigere eksisterende."
+        },
+        "1dd63dcbc0f27a97c60433bff0936901": {
+            "text": "Rediger bokmerke"
+        },
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "Legg til nytt bokmerke"
+        },
+        "a84bed79c3b725dbbd17b6c4b8337a17": {
+            "text": "Oppretter et nytt bokmerke basert p\u00e5 dine n\u00e5v\u00e6rende filtrer, kolonner og sorteringer."
+        },
+        "644a574fca8608c6447c23ba5c9fb907": {
+            "text": "Hvilke brukerroller vil se bokmerket? Dersom ingen brukerroller er valgt, vil alle med tilgang til denne Lister-en se bokermerket."
+        },
+        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
+            "text": "Bokmerker-sorteringsrekkef\u00f8lge"
+        },
+        "bfa974ff994bf6af816d695d88659fda": {
+            "text": "Slett bokmerket?"
+        },
+        "33d64e5e020fcfcd6bf5b5edc3634211": {
+            "text": "Slettet bokmerke: %s"
+        },
+        "d04ee192f5a72f20e89abe7acb7225f3": {
+            "text": "Lagret bokmerke: %s"
+        },
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "Bokmerker"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "Bokmerke"
+        },
+        "25f8473f61fb614f277d48e8bf5be8d2": {
+            "text": "Selektor"
+        },
+        "cd765bc6c6872048db5bb4cb9181392f": {
+            "text": "Kolonner"
+        },
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "Tilgang"
+        },
+        "16f46652aa3bae21e3e051daba507193": {
+            "text": "Handling"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "alle"
+        },
+        "fbfa318e948c32434209e9dec12f5342": {
+            "text": "Rediger"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "Tittel"
+        },
+        "8ca63fc5a95e5a226137f8dd03ad81f0": {
+            "text": "Hvilke sider skal bokmerket vise?"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Kolonner"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
+            "text": "Tilgang"
+        },
+        "5979876e287f07dc59597ec2139675c2": {
+            "text": "Slett"
+        }
+    }
+}

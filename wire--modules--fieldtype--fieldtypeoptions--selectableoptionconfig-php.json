@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Vennligst bekreft at du vil slette valgene"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "SLETT:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Enkel verdi"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Flere verdier"
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Denne funksjonen er aktiv fordi en verdi alltid kreves."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Slett dette valget"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Slett disse valgene"
+        }
+    }
+}

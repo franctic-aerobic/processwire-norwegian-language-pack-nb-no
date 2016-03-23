@@ -1,0 +1,207 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModule.module",
+    "textdomain": "wire--modules--process--processmodule--processmodule-module",
+    "translations": {
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Last ned"
+        },
+        "418cab01f270b56053a218c414840ec9": {
+            "text": "Last ned og oppdater"
+        },
+        "c83047e52e84102cde2e46c99f5f2fa5": {
+            "text": "Last ned og installer"
+        },
+        "fadeae979278b23b0c0245fe143813ca": {
+            "text": "Legg til modul fra mappe"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "Last opp"
+        },
+        "a97f194fe643428c6e0e5b1d3ea79dbd": {
+            "text": "Legg til modul fra opplasting"
+        },
+        "5e3f8e6adc33178f32cc7beb6ad19072": {
+            "text": "Legg til modul fra URL"
+        },
+        "cc3acbc843dd28f892ae2c9c1211b4cb": {
+            "text": "Se etter nye moduler"
+        },
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "Installert"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Oppdater"
+        },
+        "83168e6cb289d732cc78427b51f93153": {
+            "text": "Kjerne"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "Side"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigurer"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Avbryt"
+        },
+        "b14c50cfbdf80ffa1e494282c306a467": {
+            "text": "Modulinstallas"
+        },
+        "ea90a0c1864c51f82f862a6850c13951": {
+            "text": "Slett modulfiler"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Ny"
+        },
+        "94e84ea867143991751f06bad2b5da30": {
+            "text": "Innenfor siste time"
+        },
+        "a0d5ca48d2aafbe0c044daeedc4ca0e5": {
+            "text": "Innenfor siste dag"
+        },
+        "dc52e914c681bc112d4a36ed38e37299": {
+            "text": "Innenfor siste uke"
+        },
+        "12db5f4485378bd2b028b8f67a61533e": {
+            "text": "Innenfor siste m\u00e5ned"
+        },
+        "21f29ba58fe9059dae498577efb26435": {
+            "text": "Nylige funnet og installerte moduler"
+        },
+        "56f298ec43e271496dd37302c5f2d023": {
+            "text": "Ingen nye moduler funnet"
+        },
+        "230420a05edcb2323c858d6c410d93cf": {
+            "text": "Ingen moduler funnet."
+        },
+        "844ced21eac449bca19cf378ae770720": {
+            "text": "Ugyldig modulnavn: %s"
+        },
+        "addec426932e71323700afa1911f8f1c": {
+            "text": "mer"
+        },
+        "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
+            "text": "Slette %s?"
+        },
+        "b9c21fa0192c783c8c3d3c48cd251f6c": {
+            "text": "Ny modul funnet"
+        },
+        "5d695cc28c6a7ea955162fbdd0ae42b9": {
+            "text": "Funnet"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Vis alle"
+        },
+        "18206c5add24b8898426959c811b779b": {
+            "text": "Mer informasjon"
+        },
+        "eac35422501988079c78c4da694468ff": {
+            "text": "Prosjektside"
+        },
+        "49ec9b5c06ace9e448b8c7901304c036": {
+            "text": "Supportside"
+        },
+        "013ba726c842150ec33822c5a6fc6196": {
+            "text": "Nedlasting avbrutt"
+        },
+        "321a272463ceb9661e0951f1e3b639d5": {
+            "text": "Nedlastet:"
+        },
+        "206fdb3626f498af4b830cbf6c2efc0a": {
+            "text": "%s e klar til \u00e5 bli installert"
+        },
+        "5edb0eb1006e6be6d4cd5609357b4bb3": {
+            "text": "Installer n\u00e5"
+        },
+        "bfaf55307f89bbad2f781f3ea25fae91": {
+            "text": "Forbli uinstallert"
+        },
+        "bb8985c9a93d30135e0a662d77228e87": {
+            "text": "Oppdatert:"
+        },
+        "5bee92e129673eefc19da149e2b58f15": {
+            "text": "%s ble suksessfullt oppdatert."
+        },
+        "292287e744d21b09f577b3228ef5ce77": {
+            "text": "G\u00e5 videre til modulinnstillingene"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Legg til ny"
+        },
+        "7dadd48b9d04ac2c725c773fb9b845e6": {
+            "text": "Installer"
+        },
+        "70d2b9e888cc1816db79833873ff3a93": {
+            "text": "Modul"
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "Versjon"
+        },
+        "397433048c1c0bf93e5c0b270e178cb5": {
+            "text": "Oppsummering"
+        },
+        "abc3baafc079141ff12cc709fd46f471": {
+            "text": "Slett"
+        },
+        "5ef031b334adbb931cf113da0bd6dcea": {
+            "text": "Innstillinger"
+        },
+        "16cc8e66dedb68f1f49e919c348e3de5": {
+            "text": "Ikke enn\u00e5"
+        },
+        "874966d700b2e2cca2577a2eac1d28f0": {
+            "text": "Klasse"
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "Versjon"
+        },
+        "64e220482c5957a4bc72eb93fa23c97d": {
+            "text": "Installert?"
+        },
+        "adface9f151f3625734957af4cc90bdc": {
+            "text": "Forfattere"
+        },
+        "e5f2ca40c235fae5ac687e306de83787": {
+            "text": "Oppsummering"
+        },
+        "8cdfd203b4ed8d5355ee6f7e2819f1f7": {
+            "text": "Kompabilitet"
+        },
+        "6e3ecdf50e3929756d31a4f4a80179da": {
+            "text": "Lenker"
+        },
+        "89f479678076a540904291ac97e7b29c": {
+            "text": "Vennligst merk"
+        },
+        "6d1e927236b37ef520bf1e0c06162c61": {
+            "text": "Avinstaller"
+        },
+        "1ac54e3228009efa1fcf80b8709e1288": {
+            "text": "Tittel"
+        },
+        "6499bebe581347fb21854f07912f1f65": {
+            "text": "Klasse"
+        },
+        "db91f2b6a497a7f2f78f5ef53cc47fab": {
+            "text": "Fil"
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "Versjon"
+        },
+        "f09023872796deae6f1373d8a9d31a1e": {
+            "text": "Forfatter"
+        },
+        "633ce9b9b1a0e5b2f37bcc433eda6073": {
+            "text": "Oppsummering"
+        },
+        "3ffe0dd3025d49ed76beaaf53f4889ac": {
+            "text": "Mer informasjon"
+        },
+        "da50401ad6d0a7e3ec13844538e10864": {
+            "text": "Modulinformasjon"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installer"
+        }
+    }
+}

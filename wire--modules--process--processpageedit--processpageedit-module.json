@@ -1,0 +1,207 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Ukjent side"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Siden er l\u00e5st for redigering"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Du har ikke tilgang til \u00e5 redigere"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Rediger side: %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Endret sidens URL til \"%s\" fordi etterspurt navn allerede var i bruk."
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Endring: %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Publisert side: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Lagret side: %s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Kan ikke publisere f\u00f8r feilene er retteet"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Lagre"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Denne siden er i s\u00f8ppelkurven"
+        },
+        "2cb4bb1ee54691377c8778a8823eb4dd": {
+            "text": "Denne siden er for tiden upublisert"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Lagre + forbli upublisert"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Publiser"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Innhold"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Undersider"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Undersider"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Det er ingen undersider under denne siden."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Undersider er sortert etter \"%s\", ut fra malinnstillingene."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "Opprett ny side her"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Sorteringsinnstillinger"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Dersom su \u00f8nsker at n\u00e5v\u00e6rende og fremtidige undersider automatisk skal sorteres etter et spesifikt felt, velg feltet under og eventuelt kryss av for \"omvendt\" for \u00e5 sortere omvendt kronologisk. La sorteringsfeltet forbli tomt om du \u00f8nsker \u00e5 kunne dra og slippe til egen \u00f8nsket rekkef\u00f8lge"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Innstillinger"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mal"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Foreldre"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Opprettet av bruker"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Opprettet av %s1$s den %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Sist endrer av %1$s den %2$s"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Skjult: Ekskludert fra lister og s\u00f8k"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "L\u00e5st: Ikke mulig \u00e5 redigere"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Avpublisert: Ikke synlig p\u00e5 siden"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Slett"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Slett fullstendig"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Flytt til s\u00f8ppelkurven"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Kryss av i boksen for \u00e5 bekrefte at du \u00f8nsker \u00e5 gj\u00f8re dette."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Bekreft"
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Denne siden kan ikke bli slettet n\u00e5"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Vis"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Hvem har tilgang til siden?"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Rolle"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Hva kan de gj\u00f8re"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(alle)"
+        },
+        "eec429d33814974270e5ab8a04a3d23e": {
+            "text": "Tilgang er bestemt av sidens mal: %s"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "Tilgang er arvet fra siden \"%1$s\" og definert med malen: %2$s"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "Malen '%s' er ikke tillatt"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Denne siden kan ikke slettes"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Slettet side: %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Flyttet side til s\u00f8ppelkurven: %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Ikke i stand til \u00e5 flytte side til s\u00f8ppelkurven"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Endret mal fra \"%1$s\" til \"%2$s\""
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Bekreft bytting av mal"
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Advarsel, bytting av mal vil slette f\u00f8lgende felter:"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Er du sikker?"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Vennligst bekreft at du skj\u00f8nner det som st\u00e5r over ved \u00e5 krysset av boksen under."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Du har ikke tilgang til \u00e5 endre malen p\u00e5 denne siden."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Denne malen er ikke tillat"
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "Endret mal til '%s'"
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Undersider er sortert etter"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Manuell dra og slipp"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Opprinnelige felter"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Tilpassede felter"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Omvendt sorteringsrekkef\u00f8lge?"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d endring"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d endringer"
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Publisert den %s"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "alle"
+        }
+    }
+}

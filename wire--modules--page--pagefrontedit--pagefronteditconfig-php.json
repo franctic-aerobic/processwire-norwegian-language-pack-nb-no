@@ -1,0 +1,75 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(ikke anbefalt)"
+        },
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "F\u00f8r du bruker front-end-redigering, vennligst les gjennom [hjelp til front-end-redigering](%s)"
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Innstillinger for innebygd rediering"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Valg A: Front-redigering redigerbare felter"
+        },
+        "97f5063cc7446aefa21ae4e7fb3cc146": {
+            "text": "Disse tekstbaserte feltene vil bli redigerbare front-end, direkte p\u00e5 siden, kun ved \u00e5 huke av boksene under."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**V\u00e6r varsom med dette valget:** Om du bruker verdien fra et felt mer enn et sted p\u00e5 en side, b\u00f8r du heller bruke [Valg B, C eller D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Valg A: Omfang for redigering"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "N\u00e5r de avhukete feltene over blir vist, hvor skal de v\u00e6re redigerbare?"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Lagre\/avbryt-knapper"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Knappers plassering"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Auto"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Topp venstre"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Topp h\u00f8yre"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Bunn venstre"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Bunn h\u00f8yre"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Knappers type"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Auto (ikoner og tekst for skrivebord, ikoner for midre enheter)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Ikoner og tekst"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Kun tekst"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Kun ikoner"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mer"
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Option A: Automatisk redigering"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigurer"
+        }
+    }
+}

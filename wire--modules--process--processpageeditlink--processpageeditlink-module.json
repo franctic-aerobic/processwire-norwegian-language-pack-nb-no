@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Velg side"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Skriv inn en URL, velg en side, eller velg en fil \u00e5 lenke til:"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Lenke"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Lenke til URL"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Skriv in en URL, e-postadresse, anker, eller ord for \u00e5 finne en side."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Velg anker"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Anker funnet i teksten som du redigerer."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Velg side"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Velg underside"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Dette er det samme som \"Velg side\" over, men kan v\u00e6re raskere \u00e5 bruke dersom du lenker til barn av n\u00e5v\u00e6rende side."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attributter"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Tittel"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Ytterlige tekst for \u00e5 beskrive lenken"
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "M\u00e5l"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Hvor lenken vil \u00e5pnes."
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Kj\u00f8r i nytt vindu?"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "Om avkrysset vil lenken bli \u00e5pne i nytt vindu, og la n\u00e5v\u00e6rende vindu forbli \u00e5pent."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "Rel"
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Klasse"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "\u00e5pne i nytt vindu"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "fortell s\u00f8kemoterer til \u00e5 ikke f\u00f8lge"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Velg fil"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Vis filer p\u00e5 side:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Velg filer fra denne siden som du \u00f8nsker \u00e5 lenke til."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "For \u00e5 velge fil fra en annen side, velg 'Velg side' over og velg siden du \u00f8nsker \u00e5 hente en fil fra."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Attributtvalg"
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "URL-type for sidelenker"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Absolutt (standard)"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Forel\u00f8pig eksperimentell"
+        }
+    }
+}

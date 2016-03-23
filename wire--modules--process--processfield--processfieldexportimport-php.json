@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NAVN"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "MERKELAPP"
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Eksporter data"
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Forh\u00e5ndsvis"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "ny"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Endringer"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Gammel verdi"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Ny verdi"
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Modifiser dette feltet?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Opprett dette feltet?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "trykk ja for \u00e5 vise endringer"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Ingen endringer ble funnet"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Lagret:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "La til felt"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Endret felt"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Eksporter"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importer"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Ja"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nei"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d feil"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "% feil"
+        }
+    }
+}
