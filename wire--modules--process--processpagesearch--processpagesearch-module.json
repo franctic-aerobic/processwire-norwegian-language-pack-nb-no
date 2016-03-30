@@ -91,6 +91,27 @@
         },
         "4b315bff8c7b70281de8ffffbd150708": {
             "text": "S\u00f8k"
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Standard feltnavn(er) som skal vises i s\u00f8keresultater"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Om du spesifiserer mer enn et felt, skill hvert felt med et mellomrom."
+        },
+        "51e1d489ac4198969f8daf52b7cdfaf6": {
+            "text": "Standard s\u00f8keoperator"
+        },
+        "e44edbd140708c448e991cde9d8dc0b2": {
+            "text": "Inneholder fraser\/ord ved bruk av LIKE"
+        },
+        "593e63d42f95f6ad96cf700f80c2fe2c": {
+            "text": "Inneholder alle ordene"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Fann %1$d side med selektoren: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Fann %1$d sider med selektoren: %2$s"
         }
     }
 }

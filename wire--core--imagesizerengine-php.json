@@ -1,5 +1,27 @@
 {
     "file": "wire\/core\/ImageSizerEngine.php",
     "textdomain": "wire--core--imagesizerengine-php",
-    "translations": []
+    "translations": {
+        "1e97e73f1e45d465e23a2ea172bc3355": {
+            "text": "Skarphet"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "682160fc6ad12f783f70608a9b46b9b9": {
+            "text": "Myk"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "Medium"
+        },
+        "c43e0fd449c758dab8f891d8e19eb1a9": {
+            "text": "Hard"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Kvalitet"
+        },
+        "c602090a02c41e9f67961fd513166846": {
+            "text": "Standard kvalitetsinnstillinger fra 1 til 100, hvor 1 er lavest og 100 er h\u00f8yest kvalitet."
+        }
+    }
 }

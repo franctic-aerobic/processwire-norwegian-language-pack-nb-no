@@ -544,6 +544,84 @@
         },
         "ac97a1ad01bd7b48508de449e229a73d": {
             "text": "Importer"
+        },
+        "7328590933d4202f89220d6b435b0e8f": {
+            "text": "Lister med felter som skal vises i admins sideliste"
+        },
+        "b1a8a50c7276f36aeca631c5f4d18c9d": {
+            "text": "Du kan skrive inn en eller flere av disse feltene:"
+        },
+        "b919a5aafc6740109c0c58fe51916178": {
+            "text": "Ikke tillatt sider \u00e5 endre mal?"
+        },
+        "6bb5af6d5240fb8b1d720a7e5bec4497": {
+            "text": "N\u00e5r avkrysset, vil ikke sider som bruker denne malen kunne endre til en annen mal."
+        },
+        "94c9fe9ddbd9380ceb726bef40232ea3": {
+            "text": "N\u00e5r avkrysset, vil sider som bruker denne malen kun finnes med publisert status, og kan ikkje avpubliseres."
+        },
+        "691edb2dd99517cf0e15dbf596e10cc5": {
+            "text": "API: $template->noUnpublish = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "6064635b0dec3189859052c02adc0fc5": {
+            "text": "Tillat at \"opprettet bruker\" kan bli endret p\u00e5 sider?"
+        },
+        "1684cd1767cda6618ed92febec9e78c6": {
+            "text": "API: $template->allowChangeUser = 1; \/\/ eller 0 for \u00e5 deaktivere. standard er 0."
+        },
+        "86c66b6c28f25016de70be40475eb881": {
+            "text": "API: $template->flagSystem = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "0176d878928026caefe7c81262335e1d": {
+            "text": "Vis 'navn'-feltet i innholdsfanen?"
+        },
+        "e864c0d94cbc5dc0faf1ce78d9021e63": {
+            "text": "API: $template->nameContentTab = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
+            "text": "Ikke tillat sider \u00e5 bli flyttet?"
+        },
+        "7ee14ea7ba968378f99fb3efa7ac22da": {
+            "text": "API: $template->noMove = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "19a460b1edf9cc0616cd0ce03e9a0ddf": {
+            "text": "Deaktivere s\u00f8ppelkurvvalget?"
+        },
+        "38354c9531a0d7056f7f98de8810a2f1": {
+            "text": "N\u00e5r avkrysett vil ikke sider som bruker denne malen kunne sendes i s\u00f8ppelkurven."
+        },
+        "69385004eb4f22d17482beb09e549453": {
+            "text": "API: $template->noTrash = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "a7c1ec59b9f4fea9e41e1ca799437193": {
+            "text": "Deaktiver innstillingsfanen?"
+        },
+        "6a90024dcca935af3329542c3f346229": {
+            "text": "API: $template->noSettings = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "a8d7050d17168bae58f775f20d56eeba": {
+            "text": "Kan sider som bruker denne malen ha undersider?"
+        },
+        "0f79346b34fe5a07bf9ad38ef37e1723": {
+            "text": "Kan denne malen brukes til nye sider?"
+        },
+        "91426b7105692d7c29b6307385ea99d1": {
+            "text": "**Betingelser som kreves for at dette skal virke**"
+        },
+        "043008c261f9d0e109c03ab63e047bcd": {
+            "text": "Malfilens etternavn antas \u00e5 v\u00e6re: %s"
+        },
+        "26b6d64574e88f30f407e16212dc4d57": {
+            "text": "Hva skal gj\u00f8res n\u00e5r en brukes fors\u00f8ke \u00e5 se en side uten \u00e5 ha tilgang?"
+        },
+        "dbb2a9bf7f53894204e7b75a4a323fa2": {
+            "text": "Feil ved kloning av denne malen"
+        },
+        "a9b81f1f8d87e20c79d70ad42cc924e3": {
+            "text": "Dupliserte felter fra \"%1$s\" til \"%2$s\""
+        },
+        "6e82edd479b2b5c07f250031d13a9b92": {
+            "text": "Lagret feltgruppe: %s"
         }
     }
 }
