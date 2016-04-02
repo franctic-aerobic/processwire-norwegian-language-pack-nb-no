@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/FieldtypeTable\/InputfieldTable.module",
+    "textdomain": "site--modules--fieldtypetable--inputfieldtable-module",
+    "translations": {
+        "03e0c5bbd5488f1e5ec282529dac9635": {
+            "text": "Legg til rad"
+        },
+        "23c75d86e1722469fb9ca1f910cfbd31": {
+            "text": "ProFields: Tabell"
+        },
+        "279cbe1e39f08e69e9d02f5d7931c9b4": {
+            "text": "Felt som lar deg definere en databasetabell med valgfrie inndataer."
+        }
+    }
+}

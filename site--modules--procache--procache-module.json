@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProCache\/ProCache.module",
+    "textdomain": "site--modules--procache--procache-module",
+    "translations": {
+        "26b100c80461c3b12459409a037cbc67": {
+            "text": "Denne siden er ikke mellomlagret av ProCache."
+        },
+        "f290c043a566395a8e015f5dd12589c7": {
+            "text": "De f\u00f8lgende filene er mellomlagret til denne siden."
+        },
+        "48b4638e7843e382255731bf630e7ec1": {
+            "text": "Mellomlagret URL"
+        },
+        "24cbfd66eeb2df2c94a9b2969ca7eb27": {
+            "text": "ProCache t\u00f8mte siden:"
+        },
+        "cff5cc3753df9a5784ddb77359cc44d4": {
+            "text": "Denne siden er satt til \u00e5 mellomlagres, men ingen mellomlagrete filer finnes enda."
+        }
+    }
+}

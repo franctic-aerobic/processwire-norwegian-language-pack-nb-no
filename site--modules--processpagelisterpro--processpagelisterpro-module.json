@@ -1,0 +1,81 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ProcessPageListerPro.module",
+    "textdomain": "site--modules--processpagelisterpro--processpagelisterpro-module",
+    "translations": {
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Steng"
+        },
+        "2959ce8aed67d6b6e6f5cefd601f1091": {
+            "text": "\u00c5pne i nytt vindu"
+        },
+        "e940c0fb33ade9b5bce36cafddea120b": {
+            "text": "Det finnes endringer som er ulagret. Om du fortsetter vil du miste disse endringene:"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Foreldre"
+        },
+        "4ba80614f8ea4fbfce74f941f641c332": {
+            "text": "Lagre endringer"
+        },
+        "786e2cc3ea3111434a3c0e0bf246c4ab": {
+            "text": "Konfigurer Lister"
+        },
+        "4833712af97af2a5468d726f2af4e089": {
+            "text": "Opprettet Lister"
+        },
+        "831bb528501c42a590305e56b8a78ad4": {
+            "text": "Klonet Lister: %1$s => %2$s"
+        },
+        "b9c8c5b26b7187d7c3355b9f96dde50a": {
+            "text": "Slettet Lister p\u00e5 %s"
+        },
+        "78fe39a5adcaad9681dfbc4c31e26c5a": {
+            "text": "Side %1$s ser ikke ut til \u00e5 v\u00e6re en %2$s"
+        },
+        "3d07e138ce7cf56984e388545a0c5ddc": {
+            "text": "Felttyper som kan kolonneredigeres i ListerPro"
+        },
+        "4a7b32f1ff3a32ffa65a62cd7ad809bb": {
+            "text": "Legg til en Lister"
+        },
+        "f952ac6488c3e017829783cf71f610c4": {
+            "text": "Klon en Lister"
+        },
+        "29d1af975e56851d938870f23550a38c": {
+            "text": "Dine Listere"
+        },
+        "7bfd8e7e6058e308300e55c2f3d85723": {
+            "text": "Lister-tittel"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Opprettet"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Handlinger"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "konfigurer"
+        },
+        "41b54c044691928905961289e060b939": {
+            "text": "Huk av denne boksen for \u00e5 bekrefte:"
+        },
+        "ded6352f2dab8680ed4c9c3b5fce1a13": {
+            "text": "Sletting ble ikke bekreftet"
+        },
+        "9ece991394ba57f1d9a976b80b255fb7": {
+            "text": "Konfig"
+        },
+        "97aaf6a4efa90350c9691d39926f681b": {
+            "text": "Tom"
+        },
+        "a6da1c002e5fa9d2baa23551947e2380": {
+            "text": "Skriv inn tittelen for Lister-en du \u00f8nsker \u00e5 opprette. En ny side med Lister-en vil bli laget i din sideadnimistrasjons navigering. Du kan flytte siden et annet sted om du foretrekker det."
+        },
+        "7ed5917eb9f9b7d0b4d1a8282113e6c4": {
+            "text": "For \u00e5 klone en Lister, velg den Lister-en du \u00f8nsker \u00e5 klone her og skriv inn tittelen p\u00e5 den nye Lister-en i \"Legg til Lister\"-feltet over."
+        },
+        "0cfbd0aa597bd56a33766a790e478bfb": {
+            "text": "Er du sikker p\u00e5 at du vil slette de avhukete Lister(e) over?"
+        }
+    }
+}

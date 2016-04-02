@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/PageActionSetStatus\/PageActionSetStatus.module",
+    "textdomain": "site--modules--pageactionsetstatus--pageactionsetstatus-module",
+    "translations": {
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Skjult"
+        },
+        "5a97ee499cb90ac9ebe5dcc5abf2bd7f": {
+            "text": "Ikke skjult"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "L\u00e5st"
+        },
+        "c76fd517e45cc95709f4ac106efa4a94": {
+            "text": "Ul\u00e5st"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Publisert"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Upublisert"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "S\u00f8ppel"
+        },
+        "1a1c5e4c675fe229d389bded1440b335": {
+            "text": "Sett status"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        }
+    }
+}

@@ -17,33 +17,6 @@
         "49632d1c8309d42371ab31fe84d56c91": {
             "text": "Hvordan skal dette feltet bli vist i behandleren?"
         },
-        "604b97c67341baddd9547c714add721c": {
-            "text": "Alltid \u00e5pen (standard)"
-        },
-        "c412235f3700a685388546e557292a7e": {
-            "text": "Alltid \u00e5pen og kan ikke minimeres"
-        },
-        "d7a1a486818eebace651ff191e42984f": {
-            "text": "Minimert kun som tom"
-        },
-        "996d9abb10eeff734a994fcd5b449db6": {
-            "text": "Minimert kun som utfylt"
-        },
-        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
-            "text": "Alltid minimiert, krever et trykk for \u00e5 \u00e5pnes"
-        },
-        "8263d549648f539508587a67f38d008b": {
-            "text": "Skjult, aldri vist i behandleren"
-        },
-        "3c5df14c7c43b1d43c41b15476154474": {
-            "text": "Alltid minimert og ikke mulig \u00e5 redigere (l\u00e5st)"
-        },
-        "5b6a6f08f86510a9580df3bb8b31bb2a": {
-            "text": "\u00c5pen n\u00e5r utfylt og ikke mulig \u00e5 redigere (l\u00e5st)"
-        },
-        "3cfa4a6238e2b559d3f52474e7545485": {
-            "text": "Vis feltet kun dersom\u2026"
-        },
         "3b57940d51a0ed7f2d5c49363114bd0e": {
             "text": "Skriv inn betingelsene for n\u00e5r feltet skal bli vist."
         },
@@ -62,14 +35,8 @@
         "c48c7243fc307fd425df738c9f0f4324": {
             "text": "Dersom avkrysset s\u00e5 vil feltet kreve en verdi."
         },
-        "8183d67b5c53c5fb254741c64ae6f98d": {
-            "text": "P\u00e5krevd kun dersom\u2026"
-        },
         "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
             "text": "Skriv inn betingelsene for n\u00e5r en verdi skal kreves av feltet."
-        },
-        "33f354f096583d4fb4c01fa05670c1e6": {
-            "text": "Les mer om hvordan [bruk dette](https:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)"
         },
         "c3bf447eabe632720a3aa1a7ce401274": {
             "text": "\u00c5pen"

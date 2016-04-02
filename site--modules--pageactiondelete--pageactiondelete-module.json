@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/PageActionDelete\/PageActionDelete.module",
+    "textdomain": "site--modules--pageactiondelete--pageactiondelete-module",
+    "translations": {
+        "a113bb044184a62aad6591f3b2b12c6a": {
+            "text": "Flytt til s\u00f8ppelkurven"
+        },
+        "8fb41b3911b7f22a4e1d2dbfd77bc403": {
+            "text": "Slett fullstendig"
+        },
+        "139fdcd267af64851ae9106aec9c0eaa": {
+            "text": "Slett fullstendig (inkludert barn)"
+        },
+        "68eec88a0bc4a35d5cc461af850037ef": {
+            "text": "Ikke slettet fordi den har barn."
+        },
+        "4c9962f2fda124eb4cefb45bcd2dce95": {
+            "text": "Slettingstype"
+        },
+        "87a60d8e23940ad6449660a8b5260dfd": {
+            "text": "Handling som forkaster eller sletter en side."
+        },
+        "1a2304de76040382ee344249ad4865e5": {
+            "text": "Sidehandling: Slett\/kast sider"
+        }
+    }
+}

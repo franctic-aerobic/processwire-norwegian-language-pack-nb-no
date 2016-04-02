@@ -1,0 +1,105 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ListerProConfig.php",
+    "textdomain": "site--modules--processpagelisterpro--listerproconfig-php",
+    "translations": {
+        "6ecdde2ae513a5896e134284685c0e15": {
+            "text": "Legg til ny Lister"
+        },
+        "64ce89862023aa6e454fe40cad241d28": {
+            "text": "Konfigurer denne Lister-en"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Legg til filter"
+        },
+        "d1b64eeb3901133b5b345effbefc706b": {
+            "text": "Hvilke SIDER skal Lister-en vise?"
+        },
+        "fffd6e5a26df34527932ce6d7faa8228": {
+            "text": "Valg og oppf\u00f8rsler"
+        },
+        "a1a4abdb830d60547733aa99dc729299": {
+            "text": "Forhindre bruker fra \u00e5 fjerne standard filtrer"
+        },
+        "90f5ea71362b139e0ff989e75e09c214": {
+            "text": "Forhindre bruker fra \u00e5 legge til nye filtrer"
+        },
+        "4381b207fbb20c0fb3ed392021510498": {
+            "text": "Hvilke KOLONNER skal resultattabellen vise?"
+        },
+        "054edc8412679b0e04131cd38e504724": {
+            "text": "Hvilke REKKEF\u00d8LGE skal sidene vises i?"
+        },
+        "cf3fb1ff52ea1eed3347ac5401ee7f0c": {
+            "text": "Stigende"
+        },
+        "e3cf5ac19407b1a62c6fccaff675a53b": {
+            "text": "Synkende"
+        },
+        "ef2eef77980dfb726eee7566523a9f55": {
+            "text": "Feltnavner"
+        },
+        "b9f5b9f041084aa285dac87dd3dc1234": {
+            "text": "Feltmerkelapper"
+        },
+        "0a9b2a07f21d71321b5302bef25a1e26": {
+            "text": "Hvilke kolonner er REDIGERBARE direkte i Lister-en?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Navn"
+        },
+        "a93a7ca1bc5451e020e26cafc9b11bd3": {
+            "text": "Hvilke HANDLINGER vil du tillate?"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Tittel"
+        },
+        "c57061eac85315234bc4571694f99db3": {
+            "text": "Modulnavn"
+        },
+        "a6ab23055c7069c2c122ef99d3f7ff2b": {
+            "text": "P\u00e5krevd tilgang"
+        },
+        "b8e21d6fa69840469e929e0393368f86": {
+            "text": "Hvordan skal BILDER vises?"
+        },
+        "7c1ca41bb61dedd0e0f5e6e239e7140c": {
+            "text": "Bildebredde"
+        },
+        "a97ed264fab6bf554062d8356099cfb1": {
+            "text": "Bredde p\u00e5 miniatyrbildene som vises i Lister-en."
+        },
+        "73272b37e90e93583b05761520dc45b5": {
+            "text": "Bildeh\u00f8yde"
+        },
+        "9be0ba3bff9daa81571aa817e0865265": {
+            "text": "H\u00f8yde p\u00e5 miniatyrbildene som vises i Lister-en."
+        },
+        "96ecad681b4574547ff85fc5de27453b": {
+            "text": "Samme vindu"
+        },
+        "721a47904ddb699db6ac4d683988ba26": {
+            "text": "Modal-vindu"
+        },
+        "e5dc8e5afea0a065948622039358de37": {
+            "text": "Nytt vindu"
+        },
+        "c0d5f86f6aa6ba1320b76874d3b8182d": {
+            "text": "Ikke vis redigeringslenker"
+        },
+        "29a8cca01fbc3b6fd7da256e02c9cf0e": {
+            "text": "Hvem har TILGANG til denne Lister-en?"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Avansert"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Eksempel:"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Lagre"
+        },
+        "2f2ffa4969a9be39bd1bfae38ce2f506": {
+            "text": "Lagre + vis"
+        }
+    }
+}

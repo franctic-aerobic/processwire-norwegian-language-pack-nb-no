@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FieldtypeTextareas\/InputfieldTextareas.module",
+    "textdomain": "site--modules--fieldtypetextareas--inputfieldtextareas-module",
+    "translations": {
+        "05cb8d9a603120fb2594dbb65941d9bd": {
+            "text": "Kolonnebredde %"
+        },
+        "c184a615035da08a246bec921bd72aad": {
+            "text": "ProField: Tekstomr\u00e5der"
+        }
+    }
+}

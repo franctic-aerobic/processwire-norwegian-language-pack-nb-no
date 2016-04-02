@@ -1,0 +1,129 @@
+{
+    "file": "site\/modules\/ImportPagesCSV\/ImportPagesCSV.module",
+    "textdomain": "site--modules--importpagescsv--importpagescsv-module",
+    "translations": {
+        "02c2538ba983fa58f71c5bbb18a310a4": {
+            "text": "Trinn 1: Velg kilde og destinasjon"
+        },
+        "6de31d3096676d6bb53f62cd1a20e7ad": {
+            "text": "Mal som importerte sider skal bruke"
+        },
+        "ebe26035add58b6081dadae34d90164d": {
+            "text": "Foreldreside"
+        },
+        "36475b9eb66a9b0c4da961e1663a8e25": {
+            "text": "Sidene du importerer vil f\u00e5 denne foreldresiden."
+        },
+        "608ee5098c66d888f6ae4fabf7df6295": {
+            "text": "CSV_fil"
+        },
+        "b965d3b1fc0ac23cc2c51322d1e49c3e": {
+            "text": "Listen av feltnavn m\u00e5 bli gitt som f\u00f8rste linje i CSV-filen."
+        },
+        "4a7c66d1cbe7de795ba830c6b990bf9e": {
+            "text": "UTF-8-kompatibel encoding er antatt. Filen m\u00e5 ha filetternavnet '.csv' eller '.txt'."
+        },
+        "c7b7e62e8b1060cace1fcbc98776c189": {
+            "text": "Om du foretrekker det kan du lime inn CSV-dataene i \"Flere valg\"-seksjonen under."
+        },
+        "d2adb18c4c8de40e853026a38bb89c0d": {
+            "text": "Flere valg"
+        },
+        "155119209de17833ff7ce3a0e46a34de": {
+            "text": "Felter delt opp ved"
+        },
+        "e129c27928712de0ab184d0b4605a9de": {
+            "text": "Kommaer"
+        },
+        "7015777bcc86cd0c5e4819310d62b040": {
+            "text": "Tabulatorer"
+        },
+        "156cbdc4dad35cc618fec9db90187170": {
+            "text": "Hva skal gj\u00f8res med duplikate sidenavn"
+        },
+        "5791cfea1005ea7dea8b932a7eb4a3d2": {
+            "text": "N\u00e5r en rad i en CSV-fil vil resultere i en side med samme \"navn\" som en som allerede er der, hva vil du gj\u00f8re?"
+        },
+        "c024d8ac99765a7ab172663f3b026272": {
+            "text": "Hopp over"
+        },
+        "9298792e97e68362f55dcf4413275d5c": {
+            "text": "Gi et unikt navn og importer ny side"
+        },
+        "e2dea984cc8a2dfa8bd356f9120f443e": {
+            "text": "Endre p\u00e5 eksisterende side"
+        },
+        "bac5fe403c89369fdfec4e2328e68c1c": {
+            "text": "Felter omsluttet av"
+        },
+        "fdeaf95e51009a56ba226d36d6bed0d4": {
+            "text": "N\u00e5r en verdi inneholder en oppdeling, m\u00e5 den v\u00e6re omsluttet av et tegn (typisk et sitattegn)."
+        },
+        "f884e75a0e38b5b455fc3be9065a8ce6": {
+            "text": "Om du ikke er sikker hva du skal bruke here, s\u00e5 er det anbefalt at du lar denne v\u00e6re standard (\")."
+        },
+        "69c3f63173c1f7cf93774cdb71870f8c": {
+            "text": "Maks rader \u00e5 importere"
+        },
+        "8e3bf25cc71498d2034e11c592029cbd": {
+            "text": "Lim inn CSV-data"
+        },
+        "47a66faf1161f6afc5cb2ebc66ea5bc4": {
+            "text": "Om du foretrekker, kan du lime inn CSV-data her heller enn \u00e5 laste opp filen ovenfor."
+        },
+        "a81502a2cc9019aaf9c507c96c6e75f7": {
+            "text": "Du m\u00e5 bruke den ene eller andre, ikke begge."
+        },
+        "d3b48184fc6b30b07ef39aa3cdfba8fc": {
+            "text": "G\u00e5 videre til trinn 2"
+        },
+        "c517d5776e9ee87ff18b89dd8a466ba4": {
+            "text": "Manglende p\u00e5krevd CSV-fil\/data"
+        },
+        "cef49ebda6dd464b1fef6a986af729d2": {
+            "text": "Trinn 2: Koble feltene"
+        },
+        "1807656de82a6379bf6055297b52be2b": {
+            "text": "Under er en liste over felter funnet i din CSV-fil."
+        },
+        "ee91e1ab18d1d9f467e2800103270de6": {
+            "text": "For hvert av dem, velg hvilke felter de skal importereres til."
+        },
+        "052d54301a00feddb5b43a2818a3fe59": {
+            "text": "La felter du vil ekskludere forbli tomme."
+        },
+        "545f021b9333b01a550290537dac8f6b": {
+            "text": "N\u00e5r du er ferdig, trykk 'Start importering' p\u00e5 bunnen av denne siden."
+        },
+        "2fc0898073bee2b72fdc1d0a6d05b8de": {
+            "text": "Merknad: Alle feltnavner i CSV-filen din som passer de p\u00e5 siden din"
+        },
+        "5d643ae75091ee59162ba35c087b0d28": {
+            "text": "vil automatisk bli valgt."
+        },
+        "bb70048a5ffa0c1b7e002e046c263ffe": {
+            "text": "Start importering"
+        },
+        "55c09145b552803436407d8de69ddcd7": {
+            "text": "Se de importerte sidene."
+        },
+        "a0e14494f8044a1af1d4e6bbd8ce6ff6": {
+            "text": "Importer flere sider"
+        },
+        "dadd45339f30b57ca9b642c86d68583e": {
+            "text": "Ikke i stand til \u00e5 importere sider fordi det ikke er noe p\u00e5krevd 'title'-felt eller det er tomt."
+        },
+        "875d74c062169080dccecaaac917380f": {
+            "text": "Denne modulen krever ProcessWire 2.1 eller nyere"
+        },
+        "5793fef5630d584298678c465a62a1f6": {
+            "text": "Trykk p\u00e5 din 'Oppsett'-side for \u00e5 starte \u00e5 bruke CSV-importeren"
+        },
+        "21d49ea8e423f836d4351fb8e2cc4afe": {
+            "text": "Import side fra CSV"
+        },
+        "93f07b720ebf7d1246512569761a5804": {
+            "text": "Fjernet"
+        }
+    }
+}

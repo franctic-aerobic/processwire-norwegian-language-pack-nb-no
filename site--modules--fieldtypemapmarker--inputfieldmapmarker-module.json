@@ -1,0 +1,66 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/InputfieldMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--inputfieldmapmarker-module",
+    "translations": {
+        "dd7bf230fde8d4836917806aff6a6b27": {
+            "text": "Adresse"
+        },
+        "3b0eb7469ba9c95f3a05c4cef1f6aac4": {
+            "text": "Breddegrad"
+        },
+        "9b4dabc50f0b8ccba1c8981831abdad8": {
+            "text": "Lengdegrad"
+        },
+        "b333c623973eb4e9a60f40b2837a756e": {
+            "text": "Geokode?"
+        },
+        "3f84f2b44d5dfbb94a4ab73cafd77fdd": {
+            "text": "Standard adresse"
+        },
+        "80b830cf2f8e4d13500b0516083f29d8": {
+            "text": "Dette vil bli geokodet for \u00e5 bli startpunktet for kartet."
+        },
+        "df302916b5705665e09390b09baf54e2": {
+            "text": "N\u00e5r du endrer p\u00e5 standard adresse, vennligst gj\u00f8r bredde- og lengdegradfeltene under tomme. Dette vil tvinge systemet til \u00e5 geokode din nye adresse."
+        },
+        "88e471a8f43ac47ccbd14da0f8378a91": {
+            "text": "Geokodet din standard adresse. Vennligst lagre p\u00e5 nytt for \u00e5 iverksette ny standard bredde- og lengdegrad."
+        },
+        "d7189c434a4672bc4be1b077b527d40d": {
+            "text": "Standard breddegrad"
+        },
+        "7efdb53f0b5ed6031c52f4e72f52348a": {
+            "text": "Standard lengdegrad"
+        },
+        "f71c91b7da2496c2a02a5f18d0e985a6": {
+            "text": "Standard karttype"
+        },
+        "40be43aca96bb198df1d735293dc50b9": {
+            "text": "Veikart"
+        },
+        "c2b5e73361a4bf9d26a73413d0abee5e": {
+            "text": "Satelitt"
+        },
+        "4001defc085d5daf907c1a95fa0c38bd": {
+            "text": "Karth\u00f8yde (i bildepunkter)"
+        },
+        "30c4513b55190a2875d6180b79798d20": {
+            "text": "Standard zoom"
+        },
+        "c67053bb43cb1d18d7d2076e5bd79268": {
+            "text": "Skriv inn en verdi mellom 1 og 23. Det h\u00f8yeste zoom-niv\u00e5et er typisk et sted mellom 19\u201323, avhengig av stedet som blir zoomet og hvor mye data Google har tilgjengelig for stedet."
+        },
+        "87f83506dee160df49b8d3ca189246af": {
+            "text": "API-merknader"
+        },
+        "4000a84d8cfcaa12226370c3ede2941b": {
+            "text": "Du kan f\u00e5 tilgang til individuelle verdier fra dette feltet ved \u00e5 bruke f\u00f8lgende fra dine malfiler:"
+        },
+        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
+            "text": "Zoom"
+        },
+        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
+            "text": "Hybrid"
+        }
+    }
+}
