@@ -1,0 +1,36 @@
+{
+    "file": "site\/modules\/ProcessJumplinks\/ProcessJumplinksConfig.php",
+    "textdomain": "site--modules--processjumplinks--processjumplinksconfig-php",
+    "translations": {
+        "bb1ece597c62e214858b8e9a38b8808c": {
+            "text": "Fullstendig t\u00f8mming (standard, anbefalt)"
+        },
+        "12402fbc6b5fedfe4cb049306b20e6bb": {
+            "text": "Ikke t\u00f8m i det hele (ikke anbefalt)"
+        },
+        "b3bd0a5d8f74f5a10a5733ebeef4ff96": {
+            "text": "404-monitor"
+        },
+        "b0ad627d88e7ded8e1f8fa535dd04bde": {
+            "text": "Les dokumentasjonen"
+        },
+        "955ffa10f37b54c7dcaaa6fc41153896": {
+            "text": "Offisiell supporttr\u00e5d"
+        },
+        "e251036c30bb77cde6ac27fb528afcb7": {
+            "text": "Dokumentasjon og support"
+        },
+        "47dd937398c2e1a3a7ea39f61aafeb57": {
+            "text": "\u00c5pen kildekodeprogramvare"
+        },
+        "fa582cbfbd4bff6d25fcbaece0765c71": {
+            "text": "Gratis programvare"
+        },
+        "9d098ff02f6813055b869f6f9acd831c": {
+            "text": "L\u00e6r mer om"
+        },
+        "c54e9810286c5d4da5cec6e23e48a675": {
+            "text": "St\u00f8tt utviklingen av Jumplinks"
+        }
+    }
+}
