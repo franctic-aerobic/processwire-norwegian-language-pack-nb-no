@@ -73,6 +73,33 @@
         },
         "68835c69c5818fea532f3ad00a91be00": {
             "text": "no"
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Redigeringsmodus"
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "Vanlig redigering"
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*Den p\u00e5krevde HTML Purifier-modulen er installert."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Bruk HTML Purifier?"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Skill hvert element i verkt\u00f8yslinjen med et komme. Grupper elementer ved \u00e5 plassere dem p\u00e5 samme linje og bruk \"-\" der du vil vise en skiller innenfor gruppen. Om du vil ha merk enn en rad i verkt\u00f8yslinjen, skill hver rad med en tom linje."
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Plasser en hash \"#\" ved starten av en linje om du vil at den skal bli ignorert."
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "I linjen-redigerer"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "N\u00e5r i linjen-modus er aktivert, vil ikke redigereren lastes f\u00f8r du trykker i teksten. Dette er raskere og mer effektivt n\u00e5r du har mangfoldige CKEditor-felter p\u00e5 side. Men, den st\u00f8tter ikke n\u00f8dvendigvis s\u00e5 mange funksjoner eller tilpasninger som vanlig modus."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "ADVARSEL: Det er forel\u00f8pig ikke installert. Du b\u00f8r installere det f\u00f8r du aktiverer i linjen-modus."
         }
     }
 }

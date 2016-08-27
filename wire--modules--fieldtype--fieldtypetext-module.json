@@ -4,6 +4,9 @@
     "translations": {
         "ed0f8be4615cf14dc76c1bb2629edf41": {
             "text": "For ren tekst som ikke vil inneholdet HTML eller markup anbefaler vi \u00e5 velge **HTML Entity Encoder** over."
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Tekstformaterere"
         }
     }
 }

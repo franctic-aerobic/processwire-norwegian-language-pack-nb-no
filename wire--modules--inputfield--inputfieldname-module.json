@@ -1,5 +1,12 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldName.module",
     "textdomain": "wire--modules--inputfield--inputfieldname-module",
-    "translations": []
+    "translations": {
+        "05241f55e363027bb20f4669d784c28e": {
+            "text": "En kombinasjon av bokstaver (a-z), tall (0-9) og understreker (ingen mellomrom)."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Tekst skrevet og validert som et ProcessWire navnefelt"
+        }
+    }
 }

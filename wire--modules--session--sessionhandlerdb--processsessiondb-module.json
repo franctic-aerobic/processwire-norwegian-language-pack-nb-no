@@ -19,6 +19,21 @@
         },
         "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
             "text": "Sesjoner"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "Ingen aktiver sesjoner"
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Aktiver sesjoner det siste minuttet"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Aktiver sesjoner de siste %d minuttene"
+        },
+        "14db3637a09c9b2ca9c1338171285965": {
+            "text": "%d aktiv sesjon"
+        },
+        "a29ecfb237834699193ba759c9af8efe": {
+            "text": "%d aktive sesjoner"
         }
     }
 }

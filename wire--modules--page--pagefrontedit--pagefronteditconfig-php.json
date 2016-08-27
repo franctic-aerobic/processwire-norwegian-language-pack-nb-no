@@ -32,9 +32,6 @@
         "046d8235ad520c64afae23d7aaa4ffcc": {
             "text": "Knappers plassering"
         },
-        "06b9281e396db002010bde1de57262eb": {
-            "text": "Auto"
-        },
         "a4d0d101d6a34bf80ffeee601c3ff84a": {
             "text": "Topp venstre"
         },
@@ -70,6 +67,9 @@
         },
         "f1206f9fadc5ce41694f69129aecac26": {
             "text": "Konfigurer"
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Dette valget er ikke st\u00f8tte for dette feltet."
         }
     }
 }

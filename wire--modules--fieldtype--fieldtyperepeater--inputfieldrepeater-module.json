@@ -17,11 +17,14 @@
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Legg til ny"
         },
-        "d3b3350cb648f345b0a21a048df0cf45": {
-            "text": "Repeater"
-        },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
             "text": "Reptererer felter fra andre maler. Gir inndata til FieldtypeRepeater."
+        },
+        "a8a50b640956ab0334e76e86c168644c": {
+            "text": "Slett dette elementet"
+        },
+        "75e43298796bd7ec058b10778d58bb72": {
+            "text": "Sl\u00e5 av\/p\u00e5 publisert\/avpublisert"
         }
     }
 }

@@ -45,7 +45,7 @@
             "text": "Avbryt"
         },
         "b14c50cfbdf80ffa1e494282c306a467": {
-            "text": "Modulinstallas"
+            "text": "Modulinstallasjon"
         },
         "ea90a0c1864c51f82f862a6850c13951": {
             "text": "Slett modulfiler"
@@ -108,7 +108,7 @@
             "text": "Nedlastet:"
         },
         "206fdb3626f498af4b830cbf6c2efc0a": {
-            "text": "%s e klar til \u00e5 bli installert"
+            "text": "%s er klar til \u00e5 bli installert"
         },
         "5edb0eb1006e6be6d4cd5609357b4bb3": {
             "text": "Installer n\u00e5"
@@ -202,6 +202,150 @@
         },
         "349838fb1d851d3e2014b9fe39203275": {
             "text": "Installer"
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Feil ved installasjon av modul"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "T\u00f8mte filkompilererens mellomlager"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "T\u00f8mte kompilerte filer"
+        },
+        "617650497438099e992520bf3a664ba6": {
+            "text": "http:\/\/domene.no\/ModulNavn.zip"
+        },
+        "356025c686f0f84759d1762a071903ad": {
+            "text": "Denne modulen har en tilgjengelig oppdatering!"
+        },
+        "822213aa38da92d8819e5c3b4ebe4c71": {
+            "text": "eldre enn den du allerede har installert!"
+        },
+        "4ca1ee2e55f304b56891e55fc0ff7844": {
+            "text": "Ingen modul er spesifisert"
+        },
+        "1f698ebf835d58ef66a38c20e1496fa2": {
+            "text": "(Deaktivert)"
+        },
+        "c19eca215de858fb52f1067064dc4bba": {
+            "text": "Ikke i stand til \u00e5 avinstallere modul"
+        },
+        "7c4ba7a5c907fd803087ccd0da925c45": {
+            "text": "Du m\u00e5 f\u00f8rst avinstallere andre moduler"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + exit"
+        },
+        "aadb23a524b84262538be0a416d5868f": {
+            "text": "Avinstallerte modul"
+        },
+        "9b60baa546e5c978341fd2907b1d5dc9": {
+            "text": "Lagret modul"
+        },
+        "9c098768612f6e24d58eae6fb38ae756": {
+            "text": "se etter oppdateringer"
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "(standard namespace)"
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Ingen (rot-namespace)"
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "f\u00f8r"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "etter"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "Installer %s?"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduler"
+        },
+        "ab216fc1fc240e6ae4a8d9e632b75177": {
+            "text": "Krever"
+        },
+        "d79883f0aa4bbfa29cfade81d86f4914": {
+            "text": "Installerer ogs\u00e5"
+        },
+        "48b843a3e9c0825de5170cc33048043f": {
+            "text": "ZIP-fil"
+        },
+        "a954570dccb58d6a3edeb19736234655": {
+            "text": "Krever"
+        },
+        "c3beb2f9b875c79f76cf703ad3659d68": {
+            "text": "P\u00e5krevd av"
+        },
+        "4d9ea4616e8b425d256a718c7686ed2b": {
+            "text": "P\u00e5krevd tillatelse"
+        },
+        "883368e39a6dfd38bba57a0d881c87df": {
+            "text": "Modulers mellomlager oppdatert (%d moduler)"
+        },
+        "fdbd482a575730a7abb63cdbf62a0f6c": {
+            "text": "Modulen \"%s\" har flere filer (fil i fet skrift er den i bruk)."
+        },
+        "458268ddfe6f3ace67044ba7f55c7079": {
+            "text": "Trykk her for \u00e5 bytte hvilke felter som brukes"
+        },
+        "9c67d775a708bbc2a042f878e78cfe2c": {
+            "text": "\/site\/modules\/ - moduler spesifikke til din side"
+        },
+        "19d1a8e075651f072ba0771e6cbc831b": {
+            "text": "Bla gjennom modulmappen ved %s"
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "For \u00e5 fjerne en module, trykk modulen for \u00e5 redigere, huk av Avinstaller-boksen, deretter lagrer du. N\u00e5r den er avinstallert, kan modulens fil(er) fjerne fra \/site\/modules\/. Om den fremdeles vises i listen over, kan du trykke p\u00e5 Oppdater-knappen til ProcessWire for \u00e5 se endringer."
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "Knappen under t\u00f8mmer kompilerte sidemoduler og malfiler, og tvinger dem til \u00e5 bli kompilert p\u00e5 nytt neste gang de brukes. Merk at dette kan f\u00f8re til en midlertidig forsinkelse for en eller flere foresp\u00f8rsel mens filene kompileres p\u00e5 nytt."
+        },
+        "401aeb1b99895a172d78edfa183114e7": {
+            "text": "\/wire\/modules\/ - moduler som er inkludert i ProcessWires kjerne"
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "Moduler som har konfigurasjonsvalg"
+        },
+        "8de5f3b8fe691cf6304176b9a5ed54da": {
+            "text": "Du kan bla i moduloversikten og lokalisere modulen du \u00f8nsker \u00e5 laste ned og installere. Skriv eller lim inn \"class name\" til modulen du \u00f8nsker \u00e5 installere."
+        },
+        "3b0798392299a74418470d3f13b5eec2": {
+            "text": "Moduloversikten ligger p\u00e5 [modules.processwire.com](http:\/\/modules.processwire.com)"
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "ModuleClassName"
+        },
+        "dc975a9e6b0112228c42a6abbe82ae93": {
+            "text": "V\u00e6r helt sikker p\u00e5 at du stoler p\u00e5 ZIP-filens kilde"
+        },
+        "d5f38db4e3d76c9a7cda57c660ac0dad": {
+            "text": "Modulens ZIP-fil URL"
+        },
+        "29b21610722fa13430132a8d4e757d1f": {
+            "text": "Last ned ned ZIP-fil som inneholder modulen. Om du laster ned en modul som allerede er installer, vil den installerte versjonen bli overskrevet at den nye nedlastede versjonen."
+        },
+        "e7aef889dd1b168dc269e9ddff6a57a5": {
+            "text": "Modul ZIP-fil"
+        },
+        "6010e3962902142283df28e6d1a1d897": {
+            "text": "Last opp en ZIP-fil som inneholder modulfilen(e). Om du laster opp en modul som allerede er installert, vil den bli overskrevet  av den du laster opp."
+        },
+        "5975f55a2bcd254c58d9fe16d7a21417": {
+            "text": "Om du har plassert nye moduler i \/site\/modules\/ selv, kan du trykke p\u00e5 denne knappen for \u00e5 finne dem."
+        },
+        "8395847485c9a34007295da6a4f9d4cf": {
+            "text": "Feil ved mottakelse av data fra webtjeneste-URL"
+        },
+        "5259630c836d951d40cd2771922dfb5e": {
+            "text": "N\u00e5v\u00e6rende installerte versjon er allerede oppdatert"
+        },
+        "a0ab914bff40f68598d99e99d39d859c": {
+            "text": "Dette vil ogs\u00e5 avinstallere andre moduler"
+        },
+        "1c4336473685430feefceabf2d42669c": {
+            "text": "Autolast deaktivert?"
         }
     }
 }

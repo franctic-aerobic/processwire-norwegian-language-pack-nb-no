@@ -35,9 +35,6 @@
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "Denne siden er i s\u00f8ppelkurven"
         },
-        "2cb4bb1ee54691377c8778a8823eb4dd": {
-            "text": "Denne siden er for tiden upublisert"
-        },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Lagre + forbli upublisert"
         },
@@ -202,6 +199,30 @@
         },
         "e76ea9d62d4a434a98238f3ec7932075": {
             "text": "alle"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + exit"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + vis"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + legg til ny"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Neste"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Er du sikker? En opplasting foreg\u00e5r og kan bli tapt om du holder fram."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Gjenopprett tidligere verdi"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nytt vindu\/fane"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Exit + Vis"
         }
     }
 }

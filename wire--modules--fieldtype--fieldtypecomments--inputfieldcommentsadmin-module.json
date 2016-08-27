@@ -1,5 +1,54 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/InputfieldCommentsAdmin.module",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--inputfieldcommentsadmin-module",
-    "translations": []
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Slett"
+        },
+        "077821dbbc7b778e3fccdb71e1f8cda3": {
+            "text": "ALLE nye kommentarer"
+        },
+        "a2c889314eecccf6704dd2427f12b478": {
+            "text": "Kun SVAR"
+        },
+        "88559a0cfd8250c9d65970cc145c92d4": {
+            "text": "AV"
+        },
+        "84c4dfc8fccf9350a9610e366ae769a5": {
+            "text": "Svar til"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Siter"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-post"
+        },
+        "15bbb9d0bbf25e8d2978de1168c749dc": {
+            "text": "Webside"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Stjerner"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "a12b241da69948907eecb3786cedc5a3": {
+            "text": "Godkjent"
+        },
+        "af4a8ef24b938b7857109b49e38c8969": {
+            "text": "Ventende"
+        },
+        "97154f7c3d4195084cbcb58bc5357c7a": {
+            "text": "Kommentar #%d (%s)"
+        },
+        "5150f466372999feb1c31b868e087dfc": {
+            "text": "S\u00f8ppel blir automatisk slettet etter lengde av tid spesifisert i feltkonfigurasjonen."
+        },
+        "dea78eecface40ce1489d1acdc31eae4": {
+            "text": "Fjernet kommentar #%d"
+        },
+        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
+            "text": "S\u00f8ppel"
+        }
+    }
 }

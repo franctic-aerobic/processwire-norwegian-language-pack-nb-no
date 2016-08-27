@@ -506,9 +506,6 @@
         "3797b58404902683867d788211ac5ce2": {
             "text": "Bruk kompilert fil?"
         },
-        "549920aca582e9418dc31ce4c9f516fd": {
-            "text": "(og inkluderte filer)"
-        },
         "422d6e51e28831664b5c0b701b6c6182": {
             "text": "(kun malfil)"
         },
@@ -622,6 +619,18 @@
         },
         "6e82edd479b2b5c07f250031d13a9b92": {
             "text": "Lagret feltgruppe: %s"
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "P\u00e5krevd felthandling"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Gjenopprett forrige verdi (n\u00e5r tilgjengelig)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Avpubliser siden (n\u00e5r tillatt)"
+        },
+        "e13c4cbb7f089450e12b10561001f9e1": {
+            "text": "Om en bruker fors\u00f8ker \u00e5 f\u00e5 tilgang til en side som bruker denne malen, og ikke har tilgang til siden, hva skal gj\u00f8res?"
         }
     }
 }

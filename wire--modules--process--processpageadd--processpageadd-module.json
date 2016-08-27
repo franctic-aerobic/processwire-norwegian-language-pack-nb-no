@@ -61,6 +61,12 @@
         },
         "13148993e6c4399880e879c88a664347": {
             "text": "Standard innstilling er at sider med kun globale felter (mest kjente er \"tittel\") vil bli publisert automatisk n\u00e5r de blir lagt til, og forbig\u00e5r den vanlige upubliserte tilstanden. Dette er gjerne en god m\u00e5te \u00e5 spare tid p\u00e5. Men du kan stoppe denne oppf\u00f8rselen ved \u00e5 krysse av i boksen under."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Malsnarvei sorteringsrekkef\u00f8lge"
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "For \u00e5 legge til eller fjerne maler fra disse snarveiene, se malredigeringens familiefane."
         }
     }
 }

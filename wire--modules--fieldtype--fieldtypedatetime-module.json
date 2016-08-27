@@ -28,6 +28,9 @@
         },
         "e606a86ec2852d83f2ea4622de245889": {
             "text": "Se [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) funksjonsreferansen for mer informasjon om hvordan du tilpasser dette formatet. Alternativt kan du bruke [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) formatet om du vil lokalisere."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(unix datostempel)"
         }
     }
 }

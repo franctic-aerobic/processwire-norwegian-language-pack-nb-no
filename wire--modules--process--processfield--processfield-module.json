@@ -277,6 +277,27 @@
         },
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "Tilgang"
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Viser felter fra mal: %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Ingen problemer funnet tilknyttet feltet %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Ukjente egenskaper"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Front end-redigering"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "La til felt"
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Viser felt av typen: %s"
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "Viser alle felter, inkludert innebygde system- og permanente felter."
         }
     }
 }

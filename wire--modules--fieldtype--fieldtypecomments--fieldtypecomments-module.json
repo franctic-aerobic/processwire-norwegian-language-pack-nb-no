@@ -145,6 +145,27 @@
         },
         "9fbc91b8ace5ac4afdc754d6d81d1f28": {
             "text": "Tillatt kommentarstemmer?"
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Avstemming av"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Tillat oppstemming"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Tillat oppstemming og nedstemming"
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Bruk stjernerangering?"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Ja (stjernerangering er valgfritt)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Ja (stjernerangering er p\u00e5krevd)"
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Bruk Gravatar?"
         }
     }
 }

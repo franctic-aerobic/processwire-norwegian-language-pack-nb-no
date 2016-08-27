@@ -14,9 +14,6 @@
         "52c9a1be3c0e025b4aa30857a474fea5": {
             "text": "Venstre:"
         },
-        "f586a5b42bcd327bea09641d0ac4a06a": {
-            "text": "HiDPI\/Retina"
-        },
         "a547432ab25b830c51cb8a560e4e4f62": {
             "text": "Bildebeskrivelse (alt-atributt)"
         },
@@ -151,6 +148,36 @@
         },
         "a3921791372620c674562de0f5b0f9ed": {
             "text": "Satt inn fra side:"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Slett bildevariasjoner"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Feil ved sletting av bildevariasjoner"
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Ingen endringer n\u00f8dvendig for bildevariasjoner."
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina-avkrysningsboks standard er avkrysset?"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "N\u00e5r avkrysset vil bildeutvalget bruke fullst\u00f8rrelsebilder heller enn miniatyrbilder."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Vi anbefaler ikke \u00e5 huke av denne boksen fordi det vil forstyrre noen funksjoner (som bruk av HiDPI\/retina-bilder)."
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Autolagede admin-miniatyrbilde"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "API-genererte variasjoner"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d variasjon av bildet %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d variasjoner av bildet %2$s"
         }
     }
 }
