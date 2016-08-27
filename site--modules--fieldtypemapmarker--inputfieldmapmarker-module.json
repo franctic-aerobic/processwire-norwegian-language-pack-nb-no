@@ -56,11 +56,8 @@
         "4000a84d8cfcaa12226370c3ede2941b": {
             "text": "Du kan f\u00e5 tilgang til individuelle verdier fra dette feltet ved \u00e5 bruke f\u00f8lgende fra dine malfiler:"
         },
-        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
-            "text": "Zoom"
-        },
-        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
-            "text": "Hybrid"
+        "c8677ddf77587fd180ab240e3b620ee6": {
+            "text": "Vennligst legg til en Google Maps API-n\u00f8kkel i modulinnstillingene til FieldtypeMapMarker."
         }
     }
 }
