@@ -67,6 +67,36 @@
         },
         "fc79d6220e08aa79bbd8d5fd02fec884": {
             "text": "Kolonnedefinisjoner"
+        },
+        "0a7034c424570912c8da58033859c83c": {
+            "text": "Alternativ merkelapp for \"Legg til rad\"-lenken"
+        },
+        "2a9a73daf37df8e07a532a0a56fb9566": {
+            "text": "Om feltet er tomt, vil teksten \"Legg til rad\" bli brukt."
+        },
+        "9bc54602186c6b5ba99545c2ecd194eb": {
+            "text": "Plassholdertekst for \u00e5 vise n\u00e5r ingen verdi er definert"
+        },
+        "a82ab9251b2775cf9c90fc1e9586d7a4": {
+            "text": "Dataformat til bruk for inndata ved redigering av siden."
+        },
+        "f9f31f40733c4cd1012e3539af40d382": {
+            "text": "Datoformat til bruk for utdata."
+        },
+        "0910b83776e397a72da23db35a7089d7": {
+            "text": "Tidsformat til bruk for inndata ved redigering av siden."
+        },
+        "c7d281a94db13a349f171c08c37e3cde": {
+            "text": "Tidsformat til bruk for utdata."
+        },
+        "e42c99808181448716bfed10e9d41996": {
+            "text": "**Vennligst merk:** \u00c5 bruke CKEditor i et tabellfelt krever ProcessWire 2.6.4 eller nyere."
+        },
+        "b6c5f85fc8a92fb55beb8be956eec88d": {
+            "text": "Innstillinger og handlinger"
+        },
+        "ce85ad558fd53bf7ce2a30b589591ee3": {
+            "text": "Tillat sletting av alle rader p\u00e5 en gang?"
         }
     }
 }
