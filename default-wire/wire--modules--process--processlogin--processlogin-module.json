@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Du er innlogget."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Hold fram"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "Suksessfull innlogging"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Innloggingen feilet"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Du har logget ut"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Sikkerhetsadvarsel: %s finnes og b\u00f8r bli slettet s\u00e5 raskt som mulig."
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Brukernavn"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Passord"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Logg inn"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "Logg inn"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Glemt passordet?"
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Advarsel, din \/site\/config.php spesifiserer filtillatelser som er for l\u00f8se for mange milj\u00f8er:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Les \"Sikring av filtillatelser\" for flere detaljer"
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "For \u00e5 undertrykke denne advarsele, gj\u00f8r $config->chmodWarn = false; i din \/site\/config.php-fil."
+        }
+    }
+}

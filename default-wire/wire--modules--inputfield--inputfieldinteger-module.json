@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
+    "translations": {
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "Nummer (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "\u00c5 velge \"Nummer\"-typen aktiverer i tillegg klientsidevalidering i nettlesere som st\u00f8tter det."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Maks verdi"
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Heltall (positivt eller negativt)"
+        }
+    }
+}

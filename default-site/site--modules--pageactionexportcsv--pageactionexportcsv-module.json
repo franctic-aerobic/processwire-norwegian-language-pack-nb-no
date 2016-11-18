@@ -1,0 +1,81 @@
+{
+    "file": "site\/modules\/PageActionExportCSV\/PageActionExportCSV.module",
+    "textdomain": "site--modules--pageactionexportcsv--pageactionexportcsv-module",
+    "translations": {
+        "798ae39e07179d9153fbf06a27f6c8aa": {
+            "text": "Navn (fra URL)"
+        },
+        "ac70412e939d72a9234cdebb1af5867b": {
+            "text": "Sti"
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "URL"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        },
+        "ba989292c988a2d8cc2131b51e13de72": {
+            "text": "Dato opprettet"
+        },
+        "96ec8f79321400ed51d9d127ef9bf9da": {
+            "text": "Dato siste endret"
+        },
+        "28b2c2f40e674c99b884beabf6634c4c": {
+            "text": "Opprettet av bruker: ID"
+        },
+        "cbbf1121edceaaf47c02a9110799d258": {
+            "text": "Opprettet av bruker: Navn"
+        },
+        "d10476dc4e15b6261b5e86ef0d2295a5": {
+            "text": "Endret av bruker: ID"
+        },
+        "f5c485920ac52ac3ca25ad89cb0e52d1": {
+            "text": "Endret av bruker: Navn"
+        },
+        "4709f48407d548858cd3653e360def50": {
+            "text": "Foreldreside-ID"
+        },
+        "a7f9b993b92bdbd7c0c6a3c7e7ccb82f": {
+            "text": "Foreldresidenavn"
+        },
+        "f3175086a6ac31182ac19a7354c8b58a": {
+            "text": "Mal-ID"
+        },
+        "0c1ec80465825af171a2cb9df19ac8d7": {
+            "text": "Malnavn"
+        },
+        "47223b2e86784ea08f80456f36386b5b": {
+            "text": "Felter og rekkef\u00f8lge til eksportering"
+        },
+        "0887bf4bddb1438022989a8d3d17e052": {
+            "text": "Kolonnetitler"
+        },
+        "3582eb93f8ec1ebee473e0efd72ba8ac": {
+            "text": "Feltetiketter og navn"
+        },
+        "b9f5b9f041084aa285dac87dd3dc1234": {
+            "text": "Feltetiketter"
+        },
+        "ef2eef77980dfb726eee7566523a9f55": {
+            "text": "Feltnavn"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "ingen"
+        },
+        "4994a8ffeba4ac3140beb89e8d41f174": {
+            "text": "Spr\u00e5k"
+        },
+        "a45da96d0bf6575970f2d27af22be28a": {
+            "text": "System"
+        },
+        "faa679d88c34c5bba8b3968559d9d25d": {
+            "text": "Eksporter filer"
+        },
+        "413aaf3c8d035fb394aeb9655260e629": {
+            "text": "Standard eksportfelter (per Lister)"
+        },
+        "0a12856689066362827afac4fe78cdd4": {
+            "text": "Hver linje b\u00f8r innholde: \"lister_name=field1,field2,field3\" for \u00e5 tjene som standard. Ingen grunn til \u00e5 sette det her, ettersom det automatisk vil bli satt n\u00e5r handlingen kj\u00f8res."
+        }
+    }
+}

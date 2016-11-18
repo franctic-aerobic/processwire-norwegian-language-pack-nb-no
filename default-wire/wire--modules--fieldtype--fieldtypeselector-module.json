@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Eksempel: mal=produkt"
+        }
+    }
+}

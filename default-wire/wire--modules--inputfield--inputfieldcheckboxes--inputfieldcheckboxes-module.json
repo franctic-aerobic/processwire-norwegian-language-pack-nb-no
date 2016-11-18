@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Kolonner med avhukingsbokser"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Flere av\/p\u00e5-avhukingsbokser"
+        }
+    }
+}

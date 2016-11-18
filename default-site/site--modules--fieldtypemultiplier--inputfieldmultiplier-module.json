@@ -1,0 +1,30 @@
+{
+    "file": "site\/modules\/FieldtypeMultiplier\/InputfieldMultiplier.module",
+    "textdomain": "site--modules--fieldtypemultiplier--inputfieldmultiplier-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Legg til"
+        },
+        "af54a10fba4e0259f472eb5bae8aad53": {
+            "text": "Bruk sortering?"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "57eafa11422244fa209ea2c3ef428686": {
+            "text": "Sorter med dra-og-slipp*"
+        },
+        "2575d6d8dc9afcafbd8008ef1379af20": {
+            "text": "Sorter etter nummerinntasting"
+        },
+        "778257bfe6507e5970adc37bc693abd5": {
+            "text": "Bruk s\u00f8ppelkurv?"
+        },
+        "aca16002d1688190ddd6c33c631e8f0c": {
+            "text": "%d duplikat verdi ble fjernet"
+        },
+        "1f56183f460ff5904ff853b38992f917": {
+            "text": "%d duplikate verdier ble fjernet"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Fiks \u00f8delagte bilder:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Fjern img-tags som vil resultere i en 404, eller gjenskap bilder n\u00e5r mulig"
+        }
+    }
+}

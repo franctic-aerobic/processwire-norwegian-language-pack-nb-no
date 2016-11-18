@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/InputfieldRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--inputfieldrepeater-module",
+    "translations": {
+        "7264d8c26ac9671a31cd3eb3ddd4a447": {
+            "text": "Dette elementet vil kunne redigeres etter du lagrer."
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Ny"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Slett"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Sorter"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Legg til ny"
+        },
+        "25c63396ad92c7bbb48fa4aa21adc5e4": {
+            "text": "Reptererer felter fra andre maler. Gir inndata til FieldtypeRepeater."
+        },
+        "a8a50b640956ab0334e76e86c168644c": {
+            "text": "Slett dette elementet"
+        },
+        "75e43298796bd7ec058b10778d58bb72": {
+            "text": "Sl\u00e5 av\/p\u00e5 publisert\/avpublisert"
+        }
+    }
+}

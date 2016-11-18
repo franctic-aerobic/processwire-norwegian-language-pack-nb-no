@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "filnavn"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=ingen grense"
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Bruk merkelapper?"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Filer"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Gyldige filetternavn."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maks antall tillatte filer"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Formatert verdi"
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Matrise med elementer"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "Enkelt element (null om tomt)"
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "Du kan bruke en av de f\u00f8lgende merkelappene:"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "Standard verdi (n\u00e5r tom)"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "N\u00e5r avhuket vil feltet ogs\u00e5 ha et valg for merkelapper i tillegg til beskrivelsen."
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Felt som lagrer en eller flere filer"
+        }
+    }
+}

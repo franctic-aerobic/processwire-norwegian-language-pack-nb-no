@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Vellykket opplasting"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Opplastet fil overg\u00e5r upload_max_filesize-direktivet i php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Opplastet fil overg\u00e5r MAX_FILE_SIZE-direktivet som ble spesifisert i HTML-skjemaet."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Opplastet fil ble kun delvis lastet opp."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Ingen fil ble lastet opp."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "En midlertidig mappe mangler."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Feilet \u00e5 skrive filen til disk."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Opplastet fil ble stoppet av en utvidelse."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Maks filst\u00f8rrelse ble n\u00e5dd"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Ugyldig filetternavn, vennligst bruk en av:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Overg\u00e5r maks tillatt filst\u00f8rrelse"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Ingen filer ble funnet i ZIP-filen"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(upublisert)"
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Nye sider vil bli lagt til %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Opprett ny"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "Opprettet siden %s"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Feil ved oppretting av siden \"%s\""
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Eksempel:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(standard)"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Etikettfelt"
+        }
+    }
+}

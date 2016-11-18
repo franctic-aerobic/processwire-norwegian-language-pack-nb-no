@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/FormBuilder\/frameworks\/FormBuilderFrameworkBasic.php",
+    "textdomain": "site--modules--formbuilder--frameworks--formbuilderframeworkbasic-php",
+    "translations": {
+        "dfe4355d05d533d953c27510f478ea29": {
+            "text": "URL til CSS-stilsett som skal gi skjemaet stiler"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Spesifiser en URL\/bane relativ til ProcessWire-installasjonens rot."
+        },
+        "a567624c910d6d6cf1a4c66c6747810d": {
+            "text": "Standard verdi:"
+        }
+    }
+}

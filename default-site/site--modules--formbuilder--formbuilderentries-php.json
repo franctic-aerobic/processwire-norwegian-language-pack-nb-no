@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderEntries.php",
+    "textdomain": "site--modules--formbuilder--formbuilderentries-php",
+    "translations": {
+        "49eb6a44db57cba8d66b3404fa9f0ad4": {
+            "text": "Y-m-d H:i:s"
+        }
+    }
+}

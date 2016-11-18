@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Fargesett"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "Reno"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klassisk"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Bl\u00e5"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Brukerbilder"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "For \u00e5 bruke denne funksjonen m\u00e5 din(e) brukermal(er) ha et bildefelt. Om din(e) brukermal(er) ikke har et bildefelt, vil avateren som standard v\u00e6re et ikon. For \u00e5 legge til et bildefelt til standard brukermal, g\u00e5 til Oppsett > Maler > Filter (Vis systemmaler). Malen \"user\" vil n\u00e5 vises i listen. Om du har opprettet en ekstra\/alternativ brukermal, kan du aktivere denne funksjonen ved \u00e5 legge til et bildefelt i den malen."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Bildefelt for malen %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Ingen bildefelter er tilknyttet denne malen"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "La til feltet \"%s\" blant felter som er mulig \u00e5 rediger av brukeren i dens profil."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Brukers visningsnavner"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Kommeaseparert liste over felter til bruk som visningsnavn i admin. (Eksempel: fornavn, etternavn)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Disse kan kun v\u00e6re tekstfelter. Andre felttyper vil ignoreres."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Visningsnavn for malen %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Ikoner"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Spesifiser ikoner til navigasjonselementene"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Toppnavigasjon: Merknader"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Toppnavigasjon: Vis hjemmeside"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Logg ut"
+        },
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Admin-tema til ProcessWire 2.5+ av Tom Reno (Renobird)"
+        }
+    }
+}

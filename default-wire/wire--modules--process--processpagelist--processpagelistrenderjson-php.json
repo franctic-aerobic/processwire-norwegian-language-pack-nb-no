@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Side ikke funnet"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "S\u00f8ppel \u00e5pen: Dra side til under for \u00e5 kaste dem"
+        }
+    }
+}

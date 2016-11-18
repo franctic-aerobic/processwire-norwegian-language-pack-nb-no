@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/MarkupQA.php",
+    "textdomain": "wire--core--markupqa-php",
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "det er i s\u00f8ppelkurven"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "Ikke i stand til \u00e5 l\u00f8se lenken p\u00e5 siden %1$s i feltet \"%2$s\": %3$s"
+        },
+        "82767b749996ed727738e156e277919f": {
+            "text": "Gjenskapte bildevariasjon"
+        },
+        "e7f0084e8dc972e4cd7d238f17f5cbce": {
+            "text": "Ikke i stand til \u00e5 gjenskape bildevariasjon"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Tillatelser"
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(p\u00e5krevd)"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Roller"
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "gjennomstreking"
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "navn|beskrivelse"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Legg undersider til sider som bruker mal"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Lag sider som bruker mal"
+        }
+    }
+}

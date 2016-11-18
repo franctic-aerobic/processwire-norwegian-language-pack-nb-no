@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Bokmerker"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Rediger bokmerker"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "alle"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Det er for tiden ingen definerte bokmerker"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "alle"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Bokmerker til: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s bokmerkebehandling"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Merk at kun superbrukere kan se denne behandlingen."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Legg til bokermerke"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Trykk p\u00e5 \"legg til bokmerke\"-handlingen under for \u00e5 velge side(r) du vil legge til som bokmerker. Dersom du vil ha bokmerkene vist kun til bestemte brukerroller, velg rollen over f\u00f8rst."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Lagrete bokermerker"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Tillat bruk av bokmerker?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Bokmerker gir det deg mulighet til \u00e5 opprette snarveier til sider fra denne moduler, konfigurert etter brukerrolle. Nyttig til st\u00f8rre l\u00f8sninger."
+        }
+    }
+}

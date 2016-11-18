@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "St\u00f8rrelse: Antall rader som er synlig samtidig i flervelgeren."
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "Velg flere elementer fra en liste"
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ListerProActions.php",
+    "textdomain": "site--modules--processpagelisterpro--listerproactions-php",
+    "translations": {
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Handlinger"
+        },
+        "1e1cc9bdeb2f29f5480106aec7e9bc48": {
+            "text": "N\u00e5"
+        },
+        "61057a0c84605444201929bdd72014f0": {
+            "text": "Senere"
+        },
+        "45bcd132a03571f3e8aed51d9b83cb93": {
+            "text": "Alle filter har blitt nullstilt."
+        },
+        "40cd014b7b6251e3a22e6a45a73a64e1": {
+            "text": "Utf\u00f8r"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d sider"
+        },
+        "631b01aea97f8a037f4634219ef0d8ad": {
+            "text": "FERDIG!"
+        },
+        "6934a509fb9f481d4105654f283312d3": {
+            "text": "Handlinger kan gj\u00f8re endringer til et st\u00f8rre utvalg av sider som en gruppe. Som et resultat av dette er det alltid lurt \u00e5 ha en god rutine med sikkerhetskopier av siden f\u00f8r du utf\u00f8rer handlinger."
+        },
+        "84eb3057639e71f0b224a1da1d29687e": {
+            "text": "Disse handlingene blir p\u00e5f\u00f8rt alle sider som passer med filteret (alle sidenummer inkluderes)"
+        },
+        "d27545cc9b7c1d4983f1957a9a6e6be5": {
+            "text": "Hvilke sider \u00f8nsker du \u00e5 bruke handlingene p\u00e5?"
+        },
+        "5e9b3f2900098d7c83b89adb9a0eaec3": {
+            "text": "alle sider som passer med filterne"
+        },
+        "0973b9d493d1017c8334c1c14a9beaa5": {
+            "text": "valgte side(r)"
+        },
+        "5eb869fc7dad176f5631edbee651bcf2": {
+            "text": "N\u00e5r skal handlingen(e) utf\u00f8res?"
+        },
+        "ca5266b854df56bc25347da859835aad": {
+            "text": "Gi meg en beskjed n\u00e5r handlingen(e) er ferdige?"
+        },
+        "9cab3268c61e1bc177ab8d7e0060356f": {
+            "text": "Ikke gi meg beskjed"
+        },
+        "178fdde0003a2dee51ff20897fc69122": {
+            "text": "Handlingsresultater"
+        },
+        "cca5795cf092b42054fdfddf7443b2e2": {
+            "text": "Hvilke handlinger \u00f8nsker du \u00e5 utf\u00f8re?"
+        },
+        "e3aa01cdc74bac68d6566ba2775437b1": {
+            "text": "For hver handling du velger, kan ekstra konfigurasjonsvalg dukke opp i feltene under."
+        },
+        "12e3234ac79a08c5814f2bcda50326a9": {
+            "text": "Denne Lister-en har ingen handlinger knyttet til seg, eller du har ikke tilgang til dem."
+        },
+        "14907994ab34fa9646d381ad0f102ec4": {
+            "text": "Du kan legge handlinger til fra Lister sitt konfigurasjonsbildw"
+        },
+        "789425f708b790b3ffc89b28a669f9b9": {
+            "text": "Kj\u00f8rende handling"
+        },
+        "700f9df0b788870f03e6cc3ba669c857": {
+            "text": "I k\u00f8 av Lister"
+        },
+        "f5a13c787c7d56b1d30f77d32d21ee43": {
+            "text": "Handling lagt i k\u00f8"
+        },
+        "56445f54a7004e964a549fa9f6117594": {
+            "text": "P\u00e5f\u00f8res til spesifikke sider"
+        },
+        "0a4a42f26cf11c3158d298a1a49020cc": {
+            "text": "P\u00e5f\u00f8res til alle sidene som passer filtrene"
+        },
+        "a5c9bcb8d119086abc0d8757bacf2854": {
+            "text": "Bygger en samling av sider"
+        },
+        "000a270ec9e68f4e8fe6d60aa2b1e95b": {
+            "text": "Prosesserer samlingene\u2026"
+        },
+        "e6334303985030c38488292ff5e7b470": {
+            "text": "Hoppet over ikke-redigerbar side: %s"
+        },
+        "51ffe9dd1b1e143c1b9f1144d040e454": {
+            "text": "Samling"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Side"
+        },
+        "711709c8840a22dce8effd3d16521d1a": {
+            "text": "Lagret %s for: %s"
+        },
+        "4b15cd484fa164b1c9f681089a876d8d": {
+            "text": "Prosessert samling"
+        },
+        "fbb44b4487415b134bce9c790a27fe5e": {
+            "text": "totalt"
+        },
+        "701d8cb23924716632db4e617a2519b4": {
+            "text": "%d sider ble modifisert og lagret."
+        },
+        "da5649ac7498fccddeba3af60c6df403": {
+            "text": "%d sider har blitt lagt i k\u00f8."
+        },
+        "af3e8fccffe9922a090386f8ff2dbbe1": {
+            "text": "%d sider ble ikke modifisert."
+        },
+        "b6ee7297cc356a683e1c775ba91a6656": {
+            "text": "%d sider ble hoppet over p\u00e5 grunn av tilgangskontroll."
+        },
+        "cb7d082bc3adad3ac699d09444b37f2b": {
+            "text": "Konfigurer Lister"
+        },
+        "4593f380fadb80aed84424702f6746ba": {
+            "text": "Nullstill filtrer"
+        },
+        "684c40f2b94de4d5a9d9b55e4062c3f5": {
+            "text": "Oppdater resultater"
+        }
+    }
+}

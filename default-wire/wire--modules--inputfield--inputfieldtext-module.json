@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext-module",
+    "translations": {
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 ord"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d ord"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 bokstav"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d bokstaver"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(minst %d kreves)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(%d maks)"
+        },
+        "3c5d93eab9cf5f9c46905bcf44e863af": {
+            "text": "Passer ikke det p\u00e5krevde m\u00f8nsteret"
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Tillat bruk av HTML5 \"required\"-attributt?"
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Minstelengde"
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Makslengde"
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Teller"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Ingen teller"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Bokstavteller"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Ordteller"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Det er abnefalt at du viser en bokstavteller n\u00e5r du bruker innstillingene for minste- og makslengde over."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "St\u00f8rrelse"
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Plassholdertekst"
+        },
+        "57391192dfa1f247ad015a0fe2eca48e": {
+            "text": "M\u00f8nster"
+        }
+    }
+}

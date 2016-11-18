@@ -1,0 +1,315 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Lagre"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importer"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Eksporter"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Vis alle"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filter"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtrer etter mal"
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Slett felt"
+        },
+        "bfacb0dba61ee131e07daaacead869c5": {
+            "text": "Grunnleggende feltinnstillinger"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(alle)"
+        },
+        "ee2d3754b6e7f57898d9d8670f78ae71": {
+            "text": "Avanserte valg"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikon"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Merkelapper"
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Hver merkelapp m\u00e5 v\u00e6re et ord (bindestrek er lov)."
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Slettet felt"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "Feltnavn er p\u00e5krevd"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Felttype er p\u00e5krevd"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "Lagret felt"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopi)"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Klonet felt"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Du redigerer n\u00e5 feltet du klonet."
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "Feltnavn er tomt"
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Behold feltinnstillinger?"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "F\u00f8r %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Etter %s"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "P\u00e5"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Av"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Alle"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[tom]"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Felter"
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "Innebygd"
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "Legg til nytt felt"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "Navn"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Merkelapp"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "Maler"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "p\u00e5krevd"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "vis dersom\u2026"
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "tilgang"
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Rediger felt: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Legg til nytt felt"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Alarm"
+        },
+        "cba80ebc9ff6059cddbf49c3f46172a6": {
+            "text": "Ingen (standard)"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Avbryt"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Mal"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Innstilling"
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "Overskriv"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Fjern innstilling"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Slett"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Grunnleggende"
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "Merkelapp"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Beskrivelse"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Notater"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Handlinger"
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "Navn"
+        },
+        "0e6b389782e160492d4fe3a397e392df": {
+            "text": "Merkelapp"
+        },
+        "ceb446e97d336c84d1f870ce7840e4ba": {
+            "text": "Rader med data"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Ja"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Nei"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rolle"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Vis"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Rediger"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Avansert"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Felter etter template"
+        },
+        "d9a45316e3230df36980cf6ab8983485": {
+            "text": "Filtrer etter felttype"
+        },
+        "380f82872d1eb16c53b69ce4cfb45c9f": {
+            "text": "Vis innebygde felter?"
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Umerket"
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Ingen felter passet filteret ditt"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "\u2026og s\u00e5 videre\u2026"
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "Overskrevet av mal"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "Overskrivninger"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installer"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Dette feltet er ikke i bruk og er trygt \u00e5 slette."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Dette feltet kan ikke slettes fordi det er i bruk av en eller flere maler."
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Klon eksisterende felt"
+        },
+        "219befd28b6f70d6d0a52f13c6b93772": {
+            "text": "Dette er merkelappen som vises over feltinntastingen. Om tom vil navnet bli brukt i stedet."
+        },
+        "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Legg til eller fjern felt fra maler"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "Dette feltet er i bruk av malene som er avhuket under."
+        },
+        "1abe66d94bd2d1029f681142e99454a3": {
+            "text": "Dette feltet er ikke i bruk av noen maler."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Dupliser\/klon dette feltet?"
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "For \u00e5 klone dette feltet, tast inn navnet til det nye feltet du \u00f8nsker \u00e5 opprette."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Merk at du vil redigere din kopierte klonte etter du sender inn dette skjemaet."
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Bekreft endring av felttype"
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Endring av felttype er avbrutt"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Felttype endret"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Huk av denne boksen for \u00e5 bekrefte."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Mal: %s"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "Ikke legg til"
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "Legg til eller fjern fra mal(er)"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Aktiver tilgangskontroll"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Fjern tilgangskontroll"
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "autosammensl\u00e5"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "Befolkete sider"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Tilgang"
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Viser felter fra mal: %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Ingen problemer funnet tilknyttet feltet %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Ukjente egenskaper"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Front end-redigering"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "La til felt"
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Viser felt av typen: %s"
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "Viser alle felter, inkludert innebygde system- og permanente felter."
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Vis i sideredigering likevel om den ikke er redigerbar"
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Rediger individuelle felter som inneholder sidedata"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Dette vil ogs\u00e5 slette %d rad med data."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Dette vil ogs\u00e5 slette %d rader med data."
+        }
+    }
+}

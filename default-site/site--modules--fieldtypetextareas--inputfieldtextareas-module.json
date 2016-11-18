@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/FieldtypeTextareas\/InputfieldTextareas.module",
+    "textdomain": "site--modules--fieldtypetextareas--inputfieldtextareas-module",
+    "translations": {
+        "05cb8d9a603120fb2594dbb65941d9bd": {
+            "text": "Kolonnebredde %"
+        },
+        "c184a615035da08a246bec921bd72aad": {
+            "text": "ProField: Tekstomr\u00e5der"
+        },
+        "6e31019a6bbc9e509288fe499e65f86b": {
+            "text": "Skriv inn standard bredde hvor hvert tekstomr\u00e5deelement som prosenter mellom 10 og 100. Verdien mindre enn 10 antas \u00e5 v\u00e6re 100 % (standard)."
+        },
+        "edc2d2fc793c715c147de75e4145ba7f": {
+            "text": "Denne bredde kan valgfritt bli overskrevet i dine tekstomr\u00e5dedefinisjoner, s\u00e5 denne brukes som en standard."
+        },
+        "a5e79bd16b95d15c3f09e275ca56bfb6": {
+            "text": "Hvordan skal individuelle felter innenfor tekstomr\u00e5der vises i sideredigeringen?"
+        },
+        "2680f21192868126b7b0514500a0ccb9": {
+            "text": "Flere tekst- eller tekstomr\u00e5defelter kombinert til et felt."
+        },
+        "34b53c6be9dbf8fc67a4f2447e6bc00d": {
+            "text": "Tekstomr\u00e5der inndatainnstillinger"
+        }
+    }
+}

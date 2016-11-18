@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/PageActionMove\/PageActionMove.module",
+    "textdomain": "site--modules--pageactionmove--pageactionmove-module",
+    "translations": {
+        "4ccb369c9e3c21e6e39a6296c0a674b7": {
+            "text": "Velg ny foreldreside"
+        },
+        "2c805a9b70478f9370976198d7f1f20e": {
+            "text": "Handling som flytter en side."
+        }
+    }
+}
