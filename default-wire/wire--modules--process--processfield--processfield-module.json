@@ -298,6 +298,18 @@
         },
         "1535d0228ba3626bad19ec55142ffcc6": {
             "text": "Viser alle felter, inkludert innebygde system- og permanente felter."
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Vis i sideredigering likevel om den ikke er redigerbar"
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Rediger individuelle felter som inneholder sidedata"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Dette vil ogs\u00e5 slette %d rad med data."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Dette vil ogs\u00e5 slette %d rader med data."
         }
     }
 }

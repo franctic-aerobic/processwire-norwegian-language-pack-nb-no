@@ -223,6 +223,12 @@
         },
         "7e7b8eaf9921d2a698937d925748e85b": {
             "text": "Exit + Vis"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Standard \"vis\"-lokasjon\/handling"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Standard handling som brukes n\u00e5r \"vis\"-fanen blir klikke p\u00e5 i sideredigering."
         }
     }
 }

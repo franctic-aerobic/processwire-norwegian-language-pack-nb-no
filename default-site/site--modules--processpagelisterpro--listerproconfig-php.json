@@ -1,0 +1,171 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ListerProConfig.php",
+    "textdomain": "site--modules--processpagelisterpro--listerproconfig-php",
+    "translations": {
+        "6ecdde2ae513a5896e134284685c0e15": {
+            "text": "Legg til ny Lister"
+        },
+        "64ce89862023aa6e454fe40cad241d28": {
+            "text": "Konfigurer denne Lister-en"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Legg til filter"
+        },
+        "d1b64eeb3901133b5b345effbefc706b": {
+            "text": "Hvilke SIDER skal Lister-en vise?"
+        },
+        "fffd6e5a26df34527932ce6d7faa8228": {
+            "text": "Valg og oppf\u00f8rsler"
+        },
+        "a1a4abdb830d60547733aa99dc729299": {
+            "text": "Forhindre bruker fra \u00e5 fjerne standard filtrer"
+        },
+        "90f5ea71362b139e0ff989e75e09c214": {
+            "text": "Forhindre bruker fra \u00e5 legge til nye filtrer"
+        },
+        "4381b207fbb20c0fb3ed392021510498": {
+            "text": "Hvilke KOLONNER skal resultattabellen vise?"
+        },
+        "054edc8412679b0e04131cd38e504724": {
+            "text": "Hvilke REKKEF\u00d8LGE skal sidene vises i?"
+        },
+        "cf3fb1ff52ea1eed3347ac5401ee7f0c": {
+            "text": "Stigende"
+        },
+        "e3cf5ac19407b1a62c6fccaff675a53b": {
+            "text": "Synkende"
+        },
+        "ef2eef77980dfb726eee7566523a9f55": {
+            "text": "Feltnavner"
+        },
+        "b9f5b9f041084aa285dac87dd3dc1234": {
+            "text": "Feltmerkelapper"
+        },
+        "0a9b2a07f21d71321b5302bef25a1e26": {
+            "text": "Hvilke kolonner er REDIGERBARE direkte i Lister-en?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Navn"
+        },
+        "a93a7ca1bc5451e020e26cafc9b11bd3": {
+            "text": "Hvilke HANDLINGER vil du tillate?"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Tittel"
+        },
+        "c57061eac85315234bc4571694f99db3": {
+            "text": "Modulnavn"
+        },
+        "a6ab23055c7069c2c122ef99d3f7ff2b": {
+            "text": "P\u00e5krevd tilgang"
+        },
+        "b8e21d6fa69840469e929e0393368f86": {
+            "text": "Hvordan skal BILDER vises?"
+        },
+        "7c1ca41bb61dedd0e0f5e6e239e7140c": {
+            "text": "Bildebredde"
+        },
+        "a97ed264fab6bf554062d8356099cfb1": {
+            "text": "Bredde p\u00e5 miniatyrbildene som vises i Lister-en."
+        },
+        "73272b37e90e93583b05761520dc45b5": {
+            "text": "Bildeh\u00f8yde"
+        },
+        "9be0ba3bff9daa81571aa817e0865265": {
+            "text": "H\u00f8yde p\u00e5 miniatyrbildene som vises i Lister-en."
+        },
+        "96ecad681b4574547ff85fc5de27453b": {
+            "text": "Samme vindu"
+        },
+        "721a47904ddb699db6ac4d683988ba26": {
+            "text": "Modal-vindu"
+        },
+        "e5dc8e5afea0a065948622039358de37": {
+            "text": "Nytt vindu"
+        },
+        "c0d5f86f6aa6ba1320b76874d3b8182d": {
+            "text": "Ikke vis redigeringslenker"
+        },
+        "29a8cca01fbc3b6fd7da256e02c9cf0e": {
+            "text": "Hvem har TILGANG til denne Lister-en?"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Avansert"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Eksempel:"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Lagre"
+        },
+        "2f2ffa4969a9be39bd1bfae38ce2f506": {
+            "text": "Lagre + vis"
+        },
+        "26e083c63667cc745be1cc7681ec18cc": {
+            "text": "Dette er din standard Lister, til bruk for generelle s\u00f8k etter sider. Du \u00f8nsker kanskje \u00e5 la de fleste innstillingene her v\u00e6re standard, og opprette en ny Lister for spesifikke behov."
+        },
+        "5abad1ce26629c7927e6d5d34cee5961": {
+            "text": "Alle sider som vises av denne Lister-en vil bli funnet med egenskapene du velger her (brukeren vil ikke kunne overskrive dem). Vi anbefaler \u00e5 spesifisere minst en \"mal\" her, men bruken er valgfri. Om du ikke velger noe, vil Lister-en v\u00e6re i stand til \u00e5 vise alle sidene p\u00e5 din side."
+        },
+        "422e37e4ac8a61f8f0859bd6b22094ec": {
+            "text": "Om du gj\u00f8r et valg av mal over, anbefaler vi \u00e5 \"lagre\" f\u00f8r du g\u00e5r videre og gj\u00f8r de andre feltene ferdig. Dette vil s\u00f8rge for at valgene er redusert til kun de som gjelder."
+        },
+        "e5e216ed3d1241011679f7352ea81fc3": {
+            "text": "Hvilke FILTER skal Lister-en vise?"
+        },
+        "e550394fb7323d90695f6aad0b5ba58a": {
+            "text": "Filtrene du velger her vil v\u00e6re synlige n\u00e5r en bruker f\u00f8rst ser Lister-en. Dette er bare standard filter, og en bruk kan selv legge til, endre eller fjerne filtrene. Vi anbefaler at du velger feltene som kan brukes som filter, men lar verdiene i hver enkelt rad v\u00e6re tom \/ ikke valgt (om du ikke \u00f8nsker \u00e5 tilf\u00f8ye en standard verdi)."
+        },
+        "79768a779499d45994a0fd7df4779034": {
+            "text": "For mange kolonner \u00e5 velge mellom? Velg en eller flere \"mal\"-felter for \"Hvilke sider vil Lister-en vise?\" over, deretter trykk lagre. Deretter vil dette feltet kun vise kolonnene som kan brukes, heller enn alle kolonnene."
+        },
+        "2924adee3e42b08fab045d8339306f97": {
+            "text": "Hvilket felt skal be brukt som standard sortering? Vi anbefaler at du velger et felt som ogs\u00e5 brukes som en av standardkolonnene over (som \"tittel\"). Merk at brukeren n\u00e5r som helst kan endre sortering ved \u00e5 trykke p\u00e5 kolonnens overskrift."
+        },
+        "bb74be3a055674cdf9f8caad352d6d1f": {
+            "text": "Flere valg vil bli synlig her etter at du befolker feltet for standardkolonne over og lagrer."
+        },
+        "eed06e4c1cc4b8421aface2a3e55b8ae": {
+            "text": "Feltet som vises her reflekterer systemfelter og de som er valgt i kolonnefeltet under (men du m\u00e5 lagre f\u00f8r du ser ditt kolonneutvalg her)."
+        },
+        "b0a0346957c16bdaac050b0414df32a5": {
+            "text": "Vil du vise feltnavn eller feltetikett?"
+        },
+        "55942d08a6255e6a6bd7514744f004f3": {
+            "text": "Denne innstillinge bestemmer om feltets navn eller etikett blir vist i filternes og kolonnenes nedtrekksbokser."
+        },
+        "e4bf294c42d95e0d65f5ee1c5b9ed6ab": {
+            "text": "Kun bilde"
+        },
+        "e7eefefee9ab69f872edfc4acdb9f536": {
+            "text": "Bilde med detaljer"
+        },
+        "660315751fc7c61c8b55611d7abc2eb7": {
+            "text": "Hvordan skal vis- og redigeringslenker virke?"
+        },
+        "d579891c9a77433f640e1f469e3b630e": {
+            "text": "Vis-lenker \u00e5pnes i \u2026"
+        },
+        "a8bd40ddf0ee4a5ec48b238d8044f09c": {
+            "text": "Ikke vis vis-lenker"
+        },
+        "88d2a881a085f9f823ad8bb875a93744": {
+            "text": "Rediger-lenker \u00e5pnes i \u2026"
+        },
+        "5603bdcb5cd16360e95ea16bdfdd0327": {
+            "text": "Opprettet tilgang: %s"
+        },
+        "9c4343a834c0e066cb58467c8c0a01d8": {
+            "text": "Fant tilgang %s"
+        },
+        "e3e6ae86b4989fb853b7287718ba71e5": {
+            "text": "Opprett %s tilgang?"
+        },
+        "948ce243f91a195c4a9e4f154046f402": {
+            "text": "Deaktiver \"legg til ny\"-sideknapper?"
+        },
+        "3c8fdd82f288c514c6a525bbbcc79d70": {
+            "text": "Lagret lister-konfigurasjon"
+        }
+    }
+}

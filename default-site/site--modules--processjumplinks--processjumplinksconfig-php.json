@@ -31,6 +31,30 @@
         },
         "c54e9810286c5d4da5cec6e23e48a675": {
             "text": "St\u00f8tt utviklingen av Jumplinks"
+        },
+        "abc61965340815a3d02051b916705c41": {
+            "text": "Wildcard-rensing"
+        },
+        "596a96ac99d0317dd397b0e01bd3fbd2": {
+            "text": "Rens, men ikke endre p\u00e5 skriftst\u00f8rrelse"
+        },
+        "1fdffe55f0f7fdabc5eea0699f2e3ea3": {
+            "text": "Utvidet wildcard-rensing"
+        },
+        "8a2ae25cb8a3dfe497a56b23cb85ad18": {
+            "text": "Bruk utvidet wildcard-rensing"
+        },
+        "287656874b1f464bdd1720869cdad4ac": {
+            "text": "Logg 404-treff til databasen"
+        },
+        "d231f5da2327d489e9ddd367d7074200": {
+            "text": "Deaktivere modul"
+        },
+        "ae8757996a7a8c709f2a1d121476264a": {
+            "text": "Deaktivere Jumplinks"
+        },
+        "99f2101e3fa315ecfc903251b6f6ae32": {
+            "text": "Modul-anbefalinger"
         }
     }
 }

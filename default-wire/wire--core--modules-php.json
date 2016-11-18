@@ -73,6 +73,12 @@
         },
         "d710b0151d568a1efa24617b78fa1f25": {
             "text": "Denne modulen er en felttype som for tiden brukes av en eller flere felter"
+        },
+        "7ac5a75a8a79dc9b9e8d40dbed9c4124": {
+            "text": "Modulen %s krever: %s"
+        },
+        "dc3fd488f03d423a04da27ce66274c1b": {
+            "text": "Advarsel!"
         }
     }
 }

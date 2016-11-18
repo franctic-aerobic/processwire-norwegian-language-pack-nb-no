@@ -583,6 +583,33 @@
         },
         "ea0e2b2e87ba292d44ef7eebb69de80d": {
             "text": "Lagret oppf\u00f8ring"
+        },
+        "8e4f0622ae37ff737f6624b5e9130e6e": {
+            "text": "N\u00e5r skjema blir sendt p\u00e5 e-post til deg, kan vi eventuelt sette \"svar til\" en e-postadresse angitt i skjemaet (forutsatt at du har et E-post-felt til stede). Velg hvilket felt som  inneholder innsenderens e-postadresse."
+        },
+        "5800740e8aa44abe84cd41d7f9f93bf9": {
+            "text": "For \u00e5 produsere verdien til et skjemafelt i denne e-post, m\u00e5 du skrive feltets navn i [klammer]. For eksempel: [fornavn]"
+        },
+        "e7cbe91c7d856ca018a499c978a24fda": {
+            "text": "Del innsendte skjemadata med andre tjenester ved \u00e5 kryssposte de innsendte data til en annen URL og valgfritt modifisere hva som blir sendt."
+        },
+        "589565698113d1d06e449ffdb107d876": {
+            "text": "Dupliser innsendings-URL"
+        },
+        "60ebd980becc3e7d1eec713c9711389a": {
+            "text": "Om du vil duplisere skjemainnsendingen ved \u00e5 poste til en annen URL, skriv inn URL-en under. Trykk deretter lagre og ekstra felter vil dukke opp her som du kan fullf\u00f8re."
+        },
+        "1d3ab330d094bb8a1ff45b33e0c03b91": {
+            "text": "Om det er andre felter du vil legge til den dupliserte innsendingen, skriv inn en per linje under i dette formatet: [mitt_feltnavn]=[min_verdi]"
+        },
+        "94300f722fbe00801e3f0358adcd8225": {
+            "text": "Oppdater side med avhukede endringer"
+        },
+        "62231b4fbb95932320b8eeb7919b95ee": {
+            "text": "Oppf\u00f8ring: %s"
+        },
+        "e6e97a63ff0c8d9f90cce3f3573f0fb9": {
+            "text": "Trykk p\u00e5 din \"Oppsett\"-side for \u00e5 begynne \u00e5 bruke denne modulen."
         }
     }
 }

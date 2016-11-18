@@ -166,6 +166,21 @@
         },
         "a4949d12f429ca4af2feb4e30c1e84e4": {
             "text": "Bruk Gravatar?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "Kommentarstemming gir bes\u00f8keren mulighet til \u00e5 stemme opp\/eller ned kommentarer. Stemmeantallet vises ved siden av hver kommentar. Kun en stemme opp eller ned er tillatt per kommentar, per IP-adresse, per time."
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Stjernerangering gir kommentatoren mulighet til \u00e5 rangere emnet de kommenterer, ved \u00e5 bruke en skala fra 1 til 5 stjerner."
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Du har allerede stemt p\u00e5 denne kommentaren"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Kommentarer"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Deaktivert"
         }
     }
 }

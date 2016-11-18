@@ -241,6 +241,18 @@
         },
         "6531f165e652351678f52f56133adea3": {
             "text": "[Hopplenker] 404-monitorering t\u00f8mt."
+        },
+        "d8f610c09db3e0e06ffc9f5088456c12": {
+            "text": "For \u00e5 gj\u00f8re ting enklere, vil du sannsynligvis eksportere dine data fra din gamle plattform \/ ditt gamle rammeverk i dette formatet.\\n**Merk:** Alle **verdier** vil bli renset i henhold til 'Wildcard rensing\"-innstillingen i [modulens konfigurajson](%s)."
+        },
+        "f73c7997fea49024b468674813d6034e": {
+            "text": "Dersom din siste import feilet, kan du alltids pr\u00f8ve importen p\u00e5 nytt. F\u00f8rst, v\u00e6r sikker p\u00e5 at jumplink-ene du importerte er slettet. Alternativt kan du bare fjerne avhukingen p\u00e5 de som du klarte \u00e5 importere f\u00f8rste gang."
+        },
+        "3862d62a24c288fb79510c6ac1f7326d": {
+            "text": "Under er de siste {$notFoundEntities->rowCount()} '404 ikke funnet'-treffene. For \u00e5 opprette en hopplenke for en, trykk p\u00e5 dens Foresp\u00f8r URI."
+        },
+        "274d0929545164f6db6d48a4c3a2cc61": {
+            "text": "Bruk kun bokstaver (a-z). Navn vil bli renset ved oppretting. Dette navnet er identifikatoren som blir brukt i kartlegging av wildcard."
         }
     }
 }
