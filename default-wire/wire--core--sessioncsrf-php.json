@@ -1,9 +1,0 @@
-{
-    "file": "wire\/core\/SessionCSRF.php",
-    "textdomain": "wire--core--sessioncsrf-php",
-    "translations": {
-        "f5456cee91779e33a9f38ddca5081710": {
-            "text": "Foresp\u00f8rselen ble avbrutt fordi den ser ut til \u00e5 v\u00e6re forfalsket."
-        }
-    }
-}

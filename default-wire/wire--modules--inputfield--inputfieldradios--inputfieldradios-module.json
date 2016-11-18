@@ -1,9 +1,0 @@
-{
-    "file": "wire\/modules\/Inputfield\/InputfieldRadios\/InputfieldRadios.module",
-    "textdomain": "wire--modules--inputfield--inputfieldradios--inputfieldradios-module",
-    "translations": {
-        "692fd08ceebbbf5818d492fae7ebe7db": {
-            "text": "Radioknapper for \u00e5 velge et enkelt element."
-        }
-    }
-}

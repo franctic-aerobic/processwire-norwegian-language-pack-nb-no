@@ -1,9 +1,0 @@
-{
-    "file": "wire\/core\/FileCompilerModule.php",
-    "textdomain": "wire--core--filecompilermodule-php",
-    "translations": {
-        "26ca6e7fb5ade62330c73e93dc083cab": {
-            "text": "Rekkef\u00f8lge som denne modulen kj\u00f8rer i relativt til andre FileCompiler-moduler. Lavere tall kj\u00f8rer f\u00f8rst."
-        }
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "file": "site\/modules\/FieldtypeRangeSlider\/InputfieldRangeSlider.module",
-    "textdomain": "site--modules--fieldtyperangeslider--inputfieldrangeslider-module",
-    "translations": {
-        "ce11f646d35606ce2d9ee1621863ef58": {
-            "text": "Enkel jQuery UI tallomr\u00e5develger som kan bli konfigurert."
-        }
-    }
-}
