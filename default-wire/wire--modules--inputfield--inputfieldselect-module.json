@@ -2,11 +2,14 @@
     "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
     "textdomain": "wire--modules--inputfield--inputfieldselect-module",
     "translations": {
-        "6b66a61fa66288a9a7ad6474d2e686ec": {
-            "text": "Standard verdi"
-        },
         "dae8ace18bdcbcc6ae5aece263e14fe8": {
             "text": "Valg"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Standard verdi"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Skriv inn valgene som skal kunne velges, et per linje."
         }
     }
 }

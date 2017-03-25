@@ -229,6 +229,12 @@
         },
         "d6b9987fabd38f232ada46d046aa4f88": {
             "text": "Standard handling som brukes n\u00e5r \"vis\"-fanen blir klikke p\u00e5 i sideredigering."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Det finnes ingen neste side som kan redigeres."
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Side avpublisert for feltet \"%s\" er p\u00e5krevd"
         }
     }
 }

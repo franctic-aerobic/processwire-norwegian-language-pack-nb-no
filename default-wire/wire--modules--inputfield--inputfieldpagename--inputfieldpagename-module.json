@@ -4,6 +4,9 @@
     "translations": {
         "152cfcb2150e04c8533d86e9d7642b11": {
             "text": "En kombinasjon av bokstaver (a-z), tall (0-9), bindestreker eller understreker (ingen mellomrom)."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
         }
     }
 }

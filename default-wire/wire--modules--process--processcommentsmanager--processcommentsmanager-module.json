@@ -1,5 +1,69 @@
 {
     "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
     "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
-    "translations": []
+    "translations": {
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Godkjent"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Venter"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "S\u00f8ppel"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "+"
+        },
+        "68c548ee5ab9808887460b7c74baac30": {
+            "text": "fjern filter"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "+"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Dato"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Stjerner"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Stemmer"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "per side"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Nullstill: Positive stemmer"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Nullstill: Negative stemmer"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Dato (ny\u2013gammel]"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Dato (gammel\u2013ny)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Stjerner (h\u00f8g\u2013lav)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Stjener (lav\u2013h\u00f8g)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Positive stemmer"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Negative stemmer"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Sorter:"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Alle"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Ingen \u00e5 vise"
+        }
+    }
 }

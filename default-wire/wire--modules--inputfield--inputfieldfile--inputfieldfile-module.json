@@ -73,6 +73,9 @@
         },
         "d7c8c85bf79bbe1b7188497c32c3b0ca": {
             "text": "Feilet"
+        },
+        "9c0e34e99b5acfb622d682dabefa5578": {
+            "text": "Beskrivelser er flerspr\u00e5klige som standard, dersom du har Language Support installert. Om du \u00f8nsker \u00e5 deaktivere flerspr\u00e5klige beskrivelser, kryss av i denne boksen."
         }
     }
 }

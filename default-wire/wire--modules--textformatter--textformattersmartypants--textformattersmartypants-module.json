@@ -1,5 +1,15 @@
 {
     "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
     "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
-    "translations": []
+    "translations": {
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Nei (standard)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Ja (noen)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Ja (alle)"
+        }
+    }
 }

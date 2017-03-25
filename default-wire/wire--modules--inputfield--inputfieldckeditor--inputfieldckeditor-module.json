@@ -100,6 +100,15 @@
         },
         "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
             "text": "ADVARSEL: Det er forel\u00f8pig ikke installert. Du b\u00f8r installere det f\u00f8r du aktiverer i linjen-modus."
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Teller er st\u00f8ttet for vanlige CKEditor-felter, men ikke for inline CKEditor-felter."
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Konverter div-klammer til avsnittklammer"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Fjern tomme avsnittklammer"
         }
     }
 }

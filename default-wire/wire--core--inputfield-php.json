@@ -20,9 +20,6 @@
         "3b57940d51a0ed7f2d5c49363114bd0e": {
             "text": "Skriv inn betingelsene for n\u00e5r feltet skal bli vist."
         },
-        "a785c32894aad6d7c1dc826a4bc0a4a3": {
-            "text": "Kolonnebredde (%d%%)"
-        },
         "0eb0b305235144ffe99e247b24200b09": {
             "text": "Feltets containers bredde i prosenter (10%-100%). Dersom den er plassert ved siden av andre felt med redusert bredde, vil kolonnene flyte."
         },
@@ -76,6 +73,9 @@
         },
         "c1d71aa80e02ee67489431d11e5f58a8": {
             "text": "P\u00e5krevd kun dersom"
+        },
+        "b26d2db211d5748ab5ca3f2b5124e63a": {
+            "text": "Kolonnebredde ($d%%)"
         }
     }
 }

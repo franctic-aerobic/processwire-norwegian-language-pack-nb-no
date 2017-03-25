@@ -25,6 +25,51 @@
         },
         "d8f9928df4675d892629c754932fad80": {
             "text": "Etikettfelt"
+        },
+        "db62b7d9ccb858fb53481683f5d1d813": {
+            "text": "Dette feltet m\u00e5 konfigureres f\u00f8r det kan bli brukt."
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Skriv inn titlene p\u00e5 elementene du \u00f8nsker \u00e5 legge til, en per linje. De vil bli opprettet og lagt til ditt utvalg n\u00e5r du lagrer siden."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Skriv inn tittelen p\u00e5 elementet du \u00f8nsker \u00e5 legge til. Det vil bli valgt n\u00e5r du lagrer siden."
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "Avpublisert side %1$s er ikke tillat i feltet \"%2$s\""
+        },
+        "1cc510dea04a978b3bb88514582eea6c": {
+            "text": "For \u00e5 tillate avpbuliserte sider, rediger feltet \"%s\" og se innstillingene i \"Avansert\"-fanen."
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Valgbare sider"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "Bruk minst en av valgene under for velge hvilke sider som skal v\u00e6re valgbare med dette feltet"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Foreldre"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Velg foreldresiden til sidene som skal v\u00e6re valgbare."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mal"
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "Valgfri PHP-kode"
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Eksempel: {parent.title} - {title}, {date}"
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "sorterbar"
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Tillat nye sider \u00e5 bli opprettet fra feltet?"
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "Innstillinger spesifikke til \u201c%s\u201d"
         }
     }
 }

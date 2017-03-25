@@ -1,5 +1,9 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldMarkup.module",
     "textdomain": "wire--modules--inputfield--inputfieldmarkup-module",
-    "translations": []
+    "translations": {
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Tekstformaterere"
+        }
+    }
 }

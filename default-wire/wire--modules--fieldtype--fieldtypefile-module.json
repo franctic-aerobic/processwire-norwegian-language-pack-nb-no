@@ -40,6 +40,21 @@
         },
         "2cb39a29b55cb3b4480c782dbe367518": {
             "text": "Felt som lagrer en eller flere filer"
+        },
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Felt \"%s\" er ikke klar til bruk og m\u00e5 bli konfigurert."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Innstillingene har ikke tr\u00e5dd i kraft."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Vennligst se gjennom innstillingene p\u00e5 denne siden og lagre en gang til (selv om du ikke har enret noe) for \u00e5 bekrefte at du aksepterer endringene."
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Skriv inn alle filetternavn som er tillatt av opplastingsfeltet. Bruk mellomrom til \u00e5 skille filetternavnene. Ingen punktum eller kommaer. Det skilles ikke mellom store og sm\u00e5 bokstaver."
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Velg verditypen du \u00f8nsker at feltet skal levere n\u00e5r det bli brukt med API-et fra front end-en av siden din."
         }
     }
 }

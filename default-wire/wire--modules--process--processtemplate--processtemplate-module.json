@@ -631,6 +631,18 @@
         },
         "e13c4cbb7f089450e12b10561001f9e1": {
             "text": "Om en bruker fors\u00f8ker \u00e5 f\u00e5 tilgang til en side som bruker denne malen, og ikke har tilgang til siden, hva skal gj\u00f8res?"
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Steng og legg til"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Deaktiver flerspr\u00e5kst\u00f8tte for denne malen?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Om avkrysset vil sider som bruker denne malen kun bruke standardspr\u00e5ket."
+        },
+        "abad59d4cf5691fd0506cb650dff0f5b": {
+            "text": "Om avkrysset vil ikke sider som bruker denne malen ha en 'innstillinger'-fane i redigeringsmodus."
         }
     }
 }
