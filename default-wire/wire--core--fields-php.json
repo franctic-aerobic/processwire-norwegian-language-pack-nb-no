@@ -8,11 +8,11 @@
         "68d1cb3da7a618bf1997d9d5149ae24a": {
             "text": "enkel-sp\u00f8rring"
         },
-        "0c6ba1befbcac7213ccc923d1ecf573a": {
-            "text": "Slettet felt \"%1$s\" data i %2$d rad(er) fra %3$d side(r)."
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Slettet felt \"%1$s\" data i %2$d rad(er) fra %3$d side(r) som bruker mal \"%4$s\"."
         },
-        "b9e9528a32781ceaefec638ec3bfa62e": {
-            "text": "Feil ved sletting av felt \"%1$s\" data, %2$d rad(er), %3$d side(r)."
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Feil ved sletting av felt \"%1$s\" data, %2$d rad(er), %3$d side(r) som bruker mal \"%4$s\"."
         }
     }
 }

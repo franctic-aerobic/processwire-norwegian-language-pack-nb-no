@@ -19,6 +19,18 @@
         },
         "d5a4c326398e96cdf97b6d4a3cc300c1": {
             "text": "Radioknapper"
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Gj\u00f8r dette feltet til en instans av den merkede modulen?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Viss avkrysset, vil feltverdien v\u00e6re en faktisk instans av den merkede modulen. Viss ikke avkrysset, vil feltverdien v\u00e6re en streng som inneholder klassenavnet til modulen."
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Modulklassenavn"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Inndatatype"
         }
     }
 }

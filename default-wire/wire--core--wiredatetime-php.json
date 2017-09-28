@@ -17,17 +17,8 @@
         "97bc592b27a9ada2d9a4bb418ed0ebed": {
             "text": "n\u00e5"
         },
-        "03c7c0ace395d80182db07ae2c30f034": {
-            "text": "s"
-        },
-        "6f8f57715090da2632453988d9a1501b": {
-            "text": "m"
-        },
         "adab7b701f23bb82014c8506d3dc784e": {
             "text": "t"
-        },
-        "8277e0910d750195b448797616e091ad": {
-            "text": "d"
         },
         "5d2bf8e6622cb88ca16a745dcf8153a0": {
             "text": "u"
@@ -58,9 +49,6 @@
         },
         "74459ca3cf85a81df90da95ff6e7a207": {
             "text": "sek"
-        },
-        "d8bd79cc131920d5de426f914d17405a": {
-            "text": "min"
         },
         "628b7db04235f228d40adc671413a8c8": {
             "text": "dag"
@@ -112,6 +100,18 @@
         },
         "73cdddd7730abfc13a55efb9f5685a3b": {
             "text": "timer"
+        },
+        "03c7c0ace395d80182db07ae2c30f034": {
+            "text": "="
+        },
+        "6f8f57715090da2632453988d9a1501b": {
+            "text": "="
+        },
+        "8277e0910d750195b448797616e091ad": {
+            "text": "="
+        },
+        "d8bd79cc131920d5de426f914d17405a": {
+            "text": "="
         }
     }
 }

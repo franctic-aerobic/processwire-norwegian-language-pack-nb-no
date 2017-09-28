@@ -35,9 +35,6 @@
         "a1ede0a9a3c447cb83c7b6598dc556ff": {
             "text": "Standard verdi (n\u00e5r tom)"
         },
-        "3a37a820d95c0f598d6ea38f34716c31": {
-            "text": "N\u00e5r avhuket vil feltet ogs\u00e5 ha et valg for merkelapper i tillegg til beskrivelsen."
-        },
         "2cb39a29b55cb3b4480c782dbe367518": {
             "text": "Felt som lagrer en eller flere filer"
         },
@@ -55,6 +52,18 @@
         },
         "f09906b55a7a66786de08cb25550a2c8": {
             "text": "Velg verditypen du \u00f8nsker at feltet skal levere n\u00e5r det bli brukt med API-et fra front end-en av siden din."
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Merkelapper deaktivert"
+        },
+        "2f3446ffcef315485017078a9ed7cc76": {
+            "text": "Forh\u00e5ndsdefinerte merkelapper"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Skriv inn merkelapper avskilt med mellomrom. Merkelapper kan inneholde bokstaver, tall, understreker eller bindestreker."
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "Typen felt som vil bli brukt til \u00e5 samle inndata."
         }
     }
 }

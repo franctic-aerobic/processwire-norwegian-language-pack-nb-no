@@ -4,6 +4,9 @@
     "translations": {
         "26ca6e7fb5ade62330c73e93dc083cab": {
             "text": "Rekkef\u00f8lge som denne modulen kj\u00f8rer i relativt til andre FileCompiler-moduler. Lavere tall kj\u00f8rer f\u00f8rst."
+        },
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Rekkef\u00f8lge p\u00e5 kj\u00f8retidsutf\u00f8ring"
         }
     }
 }

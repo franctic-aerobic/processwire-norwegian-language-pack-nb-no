@@ -3,10 +3,13 @@
     "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
     "translations": {
         "33568d5ff03072672cce95681df20964": {
-            "text": "Valginnstillinger"
+            "text": "="
         },
         "440494bea619acd17c0a19326d9030fd": {
             "text": "Felt som lagrer enkel og flervalginnstillinger."
+        },
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Konfigurert forh\u00e5ndsvalg ikke befolket siden verdien ikke alltid er p\u00e5krevd. Vennligst fiks feltkonfigurasjonen."
         }
     }
 }

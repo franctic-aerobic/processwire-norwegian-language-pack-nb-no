@@ -50,14 +50,26 @@
         "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
             "text": "Vennligst legg til felter i denne repeater-en fra \"detaljer\"-fanen."
         },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "La til feltet \"%1$s\" til Repeater \"%2$s\""
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Fjernet feltet \"%1$s\" fra Repeater \"%2$s\""
-        },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "Slettet %d gamle\/ubrukte repeater-element(er)"
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Bruk trekkspillmodus?"
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maks antall elementer"
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "MInste antall elementer"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Elementdybde"
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "La til feltet \"%1$s\" til \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Fjernet feltet \"%1$s\" fra \"%2$s\""
         }
     }
 }

@@ -22,6 +22,18 @@
         },
         "4aede3b538343c5323a0f900ca4fa255": {
             "text": "Motorprioritet"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Dette avgj\u00f8r hvilken rekkef\u00f8lge denne motoren er pr\u00f8vd i relatert til andre ImageSizerEngine-moduler."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "Til lavere nummeret er, til mer fordel gir du det."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Dersom du har andre ImageSizerEngine-moduler installert, v\u00e6r sikker p\u00e5 at ikke to av de har samme prioritet."
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "Middels"
         }
     }
 }
