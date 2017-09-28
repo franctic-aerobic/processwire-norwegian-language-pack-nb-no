@@ -1,7 +1,7 @@
 # ProcessWire-Norwegian-Language-Pack-nb-NO
 
 ## Version
-ProcessWire 3.0.76 master
+ProcessWire 3.0.76 dev
 
 ## Including translation for modules
 * FieldtypeMapMarker
