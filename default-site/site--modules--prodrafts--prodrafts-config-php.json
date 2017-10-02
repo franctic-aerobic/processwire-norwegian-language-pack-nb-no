@@ -116,17 +116,26 @@
         "1711af29bf4a8792f9594067084a2cc8": {
             "text": "Bruk \"kun oppdater\"-modusen om du legger merke til feil ved gjengivelsene n\u00e5r du bruker \"normal\" modus."
         },
-        "ad0a08b852567782365d348336b07681": {
-            "text": "(normal)"
-        },
         "eb892eeff1c971d5ae525c8e1df91e71": {
             "text": "(avslappet)"
         },
-        "4fa5a0e47ae0a3c52533eb2fc1592cc6": {
-            "text": "(normal)"
-        },
         "1d85e26e21454254d84dfc1ef62ced4e": {
             "text": "(kun oppdater)"
+        },
+        "b4cb06061ccb308a205813d7d4b6548e": {
+            "text": "Vennligst merk at autolagring ikke virker med repeater-felter. Om du bruker repeatere, vil du helst deaktivere autolagring."
+        },
+        "12f68675ac77fd9340903cc490071443": {
+            "text": "Aktiver repeater-st\u00f8tte?"
+        },
+        "bab956f96196bebabbfb693f920b1bc1": {
+            "text": "(eksperimentell)"
+        },
+        "ad0a08b852567782365d348336b07681": {
+            "text": "(vanlig)"
+        },
+        "4fa5a0e47ae0a3c52533eb2fc1592cc6": {
+            "text": "(vanlig)"
         }
     }
 }

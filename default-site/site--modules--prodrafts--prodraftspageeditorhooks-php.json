@@ -137,11 +137,83 @@
         "d9b12c58ff9f7bd15a4d6ee759801ae9": {
             "text": "Trykk for \u00e5 vise utkastinfo"
         },
-        "955ad3298db330b5ee880c2c9e6f23a0": {
-            "text": "Live"
-        },
         "90d55bef3569d9fa24a2a2fc9e53214c": {
             "text": "Forskjeller"
+        },
+        "bd6e10cd7cf1915215902c8fbe789128": {
+            "text": "Publisering har blitt forespurt"
+        },
+        "6f448b400c410fd1bc753a4d9e26277b": {
+            "text": "Utkastet har blitt avvist."
+        },
+        "fc77b15cca76f4c335b96c1823fba0d9": {
+            "text": "Om du ogs\u00e5 vil forlate utkastendringene, trykk Forlat-lenken."
+        },
+        "c0abdb6689fc9fc87c12cf9b6b57ccf2": {
+            "text": "Utkastet har blitt godkjent og publisert."
+        },
+        "85c2de2265c444e2f1dd7ac4dba685c7": {
+            "text": "Endringer til dette feltet publiseres straks"
+        },
+        "fc63dc372d15f3451659b389882925d8": {
+            "text": "Lagre + Oppdatert"
+        },
+        "6f7351657f795bc1357a53142b1184cc": {
+            "text": "Godkjenn"
+        },
+        "a9640e3926a7717dcbe2a7a387300f25": {
+            "text": "Brukeren \u201c%s\u201d har sendt inn dette utkastet for publisering\/godkjenning. Vennligst Godkjenn eller Avvis utkastet."
+        },
+        "d98ac12774fca5c3cbaffe276840c55f": {
+            "text": "Avvis"
+        },
+        "38cc16ae043548b963b6c0a7a7221099": {
+            "text": "Avvis publiseringsforesp\u00f8rselen, utkastendringer vil ikke bli slettet."
+        },
+        "63be09fd963c951f0b4c011244fdd92d": {
+            "text": "Avvis utkast"
+        },
+        "33a66dcb8cab2ff03b3e0f297b8cedde": {
+            "text": "Valgfrie merknader til utkastforfatteren"
+        },
+        "c021188b179baef0b8a848032e613fc1": {
+            "text": "Avvis + Slett utkast"
+        },
+        "8e8ff7916cb5465080e79e351e33dee7": {
+            "text": "Dette utkastet venter p\u00e5 godkjenning."
+        },
+        "855511fc552344635ad46a4246c0c5ec": {
+            "text": "Trekk godkjenningsforesp\u00f8rsel"
+        },
+        "919571b31c08455aa3628e72fe13bed1": {
+            "text": "Enkel avbryting av publiseringsforesp\u00f8rselen, ingenting vil bli slettet."
+        },
+        "5ab51659bd7d01b959fdffe749134684": {
+            "text": "Trekk + Slett utkast"
+        },
+        "d50d85a86bfa78a478ec926c21c4828b": {
+            "text": "Send til godkjenning"
+        },
+        "b9244b80cde86cfdfa050d1a3c5ccc70": {
+            "text": "Sender inn dette utkastet for godkjenning- og publiseringsforesp\u00f8rsel"
+        },
+        "48a0fb69457fd8eaeab49afbdf7a6afb": {
+            "text": "Foresp\u00f8r publisering\/godkjenning av utkast"
+        },
+        "fea5671075e409d056ad0020887a4607": {
+            "text": "Valgfri merknad som medf\u00f8lger foresp\u00f8rselen"
+        },
+        "b0e11d395078978d866a417700088d26": {
+            "text": "Den siste foresp\u00f8rselen for publisering\/godkjenning av utkast ble avvist av brukeren \u201c%s\u201d"
+        },
+        "05f1efa9e5e3527d545d77fc07b45c64": {
+            "text": "Brukeren \u201c%s\u201d har ogs\u00e5 lagt ved denne merknaden:"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Upublisert"
+        },
+        "955ad3298db330b5ee880c2c9e6f23a0": {
+            "text": "="
         }
     }
 }

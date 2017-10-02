@@ -11,9 +11,6 @@
         "79b1daa34fba59dba6db3a13184c8fb5": {
             "text": "Publiser merket"
         },
-        "fe7dd5778c2f36b57f1fc11a7c6d8d65": {
-            "text": "Avvis merket"
-        },
         "372d0743f73e3df7204be8b93122f023": {
             "text": "Det er for tiden ingen utkast."
         },
@@ -37,9 +34,6 @@
         },
         "7fc04983e283b5c4b5c21a9d669e57b9": {
             "text": "Det ser ikke ut til \u00e5 v\u00e6re endringer i dette utkastet enda."
-        },
-        "9c5bd8a1d001cd08228f4c3e78539439": {
-            "text": "Endringer til:"
         },
         "4a6337a3a792e0585db34ca5b06f28f2": {
             "text": "Publiser alle endringer"
@@ -98,12 +92,6 @@
         "0bdaf7dfcb2cfd4370a6592354ce24be": {
             "text": "Felt(er)"
         },
-        "c1a40756dc220688050e2afb539eb21d": {
-            "text": "%d ventende utkast"
-        },
-        "c93a00ce688d82301c942fff9c11d9af": {
-            "text": "%d ventende utkast"
-        },
         "a60e18051b6aace8aba03f01f2e4e0e5": {
             "text": "%d utkast"
         },
@@ -121,9 +109,6 @@
         },
         "db7fc2ab66c7c769e09b19baf78a0a9d": {
             "text": "Vis publisert versjon"
-        },
-        "a29bdd003ef6c0c34279807341f450f2": {
-            "text": "Pub"
         },
         "e15722a970d50c7f452d53d719d5638b": {
             "text": "Vis begge side-om-side"
@@ -148,6 +133,72 @@
         },
         "51a8e369fb4c6e22feb771f16958f71a": {
             "text": "Utkast \/ Publisert"
+        },
+        "eb687b46e8635c2b0a9febbc44ba0a30": {
+            "text": "Ny side"
+        },
+        "9723cd3b5d9fc14fe986e16351530a7a": {
+            "text": "Vis upublisert"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Vis"
+        },
+        "f0aca5cbde1138f254f6611d7c39fcf1": {
+            "text": "Godkjenn avhuket"
+        },
+        "7f1d9447348ea4307690b5d5cc97b704": {
+            "text": "Avvis avhuket"
+        },
+        "a48a71ff570db464937e630c39d3281b": {
+            "text": "Trekk avhuket"
+        },
+        "86e9092c5decccd2e17c22bef0fa3020": {
+            "text": "Forlat\/slett avhuket"
+        },
+        "7bc1662414480bcba372becf177ea290": {
+            "text": "Avvist utkast for side: %s"
+        },
+        "f0157433e4bc6940cee1c2c8c5e22481": {
+            "text": "Trekt utkast for side: %s"
+        },
+        "63433585a99c4e2777418066e61f863d": {
+            "text": "All endringer i utkastet vil bli slettet. Live-versjonen \/ publisert side vil ikke bli endret."
+        },
+        "c4f8856e249b26e0477ffb55c90ed884": {
+            "text": "Trekk\/avvist utkast?"
+        },
+        "af6f494646e6f61f95ee20695746e48e": {
+            "text": "Dette vil trekke\/avvises \"sendt inn til godkjenning\"-statusen til utkastet\/utkastene. Utkastinnholdet blir forbli som det er."
+        },
+        "c37495a5f36b45f6c80dd499f71a6e80": {
+            "text": "Alle utkast"
+        },
+        "af655888e3f493a8ab8bdcf91e8971b3": {
+            "text": "Avventer godkjenning"
+        },
+        "20ce8dc82ef19c49c34efe86fd389a42": {
+            "text": "Dine utkast"
+        },
+        "36c3b101822ac689f0b5a7ae2d9c3520": {
+            "text": "Sendt inn"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Foreldre"
+        },
+        "68d63f39afc41693271b3dc0334d46fc": {
+            "text": "%d utkast"
+        },
+        "5a237f8715ec97ac23da124720c1156a": {
+            "text": "%d utkast"
+        },
+        "1ad5ee4ac4a23089c90c8b250a525692": {
+            "text": "%d venter"
+        },
+        "ff2d29b435977002f082a51640158af4": {
+            "text": "%d dine"
+        },
+        "a29bdd003ef6c0c34279807341f450f2": {
+            "text": "="
         }
     }
 }
