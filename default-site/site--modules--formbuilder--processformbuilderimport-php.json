@@ -1,0 +1,39 @@
+{
+    "file": "site\/modules\/FormBuilder\/ProcessFormBuilderImport.php",
+    "textdomain": "site--modules--formbuilder--processformbuilderimport-php",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Type"
+        },
+        "a40cd434b16249d102d47da63b86d4f5": {
+            "text": "Forskjeller"
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Handling"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Verdi"
+        },
+        "7fd9c7c9c4bc9ad5e93b8dd91556856c": {
+            "text": "G\u00e5 tilbake til skjemaredigerer"
+        },
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "+"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Fjern"
+        },
+        "7f090bbab1cc7f9c08bf4e54d932d3c0": {
+            "text": "Modifiser"
+        },
+        "dfb0c566cd0aa3d5848eab6d0f383560": {
+            "text": "Nytt felt"
+        }
+    }
+}

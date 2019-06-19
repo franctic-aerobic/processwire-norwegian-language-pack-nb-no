@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/Process404Logger\/Process404Logger.module",
+    "textdomain": "site--modules--process404logger--process404logger-module",
+    "translations": {
+        "bef2be5a5e28018a5a1b6f0b0ce61354": {
+            "text": "Logger alle foresp\u00f8rsler som resulterer i en \"http error 404\"-feil."
+        },
+        "5e4e58e1c56d1fd9e7b2a9b4f64ddd2f": {
+            "text": "Logger IP-adresse"
+        },
+        "5d1b1611efa352b431a42b7c84e7fd1d": {
+            "text": "visk ut de 3 siste oktettene"
+        },
+        "edf155b9305d1ff5b7e770f88e28b4bd": {
+            "text": "visk ut de 2 siste oktettene"
+        },
+        "8258038323518c39be43d977ba4d4d1b": {
+            "text": "visk ut den siste oktetten"
+        }
+    }
+}

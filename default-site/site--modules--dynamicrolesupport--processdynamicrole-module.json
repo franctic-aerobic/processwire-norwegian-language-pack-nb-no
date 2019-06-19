@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/DynamicRoleSupport\/ProcessDynamicRole.module",
+    "textdomain": "site--modules--dynamicrolesupport--processdynamicrole-module",
+    "translations": {
+        "06a204b5d8332d56c74331e0ba1a0ebf": {
+            "text": "Legg til dynamisk rolle"
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(p\u00e5krevd)"
+        }
+    }
+}

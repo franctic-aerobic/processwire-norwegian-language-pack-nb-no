@@ -62,9 +62,6 @@
         "2edd37564fb8195d7217f4eab83a0a11": {
             "text": "Om aktivert, vil ProCache fors\u00f8ke \u00e5 gj\u00f8re n\u00f8dvendige oppdatering til din .htaccess-fil automatisk, som sparer deg fra \u00e5 m\u00e5tte gj\u00f8re det manuelt."
         },
-        "ae5b2e6b363847d20784ec4d3c34e016": {
-            "text": "I noen produksjonsmilj\u00f8er b\u00f8r du gj\u00f8re .htaccess-endringene manuelt for ekstra sikkerhet."
-        },
         "f3b662eb1448fc68375a1493d11feb3f": {
             "text": "ProCache aktivert?"
         },
@@ -232,6 +229,33 @@
         },
         "ddf6bc2fbb83da0d8f66f765a1888d1f": {
             "text": "%d JS-filer"
+        },
+        "f53d1cd25e03173ba9eaa4e493636769": {
+            "text": "(valgfri)"
+        },
+        "5795993ee6bce256a3cad576f7166810": {
+            "text": "Din .htaccess-fil krever en oppdatering (se Status-fanen)."
+        },
+        "8a6b4b9ebdb5c1e17b6d33c7ba533d12": {
+            "text": "Hvis du bruker dette alternativet, m\u00e5 du ha en sikkerhetskopi av .htaccess-filen din et sted hvis du m\u00e5 gjenopprette den av en eller annen grunn."
+        },
+        "6f5f98d107dd5c16a470ed9577ef3ecf": {
+            "text": "I produksjonsmilj\u00f8er anbefaler vi at du gj\u00f8r .htaccess-endringer manuelt for ekstra sikkerhet."
+        },
+        "def00947cb20d364b0ed7db2ac637980": {
+            "text": "Vertsnavn"
+        },
+        "d63d6fc56a4c74929a46489981ed1f92": {
+            "text": "Nullstill mellomlageret for undersider av lagret side"
+        },
+        "ded23dd7f737cff1949134d9aa71c604": {
+            "text": "Nullstill mellomlageret for foreldresidene til lagret side, unntatt hjemsiden"
+        },
+        "4da63e40ffdb22603e9cc48b28c5fc17": {
+            "text": "Nullstill mellomlageret for hjemsiden"
+        },
+        "3cd00b034e917958aa86047efc870ded": {
+            "text": "Nullstill mellomlageret for hele siden"
         }
     }
 }

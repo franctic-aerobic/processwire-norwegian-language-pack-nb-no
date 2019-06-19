@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/VersionControl\/ProcessVersionControl.module",
+    "textdomain": "site--modules--versioncontrol--processversioncontrol-module",
+    "translations": {
+        "8b6f6d305407f0b686f1974206ad415c": {
+            "text": "Datoformat"
+        }
+    }
+}

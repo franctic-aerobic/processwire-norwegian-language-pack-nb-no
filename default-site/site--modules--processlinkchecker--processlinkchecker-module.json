@@ -1,0 +1,96 @@
+{
+    "file": "site\/modules\/ProcessLinkChecker\/ProcessLinkChecker.module",
+    "textdomain": "site--modules--processlinkchecker--processlinkchecker-module",
+    "translations": {
+        "eb5b960f0536863b5dfffa3eef355201": {
+            "text": "Brutte lenker"
+        },
+        "08635c4f0bf6edbca5d2a8bd0da24a6c": {
+            "text": "Videresendinger"
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "="
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Sider"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "712bd563f4ec14a3e9f63cd426a8f515": {
+            "text": "Sist sjekket"
+        },
+        "72ef2b9b6965d078e3c7f95487a82d1c": {
+            "text": "Hopp over"
+        },
+        "0be8406951cdfda82f00f79328cf4efc": {
+            "text": "Kommentar"
+        },
+        "fe0f50c16a48d11723305f3e041812ae": {
+            "text": "Rediger kommentaren for denne lenken"
+        },
+        "76aab55dab084e5e993611a25d477d48": {
+            "text": "Fjern denne lenken fra listen"
+        },
+        "334c4a4c42fdb79d7ebc3e73b517e6f8": {
+            "text": "ingen"
+        },
+        "2938c7f7e560ed972f8a4f68e80ff834": {
+            "text": "Kontrollpanel"
+        },
+        "3b878279a04dc47d60932cb294d96259": {
+            "text": "Oversikt"
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Teller"
+        },
+        "37be07209f53a5d636d5c904ca9ae64c": {
+            "text": "Prosentvis"
+        },
+        "ad921d60486366258809553a3db49a4a": {
+            "text": "ukjent"
+        },
+        "2c872e677f8b5831f20a66c65e7f8966": {
+            "text": "Sjekk n\u00e5"
+        },
+        "bd908db5ccb07777ced8023dffc802f4": {
+            "text": "Lenker"
+        },
+        "2bf214b5df98ac829d6c81d6b05f9d9b": {
+            "text": "Standard: %s."
+        },
+        "8dd94ee3bf419a0ad2ca4be19ebf6922": {
+            "text": "Definer manuelt"
+        },
+        "881e9a305ce80960413ab7f227ef879e": {
+            "text": "Brukeragent"
+        },
+        "02d56cf7754ce16d7ce0193fbca7c90a": {
+            "text": "Mellomlagring"
+        },
+        "843fb9829788f7786f67a1535578775e": {
+            "text": "Maks alder for mellomlagring"
+        },
+        "e3b481d5297f475abc283227bedbd9b9": {
+            "text": "1 dag"
+        },
+        "705fbbd6e1667845569c00fd7523d343": {
+            "text": "1 uke"
+        },
+        "a9adf02fea7b0107b5a712a45e51076a": {
+            "text": "2 uker"
+        },
+        "1634e66b522edaa910370cc5581a47f1": {
+            "text": "1 m\u00e5ned"
+        },
+        "02bef0bfea49398571c9d4f6dd8455ef": {
+            "text": "T\u00f8m mellomlager n\u00e5"
+        },
+        "05873760754abaf740a4990d9491b668": {
+            "text": "Ingenting (ingen logging)"
+        },
+        "e163a6a64105b0b72037db71c30d6a8b": {
+            "text": "Verkt\u00f8y for automatisk lenkesjekking."
+        }
+    }
+}

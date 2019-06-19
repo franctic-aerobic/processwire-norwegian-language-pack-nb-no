@@ -5,26 +5,14 @@
         "8413b37dd71d0a0fe390fcb00729b99a": {
             "text": "Rammeverk: %s"
         },
-        "2b89c62e87e1bc4aef3766cad890dfe7": {
-            "text": "Innstillinger spesifikk for %s rammeverket."
-        },
         "2a95c1cbb0a147386159d47c8d5925fd": {
-            "text": "Unng\u00e5 automatisk fillasting"
-        },
-        "e8145a7ca1066bc778cd73ab7c83721b": {
-            "text": "Dersom siden din allerede laster disse tilleggene, s\u00e5 kan du gi skjemaet beskjed om \u00e5 ikke laste dem automatisk ved \u00e5 krysse av de aktuelle avkryssingsboksene under."
+            "text": "Forbig\u00e5 automatisk fillasting"
         },
         "6400dd1497539337f813e4b432bdc1b9": {
-            "text": "Ikke last %s rammerverket filer*"
+            "text": "Ikke last %s rammeverkfiler*"
         },
         "fc61a13b3c0919f4945782f5dafd388a": {
             "text": "Ikke last jQuery*"
-        },
-        "497d4cd80cdaff2649be49b0c3e15548": {
-            "text": "Ikke last jQuery UI n\u00e5r det ettersp\u00f8rs av inndatafelt*"
-        },
-        "7416243e06ac2754dd12e5149d510cb1": {
-            "text": "*Dette valget er kun anvendelig til innbyggingsmetodene C og D."
         }
     }
 }

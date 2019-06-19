@@ -1,5 +1,51 @@
 {
     "file": "site\/modules\/FieldtypeRepeaterMatrix\/config.php",
     "textdomain": "site--modules--fieldtyperepeatermatrix--config-php",
-    "translations": []
+    "translations": {
+        "ad0928168c93c4bcfb0945b417409e77": {
+            "text": "Repeater matrix-typer"
+        },
+        "84bbe32280c6482a19b56c966abf6faa": {
+            "text": "Legg til ny matrix-type"
+        },
+        "2389456d415ad15023df00dfb1638014": {
+            "text": "Importer matrix-type"
+        },
+        "f31bae3b95d4b92d5cc774f1f0f0e03d": {
+            "text": "Hoved\/index-fil."
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "+"
+        },
+        "cf3b07b4854fb1e17c056e1f37a39416": {
+            "text": "Elementfil(er):"
+        },
+        "bb9d0cd64fac7fd16b10bfa22c64bd34": {
+            "text": "Ny Matrix-type"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Legg til felt"
+        },
+        "69780420af54925eb88bfac97da30a51": {
+            "text": "Elementtitler"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Fil"
+        },
+        "2005fbf0594edc4033e49d2e1fddb32f": {
+            "text": "+"
+        },
+        "c900d3e459e4a6e87b601d950c86a3bb": {
+            "text": "Felter"
+        },
+        "c240588ef89cf786704d6ab17c8b4663": {
+            "text": "Ny Matrix-type (importer)"
+        }
+    }
 }

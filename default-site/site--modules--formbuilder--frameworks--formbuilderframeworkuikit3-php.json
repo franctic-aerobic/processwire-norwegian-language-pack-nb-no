@@ -1,5 +1,69 @@
 {
     "file": "site\/modules\/FormBuilder\/frameworks\/FormBuilderFrameworkUikit3.php",
     "textdomain": "site--modules--formbuilder--frameworks--formbuilderframeworkuikit3-php",
-    "translations": []
+    "translations": {
+        "f99fef17bc5abf05f96dce89a6ca727c": {
+            "text": "Velg fil #%d"
+        },
+        "cda5132955c43b0ac7ae8adfa27cc35e": {
+            "text": "Velg fil"
+        },
+        "a567624c910d6d6cf1a4c66c6747810d": {
+            "text": "Standard verdi:"
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standard"
+        },
+        "074de7e7c226d5c60f8af14c20725352": {
+            "text": "Prim\u00e6r"
+        },
+        "0c7d6cf19426e01dcfa32434828ed266": {
+            "text": "Sekund\u00e6r"
+        },
+        "990816b607ebf99b1415760965e4d564": {
+            "text": "Fare"
+        },
+        "f3746994ecfb960903da9a6bfd448c7d": {
+            "text": "="
+        },
+        "9ba530fe48656a170d4cba4c8133bffe": {
+            "text": "URL til Uikit-rammeverk"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Spesifiser en URL\/bane relativ til rotniv\u00e5et til ProcessWires installasjon."
+        },
+        "e5e3f60dc7c79b9478a70cf3c7297fa8": {
+            "text": "Eller spesifiser loaksjonen til din egen kopi."
+        },
+        "581aca62b8444e789a50a5b0f45687bd": {
+            "text": "Skjemastil"
+        },
+        "385329224ff04a30d12f39f671f1f3ee": {
+            "text": "Stablet (standard)"
+        },
+        "9e47c6d894b62711d150f3d864530a9f": {
+            "text": "Horisontal (2-kolonners)"
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Liten"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Stor"
+        },
+        "db75bf51e78682f0f7d2bb166e52197a": {
+            "text": "Type innsendingsknapp"
+        },
+        "41f582c676a068cd0c288b7be7ca83d0": {
+            "text": "St\u00f8rrelse p\u00e5 innsendingsknapp"
+        },
+        "d3d5b2e9cc26e07d9bf4ebfbab15fda4": {
+            "text": "Minst"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normal"
+        },
+        "b61d6d2952aa60f97b1947fe693c895c": {
+            "text": "Fullbreddeknapp?"
+        }
+    }
 }

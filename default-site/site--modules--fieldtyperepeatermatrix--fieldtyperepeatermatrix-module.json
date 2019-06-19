@@ -2,8 +2,11 @@
     "file": "site\/modules\/FieldtypeRepeaterMatrix\/FieldtypeRepeaterMatrix.module",
     "textdomain": "site--modules--fieldtyperepeatermatrix--fieldtyperepeatermatrix-module",
     "translations": {
+        "8274d9c6dfc6b60c4d50eb26e648e0b1": {
+            "text": "="
+        },
         "2a570dd8226f00dc2c27f6ff621a32b7": {
-            "text": "Kommersiell modul (Fieldtype) som gir flertypegjentagere."
+            "text": "Kommersiell modul (Fieldtype) som gir multitype-reapetere."
         }
     }
 }

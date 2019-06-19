@@ -1,0 +1,57 @@
+{
+    "file": "site\/modules\/WireMailSwiftMailer\/WireMailSwiftMailer.module",
+    "textdomain": "site--modules--wiremailswiftmailer--wiremailswiftmailer-module",
+    "translations": {
+        "1b3d576e277e3dd66e0fe4b719583815": {
+            "text": "En pr\u00f8vemelding ble akkurat sendt til %d mottaker(e)"
+        },
+        "73127ba010494f470f9734846ed8758e": {
+            "text": "Senders adresse"
+        },
+        "82ff9bcec63169ee7c8ee453e3a7ee90": {
+            "text": "Senders navn"
+        },
+        "2caa95a27a51b9c11ef569e129b79a54": {
+            "text": "SMTP-kryptering"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "a7bfd8847270913b15396380c3627d76": {
+            "text": "SMTP-brukernavn"
+        },
+        "3cffa2fabd5519beaf4c2fbd0610899b": {
+            "text": "SMTP-passord"
+        },
+        "f892d0f6074b220878a9307fd5c58a34": {
+            "text": "T\u00f8m passord?"
+        },
+        "adfd8457217a99457830c7e81add24f8": {
+            "text": "Sjekk tilkobling"
+        },
+        "4587fd75d9e4de39174667aba33686f1": {
+            "text": "Sjekk tilkobling n\u00e5"
+        },
+        "f576f92e3ee5523a1373ff6a21b2e0bc": {
+            "text": "Send en pr\u00f8vemelding"
+        },
+        "cacb2055cba6ce8440772937c1d48a5d": {
+            "text": "Meldingens emne"
+        },
+        "d6a6d393040fe53b20243c9abeee036b": {
+            "text": "Mangler p\u00e5krevd verdi"
+        },
+        "c99ab976136c7064879a76b27c4a540f": {
+            "text": "Meldingens innhold"
+        },
+        "c6db7b7b214aab26a9ab4ef91c214590": {
+            "text": "Mottaker(e)"
+        },
+        "c882dac20d0b678af29acd4ae36d668a": {
+            "text": "En eller flere mottakere. Flere mottakere m\u00e5 v\u00e6re atskilt med komma."
+        },
+        "90f0be6f9e355211480c186b47e051b1": {
+            "text": "Send pr\u00f8vemelding"
+        }
+    }
+}

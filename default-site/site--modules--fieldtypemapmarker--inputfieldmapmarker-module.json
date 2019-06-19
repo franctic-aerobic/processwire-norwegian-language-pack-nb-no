@@ -1,0 +1,45 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/InputfieldMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--inputfieldmapmarker-module",
+    "translations": {
+        "dd7bf230fde8d4836917806aff6a6b27": {
+            "text": "Adresse"
+        },
+        "3b0eb7469ba9c95f3a05c4cef1f6aac4": {
+            "text": "Breddegrad"
+        },
+        "9b4dabc50f0b8ccba1c8981831abdad8": {
+            "text": "Lengdegrad"
+        },
+        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
+            "text": "Forst\u00f8rrelse"
+        },
+        "3f84f2b44d5dfbb94a4ab73cafd77fdd": {
+            "text": "Standard adresse"
+        },
+        "d7189c434a4672bc4be1b077b527d40d": {
+            "text": "Standard breddegrad"
+        },
+        "7efdb53f0b5ed6031c52f4e72f52348a": {
+            "text": "Standard lengdegrad"
+        },
+        "f71c91b7da2496c2a02a5f18d0e985a6": {
+            "text": "Standard karttype"
+        },
+        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
+            "text": "="
+        },
+        "40be43aca96bb198df1d735293dc50b9": {
+            "text": "Veikar"
+        },
+        "c2b5e73361a4bf9d26a73413d0abee5e": {
+            "text": "Satelitt"
+        },
+        "4001defc085d5daf907c1a95fa0c38bd": {
+            "text": "Karth\u00f8yde (i piksler)"
+        },
+        "30c4513b55190a2875d6180b79798d20": {
+            "text": "Standard st\u00f8rrelse"
+        }
+    }
+}

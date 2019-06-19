@@ -2,32 +2,20 @@
     "file": "site\/modules\/FieldtypeTable\/FieldtypeTable.module",
     "textdomain": "site--modules--fieldtypetable--fieldtypetable-module",
     "translations": {
-        "64471a6e19542533245bfd1e272fddd0": {
-            "text": "Du kan ikke gi navnet \"%s\" til en kolonne fordi ordet er reservert"
-        },
-        "ac5c16b421c7fca55af2210edf2547be": {
-            "text": "Spesifiser et PW-felt som bruker CKEditor for \u00e5 bruke innstillingene i denne kolonnen. Merk at inline-modus alltid er brukt, uansett feltinnstillinger."
-        },
-        "8b97a0d900607c7c5dd0b0a3ad41bd7c": {
-            "text": "Bruk avansert innholdsfilter (ACF)? Sterkt anbefalt. (1=Ja, 0=Nei)"
-        },
-        "1bae3aa4a9c43d0602361c51c4aed4ab": {
-            "text": "Bruk HTML-renser? Sterkt anbefalt. (1=Ja, 0=Nei)"
-        },
         "5e98bb273930f27e2c433d728d56183b": {
             "text": "Antall kolonner"
         },
-        "7bce62284509b0a2e626ec43b8890e4c": {
-            "text": "Kolonne %d"
-        },
         "49ee3087348e8d44e1feda1917443987": {
-            "text": "Navn"
+            "text": "+"
         },
         "10fe73b5ebca7034551dd7e0a83c8cde": {
-            "text": "Kun sm\u00e5 bokstaver: _a-z0-9"
+            "text": "Bruk bare sm\u00e5 boksaver: _a-z0-9"
         },
         "b021df6aac4654c454f46c77646e745f": {
-            "text": "Merkelapp"
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
         },
         "992eda0d64a430fa5c7925d23ef9d0a3": {
             "text": "Vennligst velg"
@@ -44,59 +32,20 @@
         "99e4c19398ff323b1f7d851dbee48402": {
             "text": "Valg (1 per linje)"
         },
-        "ecd6f47940a93e1fb12de80f2e658add": {
-            "text": "Valgfri: For \u00e5 spesifisere separate verdier og merkelapper, spesifiser **verdi=merkelapp** p\u00e5 linjen."
-        },
-        "385741feb340d540ab12b17fb3ddd03a": {
-            "text": "Hvilke sider skal kunne velges?"
-        },
         "f4f70727dc34561dfde1a3c529b6205c": {
-            "text": "Innstillinger"
+            "text": "+"
         },
         "3e54d7d60497f5bc4f1f04966baf81d9": {
             "text": "Bekreft endringer?"
         },
         "93cba07454f06a4a960172bbd6e2a435": {
-            "text": "Ja"
+            "text": "+"
         },
         "bafd7322c6e97d25b6299b5d6fe8920b": {
-            "text": "Nei"
+            "text": "+"
         },
-        "b416aba7067608c1cc6b8c37ef3753a2": {
-            "text": "Gi kolonne nytt navn"
-        },
-        "fc79d6220e08aa79bbd8d5fd02fec884": {
-            "text": "Kolonnedefinisjoner"
-        },
-        "0a7034c424570912c8da58033859c83c": {
-            "text": "Alternativ merkelapp for \"Legg til rad\"-lenken"
-        },
-        "2a9a73daf37df8e07a532a0a56fb9566": {
-            "text": "Om feltet er tomt, vil teksten \"Legg til rad\" bli brukt."
-        },
-        "9bc54602186c6b5ba99545c2ecd194eb": {
-            "text": "Plassholdertekst for \u00e5 vise n\u00e5r ingen verdi er definert"
-        },
-        "a82ab9251b2775cf9c90fc1e9586d7a4": {
-            "text": "Dataformat til bruk for inndata ved redigering av siden."
-        },
-        "f9f31f40733c4cd1012e3539af40d382": {
-            "text": "Datoformat til bruk for utdata."
-        },
-        "0910b83776e397a72da23db35a7089d7": {
-            "text": "Tidsformat til bruk for inndata ved redigering av siden."
-        },
-        "c7d281a94db13a349f171c08c37e3cde": {
-            "text": "Tidsformat til bruk for utdata."
-        },
-        "e42c99808181448716bfed10e9d41996": {
-            "text": "**Vennligst merk:** \u00c5 bruke CKEditor i et tabellfelt krever ProcessWire 2.6.4 eller nyere."
-        },
-        "b6c5f85fc8a92fb55beb8be956eec88d": {
-            "text": "Innstillinger og handlinger"
-        },
-        "ce85ad558fd53bf7ce2a30b589591ee3": {
-            "text": "Tillat sletting av alle rader p\u00e5 en gang?"
+        "23c75d86e1722469fb9ca1f910cfbd31": {
+            "text": "="
         }
     }
 }

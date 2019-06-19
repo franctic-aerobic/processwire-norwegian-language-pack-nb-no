@@ -166,6 +166,33 @@
         },
         "3c8fdd82f288c514c6a525bbbcc79d70": {
             "text": "Lagret lister-konfigurasjon"
+        },
+        "274e80dfd556ff6bbf75048e3ae950df": {
+            "text": "Ja: Noen kolonner kan redigeres (du kan velge hvilke)"
+        },
+        "8a1051e1b85311d97fad491c8c74fca9": {
+            "text": "Ja: Alle kolonner med st\u00f8ttede felttyper kan redigeres*"
+        },
+        "2107e380381f58518323112cad1a3539": {
+            "text": "Nei: Redigering i Lister er deaktivert"
+        },
+        "76c5afcd9b936c16124e6ff89f3396fd": {
+            "text": "*Felttyper kan bli konfigurert i modulinnstillingene til ListerPro."
+        },
+        "dba0675971f3a71e50f429ca4d6c3a87": {
+            "text": "Velg hvilke kolonner som skal kunne redigeres i Lister"
+        },
+        "424928e30a0199bd48ed4c625ecc9fc3": {
+            "text": "Hvilken FORELDRE skal de nye sidene bli lagt til?"
+        },
+        "0c4f6feac9e8f649f2c31ae114e80cbd": {
+            "text": "La st\u00e5 tom for \u00e5 gj\u00f8re proposjonal til h\u00f8yden."
+        },
+        "2d436b29d53f347194cc98bad3ae9dfd": {
+            "text": "La st\u00e5 tom for \u00e5 gj\u00f8re proposjonal til bredden."
+        },
+        "2ae845095d1779256e820f5a73cb0785": {
+            "text": "Vis kun f\u00f8rste bilde n\u00e5r det er flere?"
         }
     }
 }

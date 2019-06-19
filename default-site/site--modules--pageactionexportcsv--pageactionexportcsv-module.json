@@ -8,12 +8,6 @@
         "ac70412e939d72a9234cdebb1af5867b": {
             "text": "Sti"
         },
-        "e6b391a8d2c4d45902a23a8b6585703d": {
-            "text": "URL"
-        },
-        "ec53a8c4f07baed5d8825072c89799be": {
-            "text": "Status"
-        },
         "ba989292c988a2d8cc2131b51e13de72": {
             "text": "Dato opprettet"
         },
@@ -65,9 +59,6 @@
         "4994a8ffeba4ac3140beb89e8d41f174": {
             "text": "Spr\u00e5k"
         },
-        "a45da96d0bf6575970f2d27af22be28a": {
-            "text": "System"
-        },
         "faa679d88c34c5bba8b3968559d9d25d": {
             "text": "Eksporter filer"
         },
@@ -76,6 +67,21 @@
         },
         "0a12856689066362827afac4fe78cdd4": {
             "text": "Hver linje b\u00f8r innholde: \"lister_name=field1,field2,field3\" for \u00e5 tjene som standard. Ingen grunn til \u00e5 sette det her, ettersom det automatisk vil bli satt n\u00e5r handlingen kj\u00f8res."
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "="
+        },
+        "a45da96d0bf6575970f2d27af22be28a": {
+            "text": "="
         }
     }
 }

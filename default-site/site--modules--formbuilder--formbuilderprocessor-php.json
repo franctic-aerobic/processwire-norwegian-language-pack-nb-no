@@ -2,26 +2,17 @@
     "file": "site\/modules\/FormBuilder\/FormBuilderProcessor.php",
     "textdomain": "site--modules--formbuilder--formbuilderprocessor-php",
     "translations": {
-        "ee4fea90aebd53a6ff5271fc062d4e88": {
-            "text": "Dette skjemaet er ikke tilgjengelige p\u00e5 tilgangsniv\u00e5et ditt."
-        },
-        "15c25de1b9b155a580ecae82d211d055": {
-            "text": "Dette skjemaet er allerede sendt inn."
-        },
-        "b4c4d5a034747efdad4a5849002b7b47": {
-            "text": "Innsendingen er ikke gyldig"
-        },
         "a183e28c962d34205271a10a8a5e1639": {
-            "text": "Feil svar"
+            "text": "Uriktig svar"
         },
-        "ed8687d3fa857268e4096eba0fed9fe2": {
-            "text": "S\u00f8ppelfilteret har blitt utl\u00f8st"
+        "cc3313532dc868076c17aab10ce2b7d8": {
+            "text": "Send kopi til URL"
         },
-        "466f7cd8bfe1fd6da97efb882d74e688": {
-            "text": "Skjemamarkering eksportert:"
+        "caced84394099945221c594328e89fa5": {
+            "text": "Send til sider"
         },
-        "d2f39341cab7a069399f9464e30f5178": {
-            "text": "Du kan stenge dette vinduet."
+        "ed83e342929e463706236c4750cbc587": {
+            "text": "Send kun til ekstern URL"
         }
     }
 }

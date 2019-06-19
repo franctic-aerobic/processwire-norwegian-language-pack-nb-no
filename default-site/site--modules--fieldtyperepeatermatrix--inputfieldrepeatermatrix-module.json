@@ -2,14 +2,35 @@
     "file": "site\/modules\/FieldtypeRepeaterMatrix\/InputfieldRepeaterMatrix.module",
     "textdomain": "site--modules--fieldtyperepeatermatrix--inputfieldrepeatermatrix-module",
     "translations": {
+        "403225050fe4236c29ce58cd08d3ddc2": {
+            "text": "Ingen\/udefinert"
+        },
         "7264d8c26ac9671a31cd3eb3ddd4a447": {
-            "text": "Dette punktet vil bli mulig \u00e5 redigere etter at du lagrer."
+            "text": "Dette elementet vil kunne redigeres etter at du lagrer."
         },
         "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "Ny"
+            "text": "+"
+        },
+        "592003b4824729ff8574a1593b801e70": {
+            "text": "Viser felter for alle typer"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "9f2f2be3b16c11b1389f17d7013e23c6": {
+            "text": "Matrix-typer \u00e5 tillate for \u00e5 legge inn som repeater-elementer"
+        },
+        "73849caa1e010a1227198289b2fa28ae": {
+            "text": "Dette gj\u00f8r at du kan vise noen typer og ikke andre. Dette er f\u00f8rst og fremst nyttig n\u00e5r du angir konteksten til forskjellige maler."
+        },
+        "d5e84d87daab8b28d602fe4c1b1e085c": {
+            "text": "Dersom ingen er valgt vil alle v\u00e6re tillatt."
+        },
+        "8c4e27a13a5de9ac740b3de55e178335": {
+            "text": "="
         },
         "6b81cb8c6dada26bf6a4690dd629898f": {
-            "text": "Kommersiell modul (Inputfield) som gir flertypegjentagere."
+            "text": "Kommersiell modul (Inputfield) som gir multitype-repeatere."
         }
     }
 }

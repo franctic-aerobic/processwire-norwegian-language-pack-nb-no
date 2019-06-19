@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/FieldtypeFields\/FieldtypeFields.module",
+    "textdomain": "site--modules--fieldtypefields--fieldtypefields-module",
+    "translations": {
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtrer etter type"
+        }
+    }
+}

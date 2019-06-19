@@ -1,0 +1,57 @@
+{
+    "file": "site\/modules\/ProfilerPro\/ProcessProfilerPro.module",
+    "textdomain": "site--modules--profilerpro--processprofilerpro-module",
+    "translations": {
+        "fa535ffb25e1fd20341652f9be21e06e": {
+            "text": "Konfig"
+        },
+        "5c0c148daa2c67922abe6018b87a759f": {
+            "text": "Gj.snitt"
+        },
+        "96b0141273eabab320119c467cdcaf17": {
+            "text": "="
+        },
+        "d55b30607c2a9a2616347d6edb789f6b": {
+            "text": "Sist"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Rask"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Sakte"
+        },
+        "03ab340b3f99e03cff9e84314ead38c0": {
+            "text": "Ant"
+        },
+        "38c50b731f70abc42c8baa3e7399b413": {
+            "text": "Side"
+        },
+        "ac71d8452c267207bcf9f1c93c6419e8": {
+            "text": "Nyest"
+        },
+        "610652dd074a21b8835a15442d4b530f": {
+            "text": "Gjennomsnittlig tid"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Oppdater"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "697fa871b4d0a98dfd1a1009f07f3f0e": {
+            "text": "(hjem)"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "f9ae5e5c44e59f94680af569879f704a": {
+            "text": "Alle"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "+"
+        }
+    }
+}

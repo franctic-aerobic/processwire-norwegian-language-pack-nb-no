@@ -1,5 +1,9 @@
 {
     "file": "site\/modules\/TextformatterTextBlocks\/TextformatterTextBlocks.module",
     "textdomain": "site--modules--textformattertextblocks--textformattertextblocks-module",
-    "translations": []
+    "translations": {
+        "8e205067d554e732195f2249a48e1df2": {
+            "text": "="
+        }
+    }
 }

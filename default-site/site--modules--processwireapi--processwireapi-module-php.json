@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProcessWireAPI\/ProcessWireAPI.module.php",
+    "textdomain": "site--modules--processwireapi--processwireapi-module-php",
+    "translations": {
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "+"
+        },
+        "ff7c0fcd6a31e735a61c001f75426961": {
+            "text": "Eksempeler"
+        }
+    }
+}

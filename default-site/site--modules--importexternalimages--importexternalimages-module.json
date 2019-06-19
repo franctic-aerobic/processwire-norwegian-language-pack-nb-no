@@ -1,0 +1,39 @@
+{
+    "file": "site\/modules\/ImportExternalImages\/ImportExternalImages.module",
+    "textdomain": "site--modules--importexternalimages--importexternalimages-module",
+    "translations": {
+        "49cc8e6220245b65cd7d20fc6ccc74f5": {
+            "text": "Instruksjoner"
+        },
+        "d77150358633e62f730ca5f527c6a55f": {
+            "text": "Aktiverte maler"
+        },
+        "da4330e85d78c15e6590976c18ce3fd1": {
+            "text": "Bildefelter"
+        },
+        "f1265b750a3f36804e30e9dfeda0664e": {
+            "text": "Aktiverte felter"
+        },
+        "f06a48cee163a00c60301ffa61de6228": {
+            "text": "Det finnes ingen tilgjengelige bildefelter"
+        },
+        "eb92f765a6c1b60c927b7eef34a1bf31": {
+            "text": "Tekstomr\u00e5defelt"
+        },
+        "f2ace52ad983c307b5c7aea49d65e91f": {
+            "text": "Velg feltet for \u00e5 skanne etter eksterne URL-er."
+        },
+        "18e72e4758484508bca1e2f16bb887eb": {
+            "text": "Tekstomr\u00e5defelter"
+        },
+        "f2a16bee42e666f6f6644486f263cfe3": {
+            "text": "Det finnes ingen tilgjengelige tekstomr\u00e5defelter \u00e5 s\u00f8ke gjennom."
+        },
+        "ff778951d20bafbef31597b6f7d5d385": {
+            "text": "URL-felt"
+        },
+        "b881c60329675a0d2d056ec2cb4e1268": {
+            "text": "URL-felter"
+        }
+    }
+}

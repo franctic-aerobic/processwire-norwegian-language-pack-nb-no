@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/ProMailer\/promailer-subscribe.php",
+    "textdomain": "site--modules--promailer--promailer-subscribe-php",
+    "translations": {
+        "88a78441abedc5c2bb88477afd2b52ca": {
+            "text": "{list} - Vennligst bekreft din p\u00e5melding"
+        },
+        "5a950b5a781b0e2fddcf28707cebb41e": {
+            "text": "Bekreft p\u00e5melding"
+        },
+        "038538e1d797d51a4b8157b5f607bba8": {
+            "text": "E-postadresse \u00e5 melde p\u00e5"
+        },
+        "7328fddefd53de471baeb6e2b764f78a": {
+            "text": "e-post@domene.no"
+        },
+        "b26917587d98330d93f87808fc9d7267": {
+            "text": "Abonner"
+        },
+        "7de48fb022a07e28059a898cae7f6bd5": {
+            "text": "Listen er stengt"
+        },
+        "dc078c67049e0c8bcf1183d65cd63685": {
+            "text": "Bekreft avmelding"
+        }
+    }
+}

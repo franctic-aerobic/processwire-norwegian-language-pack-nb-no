@@ -1,5 +1,18 @@
 {
     "file": "site\/modules\/FieldtypeFunctional\/config-field.php",
     "textdomain": "site--modules--fieldtypefunctional--config-field-php",
-    "translations": []
+    "translations": {
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Filer"
+        },
+        "335122df40d56089647bc4ddcd8d2a64": {
+            "text": "Filmodus"
+        },
+        "dfe58aabcf1fb796966d2f7253436116": {
+            "text": "Malfil til siden som blir sett"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Rader"
+        }
+    }
 }

@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/HannaCodeDialog\/HannaCodeDialog.module",
+    "textdomain": "site--modules--hannacodedialog--hannacodedialog-module",
+    "translations": {
+        "ada7c4e956e0bcfd49da729497ee818f": {
+            "text": "="
+        },
+        "76c09f03e7f513c2bc047f487b66917d": {
+            "text": "Dialogbredde"
+        },
+        "110233ece6bd3a395d8d7842e503ebf5": {
+            "text": "Dialogh\u00f8yde"
+        },
+        "57f5764d77c8f74e601a51375d348f95": {
+            "text": "Sett inn Hanna-klamme"
+        },
+        "684d4699013d8e10f01951e968687b77": {
+            "text": "Ekskluder Hanna-klamme"
+        }
+    }
+}

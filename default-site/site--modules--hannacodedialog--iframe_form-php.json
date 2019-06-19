@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/HannaCodeDialog\/iframe_form.php",
+    "textdomain": "site--modules--hannacodedialog--iframe_form-php",
+    "translations": {
+        "c33591abb8ebc9ef447467f80f25e0c7": {
+            "text": "Ugyldig klamme: Ingen Hanna-klamme med dette navnet finnes."
+        },
+        "b8f5c61c2dd9a6026cb46947d436eb8f": {
+            "text": "Denne klammen har ingen redigeringbare attributter."
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/LoginPersist\/LoginPersist.module",
+    "textdomain": "site--modules--loginpersist--loginpersist-module",
+    "translations": {
+        "086247a9b57fde6eefee2a0c4752242d": {
+            "text": "Automatisk"
+        },
+        "1922e4e6cb5cbe0a82abee357833f236": {
+            "text": "Informasjonskapselnavn"
+        },
+        "f1f6d61db97283643e4e439811f898a8": {
+            "text": "Informasjonskapsellengde"
+        },
+        "9866ddb45fc22a10c110b8e273a8d456": {
+            "text": "Gyldige roller"
+        }
+    }
+}

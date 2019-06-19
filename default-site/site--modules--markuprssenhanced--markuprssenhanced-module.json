@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/MarkupRSSEnhanced\/MarkupRSSEnhanced.module",
+    "textdomain": "site--modules--markuprssenhanced--markuprssenhanced-module",
+    "translations": {
+        "a82be0f551b8708bc08eb33cd9ded0cf": {
+            "text": "Informasjon"
+        },
+        "dfb1645a62c07534d5efd2917700092b": {
+            "text": "Standard str\u00f8mtittel"
+        },
+        "42ee8a946cbe4917ced29ee828fd36ee": {
+            "text": "Standard str\u00f8m-URL"
+        },
+        "a9ec32d1b4466725bf7105111d46d1b4": {
+            "text": "Standard str\u00f8mbeskrivelse"
+        },
+        "a23430579da240077ba3f2e7da2ad88c": {
+            "text": "Et element representerer en side"
+        },
+        "a89a67bcd4cb6ac8a4e4cf92ab9b0a4a": {
+            "text": "Standard lenke til CSS-stilsett"
+        }
+    }
+}

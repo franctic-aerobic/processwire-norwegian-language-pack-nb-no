@@ -1,5 +1,21 @@
 {
     "file": "site\/modules\/FieldtypeMultiplier\/InputfieldMultiplier.module",
     "textdomain": "site--modules--fieldtypemultiplier--inputfieldmultiplier-module",
-    "translations": []
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "+"
+        },
+        "af54a10fba4e0259f472eb5bae8aad53": {
+            "text": "Bruk sortering?"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "778257bfe6507e5970adc37bc693abd5": {
+            "text": "Bruk s\u00f8ppelkurv?"
+        },
+        "97f29d293dad57882868a1d4d21f63ea": {
+            "text": "="
+        }
+    }
 }

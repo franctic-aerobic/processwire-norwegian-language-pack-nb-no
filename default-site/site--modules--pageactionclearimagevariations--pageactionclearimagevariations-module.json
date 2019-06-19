@@ -1,0 +1,48 @@
+{
+    "file": "site\/modules\/PageActionClearImageVariations\/PageActionClearImageVariations.module",
+    "textdomain": "site--modules--pageactionclearimagevariations--pageactionclearimagevariations-module",
+    "translations": {
+        "489bb2598636c2562fa89d66894bd4d7": {
+            "text": "Matchet: %s"
+        },
+        "441502a7afbbb1570b29776d9b084ff2": {
+            "text": "Slettet: %s"
+        },
+        "9afdd9dba3043dafc3f094421ba0b921": {
+            "text": "T\u00f8m bildevariasjoner"
+        },
+        "a19962591460e0f97c359da0a78b6a20": {
+            "text": "Bildefelt"
+        },
+        "95ff7dcabe891604b9911ddb2786f622": {
+            "text": "Minstebredde"
+        },
+        "db00a95a0a4b5c1d40e04aa5ecf42542": {
+            "text": "Minsteh\u00f8yde"
+        },
+        "614a998c745fcc3009bf6c6daf18562e": {
+            "text": "Maksbredde"
+        },
+        "d3c7d075cfb70ed08d062facb1a056e8": {
+            "text": "Maksh\u00f8yde"
+        },
+        "6f30789bfabefcc59c1180b1d494decd": {
+            "text": "M\u00e5 ha suffiks"
+        },
+        "43ea27d22756b54100e6018f0d8481b8": {
+            "text": "M\u00e5 IKKE ha suffisk"
+        },
+        "65297af610eaf7b644fa1200d62fe5f6": {
+            "text": "Filnavn matcher tekst"
+        },
+        "08d2edcc0dd2a431cb2aee331b1b6b1b": {
+            "text": "Filnavn matcher IKKE tekst"
+        },
+        "4c685e46da83afece382f0be5391b778": {
+            "text": "Testrunde? (ikke slett, bare vis hva som ville ha blitt slettet)"
+        },
+        "e5106778bfccb677f908a0fc40a5f11a": {
+            "text": "Merk at suffikset \"is\" er brukt for variasjonen laget for plassering i rike tekstfelter."
+        }
+    }
+}

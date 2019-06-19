@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/ProMailer\/ProMailerSubscribers.php",
+    "textdomain": "site--modules--promailer--promailersubscribers-php",
+    "translations": {
+        "c7f57d34fd0d4765dd31fd0df7bcf99d": {
+            "text": "e-post (a-z)"
+        },
+        "d635b420a8e17822689ec8e48b703719": {
+            "text": "e-post (z-a)"
+        },
+        "bb26b9bc7ae002f01d94d077a9dce13c": {
+            "text": "minst sendt"
+        },
+        "81a687358c14b17d98ea932e651bbf0d": {
+            "text": "mest sendt"
+        }
+    }
+}

@@ -11,12 +11,6 @@
         "e73fee7831d46c9dc6ae34e0c8e7ac75": {
             "text": "adresse = Postadresse"
         },
-        "8b53962c5b78c6b84e8523072d509bef": {
-            "text": "publikasjoner = Publikasjonsliste = Skriv inn publikasjonstitler = En per linje"
-        },
-        "961837c563fee25292bb8277397202fb": {
-            "text": "by = By = Byen hvor forfatteren bor = 50%"
-        },
         "5cbe34c4dad1a8fd35826c801735c98b": {
             "text": "fylke = Fylke = Spesifiser en 3-bokstavers forkortelse = 25%"
         },
@@ -37,6 +31,18 @@
         },
         "f81db4bffe9c202998ce993afac77c6c": {
             "text": "Innstillinger for \"%s\"-type"
+        },
+        "c6a246713058c3351cee444c854cdb95": {
+            "text": "Avansert:"
+        },
+        "b1cf7113a55676df854527c921a3a2dd": {
+            "text": "by* = By = Byen hvor forfatteren lever (p\u00e5krevd) = 50%"
+        },
+        "84282e1c98cb7d4e7fcc3abd76b41603": {
+            "text": "publikasjoner = Publikasjonsliste = Skriv inn publikasjonstittel = En per linje = if(template=forfatter)"
+        },
+        "c184a615035da08a246bec921bd72aad": {
+            "text": "="
         }
     }
 }

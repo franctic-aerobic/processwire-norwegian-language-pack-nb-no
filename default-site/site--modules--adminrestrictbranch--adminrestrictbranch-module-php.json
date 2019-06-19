@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/AdminRestrictBranch\/AdminRestrictBranch.module.php",
+    "textdomain": "site--modules--adminrestrictbranch--adminrestrictbranch-module-php",
+    "translations": {
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "c1228dde877833893394a57c585e90e4": {
+            "text": "Rollenavn"
+        },
+        "0c9763f8843f4132396e0f60baf4e841": {
+            "text": "Hele sidetreet"
+        },
+        "4abef6b2c620dbe54335e865391bfafb": {
+            "text": "Kun redigering"
+        }
+    }
+}

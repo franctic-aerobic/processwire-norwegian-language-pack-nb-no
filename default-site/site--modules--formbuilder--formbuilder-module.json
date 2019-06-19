@@ -2,8 +2,11 @@
     "file": "site\/modules\/FormBuilder\/FormBuilder.module",
     "textdomain": "site--modules--formbuilder--formbuilder-module",
     "translations": {
+        "4efdba1c6ba01cbc41008edbe8f8ef59": {
+            "text": "Ikke i stand til \u00e5 finne form-builder-siden"
+        },
         "73abdd8b426241991e87b4b83e69828a": {
-            "text": "Skjema ble ikke funnet"
+            "text": "Skjema ikke funnet"
         }
     }
 }

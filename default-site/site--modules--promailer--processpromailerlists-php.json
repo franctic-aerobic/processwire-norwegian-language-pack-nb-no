@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProMailer\/ProcessProMailerLists.php",
+    "textdomain": "site--modules--promailer--processpromailerlists-php",
+    "translations": {
+        "b3b6d19917be7fe1c74516158498ba0a": {
+            "text": "Legg til ny liste"
+        },
+        "2ffa830c5a3faf7a8e0a93f481db484f": {
+            "text": "Skriv inn tittel p\u00e5 ny liste"
+        },
+        "953dd1a47bad0bf749774be04ff5147d": {
+            "text": "Slett liste"
+        },
+        "d61cad6a1d87f67768843b24ee8ad124": {
+            "text": "Dette vil slette listen og alle abonnentene i den!"
+        },
+        "8a3ae9717c8ec9b10cc544cefdb992a6": {
+            "text": "Er du sikker p\u00e5 at du vil slette listen? (huk av for \u00e5 bekrefte)"
+        }
+    }
+}

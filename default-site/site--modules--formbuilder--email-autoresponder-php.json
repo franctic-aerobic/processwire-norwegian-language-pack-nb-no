@@ -3,10 +3,10 @@
     "textdomain": "site--modules--formbuilder--email-autoresponder-php",
     "translations": {
         "f952de8a83e4c750bb2a0cc0e304dc32": {
-            "text": "Takk for skjemainnsendingen. Dette er et automatisk svar for \u00e5 informere deg om at innsendingen ble mottatt. Under er en oppsummering av det du sendte inn."
+            "text": "Takk for innsendingen. Dette er et automatisk svar for \u00e5 la deg vite at innsendingen din ble mottatt. Under er en oppsummering av det du har sendt inn."
         },
         "855a7e604dbce7648c7f323254502487": {
-            "text": "Sendt med ProcessWire Form Builder"
+            "text": "Sendt av ProcessWire Form Builder"
         }
     }
 }

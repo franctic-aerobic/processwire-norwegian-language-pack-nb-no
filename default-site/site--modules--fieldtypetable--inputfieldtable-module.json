@@ -2,35 +2,17 @@
     "file": "site\/modules\/FieldtypeTable\/InputfieldTable.module",
     "textdomain": "site--modules--fieldtypetable--inputfieldtable-module",
     "translations": {
-        "03e0c5bbd5488f1e5ec282529dac9635": {
-            "text": "Legg til rad"
-        },
-        "23c75d86e1722469fb9ca1f910cfbd31": {
-            "text": "ProFields: Tabell"
-        },
-        "279cbe1e39f08e69e9d02f5d7931c9b4": {
-            "text": "Felt som lar deg definere en databasetabell med valgfrie inndataer."
-        },
-        "c22d5d75c358917e3b98c3f20f063301": {
-            "text": "Skal gjelde for alle?"
-        },
-        "9ba1f76b7ef74991cdcd45e8f629d6f1": {
-            "text": "Er du sikker? Endringer som allerede er gjort til n\u00e5v\u00e6rende rader vil bli tapt!"
-        },
         "4cfa6c981549e990fe2344e4c805405e": {
             "text": "Finn"
         },
         "5ece607071fe59ddc4c88dc6abfe2310": {
             "text": "Ingen elementer funnet"
         },
-        "531168d497aba751a154761909e997bc": {
-            "text": "Huk av denne boksen for \u00e5 slette ALLE rader p\u00e5 tvers av ALLE sidenummer."
+        "03e0c5bbd5488f1e5ec282529dac9635": {
+            "text": "Legg til rad"
         },
-        "fff212615424ec54962e2e6aa94ffb9b": {
-            "text": "Om ikke avhuket, vil kun radene p\u00e5 dette sidenummeret bli slettet."
-        },
-        "13b108c5f898b3f58465adf8e253440c": {
-            "text": "Slettet alle %d rader til feltet \"%s\""
+        "23c75d86e1722469fb9ca1f910cfbd31": {
+            "text": "="
         }
     }
 }

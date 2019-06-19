@@ -1,0 +1,42 @@
+{
+    "file": "site\/modules\/TfaTotp\/TfaTotp.module",
+    "textdomain": "site--modules--tfatotp--tfatotp-module",
+    "translations": {
+        "ee64a0045d66fe265f2a08d166751244": {
+            "text": "Hemmelighet:"
+        },
+        "114b3fca585b5e306befb699199f3cfe": {
+            "text": "Skann QR-koden ELLER kopier \/ lim inn \"hemmeligheten\" i din autentiseringsapp."
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "Aktiver tofaktorautentisering"
+        },
+        "98e6333b02f00d99ad770c300fff1158": {
+            "text": "Skriv inn den genererte kode fra din autentiseringsapp under."
+        },
+        "4db5909de18567ffaa38a569e7f0378c": {
+            "text": "Bekreftet, tofaktorautentisering er n\u00e5 aktivert."
+        },
+        "4ab67bc882dc6d9b09960272d194bb6a": {
+            "text": "Ikke i stand til \u00e5 bekrefte koden du skrev inn. Vennligst skann p\u00e5 nytt og pr\u00f8v igjen."
+        },
+        "0dc2dc6f36d8ecd4e7d87d172a844c3d": {
+            "text": "Webside- eller apptittel."
+        },
+        "50dcb2dc39ba5d2281d25fcefca7299c": {
+            "text": "Dette er for at brukeren kan identifisere siden\/appen i sin autentiseringsapp."
+        },
+        "8ab1eb3c588df3e4c6166ba6a625f8e6": {
+            "text": "Dersom feltet blir st\u00e5ende tomt, vil den bruke websidens HTTP-verstsnavn."
+        },
+        "b0b44117d9e5a0eff65cd42528e22af4": {
+            "text": "Avvik"
+        },
+        "0efbee0cd26f23519cf6060cfd7cb640": {
+            "text": "Antall tidligere og fremtidige koder som skal akseptere. Hver kode er gyldig i 30 sekunder."
+        },
+        "336e57256d4f23fcf3b90a503fc1f9d8": {
+            "text": "En verdi p\u00e5 1 betyr at gjeldende kode pluss 1 tidligere og neste kode blir akseptert (i 90 sekunder)."
+        }
+    }
+}

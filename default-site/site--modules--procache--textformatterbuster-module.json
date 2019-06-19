@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProCache\/TextformatterBuster.module",
+    "textdomain": "site--modules--procache--textformatterbuster-module",
+    "translations": {
+        "0532c3d29a8d8f9ed80ef17de2b51715": {
+            "text": "Filetternavn som Buster har lov til \u00e5 buste"
+        },
+        "2d5783151611a3e391f5a2a502ef74b2": {
+            "text": "HTML-attributter \u00e5 oppdage ressurser i"
+        }
+    }
+}

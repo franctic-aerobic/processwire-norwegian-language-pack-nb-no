@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/FieldtypeMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--fieldtypemapmarker-module",
+    "translations": {
+        "eb91e92ac80aede8decb1ab5f6b366cb": {
+            "text": "Google Maps API-n\u00f8kkel"
+        }
+    }
+}

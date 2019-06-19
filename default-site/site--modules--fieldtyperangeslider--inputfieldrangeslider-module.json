@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FieldtypeRangeSlider\/InputfieldRangeSlider.module",
+    "textdomain": "site--modules--fieldtyperangeslider--inputfieldrangeslider-module",
+    "translations": {
+        "c164fe6a32d4c76b1fd01584cdd1f85f": {
+            "text": "="
+        },
+        "ce11f646d35606ce2d9ee1621863ef58": {
+            "text": "Enkel jQuery UI-tallfelt og spektervelger som kan bli konfigurert."
+        }
+    }
+}

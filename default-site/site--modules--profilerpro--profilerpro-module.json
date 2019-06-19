@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProfilerPro\/ProfilerPro.module",
+    "textdomain": "site--modules--profilerpro--profilerpro-module",
+    "translations": {
+        "2c424ca1398cffa9a0715608d94118b4": {
+            "text": "Sidevisninger"
+        },
+        "cdfb3313f5706c6951e32e3ab8cf5ff0": {
+            "text": "="
+        },
+        "5bc06f5800d415cc95e1349edbaca425": {
+            "text": "="
+        },
+        "ad21afc4b50ad902620df571a8723805": {
+            "text": "="
+        },
+        "0670703869b67957cf72966aa02b3aad": {
+            "text": "="
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/ProMailer\/ProcessProMailerSubscribers.php",
+    "textdomain": "site--modules--promailer--processpromailersubscribers-php",
+    "translations": {
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "+"
+        },
+        "aaafcddf92b0d5e148e4bd7899fef636": {
+            "text": "Listetittel"
+        },
+        "4cfa6c981549e990fe2344e4c805405e": {
+            "text": "Finn"
+        },
+        "5f77880c63ce0bc6217feb76eac61a50": {
+            "text": "Listestatus"
+        }
+    }
+}

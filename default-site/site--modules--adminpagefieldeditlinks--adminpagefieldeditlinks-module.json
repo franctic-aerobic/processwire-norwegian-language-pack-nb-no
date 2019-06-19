@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/AdminPageFieldEditLinks\/AdminPageFieldEditLinks.module",
+    "textdomain": "site--modules--adminpagefieldeditlinks--adminpagefieldeditlinks-module",
+    "translations": {
+        "1388c5023a6f7f101f1266559a9897f7": {
+            "text": "Aktiver vis\/rediger lenker p\u00e5 valgte sider?"
+        },
+        "570891888c2c9f5096c4072c7b6beb57": {
+            "text": "Foreldre for nye sider som opprettes"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "+"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Vis"
+        }
+    }
+}
