@@ -8,14 +8,12 @@ ProcessWire 3.0.133 dev
 * Admin Actions
 * Admin Restrict Branch
 * Autolinks
-* Body Class
 * Custom Upload Names
 * Dynamic Roles
 * Fieldset group
 * Form Builder
 * Functional fields
 * Hanna Code
-* Hanna Code Dialog
 * Hanna Code Helper
 * Hanna Code Text Formatter
 * Import External Images
@@ -26,7 +24,6 @@ ProcessWire 3.0.133 dev
 * Load an RSS feed
 * Map Marker
 * Markup RSS Feed enhanced
-* MarkupSrcSet
 * Page Action: Clear Image Variations
 * Page Action: Delete/Trash Pages
 * Page Action: Set Field Value
@@ -36,8 +33,7 @@ ProcessWire 3.0.133 dev
 * Persistent Login for users.
 * ProCache
 * ProCache Buster
-* ProcessWire API Explorerr
-* ProDrafts
+* ProcessWire API Explorer
 * ProFields: Multiplier
 * ProFields: Table
 * ProFields: Text Blocks
