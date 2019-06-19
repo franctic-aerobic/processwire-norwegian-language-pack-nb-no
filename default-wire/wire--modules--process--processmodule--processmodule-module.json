@@ -308,14 +308,8 @@
         "385accc7e6612e8dba4e99f22b6876b1": {
             "text": "Moduler som har konfigurasjonsvalg"
         },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Du kan bla i moduloversikten og lokalisere modulen du \u00f8nsker \u00e5 laste ned og installere. Skriv eller lim inn \"class name\" til modulen du \u00f8nsker \u00e5 installere."
-        },
         "3b0798392299a74418470d3f13b5eec2": {
             "text": "Moduloversikten ligger p\u00e5 [modules.processwire.com](http:\/\/modules.processwire.com)"
-        },
-        "def68ae90aac3e065c37457bc36d22f8": {
-            "text": "ModuleClassName"
         },
         "dc975a9e6b0112228c42a6abbe82ae93": {
             "text": "V\u00e6r helt sikker p\u00e5 at du stoler p\u00e5 ZIP-filens kilde"
@@ -346,6 +340,12 @@
         },
         "1c4336473685430feefceabf2d42669c": {
             "text": "Autolast deaktivert?"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "Last ned n\u00e5"
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "="
         }
     }
 }

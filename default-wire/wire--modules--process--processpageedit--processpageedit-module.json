@@ -78,7 +78,7 @@
             "text": "Opprettet av bruker"
         },
         "567d412904b379e49382b6e3b90881ca": {
-            "text": "Opprettet av %s1$s den %2$s"
+            "text": "Opprettet av %1$s den %2$s"
         },
         "1dec6a532601f755520b9567091e1bf8": {
             "text": "Sist endrer av %1$s den %2$s"
@@ -235,6 +235,144 @@
         },
         "f3e0ef028ad1fda84b2b567684c67846": {
             "text": "Side avpublisert for feltet \"%s\" er p\u00e5krevd"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Hvilke sider lenker til denne siden?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Ikke mulig \u00e5 liste"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Fant %d andre side(r) som lenker til denne i Side-felter eller href-lenker."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(i sidefelt)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(i href-lenke)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d sider i tillegg som vises ikke."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Fant ikke andre sider som peker til denne i sidefelter eller href-lenker."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Hvilke andre URL-er videresender til denne siden?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "N\u00e5r en side er flyttet eller navnet endre, husker vi den forrige lokasjonen for videresending."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Under er en liste med URL-er (stier) som automatisk vidersender til denne siden (ved bruk av 301 permanent vidersending)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Du kan slette stier\/URL-er eller manuelt legge til nye."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Ingen vidersendingsstier"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Ikke enda"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Slettede vidersendinger for tidligere URL: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Legg til ny vidersendings-URL-er"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Skriv inn ytterligere stier\/URL-er (en per linje) som skal vidersende til denne siden."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Skriv kun inn URL-stien (f.eks. \u201c\/hallo\/verden\/\u201d), IKKE inkluder scheme, domene, port, sp\u00f8rrestrenger eller fragmenter."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Stier er relative til sidens rot, s\u00e5 IKKE inkluder %s undermappe p\u00e5 begynnelsen."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "For \u00e5 spesifisere et spr\u00e5k for vidersendingen, skriv inn sti\/URL p\u00e5 linjen prefikset med spr\u00e5knavnet:"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/din\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(til %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "La til videresending: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Ikke i stand \u00e5 legge til vidersending %s fordi den ser ut til \u00e5 v\u00e6re i konflikt med en annen sti"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Gjenopprett"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Flytt ut av s\u00f8ppelkurven og gjenopprett til original lokasjon"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Huk av boksen for \u00e5 bekrefte at du vil gjennopprette denne siden."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Denne siden vil bli gjennopprettet til: %s"
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Originalt navn vil bli endret fra %1$s til %2$s for \u00e5 v\u00e6re unikt."
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Side kan ikke bli gjenopprettet mens feil finnes"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Gjenopprettet side: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Feil ved gjenoppretting av side"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Sidevisning"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "="
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Modal-popup"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "+"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "N\u00e5r"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Spr\u00e5k"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "N\u00e5v\u00e6rende"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Foreldre"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Denne siden kan ha et eller flere ufullstendige felter (pr\u00f8v \u00e5 lagre eller publisere for mer informasjon)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Unik: Krever at sidenavnet \u201c%s\u201d er globalt unikt"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(kun p\u00e5 standardspr\u00e5k)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Fjernet flagget status fordi ingen feilmeldinger oppstod under lagring"
         }
     }
 }

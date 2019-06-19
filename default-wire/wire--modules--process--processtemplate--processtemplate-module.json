@@ -20,14 +20,8 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filter"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filtrer etter felt"
-        },
         "86ec8350e4740a4cc47328ee7c984d40": {
             "text": "Legg til nye maler"
-        },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Navn er allerde i bruk"
         },
         "0dea25b9c7f4d4afbe59f7f9b2741d29": {
             "text": "Maler funnet i: %s"
@@ -278,9 +272,6 @@
         "207ab96f9895f87f78f6c6162f323a4f": {
             "text": "%d sider"
         },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Ikke inkluder et filetternavn"
-        },
         "7a91f878f0e4c02c502a8d0583b0c6be": {
             "text": "Valgfri bruk av plassering i sidetreet"
         },
@@ -437,9 +428,6 @@
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Malens filnavn er ikke skrivbar, s\u00e5 du m\u00e5 selv gi det nytt navn manuelt (instruksjoner vil bli gitt etter at du lagrer)."
         },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Skriv inn en kombinasjon av bokstaver (a-z), nummer (0-9), bindestreker eller understreker (ingen mellomrom). Dette inkluderer ikke .php-filetternavnet."
-        },
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Dupliser\/klon denne malen?"
         },
@@ -557,14 +545,8 @@
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "N\u00e5r avkrysset, vil sider som bruker denne malen kun finnes med publisert status, og kan ikkje avpubliseres."
         },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ eller 0 for \u00e5 deaktivere"
-        },
         "6064635b0dec3189859052c02adc0fc5": {
             "text": "Tillat at \"opprettet bruker\" kan bli endret p\u00e5 sider?"
-        },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ eller 0 for \u00e5 deaktivere. standard er 0."
         },
         "86c66b6c28f25016de70be40475eb881": {
             "text": "API: $template->flagSystem = 1; \/\/ eller 0 for \u00e5 deaktivere"
@@ -577,9 +559,6 @@
         },
         "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
             "text": "Ikke tillat sider \u00e5 bli flyttet?"
-        },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ eller 0 for \u00e5 deaktivere"
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
             "text": "Deaktivere s\u00f8ppelkurvvalget?"
@@ -643,6 +622,51 @@
         },
         "abad59d4cf5691fd0506cb650dff0f5b": {
             "text": "Om avkrysset vil ikke sider som bruker denne malen ha en 'innstillinger'-fane i redigeringsmodus."
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "="
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d felt"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d felter"
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Filtrer etter felt"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
+        "bd1ab8d7a2147046de89d54d6d03f39d": {
+            "text": "+"
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Sm\u00e5 bokstaver er valgfritt, men anbefalt."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Ikke inkluder et filetternavn."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Malnavnet matcher ikke det krevde formatet."
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "spesifiser 0 for deaktivere"
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(deaktiverer kompiler)"
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Kompilering anbefalt."
+        },
+        "48a72eabb7f3f13f0d942bb2cdfe9811": {
+            "text": "Feltgruppeendring avbrutt"
+        },
+        "31a0330754505f0778be18e7b4dbc661": {
+            "text": "List opp og rediger malene som kontrollerer sidens utdata"
         }
     }
 }

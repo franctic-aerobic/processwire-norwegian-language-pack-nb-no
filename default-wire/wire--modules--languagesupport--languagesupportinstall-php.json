@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Klikk for \u00e5 installere:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Legg til og konfigurer nye spr\u00e5k"
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Neste trinn"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "For \u00e5 fortsette \u00e5 sette opp flerspr\u00e5kst\u00f8tte, anbefaler vi de f\u00f8lgende trinnene."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Lenkene under vil \u00e5pnes i nytt vindu \/ ny fane. Steng hver enkelt etter du er ferdig for \u00e5 komme tilbake hit."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Installer LanguageSupportFields-modulen f\u00f8r du fors\u00f8ker \u00e5 endre tekstfelttyper."
+        }
+    }
+}

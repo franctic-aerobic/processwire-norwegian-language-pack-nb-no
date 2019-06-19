@@ -5,15 +5,6 @@
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "S\u00f8ppelkurven er tom"
         },
-        "b93325ff37316801eaf36f95c25a75e3": {
-            "text": "F\u00f8lgende sider er i s\u00f8ppelkurven"
-        },
-        "206c3d86254559ad3cd3b88e8e002113": {
-            "text": "T\u00f8m s\u00f8ppelkurven"
-        },
-        "80a9994143f3ef28a7ba4fd1dd67436a": {
-            "text": "Vennligst bekreft at du vil t\u00f8mme s\u00f8ppelkurven."
-        },
         "1012544490a2eae7e9782116062941b6": {
             "text": "Det er for mange elementer i s\u00f8ppelkurven, du m\u00e5 t\u00f8mme den flere ganger."
         },
@@ -23,17 +14,41 @@
         "920202a83e840023ebf5ac6e31ccfbf3": {
             "text": "H\u00e5ndterer t\u00f8mmingen av sides\u00f8ppel"
         },
-        "671ad2168f66a9b66f8d97c8a4ad2794": {
-            "text": "T\u00f8mte s\u00f8ppelkurven"
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Du m\u00e5 huke av boksen for \u00e5 bekrefte"
         },
-        "de1fd0d21eb1f64deec95ed694fffed0": {
-            "text": "Ikke alle sider kunne bli slettet"
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(%d sider per sekund)"
         },
-        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
-            "text": "(%d side)"
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "Ikke alle sidene kunne bli slettet (%d er igjen)"
         },
-        "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "(%d sider)"
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Tidsgrense n\u00e5dd (%d sekunder)"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "T\u00f8m s\u00f8ppelkurven (bekreft)"
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "Sider i s\u00f8ppelkurven"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "Tidsgrense (i sekunder)"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "Slettet %d side"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "Slettet %d sider"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "Permanent slett %d side i s\u00f8ppelkurven?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "Permanent slett %d sider i s\u00f8ppelkurven?"
         }
     }
 }

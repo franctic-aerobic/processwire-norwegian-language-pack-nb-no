@@ -38,9 +38,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "Avpublisert side %1$s er ikke tillat i feltet \"%2$s\""
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "For \u00e5 tillate avpbuliserte sider, rediger feltet \"%s\" og se innstillingene i \"Avansert\"-fanen."
-        },
         "309980b76124ca15c19a948edcd2b820": {
             "text": "Valgbare sider"
         },
@@ -70,6 +67,9 @@
         },
         "89f32c3a56b097c4da3f220687f2cad5": {
             "text": "Innstillinger spesifikke til \u201c%s\u201d"
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "Ytterligere maler"
         }
     }
 }

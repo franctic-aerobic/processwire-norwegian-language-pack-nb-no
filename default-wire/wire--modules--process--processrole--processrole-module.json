@@ -11,17 +11,17 @@
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "Roller"
         },
-        "ae9a363b2dfa9181da7ffde8e37813b5": {
-            "text": "gjennomstreking"
-        },
-        "c6cc7e92b9fc348360b34c024086432c": {
-            "text": "navn|beskrivelse"
-        },
         "dc3abfaff3190368a09f01d6589eeeea": {
             "text": "Legg undersider til sider som bruker mal"
         },
         "9c281188158fc34cf5afc9d2820a761c": {
             "text": "Lag sider som bruker mal"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Legg til: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Opphev fra: %s"
         }
     }
 }

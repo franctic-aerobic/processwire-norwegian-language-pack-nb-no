@@ -34,6 +34,15 @@
         },
         "a29ecfb237834699193ba759c9af8efe": {
             "text": "%d aktive sesjoner"
+        },
+        "32dc37d4cb3662c77f3415b48673af02": {
+            "text": "IP-adresse"
+        },
+        "dfb790522fdea3859af206d32916fe77": {
+            "text": "Brukeragent"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "Gj\u00f8r det mulig \u00e5 bla i aktive databasesesjoner."
         }
     }
 }

@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "Feil ved lagring av feltet \"%s\""
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Sider som bruker malen \u201c%s\u201d kan ikke flyttes."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Valgte foreldreside \u201c%1$s\u201d bruker malen \u201c%2$s\u201d som ikke tillatter undersider."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Kan ikke flytte \u201c%1$s\u201d fordi malen \u201c%2$s\u201d brukt av siden \u201c%3$s\u201d ikke tillatter undersider som bruker malen \u201c%4$s\u201d."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Kan ikke flytte \u201c%1$s\u201d fordi malen \u201c%2$s\u201d brukt av ny foreldresie \u201c%3$s\u201d ikke er tillatte av flyttet sidemal \u201c%4$s\u201d."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Valgte foreldreside \u201c%1$s\u201d har allerede en side med navnet \u201c%2$s\u201d."
         }
     }
 }

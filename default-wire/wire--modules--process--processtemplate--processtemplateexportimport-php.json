@@ -92,9 +92,6 @@
         "19b7fb53a85de3c8ba85672a91a7398b": {
             "text": "Eksporter"
         },
-        "722034114c47bfa859a1be8200469fcf": {
-            "text": "Ok"
-        },
         "12c658575040446e9b2ffdfaaf7bc115": {
             "text": "Importer"
         },
@@ -151,6 +148,9 @@
         },
         "fc9475948584941277524f1216bb18ff": {
             "text": "Hoppet over %d elementer"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
         }
     }
 }

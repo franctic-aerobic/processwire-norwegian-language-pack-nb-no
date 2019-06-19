@@ -52,6 +52,24 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "+"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Tillatt ikke-superbrukerredigerere \u00e5 bruke S\u00f8ppelkurv?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Dersom avhuket, vil brukere kunne se sider i s\u00f8ppelkurven (kun side de har tilgang til)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Dette vil ogs\u00e5 aktivere \"Kast\"- og \"Gjenopprett\"-handlingene, i tilfeller hvor tilgangskontrollen tillater det."
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Hver side i en PageList identifiseres av en etikett, vanligvis en tittel eller et overskriftsfelt. Du kan angi hvilket felt den skal bruke her. For \u00e5 angi flere felter, skill hvert feltnavn med et mellomrom, eller bruk din egen formatstreng med feltnavn som er omgitt av {klammer}. Hvis feltet peker et objekt (som en annen side), angir du egenskapen med en prikk, dvs. {annenside.title}. Merk at hvis formatet du spesifiserer f\u00f8rer til en tom verdi, bruker ProcessWire siden \"navn\"-feltet."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Du kan eventuelt overstyre denne innstillingen p\u00e5 en per-mal basis i hver mals \"avanserte\" innstillinger."
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Vis siden ID-nummer istedenfor"
         }
     }
 }

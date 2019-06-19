@@ -4,6 +4,9 @@
     "translations": {
         "56cc559d234df2ffabc88b8926592264": {
             "text": "Admin-hjem"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Fungerer som en plassholderprosess til adminroten. Sikrer riktig flytkontroll etter innlogging."
         }
     }
 }

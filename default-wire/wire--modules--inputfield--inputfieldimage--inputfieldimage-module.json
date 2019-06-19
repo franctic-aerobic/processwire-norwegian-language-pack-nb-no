@@ -14,9 +14,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Bilde har endret st\u00f8rrelse til \u00e5 passe maks tillatte dimensjoner"
         },
-        "7f0785e56befa113ce8fca2316a12a2e": {
-            "text": "Maks fildimensjoner"
-        },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Bilder"
         },
@@ -50,9 +47,6 @@
         "d6a369d29506d3151a76c33791fc80b6": {
             "text": "slipp inn ny bildefil for \u00e5 erstatte"
         },
-        "f0823f4faa69306cc75fd14c8e5e38e3": {
-            "text": "arvede miniatyrbilder vil bli gjenskapt ved lagring"
-        },
         "96733a97d96b04ddd6e06cdf3147df1e": {
             "text": "Ikke redigerbar."
         },
@@ -61,12 +55,6 @@
         },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
             "text": "Skriv inn verdien som et antall bildepunkter eller la feltet v\u00e6re tomt for \u00e5 ikke ha noen grense."
-        },
-        "e0af28e6bea01f8a983ebd94ec3b7468": {
-            "text": "Om avhuket, biler som overg\u00e5r maks bredde\/h\u00f8gde vil bli nektet heller enn endre st\u00f8rrelse."
-        },
-        "6760d392e57247a882e160cdb8b3680c": {
-            "text": "Minste bildedimensjoner"
         },
         "a195023920e6ece61b6211755c9af27f": {
             "text": "Eventuelt skriv minimum bredde og\/eller h\u00f8gde p\u00e5 opplastede bilder. Hvis spesifisert, vil bilder som ikke oppfyller disse minimumskravene nektes."
@@ -100,6 +88,57 @@
         },
         "e6c7b90087278c53b5361182358a2d92": {
             "text": "Om du nylig har brukt dette bilderfeltet, m\u00e5 du t\u00f8mme informasjonskapslene f\u00f8r du ser endringer gjort til denne innstillingene."
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Fokus"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "I\/T"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Handlinger"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Roter"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Dupliser"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Fjern variasjoner"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Lag variasjoner p\u00e5 nytt"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Fjern fokus"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "="
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "horis"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "begge"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopier"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Lim inn"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Reduser med 50 %"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "S&H"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Andre eksempler:"
         }
     }
 }

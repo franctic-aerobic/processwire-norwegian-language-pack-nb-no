@@ -19,6 +19,15 @@
         },
         "905d286d5f512b563448eedeb744206d": {
             "text": "Denne prosessen returnerte ikke innhold."
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Handling p\u00e5krevd"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "Aktiver tofaktorautentisering"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Du har n\u00e5dd PHPs \u201cmax_input_vars\u201d-innstilling p\u00e5 %d \u2014 vennligst \u00f8k den."
         }
     }
 }

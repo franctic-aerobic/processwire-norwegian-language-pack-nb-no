@@ -71,9 +71,6 @@
         "f4f70727dc34561dfde1a3c529b6205c": {
             "text": "Innstillinger"
         },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Type"
-        },
         "b021df6aac4654c454f46c77646e745f": {
             "text": "Merkelapp"
         },
@@ -95,14 +92,20 @@
         "817434295a673aed431435658b65d9a7": {
             "text": "Ikon"
         },
-        "a45da96d0bf6575970f2d27af22be28a": {
-            "text": "System"
-        },
         "35e0c8c0b180c95d4e122e55ed62cc64": {
             "text": "Endret"
         },
         "902b0d55fddef6f8d651fe1035b7d4bd": {
             "text": "Feil"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "a45da96d0bf6575970f2d27af22be28a": {
+            "text": "="
         }
     }
 }

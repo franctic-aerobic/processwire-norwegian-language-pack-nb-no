@@ -43,6 +43,12 @@
         },
         "00796cc045b871fe7b2867edef6aaaf7": {
             "text": "For \u00e5 undertrykke denne advarsele, gj\u00f8r $config->chmodWarn = false; i din \/site\/config.php-fil."
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Rediger profil"
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Tofaktorautentisering"
         }
     }
 }

@@ -5,9 +5,6 @@
         "f0a5fc96d36fdda66a2a10b79be6d7fb": {
             "text": "Fargesett"
         },
-        "77b6e24f5b78b6eb0697aa8994ce15e9": {
-            "text": "Reno"
-        },
         "d35b51b639528d580362ca7042de6a0e": {
             "text": "Klassisk"
         },
@@ -58,6 +55,9 @@
         },
         "787989d17c5a57298dd6959fcc70ba1a": {
             "text": "Admin-tema til ProcessWire 2.5+ av Tom Reno (Renobird)"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "="
         }
     }
 }

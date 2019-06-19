@@ -10,6 +10,9 @@
         },
         "69b3176dd209b9a908446d55ceb0cfd2": {
             "text": "Konfigurert forh\u00e5ndsvalg ikke befolket siden verdien ikke alltid er p\u00e5krevd. Vennligst fiks feltkonfigurasjonen."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Import av alternativer er ikke implementert enn\u00e5. Selv om de enkelt kan importeres fra ett nettsted til et annet ved \u00e5 kopiere \/ lime inn direkte fra feltredigeringsskjermen."
         }
     }
 }

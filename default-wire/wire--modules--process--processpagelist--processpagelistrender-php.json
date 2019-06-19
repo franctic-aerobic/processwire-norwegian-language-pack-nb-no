@@ -17,9 +17,6 @@
         "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
             "text": "Tom"
         },
-        "a29bdd003ef6c0c34279807341f450f2": {
-            "text": "Pub"
-        },
         "f40271af9378ba3b92b006eb2f2441bb": {
             "text": "Avpub"
         },
@@ -40,6 +37,9 @@
         },
         "2bd339d85ee3b33e513359ce781b60cc": {
             "text": "Gjenopprett"
+        },
+        "a29bdd003ef6c0c34279807341f450f2": {
+            "text": "="
         }
     }
 }

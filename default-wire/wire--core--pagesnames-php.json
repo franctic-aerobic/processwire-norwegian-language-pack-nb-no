@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "En annen side bruker navnet \u201c%s\u201d og krever at det er unikt p\u00e5 globalt niv\u00e5"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "En annen side med samme foreldre bruker navnet \u201c%s\u201d"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Kan ikke bruke navnet \u201c%s\u201d som globalt unikt fordi det allerede er i bruk av en annen side eller sider"
+        }
+    }
+}

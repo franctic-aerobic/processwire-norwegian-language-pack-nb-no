@@ -17,14 +17,8 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filter"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "Filtrer etter mal"
-        },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Slett felt"
-        },
-        "bfacb0dba61ee131e07daaacead869c5": {
-            "text": "Grunnleggende feltinnstillinger"
         },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(alle)"
@@ -37,9 +31,6 @@
         },
         "189f63f277cd73395561651753563065": {
             "text": "Merkelapper"
-        },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Hver merkelapp m\u00e5 v\u00e6re et ord (bindestrek er lov)."
         },
         "89e1299f98120a24c999cdffa860d2cb": {
             "text": "Slettet felt"
@@ -89,9 +80,6 @@
         "a4ca5edd20d0b5d502ebece575681f58": {
             "text": "Felter"
         },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "Innebygd"
-        },
         "d665a1b10e02b9de8f4115d5b7078976": {
             "text": "Legg til nytt felt"
         },
@@ -122,9 +110,6 @@
         "cb4e4304ce3fbf227cdae7fecc193fbf": {
             "text": "Alarm"
         },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "Ingen (standard)"
-        },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Avbryt"
         },
@@ -146,9 +131,6 @@
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Grunnleggende"
         },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "Merkelapp"
-        },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Beskrivelse"
         },
@@ -157,12 +139,6 @@
         },
         "a698a809093ad1c25ea277ff03ae5fc7": {
             "text": "Handlinger"
-        },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "Navn"
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "Merkelapp"
         },
         "ceb446e97d336c84d1f870ce7840e4ba": {
             "text": "Rader med data"
@@ -187,12 +163,6 @@
         },
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "Felter etter template"
-        },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Filtrer etter felttype"
-        },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Vis innebygde felter?"
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Umerket"
@@ -296,9 +266,6 @@
         "cca90d2e0854b62dc0c77ad0e1679be4": {
             "text": "Viser felt av typen: %s"
         },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Viser alle felter, inkludert innebygde system- og permanente felter."
-        },
         "23831f621c230fae228ca5bccd05b83e": {
             "text": "Vis i sideredigering likevel om den ikke er redigerbar"
         },
@@ -310,6 +277,60 @@
         },
         "59da98ece56eec26f5f9edd6f051da0b": {
             "text": "Dette vil ogs\u00e5 slette %d rader med data."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "Merkelapp"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "H\u00e5ndter merkelapper"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Filtrer etter mal"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtrer etter type"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Vis systemfelter?"
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "Merkelapp: %s"
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Legg til ny merkelapp"
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Detaljer:"
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(du spesifiserte \u201c%s\u201d)"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "="
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "+"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "="
+        },
+        "7f8ceb624f94b152f89f7bfd06a2dff2": {
+            "text": "="
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Feil i innstillingen \u201c%s\u201d"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Ikke i stand til \u00e5 validere"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Legg til som f\u00f8rste felt"
         }
     }
 }

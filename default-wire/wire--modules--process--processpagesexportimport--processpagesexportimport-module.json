@@ -1,5 +1,153 @@
 {
     "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
     "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
-    "translations": []
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Eksporter\/importer er kun tilgjengelig for superbrukere"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "+"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "+"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Fortsett"
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Velg foreldre"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Sidenavn"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Sidestatu"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Importer sider"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Testimport"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Mal: %s"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Side: %s"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Importer denne siden?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Velg sider"
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Hvordan vil du lagre eksporten?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "Last ned ZIP-fil"
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Eksporter n\u00e5"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "ZIP-filnedlasting"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Importer fra JSON-streng"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Lim inn den tidligere importerte JSON-strengen fra dette verkt\u00f8yet."
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Importert fra opplasted ZIP-fil"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Ingen importerte data funnet"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Ugyldig importert data"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d ny(e), %d eksisterende"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Ingen importdetaljer \u00e5 vise"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Sider med malen \u201c%s\u201d kan ikke bli importert fordi malen ikke finnes her."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Velg en mal til \u00e5 erstatte med n\u00e5r du lager disse sidene."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: Ersatter MALEN \u201c%1$s\u201d med \u201c%2$s\u201d"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Velg ny foreldre"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Importoppsummering"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Importmodus"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Lag nye sider og oppdater eksisterende sider"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Lag kun nye sider"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "Befolkede felter:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Endrede felter:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Ingen endringer oppdaget"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "Side kan ikke bli importert"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Suksessfull import"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Sider som jeg velger"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Sider med foreldre"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Sider som matcher s\u00f8ket"
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Velg foreldreside"
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Tilleggsvalg"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Inkluder skjulte sider"
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Kj\u00f8r en eksport til"
+        }
+    }
 }

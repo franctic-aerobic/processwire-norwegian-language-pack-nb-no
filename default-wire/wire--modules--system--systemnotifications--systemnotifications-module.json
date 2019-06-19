@@ -57,7 +57,7 @@
             "text": "404 oppstod: %s"
         },
         "f1aac9258ac4fde43df9a1c10945c133": {
-            "text": "Bruker logget in: %s"
+            "text": "Bruker logget inn: %s"
         },
         "6749d5c7c5998b79513c6257606ffedc": {
             "text": "Innloggingsfeil: %s"
@@ -70,6 +70,9 @@
         },
         "187b4dd25b5e8329dfacc1528ac55028": {
             "text": "Advarsel: Bruker \"%s\" redigerer for tiden p\u00e5 denne siden (redigeringen startet %s)"
+        },
+        "d8bd79cc131920d5de426f914d17405a": {
+            "text": "="
         }
     }
 }

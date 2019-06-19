@@ -2,14 +2,8 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
     "translations": {
-        "6f207f8b5dfe1eebac63467930df5189": {
-            "text": "h3"
-        },
         "8413c683b4b27cc3f4dbd4c90329d8ba": {
             "text": "Kommentarer"
-        },
-        "4f7ba099c8cd7a8301cf1a8e81cb5e3c": {
-            "text": "%b %e, %Y %l:%M %p"
         },
         "8725214cdd9f9af24e914b5da135793d": {
             "text": "Permalenke"
@@ -22,6 +16,12 @@
         },
         "c7e01d04a86dacfbef51bb8cd79ae5eb": {
             "text": "Mislik denne kommentaren"
+        },
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "="
+        },
+        "4f7ba099c8cd7a8301cf1a8e81cb5e3c": {
+            "text": "="
         }
     }
 }

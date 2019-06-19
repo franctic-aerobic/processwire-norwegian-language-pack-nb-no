@@ -1,5 +1,12 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
-    "translations": []
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Felter i feltsettet"
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "="
+        }
+    }
 }

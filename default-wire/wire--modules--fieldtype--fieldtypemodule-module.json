@@ -11,9 +11,6 @@
         "bbddef2b960b6e14a0c9510c2312192e": {
             "text": "Valgetikett"
         },
-        "335fdfd0673e7e457d51384f686b00dc": {
-            "text": "Modultittel"
-        },
         "e0626222614bdee31951d84c64e5e9ff": {
             "text": "Velg"
         },
@@ -26,11 +23,20 @@
         "1d4b3399eb44d29f0188147089a9fb8a": {
             "text": "Viss avkrysset, vil feltverdien v\u00e6re en faktisk instans av den merkede modulen. Viss ikke avkrysset, vil feltverdien v\u00e6re en streng som inneholder klassenavnet til modulen."
         },
-        "0900a3f6adfa931e0130c02c436e7e7f": {
-            "text": "Modulklassenavn"
-        },
         "a749642e2afeea63aac9d550e51abf64": {
             "text": "Inndatatype"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Tittel"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "Tittel og oppsummering"
         }
     }
 }

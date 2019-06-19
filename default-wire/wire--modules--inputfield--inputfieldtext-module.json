@@ -58,6 +58,21 @@
         },
         "0c576bc57cb2f57f4a2632d59599c26e": {
             "text": "Fjern klammer"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "="
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Enkel tekstlinje"
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "En verdi p\u00e5 \"0\" indikerer ingen maksverdi."
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Valgfri plasholderfrase med tekst som vises i feltet n\u00e5r det er tomt."
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Opprinnelig verdi"
         }
     }
 }

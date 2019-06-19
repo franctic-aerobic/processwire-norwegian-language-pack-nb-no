@@ -14,9 +14,6 @@
         "180efa8a9b1cfee25988715f7d673dbc": {
             "text": "Valg A: Front-redigering redigerbare felter"
         },
-        "97f5063cc7446aefa21ae4e7fb3cc146": {
-            "text": "Disse tekstbaserte feltene vil bli redigerbare front-end, direkte p\u00e5 siden, kun ved \u00e5 huke av boksene under."
-        },
         "d0526ac74110f73ee2926fd2d650c4a9": {
             "text": "**V\u00e6r varsom med dette valget:** Om du bruker verdien fra et felt mer enn et sted p\u00e5 en side, b\u00f8r du heller bruke [Valg B, C eller D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
         },
@@ -70,6 +67,9 @@
         },
         "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
             "text": "Dette valget er ikke st\u00f8tte for dette feltet."
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "="
         }
     }
 }

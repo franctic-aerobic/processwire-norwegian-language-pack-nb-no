@@ -52,6 +52,9 @@
         },
         "3d7ce213fb1c2bec707c0fac7b1999e2": {
             "text": "Autolast"
+        },
+        "38dee61bfa5e86e18c76e272c4c830fa": {
+            "text": "Ikke la feils\u00f8kingsmodus v\u00e6re aktivert i live- eller produksjonsmilj\u00f8er (se $config->debug i filen \/site\/config.php)."
         }
     }
 }

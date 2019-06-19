@@ -22,6 +22,9 @@
         },
         "f1bd84fbcee1b287fe538f7df1cbd700": {
             "text": "Nei - Rot-URL utf\u00f8rer vidersending til: \/navn\/"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "En s\u00f8sterside (id=%1$d) bruker allerede navnet \"%2$s\" til spr\u00e5ket: %3$s"
         }
     }
 }
