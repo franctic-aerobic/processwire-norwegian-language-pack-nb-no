@@ -34,6 +34,33 @@
         },
         "3ccb62563be9c5b182d25648de82d66f": {
             "text": "="
+        },
+        "0d6633f2cb401376d019f34c515398c0": {
+            "text": "Sendingsdetaljer"
+        },
+        "6078361afffdf303e68fea0274677c3b": {
+            "text": "Send antall"
+        },
+        "865fef9397adc4cb6d77fe36f592eaa3": {
+            "text": "Send"
+        },
+        "d58d95166261e562e39d0b8372e28604": {
+            "text": "Sendingstype"
+        },
+        "019e98ef235f66dff42e762043e59ae0": {
+            "text": "Sendingsrekkef\u00f8lge"
+        },
+        "5635b0bf27b3c7effcc46074d2d236e6": {
+            "text": "Eldste abonnenter f\u00f8rst"
+        },
+        "c677cf2a51cde2dd90126e0118d8d567": {
+            "text": "Nyeste abonnenter f\u00f8rst"
+        },
+        "87c4f8c4112a0c59213702cb292b3d68": {
+            "text": "Meldingstittel (for admin)"
+        },
+        "8f55d59cfca0653c8efb796de8a2ae47": {
+            "text": "Emnefeltet til e-post, som vises i brukerens innboks. Bruk av egendefinerte feltplassholdere st\u00f8ttes ogs\u00e5."
         }
     }
 }

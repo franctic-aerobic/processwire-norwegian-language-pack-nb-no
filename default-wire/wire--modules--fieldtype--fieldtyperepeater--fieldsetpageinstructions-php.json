@@ -1,5 +1,12 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
-    "translations": []
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Dette er eksempeltekst"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Instruksjoner for hvordan feltet skal brukes"
+        }
+    }
 }

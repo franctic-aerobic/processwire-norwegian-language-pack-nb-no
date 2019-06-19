@@ -82,6 +82,24 @@
         },
         "6059a6e9b311f4cb4afd60c154f0bef5": {
             "text": "Prim\u00e6r CSS-fil"
+        },
+        "ed9bcb3b4e6221f67a2543f66109248a": {
+            "text": "N\u00e5r tom, vil standard fil bli brukt."
+        },
+        "a825c84dec047bf77ef218348c6496ed": {
+            "text": "Skriv inn en sti relativt til URL-en til sidens hjemmeside."
+        },
+        "52d59ff487072b976a4e83f890f18c4e": {
+            "text": "Bildefelt: %s"
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "Logo bildefil"
+        },
+        "9bc773c48947ebcedc8c2e0a4cfe8f8f": {
+            "text": "Logo klikkhandling"
+        },
+        "127278ab533d9fcec53fa6c0947df913": {
+            "text": "Annet felt"
         }
     }
 }

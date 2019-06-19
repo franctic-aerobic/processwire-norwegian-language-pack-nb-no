@@ -7,6 +7,9 @@
         },
         "d6be4f2f4022264d6a9f84fa9625eca3": {
             "text": "Ignorer Youtube- og Vimeo-bilder"
+        },
+        "193def347362ab0ca44b3167a545687d": {
+            "text": "Automatisk gi nytt navn til fil\/bilde-opplastinger i henhold til et konfigurerbart format"
         }
     }
 }

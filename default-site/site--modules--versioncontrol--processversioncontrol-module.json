@@ -4,6 +4,21 @@
     "translations": {
         "8b6f6d305407f0b686f1974206ad415c": {
             "text": "Datoformat"
+        },
+        "dd906a6f86cf14458b96f65560d0cb99": {
+            "text": "Utdatainnstillinger"
+        },
+        "a1ed5a914b47eaaf640034386816bd5d": {
+            "text": "Brukernavnformat"
+        },
+        "f8c32e5d5b9a0fe237b1aa27b32a55d0": {
+            "text": "Ingen opprenskning"
+        },
+        "19f23dd0e5bdf38ecfa3c681287cc16a": {
+            "text": "Semantisk opprenskning"
+        },
+        "02fed2850aea7fa7d41ea87bef40aa67": {
+            "text": "Effektiviseringsopprydning"
         }
     }
 }

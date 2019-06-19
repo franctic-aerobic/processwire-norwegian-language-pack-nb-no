@@ -91,6 +91,18 @@
         },
         "e163a6a64105b0b72037db71c30d6a8b": {
             "text": "Verkt\u00f8y for automatisk lenkesjekking."
+        },
+        "5dd5cd6670a0fc8e47a47aa94d27b8b2": {
+            "text": "Filtrer etter status"
+        },
+        "5f16324e817b82e7f4339c1a991754c2": {
+            "text": "Gratulerer, ingen brutte lenker ble funnet!"
+        },
+        "3c05551a9d12b1bdbabae84887ecb0a5": {
+            "text": "="
+        },
+        "99b4336c89ea082e8a4ea84b8023f501": {
+            "text": "Det finnes ikke nok data til \u00e5 vise denne grafen."
         }
     }
 }

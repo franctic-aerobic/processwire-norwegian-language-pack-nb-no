@@ -13,6 +13,27 @@
         },
         "fd05d7f6bfc90e815087880e8e915b43": {
             "text": "Eksempler:"
+        },
+        "441502a7afbbb1570b29776d9b084ff2": {
+            "text": "Slettet: %s"
+        },
+        "34c7a042079ff440c952ba5bfbec728a": {
+            "text": "Gyldig filetternavn"
+        },
+        "91dd5e90fa3c0c2fbe37449037db1d8c": {
+            "text": "M\u00e5 v\u00e6re 1 eller h\u00f8yere"
+        },
+        "1ececa0cd94700f0dc2e4e29b336fc45": {
+            "text": "Maks filst\u00f8rrelse (per fil) i byte"
+        },
+        "fc0753e00bf20b1b78f5125591215f84": {
+            "text": "="
+        },
+        "d1e4cf6fe8120e77b907bde1ebe14d8f": {
+            "text": "Filfelter krever at du aktiverer \"Lagre oppf\u00f8ringer til database\"-handlingen."
+        },
+        "53275fc526e43e61ab39bc8fb78f68d0": {
+            "text": "Skriv inn alle filetternavn som tillatelse i dette opplastingsfeltet. Skill hvert filetternavn med et mellomrom. Ingen punktumer eller kommaer."
         }
     }
 }

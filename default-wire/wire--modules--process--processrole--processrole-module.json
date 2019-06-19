@@ -22,6 +22,18 @@
         },
         "484a603504d7ed70ae95310674989236": {
             "text": "Opphev fra: %s"
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Hvilke typer sider kan denne rollen se?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Hvilke typer sider kan denne rollen redigere?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Hvilke typer sider kan denne rollen legge til undersider til?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Hvilke typer sider kan denne rollen opprette?"
         }
     }
 }

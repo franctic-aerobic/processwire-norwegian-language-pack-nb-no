@@ -52,6 +52,33 @@
         },
         "627b11fa495dc928e31ab76310d934f9": {
             "text": "%s hjelp"
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "S\u00f8ker %1$s etter: %2$s"
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "S\u00f8ker \u201c%1$s\u201d-egenskapen til %2$s etter: %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Eksempler bruker \u201c=\u201d er lik-operatoren."
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Begrens resultater til malen: %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Begrens resulateter til %s-feltet til malen"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Finn maler som har feltet: %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Finn felter med \u201cckeditor i innstillingene"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "Eksemplene bruker \u201c%s\u201d-egenskapen."
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Du kan ogs\u00e5 bruke noen av disse egenskapene:"
         }
     }
 }

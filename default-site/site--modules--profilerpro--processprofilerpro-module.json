@@ -52,6 +52,36 @@
         },
         "c9cc8cce247e49bae79f15173ce97354": {
             "text": "+"
+        },
+        "47477646a4c291b8e3ff0aa9c729e388": {
+            "text": "Start profilering"
+        },
+        "00a84c803fbd774e7b3283b98fb477e6": {
+            "text": "Stopp profilering"
+        },
+        "5a7f47e76beca0622720fa2fef879b70": {
+            "text": "Profileringen har startet"
+        },
+        "67ea9e9b551c3cd49cc5e5bcbc6ccbc1": {
+            "text": "Profileringen har stoppet"
+        },
+        "3629d01920a945712d30867ceba48ef3": {
+            "text": "Eksporter som CSV"
+        },
+        "87170d69b0560593db23575b93931a86": {
+            "text": "Kolonner \u00e5 vise"
+        },
+        "08d069d5db8652e62598ac3a655f95d8": {
+            "text": "Tidsformat"
+        },
+        "96c37d678bd5640b4b525b3fc3493236": {
+            "text": "Sekunder (desimaler, standard)"
+        },
+        "87e587504389b626cab18ca7aa056b1f": {
+            "text": "Oppdater hvert [n]. sekund"
+        },
+        "f8c850174328131f21e47a7e71258cda": {
+            "text": "ProfilerPro-konfirgurasjon"
         }
     }
 }

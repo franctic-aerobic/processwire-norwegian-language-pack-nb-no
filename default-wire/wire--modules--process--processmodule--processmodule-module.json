@@ -346,6 +346,30 @@
         },
         "7f05cd7d695e4a911a436478a8f0cdfc": {
             "text": "="
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "F\u00e5 modulinformasjon"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "Moduler p\u00e5 filsystemet som ikke er installert for \u00f8yeblikket"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Modulens klassenavn"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Du kan bla gjennom modulkatalogen og finne modulen du vil laste ned og installere."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Skriv eller lim inn klassenavnet for modulen du vil installere, og klikk deretter p\u00e5 \u201c%s\u201d-knappen for \u00e5 fortsette."
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "="
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Modul: %s"
+        },
+        "7f3e66ccbb2c396210f9f58ad5a75e39": {
+            "text": "Feils\u00f8k"
         }
     }
 }

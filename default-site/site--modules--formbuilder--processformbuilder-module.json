@@ -358,6 +358,60 @@
         },
         "766d3bef806c454db0b5dc73e60f55f0": {
             "text": "="
+        },
+        "2180b681cce32c3004c2bf8ea283106f": {
+            "text": "Form Builder er ikke ferdig konfigurert"
+        },
+        "9a73a6d0ab868d820c61c15441eae7d0": {
+            "text": "Form Builder-konfigurasjon"
+        },
+        "aa46c66748b8b668195a53b7c2a3aa81": {
+            "text": "Vennligst g\u00e5 tilbake og se over og lagre konfigurasjonen din."
+        },
+        "4f8dd5cbb7e215f548c6112b31c109e0": {
+            "text": "Advarsel: dette vil slette alle felter og alle resultater."
+        },
+        "d0bb7cf931375948568b7545d7b29434": {
+            "text": "Emnefeltet til e-posten som blir sendt til mottakeren(e)"
+        },
+        "6b3e2849cefc03ca6887fd58e1bf5f5d": {
+            "text": "Fjern felter"
+        },
+        "e5d292b1b626606dc110df7d4a0d7005": {
+            "text": "Lagret oppf\u00f8ring ID"
+        },
+        "1ce581335d80036a507c0dbd73860494": {
+            "text": "Lagret side ID"
+        },
+        "6e43c2fd4a18596279aee40f3d81f98a": {
+            "text": "jQuery UI tema"
+        },
+        "ebe26035add58b6081dadae34d90164d": {
+            "text": "Foreldreside"
+        },
+        "b95ec5bb667fd8e7677fbca9d2b52514": {
+            "text": "Roller som kan se dette skjemaet i admin"
+        },
+        "7699145eeafb4f906cdf64b364d81279": {
+            "text": "Roller som kan redigere dette skjemaet"
+        },
+        "7b537711012c56e48beae526f42138b5": {
+            "text": "Roller som kan slette dette skjemaet"
+        },
+        "e6a6dac6536746746516a2d988574b94": {
+            "text": "Oppdaterte eksisterende side"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Slett avhuket"
+        },
+        "d443ef32ab3606555c7e27ac2812582e": {
+            "text": "Send avhuket p\u00e5 nytt"
+        },
+        "7e82d5870052e82b8b5ec1745094adbd": {
+            "text": "Send avhuket til sider"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
         }
     }
 }

@@ -8,9 +8,6 @@
         "b021df6aac4654c454f46c77646e745f": {
             "text": "+"
         },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Type"
-        },
         "a40cd434b16249d102d47da63b86d4f5": {
             "text": "Forskjeller"
         },
@@ -34,6 +31,12 @@
         },
         "dfb0c566cd0aa3d5848eab6d0f383560": {
             "text": "Nytt felt"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "41c7ed7b166c4769dec7a4db8b9496db": {
+            "text": "Importeringsresultater"
         }
     }
 }
