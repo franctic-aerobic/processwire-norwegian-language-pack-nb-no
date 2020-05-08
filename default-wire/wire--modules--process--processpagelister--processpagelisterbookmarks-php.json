@@ -29,17 +29,8 @@
         "97d0cf512abc18c75dc4200fb4102696": {
             "text": "alle"
         },
-        "624cb003e73151369680ecae1fe53f47": {
-            "text": "Tittel"
-        },
         "8ca63fc5a95e5a226137f8dd03ad81f0": {
             "text": "Hvilke sider skal bokmerket vise?"
-        },
-        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
-            "text": "Kolonner"
-        },
-        "a68194569adc7b00a73840fceb912c24": {
-            "text": "Tilgang"
         },
         "7cdd12aae1c258859c039c4d544338ef": {
             "text": "Mine bokmerker"
@@ -50,44 +41,23 @@
         "639bae9ac6b3e1a84cebb7b403297b79": {
             "text": "du"
         },
-        "4195dd0db33f6f97904fd72fa4386de9": {
-            "text": "Vennligst huk av i denne boksen for \u00e5 bekrefte at du vil slettet dette bokmerket"
-        },
         "ea4788705e6873b424c65e91c2846b19": {
             "text": "+"
         },
         "d448b4319171ecbd0c92be8ddbff245b": {
             "text": "Bokmerketype"
         },
-        "60848c692f8ddb0363e500da44563bae": {
-            "text": "Eiet"
-        },
-        "8970f06e05613caabbfe84ddd73db8d2": {
-            "text": "(synleg kun til meg)"
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Privat"
         },
         "3d067bedfe2f4677470dd6ccf64d05ed": {
             "text": "Offentlig"
-        },
-        "c8a5544122c29a7c5ad0d117b19851d6": {
-            "text": "Tillat andre brukere \u00e5 f\u00e5 tilgang til denne bokmerkeadressen?"
-        },
-        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
-            "text": "Hvis du sender bokmerkeadressen til noen andre som allerede er logget inn i administrasjonsgrensesnittet, kan de se bokmerket hvis du merker av denne boksen."
         },
         "a240fa27925a635b08dc28c9e4f9216d": {
             "text": "Rekkef\u00f8lge"
         },
         "6756b991b141463aebfaa74809adb83c": {
             "text": "Slettet bokmerke"
-        },
-        "4192fc415b996e703cd7368de70024b2": {
-            "text": "Bokmerket kan ikke slettes"
-        },
-        "611554e91bd3fc300cb89db36b831c82": {
-            "text": "+"
-        },
-        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
-            "text": "Handlinger"
         },
         "3964c1856a3770efc8de99fb7d71854f": {
             "text": "Vis"
@@ -98,7 +68,16 @@
         "2ae0c04d53921492ca01d03f4913b75b": {
             "text": "+"
         },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "Tittel"
+        },
         "997a44675b11fac14a95280eda5557f5": {
+            "text": "+"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Kolonner"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
             "text": "+"
         }
     }

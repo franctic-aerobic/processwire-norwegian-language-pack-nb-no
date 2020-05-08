@@ -2,17 +2,8 @@
     "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplate.module",
     "textdomain": "wire--modules--process--processtemplate--processtemplate-module",
     "translations": {
-        "93cba07454f06a4a960172bbd6e2a435": {
-            "text": "Ja"
-        },
-        "bafd7322c6e97d25b6299b5d6fe8920b": {
-            "text": "Nei"
-        },
         "729a51874fe901b092899e9e8b31c97a": {
             "text": "Er du sikker?"
-        },
-        "0095a9fa74d1713e43e370a7d7846224": {
-            "text": "Eksport"
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Umerket"
@@ -229,9 +220,6 @@
         },
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "Vis innloggingssiden: %s"
-        },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Vidersend til annen URL"
         },
         "77b116ba76d6cad7420de0729f5437cb": {
             "text": "Skal sidene v\u00e6re s\u00f8kbare n\u00e5r brukeren ikke har tilgang?"
@@ -667,6 +655,15 @@
         },
         "31a0330754505f0778be18e7b4dbc661": {
             "text": "List opp og rediger malene som kontrollerer sidens utdata"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "+"
         }
     }
 }
