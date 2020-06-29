@@ -1,7 +1,7 @@
 # ProcessWire-Norwegian-Language-Pack-nb-NO
 
 ## Version
-ProcessWire 3.0.133 dev
+ProcessWire 3.0.161 dev
 
 ## Including translation for these modules (both Pro and free)
 * 404 Logger
@@ -13,9 +13,6 @@ ProcessWire 3.0.133 dev
 * Fieldset group
 * Form Builder
 * Functional fields
-* Hanna Code
-* Hanna Code Helper
-* Hanna Code Text Formatter
 * Import External Images
 * Import Pages from CSV
 * Jumplinks
@@ -45,6 +42,8 @@ ProcessWire 3.0.133 dev
 * Select Fields
 * Swift Mailer
 * Templates Reference (multiple)
+* TextformattterFunkyFunctions
+* TfaEmail
 * TOTP two-factor authentication
 * Upgrades
 * Verified URL
