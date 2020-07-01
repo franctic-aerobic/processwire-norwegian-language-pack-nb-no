@@ -1,5 +1,27 @@
 {
     "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
     "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
-    "translations": []
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Flere problemer oppdaget, vennligst se gjennom:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Velkommen til ProcessWire!"
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Du kan aktivere feils\u00f8kingsmodus ved \u00e5 redigere din %s-fil og legge til f\u00f8lgende:"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "For eksempel, de lokale innstillingene til US English kan v\u00e6re: %s"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Siden er i feils\u00f8kingsmodus, passende til sider under utvikling"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "P\u00e5krevd versjon: %1$s, Funnet versjon: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Fant ikke p\u00e5krevd fil: %s"
+        }
+    }
 }

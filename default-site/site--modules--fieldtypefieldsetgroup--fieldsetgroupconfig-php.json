@@ -64,6 +64,21 @@
         },
         "de76ba45983bc1a0b468c9af665a52cb": {
             "text": "(for felter som nylig er lagt til m\u00e5 du f\u00f8rst lagre)."
+        },
+        "2a8467ffa9f230889baba43ea1aacfa0": {
+            "text": "Flyttet felter utenfor feltsettet inn i feltsettet"
+        },
+        "4dfe3ad46b7588b65dfc09f42fd69345": {
+            "text": "Definer feltene som vises i dette feltsettet. Du kan ogs\u00e5 dra og slippe felter til \u00f8nsket rekkef\u00f8lge."
+        },
+        "0a5922405c00d2eb12bbdc4d9eafe7e5": {
+            "text": "Du kan ogs\u00e5 klikke p\u00e5 valgte felter for \u00e5 konfigurere dem i sammenheng med dette feltsettet"
+        },
+        "4b36710e70ee1bb8f5f9036908fa16ae": {
+            "text": "Om n\u00f8dvendig kan du fjerne eller justere disse ekstra feltene ved \u00e5 redigere malene."
+        },
+        "284ec04c0a661f721735f0c4c5d3ce89": {
+            "text": "Handlingen vil p\u00e5virke f\u00f8lgende mal(er): %s"
         }
     }
 }

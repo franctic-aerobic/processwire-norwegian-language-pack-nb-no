@@ -109,6 +109,18 @@
         },
         "ed97424627acfa23d899d27908115be3": {
             "text": "Fjern tomme avsnittklammer"
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Se [detaljer](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) i CKEditors dokumentasjon."
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "til alle CKEditor-felter"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "kun til dette CKEditor-feltet"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "De f\u00f8lgende innstikkene ble funnet. Vennligst kryss av i boksen ved siden av hvert innstikk du vil laste inn."
         }
     }
 }

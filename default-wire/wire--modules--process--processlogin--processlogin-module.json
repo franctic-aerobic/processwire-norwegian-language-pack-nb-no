@@ -31,6 +31,90 @@
         },
         "8b10281154afa6312e3e8448c14f7134": {
             "text": "Tofaktorautentisering"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-post"
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Innlogging er ikke st\u00f8ttet for e-postadressen."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Sjekk av informasjonskapsel feilet: Vennligst tillatt informasjonskapsler for \u00e5 logge inn."
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Sjekk av JavaScript feilet: Vennligst tillatt JavaScript for \u00e5 logge inn."
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Ugyldig innlogginsnavn"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Brukernavn eller e-postadresse"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "Hopper over systemsjekker etter innlogging fordi oppdateringen ble utf\u00f8rt (%s)"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Innloggingstype"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Brukernavn"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-postadresse"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Enten eller"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "For \u00e5 bruke e-postinnlogging, m\u00e5 du [aktivere \"unik\"-innstillingen](https:\/\/www.snobjorn.no\/kontrollpanel\/setup\/language-translator\/edit\/%s) p\u00e5 e-postfeltet."
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Fant de f\u00f8lgende Tfa-modulene:"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "Tving bruk av tofaktorautentisering"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "N\u00e5r en Tfa-modul er valgt her, vil den automatisk bli aktivert (ved innlogging) for brukere som ikke bruker tofaktorautentisering."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "Sjekk rollene for \u00e5 tvinge tofaktorautentisering, eller la alle ikke v\u00e6re avkrysset for \u00e5 tvinge ALLE rollene (n\u00e5r\/hvor det er mulig)."
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Anbefalt sterkt tofaktorautentisering til disse rollene"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Etter \u00e5 ha logget inn i administrasjonsgrensesnittet, ProcessWire vil gi melding til brukerene med rollene du har valgt her om \u00e5 ta i bruk tofaktorautentisering i kontoene sine."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Tillatt brukere valget \u00e5 hoppe over inntasting av kode n\u00e5r nettleser\/sted er husket?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Dette viser valget \"Husk denne datamaskinen?\" for brukere ved inntasting av kode under p\u00e5logging."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Skriv inn antall dager nettleseren\/stedet til brukeren skal huskes, eller 0 for deaktivere."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Brukagent (nettleser, plattform, og versjon av hver enkelt)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Ikke-versjonert brukeragent (nettleser eller plattform, men ingen versjoner\u2014mindre sannsynlig \u00e5 endre ofte)"
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "Tfa-moduler i moduloversikten til ProcessWire"
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Innlogging"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "="
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Roller"
         }
     }
 }

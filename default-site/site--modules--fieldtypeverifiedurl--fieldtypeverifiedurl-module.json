@@ -67,6 +67,18 @@
         },
         "d8b0ce5fed9ff0c5e1f381a4c0b2a386": {
             "text": "%d fors\u00f8k"
+        },
+        "255868d9851e6d91d2be1505635eadd8": {
+            "text": "Antall ganger du vil pr\u00f8ve igjen senere, i tilfelle nettadressen kommer tilbake p\u00e5 nettet."
+        },
+        "7b6d23ed7d8c11c0375fc9b0e6acbe4d": {
+            "text": "Etter maksimale fors\u00f8k vil nettadresse ha statusen: %s"
+        },
+        "5f4f9f7369ffba13f64f36060d29fcd4": {
+            "text": "Loggf\u00f8r nettadressebekreftelser og -feil?"
+        },
+        "e11966b9f8d21c35ef30d098e33f49c5": {
+            "text": "Felt som lagrer en nettadresse og bekrefter den"
         }
     }
 }

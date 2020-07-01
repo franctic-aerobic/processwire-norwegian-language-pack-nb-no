@@ -25,6 +25,12 @@
         },
         "3918809b01dd88b1c1c892aec102512b": {
             "text": "E-postadresse i gyldig format"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "E-postadressen \u201c%s\u201d er allerede i bruk, vennligst bruk en annen"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "E-postadressen overskred maksimal tillatt lengde p\u00e5 %d tegn"
         }
     }
 }

@@ -40,6 +40,24 @@
         },
         "a1fa27779242b4902f7ae3bdd5c6d508": {
             "text": "="
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Brukers innloggingsnavn"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "For sikkerthets skyld, vennligst skriv inn"
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "Brukernavnet kan innehold sm\u00e5 bokstaver a-z, 0-9, bindestrek og understrek."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "P\u00e5krevd passord ble oppgitt, men var ikke korrekt"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "P\u00e5krevd passord ble ikke oppgitt"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Ikke tillatt"
         }
     }
 }

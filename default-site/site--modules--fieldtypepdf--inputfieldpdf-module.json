@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FieldtypePDF\/InputfieldPDF.module",
+    "textdomain": "site--modules--fieldtypepdf--inputfieldpdf-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "+"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Vis miniatyrbilder i sideredigeringen?"
+        },
+        "755c21bc44b056d7b1aeac55c4a1cb1f": {
+            "text": "="
+        },
+        "4288f1ea972503efab67373872bd62b5": {
+            "text": "En eller flere PDF-filer lastet opp med miniatyrbilder"
+        }
+    }
+}

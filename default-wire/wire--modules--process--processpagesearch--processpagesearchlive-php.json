@@ -52,6 +52,21 @@
         },
         "627b11fa495dc928e31ab76310d934f9": {
             "text": "%s hjelp"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Begrens resultater til mal: %s"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Finn maler som har dette feltet: %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Finn felter med \u201cckeditor\u201d i innstillingene"
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "S\u00f8ker %1$s etter: %2$s"
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Du kan ogs\u00e5 bruke en av disse egenskapene:"
         }
     }
 }

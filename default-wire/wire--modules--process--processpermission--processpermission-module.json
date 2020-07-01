@@ -25,6 +25,12 @@
         },
         "f42c0a03ea62c2f657939fd15ef033cb": {
             "text": "N\u00e5r installert, m\u00e5 brukeren ha denne tillatelsen for \u00e5 fullf\u00f8re den beskrevne oppgaven."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "N\u00e5r IKKE installert, tilgang v\u00e6re antatt dersom brukeren allerede har redigeringstilgang til nevnte ressurs."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "102\/5000 Som et resultat, hvis installert, kan denne tillatelsen fjerne eksisterende tilgang inntil den er tildelt roller."
         }
     }
 }

@@ -1,5 +1,15 @@
 {
     "file": "wire\/modules\/PagePathHistory.module",
     "textdomain": "wire--modules--pagepathhistory-module",
-    "translations": []
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Minste alder (sekunder)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Start opptak av historien til en side s\u00e5 mange sekunder etter at den har blitt opprettet. Minst 2 sekunder eller mer er anbefalt."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Standard: %s"
+        }
+    }
 }

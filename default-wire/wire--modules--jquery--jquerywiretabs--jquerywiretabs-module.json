@@ -13,6 +13,12 @@
         },
         "d9f813a897729ef85bdc36fe6f9bc91a": {
             "text": "Husk faneposisjoner mellom foresp\u00f8rsler?"
+        },
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "jQuery Wire-faneinnstikk"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Tilbyr et jQuery-innstikk for generering av faner i ProcessWire."
         }
     }
 }

@@ -31,6 +31,18 @@
         },
         "7b538279515341a88a5fcfb4197111f6": {
             "text": "Andre HTML-valg bruke ved kj\u00f8ring."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Merknad:** Disse valgene er forel\u00f8pig eksperimentelle. Vennligst pass p\u00e5 for feil og rapporter feil."
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Bruk HTML-valg n\u00e5"
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Som en ekstra forh\u00e5ndsregel er det anbefalt at du tar en sikkerhetskopi av databasen din f\u00f8r du kj\u00f8rer dette.**"
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Fremtidige oppdateringer vil skje automatisk n\u00e5r hver enkelt side blir lagre."
         }
     }
 }

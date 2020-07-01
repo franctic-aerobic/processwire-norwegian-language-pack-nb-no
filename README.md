@@ -13,6 +13,10 @@ ProcessWire 3.0.161 dev
 * Fieldset group
 * Form Builder
 * Functional fields
+* Funky Functions
+* Hanna Code
+* Hanna Code Helper
+* Hanna Code Text Formatter
 * Import External Images
 * Import Pages from CSV
 * Jumplinks
@@ -27,6 +31,7 @@ ProcessWire 3.0.161 dev
 * Page Action: Set Status
 * Page Field Edit Links
 * PageAction: Export to CSV
+* PDF Fieldtype
 * Persistent Login for users.
 * ProCache
 * ProCache Buster
@@ -42,9 +47,7 @@ ProcessWire 3.0.161 dev
 * Select Fields
 * Swift Mailer
 * Templates Reference (multiple)
-* TextformattterFunkyFunctions
-* TfaEmail
-* TOTP two-factor authentication
+* TOTP two-factor authentication 
 * Upgrades
 * Verified URL
 * Version Control

@@ -43,6 +43,15 @@
         },
         "5aebeca1891bcef0142167dda686b4a7": {
             "text": "Inneholder alle (hele) ord, i hvilken som helst rekkef\u00f8lge"
+        },
+        "b956d301c10771357a356a80d9f0d3a5": {
+            "text": "Felter \u00e5 legge i k\u00f8 for autofullf\u00f8ring"
+        },
+        "b167d45586a5cb2582394b5ec1545065": {
+            "text": "Skriv inn navnene til feltene som skal ha teksten sin lagt i k\u00f8 for autofullf\u00f8ringstreff."
+        },
+        "6429d0ba1de3ee46f49581535ac36cf4": {
+            "text": "Typisk vil dette bare v\u00e6re tittelfeltet, men du kan legge til flere felter ved \u00e5 skille hver enkelt med et mellomrom."
         }
     }
 }

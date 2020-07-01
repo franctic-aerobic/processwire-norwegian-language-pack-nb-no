@@ -25,6 +25,9 @@
         },
         "d5af3f8c985a3592422462cce67bc86c": {
             "text": "En s\u00f8sterside (id=%1$d) bruker allerede navnet \"%2$s\" til spr\u00e5ket: %3$s"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Sidetallet er lagt til dette ordet i paginerte nettadresser for dette spr\u00e5ket. Hvis utelatt, vil \"%s\" brukes."
         }
     }
 }

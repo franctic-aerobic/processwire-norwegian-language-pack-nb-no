@@ -1,5 +1,12 @@
 {
     "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/_search-form.php",
     "textdomain": "wire--modules--admintheme--adminthemeuikit--_search-form-php",
-    "translations": []
+    "translations": {
+        "657f8b8da628ef83cf69101b6817150a": {
+            "text": "hjelp"
+        },
+        "1f7b42ad432b913e6e78c7b9db29f6ae": {
+            "text": "Pr\u00f8v \u201chjelp\u201d"
+        }
+    }
 }

@@ -322,6 +322,51 @@
         },
         "57a9412e7a9b1f328ffef4cd468dabeb": {
             "text": "Legg til som f\u00f8rste felt"
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Velg alle feltene som skal ha denne merkelappen"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Hvis du vil slette denne merkelappen, fjerner du alle feltene fra den."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "La til merkelappen \u201c%1$s\u201d til feltet: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Fjernet merkelappen \u201c%1$s\u201d fra feltet: %2$s"
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Innstillinger tillatt \u00e5 overstyre etter mal"
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Vennligst merk:"
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Inndata:"
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Merknader dukker opp her og ser ut som dette."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Sjekk feltdata"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Hver enkelte merkelapp m\u00e5 v\u00e6re et ord (understreking er ok)."
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Fjernet ubrukte egenskaper: %s"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "Fjernet %d forlatte rader"
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "="
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Endringer"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Innstillingsoverskridelser for feltnavnomr\u00e5de: %s"
         }
     }
 }

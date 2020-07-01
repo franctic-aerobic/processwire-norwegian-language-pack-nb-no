@@ -346,6 +346,42 @@
         },
         "7f05cd7d695e4a911a436478a8f0cdfc": {
             "text": "="
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Skaff modulinformasjon"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "Moduler p\u00e5 filsystemet som for \u00f8yeblikket ikke er installert"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Modulens klassenavn"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Du kan bla gjennom modulkatalogen og finne modulen du vil laste ned og installere."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Skriv inn eller lim inn klassens navn til modulen du vil installere, og klikk deretter p\u00e5 \u201c%s\u201d-knappen for \u00e5 fortsette."
+        },
+        "8d68afb831b95c0dc23e1457385a983c": {
+            "text": "Feil rapportert av nettjenesten:"
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Modul: %s"
+        },
+        "e45037779e7b459b4ea29944f1b2ef5c": {
+            "text": "Avinstallere denne modulen? Etter avinstallering kan du fjerne modulfilene fra serveren hvis de ikke er i bruk av andre moduler."
+        },
+        "c6ac99bad720428d69928c160e87c55e": {
+            "text": "Denne modulen har ingen felt \u00e5 konfigurere"
+        },
+        "0e7a5c8e978678d4124240dafccdc636": {
+            "text": "V\u00e6r forsiktig, hvis du krysser av i denne boksen kan du \u00f8delegge modulen eller nettstedet ditt. Brukes bare til midlertidig testing."
+        },
+        "7f3e66ccbb2c396210f9f58ad5a75e39": {
+            "text": "Feils\u00f8king"
+        },
+        "d9402453cf25d5a1ced0a12d96cc7f98": {
+            "text": "Navneomr\u00e5de"
         }
     }
 }

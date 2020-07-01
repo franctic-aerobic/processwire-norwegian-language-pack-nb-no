@@ -46,6 +46,18 @@
         },
         "c240588ef89cf786704d6ab17c8b4663": {
             "text": "Ny Matrix-type (importer)"
+        },
+        "18f7e801ef387c57d661688e00cf9442": {
+            "text": "Definer en eller flere typer som vil v\u00e6re tilgjengelige i din repeater-matrise."
+        },
+        "a3262a7553fe4fc016b8b4e18ad44ab0": {
+            "text": "Valgfrie render-filer for denne repeater-matrisen"
+        },
+        "3eca49161a56dcaa257ac4eb3c71fda0": {
+            "text": "Se Repeater Matrix-dokumentasjonen for flere detaljer."
+        },
+        "41513d40053ba7d07280a732b044c20d": {
+            "text": "Slettet matrisetype"
         }
     }
 }

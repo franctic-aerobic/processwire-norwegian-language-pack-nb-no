@@ -55,6 +55,24 @@
         },
         "5b176800a4fa5f818733bbc47bf50c58": {
             "text": "Inndatast\u00f8rrelse"
+        },
+        "b4dd3583116d604ed9a2981d2210d710": {
+            "text": "Ikke last avanserte tilpasninger til Uikit-skjema"
+        },
+        "1c19e6375fda5d8975a4986163a31619": {
+            "text": "Ikke last valgte tilpasninger til Uikit-skjema"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Oppgi en nettadresse\/bane relativ til roten til ProcessWire-installasjonen."
+        },
+        "cb13fc9385a05438eec0d718221c32fa": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at individuelle feltkolonnebredder (hvis brukt) ikke er aktuelle n\u00e5r du bruker *horisontal stil*."
+        },
+        "2ad27a22d98d3c948d3c1c21f8077006": {
+            "text": "Prosentbredde for etikettkolonner (bare horisontal stil)"
+        },
+        "7524e33af67149a6f4295a4632c3abd9": {
+            "text": "Angi en verdi mellom 5 % og 90 % for \u00e5 bestemme bredden p\u00e5 etikettkolonnen. Inndatakolonnen vil ha de resterende prosentene, dvs. hvis du spesifiserer 30 % her, vil etikettkolonnen ha 30 % bredde og inndatakolonnen vil ha 70 % bredde."
         }
     }
 }

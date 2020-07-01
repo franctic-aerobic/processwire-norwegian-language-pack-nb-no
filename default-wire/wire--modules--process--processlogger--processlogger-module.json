@@ -98,9 +98,6 @@
         "88cfe14e9a1a3300a1f5ef50f73a648b": {
             "text": "Bruker"
         },
-        "6ca734172827db670a1e2ea88e6c5401": {
-            "text": "URL"
-        },
         "9f3af3dbda7832b613a27b731cc3ca02": {
             "text": "Tekst"
         },
@@ -115,6 +112,18 @@
         },
         "b9dc13817999fcd3ea5967c020b5c043": {
             "text": "Flere nye loggoppf\u00f8ringer p\u00e5 side 1"
+        },
+        "75d8bea19790a638a8dde30fd475dba6": {
+            "text": "404 ikke funnet"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "5118ea88654d8338b03da5c0b62c1f42": {
+            "text": "Pluss %d tidligere duplikat"
+        },
+        "c9ac43f375c0387b8a7ff29615abc018": {
+            "text": "Pluss %d tidligere duplikater"
         }
     }
 }

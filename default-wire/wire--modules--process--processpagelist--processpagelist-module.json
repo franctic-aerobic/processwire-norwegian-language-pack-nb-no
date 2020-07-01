@@ -70,6 +70,21 @@
         },
         "69ff054adc667458622b780aabe13d60": {
             "text": "Vis siden ID-nummer istedenfor"
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Mengdetype for undersider"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "I sidevisningen, antall undersider vises ved siden av hver side n\u00e5r det er aktuelt. Hvilken mengdetype skal vises?"
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "N\u00e6rmeste undersider (standard)"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Som standard, handlingene til en side skjer etter et klikk (i standard administrasjontema). For at de skal skje n\u00e5r pekeren f\u00f8res over, kryss av i denne boksen."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "For flere valg, se innstillingene $config->pageList i \/wire\/config.php. Du kan kopiere disse innstillingene til \/site\/config.php og overskrive de."
         }
     }
 }

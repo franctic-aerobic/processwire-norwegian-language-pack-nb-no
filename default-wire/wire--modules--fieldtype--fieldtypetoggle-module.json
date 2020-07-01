@@ -1,5 +1,12 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
     "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
-    "translations": []
+    "translations": {
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "**Heltall:** 0=nei, 1=ja (samme som ingen formatering)."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "Veksle (Ja\/Nei)"
+        }
+    }
 }

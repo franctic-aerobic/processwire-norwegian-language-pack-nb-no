@@ -1,5 +1,33 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeHtml.php",
     "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimehtml-php",
-    "translations": []
+    "translations": {
+        "0e8f21f09ae327a89b030e9df934de30": {
+            "text": "HTML5-nettleserens opprinnelige dato, klokkeslett eller begge deler"
+        },
+        "3d6b7b2eaab198f0dca6f741d6cd7178": {
+            "text": "HTML inndatatype"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Dato"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Klokkeslett"
+        },
+        "d060352fa78723b152199ca69e02ff18": {
+            "text": "B\u00e5de dato og tid"
+        },
+        "0ad6f617180d27600edab7be9a079f90": {
+            "text": "Minste tillatte dato"
+        },
+        "62d2ced9bc40c8d0d5bed70b2b32d9e5": {
+            "text": "Maks tillatte dato"
+        },
+        "881f6f061eac7055ad209a17121c5130": {
+            "text": "Minste tillatte klokkeslett"
+        },
+        "65a779047df07c9cd6b487739e402ddf": {
+            "text": "Maks tillatte klokkeslett"
+        }
+    }
 }

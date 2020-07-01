@@ -1,5 +1,42 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeText.php",
     "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
-    "translations": []
+    "translations": {
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "Datovelger"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Ingen dato-\/tidvelger"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Dato-\/tidvelger ved feltfokus"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(anbefalt)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Dato-\/tidvelger ved knappeklikk"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Dato inndataformat"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Tid inndataformat"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Tid inndatatype"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Valg"
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Plassholdertekst"
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "St\u00f8rrelse"
+        }
+    }
 }

@@ -1,0 +1,72 @@
+{
+    "file": "site\/modules\/FieldtypePDF\/FieldtypePDF.module",
+    "textdomain": "site--modules--fieldtypepdf--fieldtypepdf-module",
+    "translations": {
+        "32a144a7d2e26d06bf443519cf72cb83": {
+            "text": "PDF til bilde-konverterer"
+        },
+        "5b552b7d5292efec12d5d9681b670707": {
+            "text": "Alternativer brukt n\u00e5r bilder blir laget av PDF-filer."
+        },
+        "d0efb46cfd8b126482192a343e2142b4": {
+            "text": "Bildeformat"
+        },
+        "3a16fd8b4afb6663ae41b95c02dbce6e": {
+            "text": "Format som brukes n\u00e5r du oppretter bildet (anbefalt er JPEG eller PNG). Ikke glem \u00e5 sjekke filtypen."
+        },
+        "e890db27ea11209ef49b6cc61a177448": {
+            "text": "Filetternavn"
+        },
+        "762e345adc97f56793bb049cdb94328d": {
+            "text": "B\u00f8r samsvare med bildeformatet."
+        },
+        "850a6f62f9377270f37033636182108a": {
+            "text": "Bildebakgrunn"
+        },
+        "47bc4ede56a396212ddae38951a32511": {
+            "text": "Farge brukt som bakgrunn for gjennomsiktige PDF-filer. Skriv inn 'transparent' hvis du ikke vil at bakgrunnen skal settes. Standardfarge er hvit."
+        },
+        "dfcda4c6637ca12671beedc8604d2eb2": {
+            "text": "ImageMagick-innstillinger (avansert)"
+        },
+        "97f550111f0c2e797d5c6366e58a4e50": {
+            "text": "Innstillinger satt til ImageMagick-forekomsten f\u00f8r du leser PDF-filen. **Endre dette bare hvis du vet hva du gj\u00f8r.**"
+        },
+        "35f3675343000d6bb5f10ce451a571a4": {
+            "text": "tetthet"
+        },
+        "990765204137d1e6378ed87c8b19a745": {
+            "text": "Fargerom"
+        },
+        "99ee9dca18e561ae9e82e564f5f801ec": {
+            "text": "La forbli tom viss du ikke vil velge."
+        },
+        "994767d7473b83889c6fc2b9ec072bbb": {
+            "text": "St\u00f8ttet siden ImageMagick versjon 6.5.7"
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Alternativer"
+        },
+        "ed2da75e363bad293cb1917f72e30a36": {
+            "text": "En definisjon per linje (n\u00f8kkel=verdi)"
+        },
+        "d64b3ca98f740128888c7eddd4e3fc29": {
+            "text": "PDF med miniatyrbilde"
+        },
+        "89c944643f51a04b00e44a276861e2fd": {
+            "text": "Felt som lagrer en eller flere PDF-filer som st\u00f8tter opprettelse av miniatyrbilder"
+        },
+        "e08c334857a7453585f7903e5cf43d0d": {
+            "text": "FieldtypePDF krever ImageMagick PHP-utvidelsen."
+        },
+        "ec0912da5e1cd5be9a1bfbce0ac63127": {
+            "text": "Reservemodus"
+        },
+        "85a017b87474e9f19acf4f6b2de6db12": {
+            "text": "Sjekk dette n\u00e5r du har problemer med \u00e5 generere bilde (f.eks. GhostScript-feil)."
+        },
+        "58731ed240de56b2bced6e18399f0506": {
+            "text": "** Advarsel:** Dette vil produsere bilder av lav kvalitet, og noen felttypealternativer vil ikke v\u00e6re tilgjengelige, men kan fungere der normal modus ikke gj\u00f8r det."
+        }
+    }
+}

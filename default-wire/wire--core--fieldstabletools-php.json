@@ -1,5 +1,15 @@
 {
     "file": "wire\/core\/FieldsTableTools.php",
     "textdomain": "wire--core--fieldstabletools-php",
-    "translations": []
+    "translations": {
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "Forekommer %d ganger"
+        },
+        "fc03562628461118ea6135ee07eeb891": {
+            "text": "(sider: %s)"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Unik"
+        }
+    }
 }

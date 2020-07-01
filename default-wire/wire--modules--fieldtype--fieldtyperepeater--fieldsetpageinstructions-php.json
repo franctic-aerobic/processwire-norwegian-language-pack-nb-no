@@ -1,5 +1,51 @@
 {
     "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
-    "translations": []
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Dette er litt eksempeltekst"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Instruksjoner p\u00e5 hvordan du bruker dette feltet"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Denne typen feltsett bruker en egen side (bak kulissene) for \u00e5 lagre verdier for feltene du velger over."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "En fordel er at du kan bruke felter som allerede finnes p\u00e5 siden din p\u00e5 nytt, utenfor feltsettet."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "For eksempel kan du ha et \"tittel\"-felt p\u00e5 siden din, og et annet i feltsettet. Likedan for andre felt."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Dette er mulig fordi felt i feltsettet befinner seg i sitt eget navneomr\u00e5de\u2014en annen side\u2014atskilt fra hovedsiden."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Nedenfor er flere eksempler p\u00e5 hvordan du bruker dette feltet i malfilene dine og fra API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "F\u00e5 en verdi:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Avgir en verdi:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Angir en verdi n\u00e5r du er i markering:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Angi en verdi:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Angi og lagre en verdi:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "dette sl\u00e5r av utdataformateringen n\u00e5r det er n\u00f8dvendig"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Tilordne feltsett til en annen (kortere) variabel og gi ut en verdi:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Finne sider som har feltsett med \u201c%s\u201d-feltet som inneholder teksten \u201ceksempel\u201c:"
+        }
+    }
 }

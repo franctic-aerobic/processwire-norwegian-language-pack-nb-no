@@ -76,6 +76,21 @@
         },
         "9c0e34e99b5acfb622d682dabefa5578": {
             "text": "Beskrivelser er flerspr\u00e5klige som standard, dersom du har Language Support installert. Om du \u00f8nsker \u00e5 deaktivere flerspr\u00e5klige beskrivelser, kryss av i denne boksen."
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Filen er for store - maksimum tillatte st\u00f8rrelse er MAX_KB kb"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Hvis avkrysset, vil en fil som er lastet opp med samme navn som en eksisterende fil erstatte den eksisterende filen (beskrivelse og koder forblir). Hvis ikke avkrysset, blir opplastede filnavn gitt nytt navn til \u00e5 v\u00e6re unike."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at n\u00e5r dette alternativet er aktivert, blir AJAX-opplastede filer lagret med siden umiddelbart ved opplasting, i stedet for n\u00e5r du klikker p\u00e5 \"lagre\". Som et resultat kan det v\u00e6re lurt \u00e5 la dette alternativet ikke v\u00e6re merket med mindre du har et spesifikt behov for det."
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Felt \u201c%1$s\u201d type \u201c%2$s\u201d er ikke st\u00f8ttet i felt \u201c%3$s\u201d"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Ust\u00f8ttet filetternavn, vennligst kun bruk: EXTENSIONS"
         }
     }
 }

@@ -4,6 +4,9 @@
     "translations": {
         "2864512e4161ae21b145798e32938abf": {
             "text": "="
+        },
+        "dc643f0a55e724a742f7bcc43fa5b84e": {
+            "text": "H\u00e5ndterer inndata til Page Title og autogenerering av Page Name (n\u00e5r navnet er tomt)"
         }
     }
 }

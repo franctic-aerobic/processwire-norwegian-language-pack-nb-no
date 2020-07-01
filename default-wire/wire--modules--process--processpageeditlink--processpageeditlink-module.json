@@ -79,6 +79,21 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "*Forel\u00f8pig eksperimentell"
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "="
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Forholdet lenken har til dokumentet."
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Tilleggsklasser som kan p\u00e5virke utseende eller oppf\u00f8rselen til lenken."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Du kan tilpasse tilgjengelige attributter som vist over i modulinnstillingene til %s."
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Skriv in en attributtverdi per linje. Brukeren vil kunne velge blant disse alternativene n\u00e5r den legger til lenker. For \u00e5 gj\u00f8re at et alterantiv er valgt som standard (p\u00e5 nye lenker), skriv \" + \" foran."
         }
     }
 }

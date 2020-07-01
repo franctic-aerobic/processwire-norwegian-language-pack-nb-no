@@ -664,6 +664,39 @@
         },
         "0095a9fa74d1713e43e370a7d7846224": {
             "text": "+"
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Hvis du nettopp har lagt til felter ovenfor, lagrer du f\u00f8rst og kommer tilbake hit for \u00e5 velge dem."
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klikk og dra for \u00e5 justere feltbredde"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Lagre mal f\u00f8r du justerer bredden p\u00e5 det nye feltet"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Gj\u00f8r at ProcessWire kan oppdatere malfilen din for ProcessWire-navneomr\u00e5det og bruke eventuelle installerte FileCompiler-moduler."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Anbefaler i det minste for malfiler som ikke bruker et ProcessWire-navneomr\u00e5de (som de som stammer fra PW 2.x-nettsteder)."
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (kompiler n\u00e5r filen ikke har noe navneomr\u00e5de)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Oppdaget at navnomr\u00e5det for malfilfil er \"%s\"."
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Malnavn kan bruke bokstaver (a-z A-Z), tall (0-9), bindestrek og understrek."
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "="
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Ytterligere redigeringstillatelser og overstyringer"
+        },
+        "b58b1fada0411080ca80b5199d2e56ce": {
+            "text": "Fjern feltet fra mal: %s"
         }
     }
 }
