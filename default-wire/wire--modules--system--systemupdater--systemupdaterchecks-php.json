@@ -22,6 +22,60 @@
         },
         "d331f06185da085f65656f31a7a8a795": {
             "text": "Fant ikke p\u00e5krevd fil: %s"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Merk at din rot %s-fil ikke er oppdatert med denne ProcessWire-versjonen. Oppdater n\u00e5r du muligheten."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "For \u00e5 undertrykke denne advarselen, erstatt eller legg til f\u00f8lgende \u00f8verst i den eksisterende .htaccess-filen:"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Hvis denne installasjonen for tiden brukes til utvikling eller testing, anbefaler vi at du aktiverer feils\u00f8kingsmodus."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Feils\u00f8kingsmodus sikrer at alle feil er synlige, noe som kan v\u00e6re nyttig under utvikling eller feils\u00f8king."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Det gj\u00f8r det ogs\u00e5 mulig med ytterligere utviklerinformasjon her i administratorgrensesnittet."
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Merk: Dette varselet vises ikke igjen. Husk \u00e5 deaktivere feils\u00f8kingsmodus f\u00f8r du g\u00e5r live."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Sikkerhetsadvarsel: filen '% s' eksisterer og b\u00f8r slettes s\u00e5 snart som mulig."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Advarsel: % s-filen din spesifiserer filtillatelser som er for l\u00f8se i mange milj\u00f8er:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Les \"Sikre filtillatelser\" for mer informasjon"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "For \u00e5 undertrykke denne advarselen, legg til f\u00f8lgende i % s-filen:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Advarsel: Du har et felt som heter \u201cpublished\u201c som er i konflikt med sideeiendommen \u201cpublished\u201c."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Endre navn p\u00e5 feltfeltet ditt til noe annet, og oppdater eventuelle maler som refererer til det."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Din n\u00e5v\u00e6rende lokalinnstilling er \u201c% s\u201d."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Merk: Din n\u00e5v\u00e6rende serverinnstilling fungerer ikke som forventet med UTF-8-tegnsettet og kan for\u00e5rsake mindre problemer."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Oversett \u201cC\u201c-innstillingen for hvert spr\u00e5k til den kompatible lokaliteten i % s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Vennligst legg til dette i %1$s-filen din (juster \u201c%2$s\u201d etter behov):"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Hvis dette er et live- eller produksjonsnettsted, b\u00f8r du deaktivere feils\u00f8kingsmodus i %1$s med: %2$s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
         }
     }
 }
