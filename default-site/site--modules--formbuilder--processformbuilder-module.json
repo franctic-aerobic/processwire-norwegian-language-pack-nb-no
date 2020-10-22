@@ -23,9 +23,6 @@
         "c3ffe5a9e8dd104bf471beaeefcc9a06": {
             "text": "Vennligst skriv inn en gyldig lisensn\u00f8kkel i modulinnstillingene til Form Builder"
         },
-        "334c4a4c42fdb79d7ebc3e73b517e6f8": {
-            "text": "ingen"
-        },
         "b561d42071fccc598d09778d38c97366": {
             "text": "Ingen skjemaer enda"
         },
@@ -137,9 +134,6 @@
         "a5cf4df61e0599f7ee343b3c872fa623": {
             "text": "Eksempel: 480px"
         },
-        "71853298c16cc82f42312dc125db5bd2": {
-            "text": "Tekst p\u00e5 innsendingsknapp"
-        },
         "a4d3b161ce1309df1c4e25df28694b7b": {
             "text": "Send inn"
         },
@@ -170,9 +164,6 @@
         "92cef2a8a5cb15957866e64df2dd52bf": {
             "text": "Legg til nytt felt"
         },
-        "70e74127b87b6110a3334eb371b0d535": {
-            "text": "Side\/sider"
-        },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "+"
         },
@@ -184,54 +175,6 @@
         },
         "3c0016ee9044d522fab3f1a3d8c8215f": {
             "text": "Rediger felt: %s"
-        },
-        "f4dfd8f4e59105536eb6532036227cf2": {
-            "text": "Send oppf\u00f8ring til side"
-        },
-        "4777bbe3c06c7939e97101b4589ba1eb": {
-            "text": "Dato fra"
-        },
-        "d24e4fa285c1eab355817ed6c38ec1bd": {
-            "text": "Dato til"
-        },
-        "d4185153faa39500b0b20d57ec751d89": {
-            "text": "Nyest til eldst"
-        },
-        "79e575e2aeda4ac2fd72ca6e21bf4986": {
-            "text": "Eldst til nyest"
-        },
-        "4855bac37c7ab8cdeef6e4da5b3687f8": {
-            "text": "H\u00f8y til lav"
-        },
-        "0249dee84c20249cec4a3c9b8c21d518": {
-            "text": "Lav til h\u00f8y"
-        },
-        "fa2359f69ebf514b75ee4255caecff18": {
-            "text": "Grense (per side)"
-        },
-        "fc6f398132b3a3f3a0cd872771c9ca4f": {
-            "text": "Eksporter oppf\u00f8ringer"
-        },
-        "3629d01920a945712d30867ceba48ef3": {
-            "text": "Eksporter til CSV"
-        },
-        "9b9d8a976b42e0bd66381797644943d5": {
-            "text": "Publisert"
-        },
-        "14a60aa7fbd5be9e8641e50360d6c618": {
-            "text": "Ikke publisert enda"
-        },
-        "77d6333e6f96610f80115c312965cf27": {
-            "text": "Ingen oppf\u00f8ringer \u00e5 vise"
-        },
-        "c7268757fbabf48019f4984933539d8a": {
-            "text": "Gammel"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "+"
-        },
-        "62231b4fbb95932320b8eeb7919b95ee": {
-            "text": "Oppf\u00f8ring: %s"
         },
         "e01fad414b12e967f1757aae26275ba5": {
             "text": "Fjernet %s"
@@ -290,45 +233,6 @@
         "76443ff3ccdfb8b2c22129308649a146": {
             "text": "+"
         },
-        "0c6a83562acb903a6e86a5ea0450b482": {
-            "text": "Oppf\u00f8ringer"
-        },
-        "2d6284673a3cb6c698a761474f7a5d71": {
-            "text": "Valg"
-        },
-        "5dfc3eda47f2aabb4ce4ab8a48f51cf5": {
-            "text": "Dato"
-        },
-        "03db05227e5b3d72705aa29630245202": {
-            "text": "Sortering"
-        },
-        "26fbcf76e1954ff7641a38a979ac4b62": {
-            "text": "="
-        },
-        "eafdb361bd4180075eaf32e95ac05c78": {
-            "text": "Dato"
-        },
-        "c590c0f2340fa085e7adde816b262c96": {
-            "text": "Vis"
-        },
-        "01c0db03ffc668aca60d0955224040dd": {
-            "text": "+"
-        },
-        "d157d14feb7fdcc116f5c6a9bb74f1fa": {
-            "text": "Side"
-        },
-        "d22791c2106333f6dbfdece1ae20bb99": {
-            "text": "Oppf\u00f8ringer"
-        },
-        "5a92675cc7e04e6c607c9731aa6d8064": {
-            "text": "+"
-        },
-        "ea0e2b2e87ba292d44ef7eebb69de80d": {
-            "text": "Lagret oppf\u00f8ring"
-        },
-        "c8578ad00e480eb729d0212ce5cce4b5": {
-            "text": "+"
-        },
         "833f49865b7cff645c446f96e4c21538": {
             "text": "Skjemaer"
         },
@@ -343,12 +247,6 @@
         },
         "49d62dc78d871d12eaf2a4c8b0efa88e": {
             "text": "%d oppf\u00f8ringer"
-        },
-        "a3e5377b916bb8653acde272beae2a9a": {
-            "text": "Slettet %d oppf\u00f8ring"
-        },
-        "aca19a7ed119cee647ba4d93aafa5229": {
-            "text": "Slettet %d oppf\u00f8ringer"
         },
         "3599a2ab40c11595a9d928112290f3ac": {
             "text": "Lag og redigering skjemaer og h\u00e5ndter innsendte oppf\u00f8ringer."
@@ -398,20 +296,14 @@
         "7b537711012c56e48beae526f42138b5": {
             "text": "Roller som kan slette dette skjemaet"
         },
-        "e6a6dac6536746746516a2d988574b94": {
-            "text": "Oppdaterte eksisterende side"
+        "5674b48e3a208727c8a2290c744e487b": {
+            "text": "En eller flere feil hindret innsending av skjemaet. Vennligst rett opp og pr\u00f8v p\u00e5 nytt."
         },
-        "a2c7bdf75d9141ef485ca345d5a3b50c": {
-            "text": "Slett avhuket"
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
         },
-        "d443ef32ab3606555c7e27ac2812582e": {
-            "text": "Send avhuket p\u00e5 nytt"
-        },
-        "7e82d5870052e82b8b5ec1745094adbd": {
-            "text": "Send avhuket til sider"
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "="
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(standard)"
         }
     }
 }

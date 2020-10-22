@@ -2,27 +2,6 @@
     "file": "site\/modules\/ProCache\/ProcessProCache.module",
     "textdomain": "site--modules--procache--processprocache-module",
     "translations": {
-        "036eca61a9b4e7a5d57001252217e942": {
-            "text": "Din .htaccess-fil er riktig konfigurert til ProCache og oppdatert"
-        },
-        "497016766783098983a3347d04ccb71b": {
-            "text": "Din .htaccess-fil er ikke skrivbar."
-        },
-        "78a9099f8e23ddc4ebbc2e960989c257": {
-            "text": "Automatiske .htaccess-oppdateringer er deaktiver fordi du bruker utvidede sidenavner."
-        },
-        "288372f78f17bfe782aa83fc41ec8903": {
-            "text": "Du har deaktivert automatisk .htaccess-oppdateringer."
-        },
-        "d8dfd2c1a9bfe151a0bbaead010bff87": {
-            "text": "Vennligst oppdater din .htaccess-fil som vist for \u00e5 aktivere ProCache."
-        },
-        "5ef2812233513787abbdcbb4d3d54393": {
-            "text": "Oppdater din .htaccess for nye ProCache-innstillinger"
-        },
-        "460338826a248f54bf171d3d5a9ffc13": {
-            "text": "Feil ved oppdatering av din .htaccess-fil med ProCache-innstillinger. Du b\u00f8r lime dem inn manuelt."
-        },
         "a3bdbe3ea9b1a6674fe2a60135f4a60a": {
             "text": "Lagret ProCache-innstillinger"
         },
@@ -40,21 +19,6 @@
         },
         "2977988f0d0d5b4f141a9dbdc67379ed": {
             "text": "Tilpassede regler"
-        },
-        "3d6623b8d5249788a0d797d4bbc5e5a1": {
-            "text": "Handling kreves"
-        },
-        "f2f33da41c1af29fb704dff3dcf599c4": {
-            "text": "N\u00e5r du er ferdig med ProCache-konfigureringen (og lagret dine innstillingene), vennligst kopier og lim inn teksten over i din .htaccess-fil, like over linjen hvor det st\u00e5r:"
-        },
-        "474d5ca800ce5a760a8f76b0e5c0772b": {
-            "text": "Om eldre manuelle direktiver fra ProCache allerede finnes, b\u00f8r du fjerne og erstatte de med de som er oppgitt under."
-        },
-        "48fb536a3c32d3af4a84839a37a4a7f7": {
-            "text": "din .htaccess-fil trenger en oppdatering"
-        },
-        "47f1e725c3ccd7e3071f62ddf4e37683": {
-            "text": "Tekst til \u00e5 kopiere \/ lime inn i .htaccess-filen"
         },
         "a06c0c9b946b719dd03c09f6d693ff95": {
             "text": "Tillatt ProCache \u00e5 oppdatere .htaccess-filen automatisk?"
@@ -143,9 +107,6 @@
         "b39a035a995fc6597c8eb942210d1527": {
             "text": "Oppf\u00f8rsel"
         },
-        "2a7e129caab2fe6d5cca33cd392fd99e": {
-            "text": "Hva skal gj\u00f8res n\u00e5r en side lagres"
-        },
         "5ce88c4d66118388a69c6fd4262ca3a1": {
             "text": "Forbig\u00e5"
         },
@@ -200,9 +161,6 @@
         "16e72652dea000995d88583e3e662f0f": {
             "text": "Hjem"
         },
-        "b03d70b3214888438dce6b57a6987ca0": {
-            "text": "Sider"
-        },
         "1c70ffb1b06d81d418cec3a59399baa3": {
             "text": "Malnvn"
         },
@@ -211,12 +169,6 @@
         },
         "36dffc60e04e56119480e2dffdadc698": {
             "text": "Levetid\/sek"
-        },
-        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
-            "text": "(%d side)"
-        },
-        "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "(%d sider)"
         },
         "18882041ace878a758dcaaf9cc388623": {
             "text": "% CSS-fil"
@@ -233,9 +185,6 @@
         "f53d1cd25e03173ba9eaa4e493636769": {
             "text": "(valgfri)"
         },
-        "5795993ee6bce256a3cad576f7166810": {
-            "text": "Din .htaccess-fil krever en oppdatering (se Status-fanen)."
-        },
         "8a6b4b9ebdb5c1e17b6d33c7ba533d12": {
             "text": "Hvis du bruker dette alternativet, m\u00e5 du ha en sikkerhetskopi av .htaccess-filen din et sted hvis du m\u00e5 gjenopprette den av en eller annen grunn."
         },
@@ -245,20 +194,8 @@
         "def00947cb20d364b0ed7db2ac637980": {
             "text": "Vertsnavn"
         },
-        "d63d6fc56a4c74929a46489981ed1f92": {
-            "text": "Nullstill mellomlageret for undersider av lagret side"
-        },
-        "ded23dd7f737cff1949134d9aa71c604": {
-            "text": "Nullstill mellomlageret for foreldresidene til lagret side, unntatt hjemsiden"
-        },
         "4da63e40ffdb22603e9cc48b28c5fc17": {
             "text": "Nullstill mellomlageret for hjemsiden"
-        },
-        "3cd00b034e917958aa86047efc870ded": {
-            "text": "Nullstill mellomlageret for hele siden"
-        },
-        "ef5b250d969cc7fc389439dc2fcf7817": {
-            "text": "Bufrede filer som ikke lenger er gjeldende, blir automatisk slettet etter standard levetid for mellomlager eller 1 dag (avhengig av hva som er lengre)."
         },
         "eb5f8836aa467200f1f047a0b6e6a272": {
             "text": "N\u00e5r du t\u00f8mmer dette, anbefaler vi p\u00e5 det sterkeste at du ogs\u00e5 t\u00f8mmer dokumentbufferen (over) slik at du ikke har lagrede HTML-dokumenter som refererer til CSS- eller JS-filer som ikke lenger eksisterer."
@@ -271,9 +208,6 @@
         },
         "71619286c73c6bec7efa11ec6ed8ef65": {
             "text": "Buffer HTTPS-foresp\u00f8rsler separat?"
-        },
-        "0dcaaff4fe845457334a3becdbe42022": {
-            "text": "Hvis du bruker SSL\/HTTPS p\u00e5 serveren din, kan det v\u00e6re lurt \u00e5 bufre HTTPS-foresp\u00f8rsler separat fra HTTP-foresp\u00f8rsler hvis det er noen endringer i utdatert markering mellom HTTP- og HTTPS-foresp\u00f8rsler."
         },
         "78dec1420417d92e050ed74615787bb2": {
             "text": "Merk av for hvert vertsnavn du vil bufre separat. Hvis ingen er merket av, blir ikke foresp\u00f8rselens vertsnavn ignorert (alle vertene blir lagret sammen)."
@@ -308,20 +242,8 @@
         "76d2f0ce60b023f7d6d4a009889de3a9": {
             "text": "** Nyttig tips:** Du kan ogs\u00e5 angi innstillinger for levetid for buffer per mal (og mer) ved \u00e5 redigere en mal (i Oppsett>Maler), klikke p\u00e5 hurtigbufferfanen og aktivere ProCache derfra. Innstillinger som er spesifisert der tilsidesetter de som er spesifisert her."
         },
-        "a7f7f0187fac4d2f446731211ebe12f6": {
-            "text": "N\u00e5r en side er lagret, tilbakestilles bufferen. Hva annet skal skje?"
-        },
-        "c7d35040c0aa27de342e2cb86d07f334": {
-            "text": "**For flere alternativer og oppf\u00f8rsel per mal:** Rediger en mal (Oppsett>Maler), klikk Mellomlager-fanen, aktiver ProCache og konfigurer atferd derfra."
-        },
         "2642bbce9763b7ab42c20b378916b240": {
             "text": "Hvis du vil definere tilpasset oppf\u00f8rsel per mal eller side, kan du se feltet under denne."
-        },
-        "64917784ee3edd6e05490a5790495c5d": {
-            "text": "Hvis du vil bruke en annen oppf\u00f8rsel per mal, legger du inn en per linje med \"mal=n\", der \"mal\" er navnet p\u00e5 malen, og \"n\" er atferdsnummeret (1-4) ovenfra. Du kan spesifisere mer enn ett tall ved \u00e5 skille dem med komma. Alt du angir her vil overstyre standardinnstillingen ovenfor."
-        },
-        "71bb0f911e874c0fe3ef4db369ecd011": {
-            "text": "vanlig-side=1,2,3"
         },
         "679f7267d8444ed2e5be2669a453e559": {
             "text": "N\u00e5r skal du hoppe over mellomlageret"
@@ -362,9 +284,6 @@
         "cc6834c94504290bfbc8b02eaa6f84b2": {
             "text": "Tilpasninger"
         },
-        "327c8c1bf5f433343e20a9c50a427362": {
-            "text": "GZIP+Mer"
-        },
         "600c50f6f80e024e8fa710fdea620b55": {
             "text": "Suksess! Vi har oppdaget at disse justeringene for \u00f8yeblikket er til stede i .htaccess-filen din."
         },
@@ -376,6 +295,36 @@
         },
         "ea573de07e0a8fea9045d146f7e2146a": {
             "text": "Side"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(standard)"
+        },
+        "27792947ed5d5da7c0d1f43327ed9dab": {
+            "text": "+"
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "Valgfri"
+        },
+        "ca4c73c1f333c437a47c58afd0623530": {
+            "text": "1 \u00e5r"
+        },
+        "9f7aa8ce719604f269027cacec634cf1": {
+            "text": "6 m\u00e5neder"
+        },
+        "de0353cab16c9faa68162dffe7b3ec08": {
+            "text": "3 m\u00e5neder"
+        },
+        "1634e66b522edaa910370cc5581a47f1": {
+            "text": "1 m\u00e5ned"
+        },
+        "a9adf02fea7b0107b5a712a45e51076a": {
+            "text": "2 uker"
+        },
+        "705fbbd6e1667845569c00fd7523d343": {
+            "text": "1 uke"
+        },
+        "e3b481d5297f475abc283227bedbd9b9": {
+            "text": "1 dag"
         }
     }
 }
