@@ -5,38 +5,20 @@
         "0ccb67e7eaae09d9e4078d161eeca100": {
             "text": "Lik"
         },
-        "7157032ad95316010056251bead65e5e": {
-            "text": "Gitt verdi er n\u00f8yaktig det samme som verdien sammenlignet med."
-        },
         "2fbafa06d82b006195754ddd3bf01edc": {
             "text": "Ikke lik"
-        },
-        "fc76859a4934684b1a29e728ee6b430e": {
-            "text": "Gitt verdi er ikke n\u00f8yaktig det samme som verdien sammenlignet med."
         },
         "05824b7be006782aaefd1fdb97c71e06": {
             "text": "St\u00f8rre enn"
         },
-        "49a1d7bf9a7f5e390bacbd0a6aab8440": {
-            "text": "Gitt verdi er st\u00f8rre enn verdien sammenlignet med."
-        },
         "ad647e4ae904c7ed54ee93040d8298c7": {
             "text": "Mindre enn"
-        },
-        "4cf1079b2826e3132fae697a1c409a5e": {
-            "text": "Gitt verdi er mindre enn verdien sammenlignet med."
         },
         "338131a3a3f4a2649c1d1ed2d2107589": {
             "text": "St\u00f8rre enn eller lik"
         },
-        "4c11ecd8ca5bb9a893f58d75730fc2b2": {
-            "text": "Gitt verdi er st\u00f8rre enn eller lik verdien sammenlignet med."
-        },
         "6d3fe9fca3f08ca0a55fd9c655f7b5cf": {
             "text": "Mindre enn eller lik"
-        },
-        "f6bf08426ea039e29ffacb4581e38b5d": {
-            "text": "Gitt verdi er mindre enn eller lik verdien sammenlignet med."
         },
         "ccb979faf1731ac84eacb61a8a30a309": {
             "text": "Inneholder frase"
@@ -44,29 +26,8 @@
         "694fa795bb560275200877a98153bf50": {
             "text": "Gitt frase eller ord dukker opp i verdien sammenlignet med."
         },
-        "de8e71f999a70f412375853b5b62f54a": {
-            "text": "Inneholder frase + utvid"
-        },
-        "3b8575959b62a798915797250b82ae51": {
-            "text": "Gitt frase, ord eller relatert betegnelet dukker opp i verdien sammenlignet med."
-        },
         "aa85104e4a4fe9ab184b7535d9b5267f": {
             "text": "Inneholder tekst lik"
-        },
-        "6216afd14b0cc7ebbddcdbde1c623cf1": {
-            "text": "Gitt tekst dukker opp i verdien sammenlignet med, uten hensyn til ordgrenser."
-        },
-        "16d7394eaf0033fedd494492addc9bc8": {
-            "text": "Inneholder hele ord"
-        },
-        "2e4e809b843759599e6df3ef4e58b8a3": {
-            "text": "Alle gitte hele ord vises i sammenlignet verdi, i hvilken som helst rekkef\u00f8lge."
-        },
-        "5da8f334f3cf48268ee33edbb51fe2fa": {
-            "text": "Inneholder ord delvis"
-        },
-        "8ba4c7099b4a6a6fd404ee3f378395d2": {
-            "text": "Alle gitte delvise og hele ord vises i sammenlignet verdi, i hvilken som helst rekkef\u00f8lge. Delvis treff fra begynnelsen av ord."
         }
     }
 }

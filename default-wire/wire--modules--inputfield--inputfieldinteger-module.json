@@ -26,14 +26,14 @@
         "08adfc4e3f75347c88b665609425d43a": {
             "text": "Standardverdien er %d."
         },
-        "342fcaf76020389954d449ceec0a8a80": {
-            "text": "Min: %d"
-        },
-        "96f5f93890f61d6ff4c07e2883833d72": {
-            "text": "Maks: %d"
-        },
         "100b8cad7cf2a56f6df78f171f97a1ec": {
             "text": "noen"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Numerisk inndatatype"
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Inndatast\u00f8rrelse"
         }
     }
 }
