@@ -58,6 +58,15 @@
         },
         "c0902bb307af1c623dc07a6070c33261": {
             "text": "Ikke tillatt"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Renset til \u201c%s\u201d, som er forskjellig fra det du skrev inn"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Kan ikke starte eller slutte med ikke-alfa, ikke-sifrede tegn"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Kan ikke inneholde tilst\u00f8tende bindestreker, understrekninger eller punktummer"
         }
     }
 }

@@ -10,6 +10,12 @@
         },
         "7041d69f9024a46791714e59812fa68f": {
             "text": "="
+        },
+        "9cf19cb880b90f114795a612ab1d660f": {
+            "text": "Hvis du vil at radioknappene skal vises i kolonner (i stedet for stablet), angir du antall kolonner du vil bruke (opptil 10). For \u00e5 vise knapper side om side (inline), skriv inn 1."
+        },
+        "a4b7341d7cd692bd8fbd2595040ad78d": {
+            "text": "Hvis det ikke er angitt noe nummer her, vil hver alternativknapp vises p\u00e5 sin egen linje."
         }
     }
 }

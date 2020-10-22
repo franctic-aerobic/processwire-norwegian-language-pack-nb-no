@@ -4,6 +4,9 @@
     "translations": {
         "895d280780a54e8c5561dea1f6a4b34d": {
             "text": "="
+        },
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "Enhetskoder ampersander, anf\u00f8rselstegn (enkle og doble) og st\u00f8rre enn- \/ mindre enn-tegn ved hjelp av htmlspecialchars (str, ENT_QUOTES). Det anbefales at du bruker dette p\u00e5 alle tekst-\/tekstomr\u00e5defelt, bortsett fra de som bruker et rikt tekstredigeringsprogram eller et markeringsspr\u00e5k som Markdown."
         }
     }
 }

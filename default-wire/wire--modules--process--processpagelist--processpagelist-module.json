@@ -85,6 +85,24 @@
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "For flere valg, se innstillingene $config->pageList i \/wire\/config.php. Du kan kopiere disse innstillingene til \/site\/config.php og overskrive de."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Hvis standardverdien er igjen, kan denne innstillingen ogs\u00e5 spesifiseres i $config->pageList-matrisen."
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Dette er hastigheten som hver gren i sidetreet animerer opp eller ned. Lavere tall er raskere, men mindre synlige. For ingen animasjon spesifiser 0."
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "N\u00e5r du viser etterkommere, inkluderes mengden etterkommere, enten de er oppf\u00f8rt for brukeren eller ikke."
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Etterkommere: Barn, barnebarn, oldebarn og videre \u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Begge: Barn\/etterkommere"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Begge: Etterkommere\/barn"
         }
     }
 }

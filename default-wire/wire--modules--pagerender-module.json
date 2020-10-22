@@ -22,6 +22,12 @@
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
             "text": "For tiden er det %d sider mellomlagret i %s"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Rydde Page Render Disk-hurtigbufferen?"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Legger til en gjengivelsesmetode til Page og hurtigbufrer sideutdata."
         }
     }
 }

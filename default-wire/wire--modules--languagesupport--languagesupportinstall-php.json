@@ -22,6 +22,12 @@
         },
         "b326de895188c390f00d3e3165a4e183": {
             "text": "Endrer typen til \"title\"-feltet fra \"Page Title\" til \"Page Title (Multi-language)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Endre typen andre \u00f8nskede \"Text\"-felt til \"Text (Multi-language)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Endre typen av andre \u00f8nskede \"Textarea\"-felt til \"Textarea (Multi-language)\""
         }
     }
 }

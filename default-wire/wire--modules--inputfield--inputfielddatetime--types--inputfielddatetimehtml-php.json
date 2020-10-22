@@ -28,6 +28,12 @@
         },
         "65a779047df07c9cd6b487739e402ddf": {
             "text": "Maks tillatte klokkeslett"
+        },
+        "d836d96f45dbb0d871fc892d4a4dc073": {
+            "text": "Trinndager for datoinndata"
+        },
+        "d5a7df727e5b8e2f4beae7377e5e00be": {
+            "text": "Trinnsekunder for tidsinndata"
         }
     }
 }

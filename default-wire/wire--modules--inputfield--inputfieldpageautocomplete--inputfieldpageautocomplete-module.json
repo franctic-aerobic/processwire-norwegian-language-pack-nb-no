@@ -31,6 +31,12 @@
         },
         "6429d0ba1de3ee46f49581535ac36cf4": {
             "text": "Typisk vil dette bare v\u00e6re tittelfeltet, men du kan legge til flere felter ved \u00e5 skille hver enkelt med et mellomrom."
+        },
+        "db47517eeed0761aad011565e44e8390": {
+            "text": "Merk at dette er forskjellig fra \u201cetikettfeltet\u201d fordi du spesifiserer hvilke felter det skal s\u00f8kes etter, ikke hvilke felter som skal vises."
+        },
+        "f2f3cd9d4e91a577333b66f5818b9d3b": {
+            "text": "Flere sidevalg ved hjelp av automatisk fullf\u00f8ring og sorteringsfunksjon. Beregnet for bruk som inndatafelt for sidereferansefelt."
         }
     }
 }

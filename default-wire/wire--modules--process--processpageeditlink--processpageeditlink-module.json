@@ -94,6 +94,30 @@
         },
         "b31cbfca485dbc22cfb79ea992fa8e98": {
             "text": "Skriv in en attributtverdi per linje. Brukeren vil kunne velge blant disse alternativene n\u00e5r den legger til lenker. For \u00e5 gj\u00f8re at et alterantiv er valgt som standard (p\u00e5 nye lenker), skriv \" + \" foran."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Egenskaper for eksterne lenker"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Angi standard valgt attributt som automatisk fylles ut n\u00e5r en ekstern lenke oppdages."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Hvis den brukes, m\u00e5 verdien v\u00e6re en du har forh\u00e5ndsdefinert ovenfor."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Eksempel: \u00c5 spesifisere **nofollow** vil gj\u00f8re at eksterne lenker som standard ikke f\u00f8lges av s\u00f8kemotorer."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Eksempel: \u00c5 spesifisere **_blank** vil gj\u00f8re at eksterne lenker \u00e5pnes som standard i et nytt vindu."
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "Fullstendig\/absolutt bane fra rot (standard)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "Relative nettadresser i de samme grenene"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "Alltid relative nettadresser"
         }
     }
 }
