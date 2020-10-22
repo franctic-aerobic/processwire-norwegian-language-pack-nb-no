@@ -187,6 +187,54 @@
         },
         "82829c5912f395b029a87c565359835c": {
             "text": "Tekstformaterere"
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "For \u00e5 endre standardstjernen som brukes for utdata (HTML er ogs\u00e5 greit):"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Egnet for visning p\u00e5 alle nettsteder med hvilken som helst publikumstype."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Kan inneholde uh\u00f8flige bevegelser, provoserende kledde individer, mindre banneord eller mild vold."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Kan inneholde slike ting som stygge banneord, intens vold, nakenhet eller hard narkotikabruk."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Kan inneholde grove seksuelle bilder eller ekstremt urovekkende vold."
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Denne tjenesten viser et avatarbilde til hver kommentar (unik for e-postadressen). For \u00e5 aktivere, velg maksimal gravatarvurdering Dette er det samme som filmkarakterer, hvor G er den mest familievennlige og X ikke er."
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Du kan eventuelt velge en eller flere tekstformat\u00f8rer som skal brukes p\u00e5 kommentaren, i den valgte rekkef\u00f8lgen. Hvis du ikke velger noen, vil teksten v\u00e6re enhetskodet, f\u00e5 nye linjer konvertert til <br>-koder og bli sendt ut i en <p>-kode."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Advarsel: Bare velg tekstformater som er kjent for \u00e5 v\u00e6re trygge med anonyme brukerinnganger, som Entity Encoder (kjerne) eller Textile Restricted (tredje part). Hvis du ikke er sikker, ikke velg noe her, da det \u00e5 ta feil valg kan v\u00e6re et sikkerhetsproblem."
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Denne delen er her for \u00e5 hjelpe deg i gang med \u00e5 vise kommentarer p\u00e5 nettstedet ditt. Alt her er valgfritt."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Hvis du bruker en hurtigbuffer til utdata, kan du konfigurere den til \u00e5 omg\u00e5 hurtigbufferen n\u00e5r GET-variabelen \"comment_success\" er til stede."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP-kode for \u00e5 vise kommentarer"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS til front-end-visning av kommentarer"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS til front-end-visning av kommentarer"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Feil ved registrering av stemme"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Felt som lagrer brukerpostede kommentarer for en enkelt side"
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Vurderingsbeskrivelser gitt av (Gravatar)[https:\/\/en.gravatar.com\/site\/implement\/images\/]."
         }
     }
 }
