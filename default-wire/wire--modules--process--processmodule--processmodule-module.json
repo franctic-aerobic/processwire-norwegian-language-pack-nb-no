@@ -379,6 +379,66 @@
         },
         "d9402453cf25d5a1ced0a12d96cc7f98": {
             "text": "Navneomr\u00e5de"
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "Legg til modul manuelt"
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "Modulkatalogen ligger p\u00e5 %s"
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "="
+        },
+        "dc54208b35a531502358bc307e9366ed": {
+            "text": "="
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Kopier filene til en modul til en ny katalog %s p\u00e5 serveren."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Klikk p\u00e5 \u201c%s\u201d-knappen nedenfor, som finner den nye modulen."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Finn og klikk p\u00e5 \u201c%s\u201d-knappen ved siden av den nye modulen."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Erstatt \u201c%s\u201d med det faktiske modulnavnet, som vanligvis er navnet p\u00e5 PHP-klassen."
+        },
+        "f83f6b012ba134e5168ab27e4587b2d3": {
+            "text": "Modulkravene er ikke oppfylt, s\u00e5 installering kan for\u00e5rsake problemer. Er du sikker p\u00e5 at du vil installere?"
+        },
+        "f629d0ec5b19860b76ae88da3ea10273": {
+            "text": "Feil ved dekoding av JSON fra nettjeneste"
+        },
+        "9e5fd09ae1c89e20aa28deee64d7f631": {
+            "text": "Beklager, moduler av typen \"%s\" kan ikke installeres fra administratorgrensesnittet."
+        },
+        "2b0c95ea68acdfcd4e4d995f89bf3b92": {
+            "text": "Denne modulen indikerer ikke kompatibilitet med denne versjonen av ProcessWire. Den kan fortsatt fungere, men det kan v\u00e6re lurt \u00e5 ta kontakt med modulskaperen."
+        },
+        "baa2c21bbd137636014e8f357698761e": {
+            "text": "Forsikre deg om at du stoler p\u00e5 kilden til ZIP-filen ovenfor f\u00f8r du fortsetter!"
+        },
+        "2d30ce478ce5e77c288d80f804617331": {
+            "text": "Denne modulen har ingen spesifisert URL for nedlasting og m\u00e5 installeres manuelt."
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "Krever modulen \"%s\" f\u00f8r den kan installeres"
+        },
+        "30d23c0f67dc47f239879658b08c371a": {
+            "text": "Modulfil \u00e5 bruke"
+        },
+        "fc93b2cc57529c815c8810364ec885ea": {
+            "text": "Det er flere eksemplarer av denne modulen. Velg modulfilen du vil bruke."
+        },
+        "b7e2c8a0dd9e5f4ac8848dc0ff32ba0f": {
+            "text": "List opp, rediger eller installer \/ avinstaller moduler"
+        },
+        "e6b6277ba8181bbd1527a9862aac46ec": {
+            "text": "Utgivelsestilstand"
+        },
+        "76ff1156be021b9f8cc2597febd46133": {
+            "text": "Kroker til"
         }
     }
 }

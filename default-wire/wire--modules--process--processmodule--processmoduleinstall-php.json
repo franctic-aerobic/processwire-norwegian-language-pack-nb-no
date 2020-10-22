@@ -49,6 +49,27 @@
         },
         "34e8dc0a73d373618c591be38800cd3c": {
             "text": "Gjenopprettet sikkerhetskopien til %s"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Modulinstallasjonsalternativ \u201c%s\u201d"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "\u00e5 alltid aktivere"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "midlertidig"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "bare for \u00e5 aktivere i feils\u00f8kingsmodus"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "For \u00e5 aktivere, rediger filen %1$s og spesifiser: %2$s \u2026 eller \u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Dette installasjonsalternativet er konfigurert til \u00e5 v\u00e6re tilgjengelig bare i feils\u00f8kingsmodus."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Dette installasjonsalternativet er for \u00f8yeblikket deaktivert."
         }
     }
 }
