@@ -58,6 +58,24 @@
         },
         "41513d40053ba7d07280a732b044c20d": {
             "text": "Slettet matrisetype"
+        },
+        "054ee03746b31e37f8fc3f9db38d73fb": {
+            "text": "Hoved-\/indeksfilen mottar en $value-variabel som inneholder en matrise med alle repeater matrix-elementene i dette sidefeltet."
+        },
+        "a9e700e56f802cdbd603570608b271f9": {
+            "text": "Elementfilen(e) mottar en $page-variable som inneholder repeater matrix-elementet."
+        },
+        "3349473371e7f9d47dd42d96fa9ad315": {
+            "text": "Itererer og sender ut alle matriseelementene"
+        },
+        "f9cecdfd6cbf07c7bb5f87036ac3aa9b": {
+            "text": "Genererer utdata til \"%s\" matriseelementer"
+        },
+        "fc5f4ea332679f710189a0354d62a586": {
+            "text": "Hovedmatriseindeksfil:"
+        },
+        "6f2719e2b19787d3e9990ae8ecd47879": {
+            "text": "(forutsatt at $title og $body er felt i matriseelementtypen)"
         }
     }
 }

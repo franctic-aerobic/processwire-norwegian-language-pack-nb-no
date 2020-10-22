@@ -67,6 +67,18 @@
         },
         "58731ed240de56b2bced6e18399f0506": {
             "text": "** Advarsel:** Dette vil produsere bilder av lav kvalitet, og noen felttypealternativer vil ikke v\u00e6re tilgjengelige, men kan fungere der normal modus ikke gj\u00f8r det."
+        },
+        "380c480abfb9c65b71dc6427978a09b6": {
+            "text": "For formater som st\u00f8ttes, se ($url)[$url]"
+        },
+        "fab0cdf4739d73130c2e042e86b99389": {
+            "text": "For farger som st\u00f8ttes, se ($url)[$url]"
+        },
+        "4c6fae8fe981e16b401f713c564851f7": {
+            "text": "se ($url)[$url]"
+        },
+        "88276c986dd3e5a9a21cd7c42a2cfd5c": {
+            "text": "Se ($url)[$url]"
         }
     }
 }

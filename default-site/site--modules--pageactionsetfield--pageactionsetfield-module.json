@@ -16,6 +16,15 @@
         },
         "689202409e48743b914713f96d93947c": {
             "text": "Verdi"
+        },
+        "5f6a708e9855f584eb05afd01e3f7642": {
+            "text": "Sett verdien \"%1$s\" til \"%2$s\" for siden: %3$s"
+        },
+        "7b4d899f227b822b039b33c7b51eec0c": {
+            "text": "="
+        },
+        "ccc38538a6c57560d9fd4bfcc2582173": {
+            "text": "Handling til Lister som setter et navnefelt til en gitt verdi."
         }
     }
 }
