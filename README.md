@@ -1,7 +1,7 @@
 # ProcessWire-Norwegian-Language-Pack-nb-NO
 
 ## Version
-ProcessWire 3.0.161 dev
+ProcessWire 3.0.167 dev
 
 ## Including translation for these modules (both Pro and free)
 * 404 Logger
