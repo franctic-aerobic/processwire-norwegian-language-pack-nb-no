@@ -1,9 +1,0 @@
-{
-    "file": "site\/modules\/DynamicRoleSupport\/DynamicRoleSupport.module",
-    "textdomain": "site--modules--dynamicrolesupport--dynamicrolesupport-module",
-    "translations": {
-        "6dde913a28ff17ddf50ac0e9870a0918": {
-            "text": "Denne siden oppfyller ikke brukergruppekriteriene for \u00e5 bli publisert."
-        }
-    }
-}

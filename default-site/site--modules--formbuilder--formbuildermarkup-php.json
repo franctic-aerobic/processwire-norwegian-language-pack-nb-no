@@ -1,9 +1,0 @@
-{
-    "file": "site\/modules\/FormBuilder\/FormBuilderMarkup.php",
-    "textdomain": "site--modules--formbuilder--formbuildermarkup-php",
-    "translations": {
-        "2ca0da99cb99df3227a2020d716baa14": {
-            "text": "Advarsel: Din tilpassede skjema-markeringsfil p\u00e5 %s er ikke oppdatert med dette skjemaet."
-        }
-    }
-}

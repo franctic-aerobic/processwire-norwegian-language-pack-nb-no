@@ -1,9 +1,0 @@
-{
-    "file": "site\/modules\/FormBuilder\/FormBuilderMain.php",
-    "textdomain": "site--modules--formbuilder--formbuildermain-php",
-    "translations": {
-        "141cc3556ca1d9dba04b1784c8fd37f3": {
-            "text": "Skjemanavnet m\u00e5 ha minst en bokstav mellom a-z i seg."
-        }
-    }
-}

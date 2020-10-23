@@ -1,9 +1,0 @@
-{
-    "file": "site\/modules\/ProMailer\/ProMailerForms.php",
-    "textdomain": "site--modules--promailer--promailerforms-php",
-    "translations": {
-        "7b34803986fbd8bb66e271f115739e9a": {
-            "text": "{list} - Vennligst bekreft abonnementet"
-        }
-    }
-}
