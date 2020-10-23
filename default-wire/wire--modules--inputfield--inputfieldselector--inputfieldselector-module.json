@@ -178,6 +178,30 @@
         },
         "f89b7999f24e670f71368f38ac517530": {
             "text": "Ikke: %s"
+        },
+        "1d79542121869a6161bed167902ddc79": {
+            "text": "Hver velgerrad over sier: Feltet m\u00e5 samsvare med verdien. Disse kalles AND-forhold. I tilfeller der samme felt eller verdi vises i mer enn en rad, er en OR-tilstand mulig. Tilstedev\u00e6relsen av en avkrysningsrute p\u00e5 slutten av raden indikerer dette. Merk av i denne ruten for \u00e5 gj\u00f8re raden til en OR-tilstand i stedet for en AND-tilstand."
+        },
+        "63bfec5d508757f781c6e3aa5ca214b6": {
+            "text": "Velgersandkasse"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Dette er her bare i tilfelle du vil teste funksjonaliteten til dette inndatafeltet."
+        },
+        "997bf93bdd0a990a751b4b33749fb171": {
+            "text": "Felter som samsvarer med samme (1) element"
+        },
+        "c3bd2ae49552f0fe2dd5927024fea5db": {
+            "text": "Modifikatorer"
+        },
+        "700e1502327c4e2d38cef2f7c15b2f17": {
+            "text": "Justeringer"
+        },
+        "b077806311238aeddd99b979570eb107": {
+            "text": "passet %d side"
+        },
+        "ea4311c5f366d55a9a6e38450d3bad9f": {
+            "text": "passet %d sider"
         }
     }
 }

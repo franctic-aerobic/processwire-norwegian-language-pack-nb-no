@@ -148,6 +148,168 @@
         },
         "9e695fb18f1a97591ea92d09db081ff9": {
             "text": "Kj\u00f8r en eksport til"
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Velg erstatning for MAL med navnet \u201c%s\u201d"
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Et felt med navnet \u201c%s\u201d av typen %s vises i importdataene, men eksisterer ikke lokalt."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Hvis du vil importere dette feltet, velger du et erstatningsfelt her."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: Erstatter FELTET \u201c%1$s\u201d med \u201c%2$s\u201d"
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Velg erstatning for FELTET med navnet \u201c%s\u201d"
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "Potensielle erstatningsfelt"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Andre felt (er kanskje ikke kompatible)"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Sider med foreldre \u201c%s\u201d kan ikke importeres fordi siden ikke eksisterer her."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Velg en overordnet side som skal brukes i stedet for \u00e5 opprette disse sidene."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: Erstatter FORELDRE \u201c%1$s\u201d med \u201c%2$s\u201d"
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Velg erstatning for FORELDRE med navnet \u201c%s\u201d"
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Ressurskonflikter"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Hopp over sider i importen som allerede eksisterer"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Oppdater bare eksisterende sider"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Hopp over sider i importen som ikke allerede eksisterer"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Importer sider under foreldre"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "N\u00e5r det er spesifisert, importeres sider til den overordnede siden som er valgt her."
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "77\/5000 Importer sider til valgt foreldre og oppretthold sidestrukturen under den"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Importer sider bare som barn p\u00e5 den valgte foreldresiden"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Felter tillatt under import"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "F\u00f8lgende felt ble funnet i importdataene."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Avhuk feltene du vil hoppe over under importen."
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Sidesorteringsindeks"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Forplikt import"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Opprett ny side: %s"
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Oppdater eksisterende side: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Side: %s \u2013 feilet"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Hvilke sider vil du eksportere?"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Velg en eller flere sider som skal inkluderes i eksporten."
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Velg foreldresiden til sidene du vil eksportere. Barna til denne siden blir eksportert."
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Inkluder overordnet side i eksporten"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Tilbakevendende"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Eksporterer sidetreet i stedet for bare n\u00e6rmeste barn"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Inkluder skjulte og upubliserte sider"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Bygg et s\u00f8k for \u00e5 treffe sider som skal eksportering"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "Legg til ett eller flere felter \u00e5 s\u00f8ke etter og treffe sider til eksportering."
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Eksporter felter"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Som standard er alle st\u00f8ttede felt p\u00e5 en side inkludert i eksporten."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Hvis du vil at eksporten bare skal inkludere visse felter, s\u00e5 velg dem her."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Hvis det ikke gj\u00f8res noe valg, er alle st\u00f8ttede felter inkludert i eksporten."
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Tekst til kopiering\/liming"
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "Velg alltid ZIP-filalternativet hvis du vil inkludere fil- eller bildefelt i eksporten din."
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON til kopiering\/innliming (standard)"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Sideeksportdata til kopiering\/innliming"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Klikk hvor som helst i teksten nedenfor for \u00e5 velge den til kopiering."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Du kan deretter lime inn denne teksten i Import-fanen til en annen installasjon."
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "Importert: %d side"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "Importert: %d sider"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Testet importeringen av %d side"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Testet importeringen av %d sider"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "Fant %d side til importering"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "Fant %d sider til importering"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Denne eksporten inkluderer %d side."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Denne eksporten inkluderer %d sider."
         }
     }
 }

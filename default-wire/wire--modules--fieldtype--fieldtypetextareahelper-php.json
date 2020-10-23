@@ -43,6 +43,96 @@
         },
         "2029a900eb62eecaaf188a654c2c084d": {
             "text": "Fremtidige oppdateringer vil skje automatisk n\u00e5r hver enkelt side blir lagre."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Inndatafelttype"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Felttypen som skal brukes til \u00e5 samle inndata (Textarea er standard). Merk at hvis du endrer dette og bekrefter, kan de tilgjengelige konfigurasjonsalternativene i kategorien \"inndata\" endres."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "="
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "Alternativet [u]Markup\/HTML[\/u] anbefales for felt som bruker redigering av rik tekst (som CKEditor) og de som inneholder HTML. Det gir ytterligere kj\u00f8retidskontroller som filtrerer for kvalitetssikring."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Hvis du velger alternativet [u]Ukjent\/tekst[\/u], anbefales det p\u00e5 det sterkeste [for sikkerhetsskyld] at du ogs\u00e5 velger \"HTML Entity Encoder\" i [u]Text Formatters[\/u]-feltet ovenfor."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "For mer informasjon om alternativene ovenfor, se (beskrivelse av innholdstypealternativer)[%s]."
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "F\u00f8lgende alternativer gir ytterligere kvalitetssikring av HTML ved kj\u00f8retid."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Alternativene over logger feil til Oppsett > Logger > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Linkabstrahering:"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Oppdater alt-attributter for bilder:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Fjern bilder fra markup som brukeren ikke har visningstilgang til"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "For \u00e5 bruke alternativene ovenfor p\u00e5 alle eksisterende sider akkurat n\u00e5, merker du av i denne boksen. Dette fokuserer prim\u00e6rt p\u00e5 alternativet for linkabstrahering."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Advarsel: Dette utf\u00f8rer en oppdatering p\u00e5 tvers av hundrevis av sider (maks 300 per kj\u00f8ring) og oppdaterer sidemodifikasjonstider. Hvis nettstedet ditt har mange sider, kan det hende du m\u00e5 kj\u00f8re dette flere ganger."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Det er fortsatt flere sider \u00e5 utf\u00f8re handlingen p\u00e5. Merk av i boksen igjen for \u00e5 utf\u00f8re handlingen p\u00e5 gjenv\u00e6rende sider."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Trenger du \u00e5 bruke flere sider om gangen? Du kan legge til en %s-innstilling i \/site\/config.php-filen."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(se %s-loggen)"
+        },
+        "91032d1254768e880dbbeede54e35a79": {
+            "text": "%d lokale a[href]-koder', 'lenke-type"
+        },
+        "5fcef18456ba78863a5a57e162279d2d": {
+            "text": "%d lokale img[src]-koder', 'lenke-type"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "Oppdaterte %1$d av %2$d sider med HTML-alterantivene."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Oppsummering av kvalitetssikring til Markup\/HTML:"
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d eksterne a[href]-koder"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d interne\/abstraherte sidelenker"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d fil\/ressurs-referanser"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d relative a[href]-koder oppdatert"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d lokale a[href] ikke-side\/ukjente koder"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d ikke-http a[href]-lenker som mailto, tel, osv."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d ul\u00f8ste a[href]-koder"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d ul\u00f8ste img[src]-koder"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d ul\u00f8ste og fast img[src]-koder"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d tomme img[alt]-koder som skal fylles ut ved kj\u00f8retid"
         }
     }
 }
