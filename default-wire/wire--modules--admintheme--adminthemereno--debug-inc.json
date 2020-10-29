@@ -37,6 +37,15 @@
         },
         "35ad48797a780091740cbcf14ebc094d": {
             "text": "Kroker"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "PDO-sp\u00f8rringer ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "Tidtakere"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "MySQLi-sp\u00f8rringer ($db) \u2013 foreldet"
         }
     }
 }

@@ -64,6 +64,18 @@
         },
         "bad3d943c1f7443d2205de6edd995d6e": {
             "text": "Du kan skrive inn flere sorteringsfelter ved \u00e5 skille de med en komma, f.eks. \"etternavn, fornavn, -bursdag\"."
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Hva skal skje med \"%s\"-elementer n\u00e5r siden som inneholder de slettes permanent?"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Hva skal skje med \"%s\"-elementer n\u00e5r siden som inneholder de blir kastet i s\u00f8ppelkurven?"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Hva skal skje med \"%s\"-elementer n\u00e5r siden som inneholder de blir avpublisert?"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Skriv inn feltnavnet du vil at tabellen din skal sorteres etter. For en synkende sortering, g\u00e5 foran feltnavnet med en bindestrek, dvs. \"-dato\" i stedet for \"dato\"."
         }
     }
 }

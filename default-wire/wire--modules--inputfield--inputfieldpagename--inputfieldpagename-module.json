@@ -7,6 +7,18 @@
         },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "+"
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Konfigurasjon av tegnerstatninger er deaktivert fordi $config->pageNameCharset er UTF8."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Tegnerstatninger"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Skriv inn erstatningene som vil oppst\u00e5 n\u00e5r en bruker skriver inn tegn i et sidenavnfelt. Skriv inn en erstatning per linje i key=value. Som betyr at, p\u00e5 hver nye linje, skriv inn tegnet\/tegnene du vil erstatte, etterfulgt av likhetstegnet \"=\" og ascii-tegnet\/tegnene du vil erstatte med."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Erstatningsverdien for hver m\u00e5 v\u00e6re en eller flere av: a-z, 0-9, bindestrek, understrek eller punktum."
         }
     }
 }

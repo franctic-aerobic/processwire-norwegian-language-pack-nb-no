@@ -91,6 +91,15 @@
         },
         "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
             "text": "Handlinger"
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Vil andre brukere f\u00e5 tilgang til denne bokmerkenettadressen?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Hvis du sender bokmerkenettadressen til noen andre som allerede er logget p\u00e5 til administrasjonsgrensesnittet, kan de se bokmerket hvis du merker av i dette feltet."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "Delbar bokmerkenetteadresse: [Vis](%s)"
         }
     }
 }

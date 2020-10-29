@@ -4,6 +4,18 @@
     "translations": {
         "a1af5f0718bfae275ce162362d0e43c5": {
             "text": "="
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Inndatatype"
+        },
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "Standard til dagens dato?"
+        },
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Hvis dette er avmerket, vil dette feltet inneholde gjeldende dato n\u00e5r ingen verdi er angitt."
+        },
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Inndatafelt som godtar dato og eventuelt klokkeslett"
         }
     }
 }

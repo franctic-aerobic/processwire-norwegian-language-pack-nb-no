@@ -697,6 +697,99 @@
         },
         "b58b1fada0411080ca80b5199d2e56ce": {
             "text": "Fjern feltet fra mal: %s"
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Utl\u00f8servelger for hurtigbuffer"
+        },
+        "d6b522c2ed20093505dfa63be2ba0454": {
+            "text": "Hurtigbufre n\u00e5r du gjengir sider for disse brukerne"
+        },
+        "8d5e98c594942c49efea1af30c90efe5": {
+            "text": "Merk at hurtigbufferen alltid er deaktivert for sider der brukeren har redigeringstilgang, uavhengig av hva du velger her."
+        },
+        "d1db89af3df82862d45c9755e9aa0075": {
+            "text": "Hurtigbuffer som deaktiverer GET-variabler"
+        },
+        "ad63801f30d93a9f54257aa637d5ed89": {
+            "text": "Hurtigbuffer som deaktiverer POST-variabler"
+        },
+        "dcc07e185c0c88ca7c4439fbaa56e4cb": {
+            "text": "N\u00e5r malutdataene dine er hurtigbufrede, ignoreres variabler av denne typen som standard. Du kan eventuelt angi ett eller flere variabelnavn som vil deaktivere hurtigbufferen for den foresp\u00f8rselen, og for\u00e5rsake at siden blir gjengitt uten hurtigbuffer."
+        },
+        "f32d42af055544c46a989bceee851733": {
+            "text": "Du kan ogs\u00e5 angi ett eller flere variabelnavn. Hvis du skriver inn mer enn en, m\u00e5 du skille hver av dem med et mellomrom."
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "For \u00e5 deaktivere hurtigbuffer n\u00e5r en variabel er til stede, skriv bare inn en stjerne: * (anbefales)"
+        },
+        "5cb36b26303f4abb0dea36f9bb96887f": {
+            "text": "Hvis du \u00f8nsker \u00e5 gruppere denne malen visuelt med andre i malelisten, skriver du inn ettordsmerkelappen. Skriv inn den samme merkelappen p\u00e5 andre maler du vil gruppere med. For \u00e5 spesifisere flere merkelapper, skiller du hver med et mellomrom. Bruk av merkelapper kan l\u00f8nne seg hvis nettstedet ditt har et stort antall maler."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Skriv inn navnet p\u00e5 den nye malen du vil opprette. Klonen blir opprettet n\u00e5r du lagrer. Hvis malkatalogen er skrivbar og malen har en fil, blir den ogs\u00e5 klonet."
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Hvilke tiltak b\u00f8r tas n\u00e5r en allerede publisert side er lagret med manglende obligatorisk felt?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Varsle bruker om feilen (standard)"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Velg et ikon som skal knyttes til denne malen og sider ved hjelp av denne malen (i adminsgrensesnittet)."
+        },
+        "61b468c296e8ff1ed4c18bd86392e1cc": {
+            "text": "Angi ett eller flere feltnavn som er tilordnet denne malen som skal vises i sidelisten i admnistrasjonsgrensesnittet n\u00e5r du lister opp sider som bruker denne malen. Hvis det er tomt, brukes feltene som er angitt i ProcessPageList-modulkonfigurasjonen i stedet. Feltnavn skal v\u00e6re atskilt med mellomrom og\/eller komma. Tomme felt vil bli ignorert."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Du kan ogs\u00e5 bruke ditt eget format (og ytterligere tegnsetting\/tegn) ved \u00e5 spesifisere feltnavn i parentes, det vil si {name}, {categories.title}, osv."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "For \u00e5 spesifisere en egenskap for et felt, omring feltet i parentes og skriv inn {field_name.property}, for eksempel: {categories.title}."
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "Malvekslere"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Du b\u00f8r generelt la disse bryterne v\u00e6re som de er med mindre du har dekket et spesifikt behov her."
+        },
+        "16a657e6bf4576ef101f1bcca129694c": {
+            "text": "N\u00e5r dette er merket av, vil sider som bruker denne malen ha et alternativ til \u00e5 endre \"opprettet av brukeren\" (kun for superbrukere). Det vil ogs\u00e5 gj\u00f8re det mulig \u00e5 lagre feltene $page->createdUser eller $page->created_users_id via API-et."
+        },
+        "518270f594c5488ff1f8de2ac0429f0e": {
+            "text": "Hvis du vil forhindre at sider som bruker denne malen flyttes (skifter foreldre), merker du av i denne boksen."
+        },
+        "dc8ce981931b1e9b1f784c57730a67c1": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at alle disse systeminnstillingene er ment for ProcessWire-systemutvikling (ikke nettstedsutvikling). Bruk dem p\u00e5 egen risiko."
+        },
+        "e92f2f24e876c414f6cca0e1ed3bfa73": {
+            "text": "Hvis dette er merket, vil denne malen bli definert som for systemet, og den kan ikke slettes. N\u00e5r systemflagget er aktivert, kan det bare fjernes via API (flagSystemOverride)."
+        },
+        "0b81495a48a77b7743e0a20fa02e6af9": {
+            "text": "Sideklassens navn"
+        },
+        "cfab2e7a62a89871220c3ebac5367331": {
+            "text": "Navnet p\u00e5 PHP-klassen som skal brukes til \u00e5 lage sider som bruker denne malen. Som standard blir sider opprettet fra sideklassen. Du b\u00f8r la dette v\u00e6re tomt med mindre du har en annen sideavledet klasse som du vil bruke."
+        },
+        "85ac227eb16808008afaf07f66cf0f7e": {
+            "text": "Se bort fra globale felt?"
+        },
+        "fd83133f05e8bacf7eb368a2d95de8fe": {
+            "text": "N\u00e5r et felt er merket 'globalt', vil det som standard v\u00e6re obligatorisk i alle malene (og automatisk lagt til alle malene som ikke har det). Hvis denne malen har et spesielt form\u00e5l der 'globale' felt ikke vil gjelde, kan du merke av i denne boksen for \u00e5 f\u00e5 denne malen til \u00e5 se bort fra 'globale' felt."
+        },
+        "381e3cba7a92b2d007d0d534a58b17ff": {
+            "text": "API: $template->noGlobal = 1; \/\/ eller 0 for \u00e5 deaktivere"
+        },
+        "61788997b579a9bcfe17e394d394ad01": {
+            "text": "Som standard vises det innebygde 'name'-feltet i innstillingsfanen for sideredigeringen. Hvis du heller vil at den skal vises i innholdsfanen, merker du av i denne boksen."
+        },
+        "6ab8ac5b13a48347d2ca00a38bb06f94": {
+            "text": "Et eksempel p\u00e5 en mal som du ikke \u00f8nsker \u00e5 bli brukt til nye sider er malen til 'hjemsiden' din."
+        },
+        "9927f70231db8b53612513d00b934a7c": {
+            "text": "Hvis ingen er valgt, er noen tillatt innenfor brukerens tilgangsgrenser. Et eksempel p\u00e5 bruk kan v\u00e6re en 'nyhetsliste' mal som bare har lov til \u00e5 f\u00e5 barn som bruker 'nyhetsartikler' eller 'pressemeldinger'."
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Maler angitt med %s m\u00e5 ogs\u00e5 konfigureres for \u00e5 tillate denne malen som foreldre. Klikk p\u00e5 en valgt mal som en snarvei for \u00e5 konfigurere tillatte foreldre."
         }
     }
 }

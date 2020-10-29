@@ -10,6 +10,18 @@
         },
         "8265970592705983b3983796fe0bb408": {
             "text": "Ja (alle)"
+        },
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Bruk UTF-8 tegn som erstatninger i stedet for HTML-enheter?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Standard oppf\u00f8rsel for SmartyPants er \u00e5 legge til \/ oppdatere tegn ved hjelp av HTML-enheter."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Hvis du observerer problemer med dobbel koding, kan det v\u00e6re lurt \u00e5 bruke UTF-8-erstatninger i stedet."
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Merk at \"alle\"-alternativet vil for\u00e5rsake dekoding av f\u00f8lgende tegn (n\u00e5r enhet er kodet) selv om de ikke ble satt inn av SmartyPants:"
         }
     }
 }
