@@ -28,6 +28,120 @@
         },
         "aa85104e4a4fe9ab184b7535d9b5267f": {
             "text": "Inneholder tekst lik"
+        },
+        "fca4ff540452f89822f15c83de8bb8c4": {
+            "text": "Gitt verdi er den samme som verdien sammenlignet med."
+        },
+        "1a865de2ca7e05f3fa1477b125a1eb3c": {
+            "text": "Gitt verdi er ikke den samme som verdien sammenlignet med."
+        },
+        "acc783a86f7a99b039300bdc0205245f": {
+            "text": "Sammenlignet verdi er st\u00f8rre enn gitt verdi."
+        },
+        "2172d09507f89b8199b4b6cbd100b141": {
+            "text": "Sammenlignet verdi er mindre enn gitt verdi."
+        },
+        "2d7fc49398b2dadc319c632313444b1c": {
+            "text": "Sammenlignet verdi er st\u00f8rre enn eller lik gitt verdi."
+        },
+        "2b1e18ec3e770ce9cf5c0e74f893b653": {
+            "text": "Sammenlignet verdi er mindre enn eller lik gitt verdi."
+        },
+        "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
+            "text": "Gitt tekst vises i verdien sammenlignet med."
+        },
+        "5aa919e6d2b38f2462d83fd9b2513257": {
+            "text": "Angitt ord eller uttrykk vises ved begynnelsen av den sammenlignede verdien."
+        },
+        "8e272ff6747ebe4eb258cb9a94b56902": {
+            "text": "Angitt ord eller uttrykk vises p\u00e5 slutten av den sammenlignede verdien."
+        },
+        "e0df0786238e11ca0d41f67eaf6d3701": {
+            "text": "Utvid til \u00e5 omfatte potensielt relaterte termer og ordvariasjoner."
+        },
+        "64c83a96645ef7012024814ec8667639": {
+            "text": "Alle gitte ord vises i sammenlignet verdi, i hvilken som helst rekkef\u00f8lge."
+        },
+        "9e71a2e4d3bd54f1b6474e5f5d8cb130": {
+            "text": "Eventuelle gitte ord vises i sammenlignet verdi, i hvilken som helst rekkef\u00f8lge."
+        },
+        "33a59aa39e09c5978b2b2d141957c557": {
+            "text": "Eventuelle gitte ord samsvarer med sammenlignet verdi."
+        },
+        "40fb05e192ca57e10d5c3493ac87ce9a": {
+            "text": "Samsvarer hele ord."
+        },
+        "bbb78155a83a765a9db9a5a62b5aef13": {
+            "text": "Samsvarer hele eller delvise ord."
+        },
+        "e669879b2f0030034d4e297c9be34893": {
+            "text": "Samsvarer delvis hvor som helst innen ord."
+        },
+        "4d0a9e1a622db2b78f0c76fe3dc69e89": {
+            "text": "Samsvarer delvis fra begynnelsen av ord."
+        },
+        "e9663b6a6cd4707c7c9878be874b384b": {
+            "text": "Samsvarer delvis med siste ord i gitt verdi."
+        },
+        "8fe723f4bcc806144c8521349ae0d4c4": {
+            "text": "Bruker \"fulltekst\"-indeks."
+        },
+        "b95c9268b2e2bd8bf23ac47accef8675": {
+            "text": "Samsvarer ved \u00e5 bruke \u201csom\u201d"
+        },
+        "5e6b838ff481a8b752ac3b3884880c26": {
+            "text": "Samsvarer uten hensyn til ordgrenser (ved \u00e5 bruke \"som\")."
+        },
+        "b7afa694212b1d893f5322e280dcb0ff": {
+            "text": "Inneholder fraseutvidelse"
+        },
+        "d9e14c66bbffdeccdde58be4d05eb381": {
+            "text": "Inneholder alle ord"
+        },
+        "b6c1660ddf4644820efed7c7341462f2": {
+            "text": "Inneholder alle delvise ord"
+        },
+        "417f745a9fafc021d1ba351c61410a46": {
+            "text": "Inneholder alle ord som"
+        },
+        "c7dd4f730f3141e14060ef64d9d620bf": {
+            "text": "Inneholder alle ord *live*"
+        },
+        "53fe09cda48fac70e10b3770b0d03669": {
+            "text": "Inneholder alle ord som utvides"
+        },
+        "24f687d4a2739cb2fa454527c5bcaa94": {
+            "text": "Inneholder noen ord"
+        },
+        "06a1edb024c5ba42ef55fc00a9a69172": {
+            "text": "Inneholder noen delvise ord"
+        },
+        "d37f826e5014cdf5c92bb5e9d4a6e3fa": {
+            "text": "Inneholder noen ord som"
+        },
+        "60349069f28257eaf778759dd771316e": {
+            "text": "Inneholder noen ord som utvides"
+        },
+        "5bd610060ed9f4ff92d6dbabc797255a": {
+            "text": "Inneholder treff"
+        },
+        "470da3795c671e23b14b97ec714912bb": {
+            "text": "Inneholder treff som utvides"
+        },
+        "86a004f4206d0f2133e3aa81d0247c3c": {
+            "text": "Avansert teksts\u00f8k"
+        },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "Starter med"
+        },
+        "7048f4b88df4ffb23ad8175fc2237e22": {
+            "text": "Starter som"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "Slutter med"
+        },
+        "0fdd2feb1a1625a723ebb9d9ec57533e": {
+            "text": "Slutter som"
         }
     }
 }
