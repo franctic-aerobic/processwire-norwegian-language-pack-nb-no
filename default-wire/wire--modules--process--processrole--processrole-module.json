@@ -22,6 +22,78 @@
         },
         "484a603504d7ed70ae95310674989236": {
             "text": "Opphev fra: %s"
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Hvilke sidetyper kan denne rollen se p\u00e5?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Hvilke sidetyper kan denne rollen redigere?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Hvilke sidetyper kan denne rollen legge barn til?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Hvilke sidetyper kan denne rollen opprette?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Hvis du bare vil legge til {permission} i bestemte maler, merker du av i ruten nedenfor for malene du vil legge den til, og lar tillatelsen {permission} v\u00e6re avmerket."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "Tillatelsen {permission} er sjekket, slik at den gjelder for alle maler som kan redigeres av rollen. For \u00e5 tilbakekalle {permission}-tillatelsen fra bestemte maler, merker du av i ruten nedenfor. Hvis du bare vil legge til denne tillatelsen til bestemte maler, fjerner du avmerkingen for {permission} f\u00f8rst."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Merk at rollen ogs\u00e5 m\u00e5 ha sideredigeringstillatelse for alle avhukede maler ovenfor."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "De fleste tillatelser som kan tildeles etter mal, krever ogs\u00e5 at brukeren har sideredigeringstillatelse til malen. Hvis en mal du trenger ikke er oppf\u00f8rt, m\u00e5 du aktivere tilgangskontroll for den f\u00f8rst (se \"Tilgang\"fanen n\u00e5r du redigerer en mal)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "I motsetning til de fleste andre tillatelser, er ikke sidredigeringstillatelse til en mal en forutsetning for denne tillatelsen."
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Maler med en stjerne (*) er konfigurert for redigeringsrelaterte tillatelser som ogs\u00e5 skal arves av barn og gjennom sidetreet, med mindre \/ til de overstyres av en side som bruker en annen tilgangskontrollert mal."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "Denne tillatelsen arves ogs\u00e5 av barn og gjennom sidetreet, med mindre \/ f\u00f8r den overstyres av en side som bruker en annen tilgangskontrollert mal."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Merk: Superbrukerrollen har alltid alle tillatelser, s\u00e5 tillatelsesfeltet vises ikke."
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "For detaljerte beskrivelser av disse tillatelsene, se [tillatelsesreferansen](%s)."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "navn|beskrivelse|"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Denne tillatelsen kan bare tildeles etter mal."
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Denne tillatelsen kreves for alle roller."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "gjelder alle redigerbare maler"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s ble lagt til av malen %2$s, klikk for \u00e5 redigere"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s ble tilbakekalt av malen %2$s, klikk for \u00e5 redigere"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Hvis du merker av i denne boksen, legges tillatelsen til alle redigerbare maler, men denne tillatelsen blir allerede brukt separat av en eller flere maler. For \u00e5 holde ting ryddig foresl\u00e5r vi at du fjerner tillatelsen fra disse malene f\u00f8r du aktiverer den for alle. Er du sikker p\u00e5 at du vil aktivere den n\u00e5?"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(p\u00e5krevd fordi det er arvet fra gjestens rolle)"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Klikk for \u00e5 \u00e5pn \/lukke tillatelsesinnstillinger etter mal"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Tillatelsen \u201c%1$s\u201d til malen \u201c%2$s\u201d er ikke tillatt (krever tillatelsen \u201c%3$s\u201d)"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Administrer brukerroller og hvilke tillatelser som er vedlagt"
         }
     }
 }
