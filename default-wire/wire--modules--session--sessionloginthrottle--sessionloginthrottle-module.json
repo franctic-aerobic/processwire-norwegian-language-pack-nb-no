@@ -19,6 +19,18 @@
         },
         "1e1e8e326d1d9a6a539b91fbe60a702a": {
             "text": "Innlogging ble ikke fors\u00f8kt p\u00e5 grunn av overl\u00f8p."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Strupe ved bruk av IP-adresse?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Struping vil som standard bare gj\u00f8res etter brukernavn. Hvis du merker av i denne boksen, vil struping ogs\u00e5 gj\u00f8res etter IP-adresse. Vi anbefalte \u00e5 aktivere dette alternativet hvis brukerne ikke kommer fra en delt IP-adresse."
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Dette tallet multipliseres med antall mislykkede fors\u00f8k, slik at hvert mislykket fors\u00f8k \u00f8ker ventetiden eksponentielt. Som et resultat m\u00e5 du v\u00e6re forsiktig med \u00e5 sette dette for h\u00f8yt."
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Fordi ventetiden \u00f8kes eksponentielt for hvert fors\u00f8k, plasserer det et maksimum (tak) p\u00e5 ventetiden. Du b\u00f8r la dette v\u00e6re et ganske h\u00f8yt tall."
         }
     }
 }
