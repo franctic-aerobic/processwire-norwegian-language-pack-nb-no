@@ -103,6 +103,54 @@
         },
         "6af8cf07d769a110f0b2483692ef424c": {
             "text": "Kopier og lim inn disse dataene i \"Import\"-boksen til en annen installasjon."
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+klikk for \u00e5 velge flere i rekkef\u00f8lge. Ctrl+klikk (eller Cmd+klikk) for \u00e5 velge flere enkeltvis. Ctrl+A (eller Cmd+A) for \u00e5 velge alle."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Klikk hvor som helst i boksen for \u00e5 velge alle eksportdata. N\u00e5r det er valgt, kopierer du dataene med Ctrl+C eller Cmd+C."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Kopier eksportdataene fra en annen installasjon, og lim deretter inn i boksen ovenfor med Ctrl+V eller Cmd+V."
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Vi anbefaler \u00e5 endre typen av dette feltet til \"%s\" manuelt, og deretter komme tilbake hit for \u00e5 gj\u00f8re flere endringer."
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Noen ganger kan det ta to utf\u00f8ringer f\u00f8r alle endringer blir tatt i bruk. Vennligst g\u00e5 gjennom eventuelle ventende endringer nedenfor og utf\u00f8r dem etter behov."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Vennligst se gjennom endringene nedenfor og utf\u00f8r dem n\u00e5r de er klare. Hvis det er noen endringer du ikke vil ta i bruk, avhukert du i avmerkingsboksen der det er aktuelt."
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Fant %d eiendom \u00e5 ta i bruk."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Fant %d eiendommer \u00e5 ta i bruk."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "Feil ble funnet i %d felt"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "Feil ble funnet i %d felter"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "Fant %d nye felter \u00e5 legge til"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "Fant %d eksisterenede felt \u00e5 oppdatere"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "Fant %d eksisterenede felter \u00e5 oppdatere"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Modifiserte %d felt"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Modifiserte %d felter"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "Fant %d nytt felt \u00e5 legge til"
         }
     }
 }
