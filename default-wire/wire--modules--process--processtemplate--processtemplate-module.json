@@ -790,6 +790,246 @@
         },
         "ad1d924dc261c8945b07d271c9cd5888": {
             "text": "Maler angitt med %s m\u00e5 ogs\u00e5 konfigureres for \u00e5 tillate denne malen som foreldre. Klikk p\u00e5 en valgt mal som en snarvei for \u00e5 konfigurere tillatte foreldre."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Maler angitt med %s er allerede konfigurert for \u00e5 tillate denne malen som foreldre."
+        },
+        "dc70febc65985c326b6d7a85502ddc0a": {
+            "text": "Hvis ingen er valgt, er enhver overordnet mal tillatt innenfor brukerens tilgangsgrenser. Et eksempel p\u00e5 bruk kan v\u00e6re en \"ansatt\"-mal som bare har lov til \u00e5 ha en overordnet side ved hjelp av en \"firmakatalog\"-mal."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Maler angitt med %s m\u00e5 ogs\u00e5 konfigureres til \u00e5 tillate denne malen for barn. Klikk p\u00e5 en valgt mal som en snarvei for \u00e5 konfigurere tillatte barn."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Maler angitt med %s er allerede konfigurert til \u00e5 tillate denne malen som barn."
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Du kan eventuelt angi et format for sidenavn som brukes n\u00e5r en ny underordnet side blir lagt til. Dette gj\u00f8r det mulig \u00e5 hoppe over trinnet \"Legg til side\" n\u00e5r du legger til en ny side. For \u00e5 fungere, m\u00e5 det velges en (1) mal for feltet \"Tillatt mal(er) for barn\" ovenfor."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "La st\u00e5 tomt for \u00e5 deaktivere. Skriv inn \"title\" (uten anf\u00f8rselstegn) for \u00e5 generere navnet automatisk fra sidetittelen. Flere alternativer inkludert datoformater er ogs\u00e5 tilgjengelige. [Mer](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "eaf9115aadc503ff009e4c769963a877": {
+            "text": "N\u00e5r denne er avhuket, kan malen vises p\u00e5 snarveiknappen\/menyen \"Legg til ny side\" som vises p\u00e5 hovedsiden. Dette forutsetter at alle andre betingelser er oppfylt (se nedenfor)."
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Hvis du vil justere rekkef\u00f8lgen som malene vises etter i hurtigmenyen, kan du se [innstillingene for PageAdd-modulen](%s)."
+        },
+        "635a2459897d3f0072993713558c84b0": {
+            "text": "1. Du m\u00e5 velge en overordnet mal (se: \"tillatte maler for foreldre\" ovenfor). Hvis mer enn 1 er valgt, vil bare den f\u00f8rste brukes."
+        },
+        "b14d306525e8d6e9927d577a59064048": {
+            "text": "2. Den valgte overordnede malen m\u00e5 ha definert denne malen som en som er tillatt for barn."
+        },
+        "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
+            "text": "Hvis du vil at barn automatisk skal sortere etter et bestemt felt, velger du det her. Ellers velger du \"Ingen\" for \u00e5 la dette skal bli angitt per side i stedet. Dette overstyrer sideinnstillingen, s\u00e5 hvis du velger noe annet enn \"Ingen\", vises ikke sorteringsalternativet for sider som bruker denne malen."
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Hvis dette er merket av, st\u00f8tter sider som bruker denne malen tilpassede nettadressesegmenter etter sidens nettadresse."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "F\u00e5 tilgang til gjeldende nettadressesegment(er) fra malfilene dine med $input->urlSegmentStr."
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Angi ett tillatt segment, segmentbane eller *regular expression* per linje, eller la det v\u00e6re tomt for \u00e5 tillate hva som helst."
+        },
+        "60cb362641cd33525562c9d62d0f8d18": {
+            "text": "Hvis 'Ja', vil sider som bruker denne malen alltid ha nettadresser som slutter med en etterf\u00f8lgende skr\u00e5strek '\/'. Og hvis siden lastes fra en nettadresse uten skr\u00e5strek, vil den bli omdirigert til en med. Hvis du velger 'Nei', vil versjonen uten skr\u00e5strek h\u00e5ndheves i stedet. Merk at denne innstillingen ikke h\u00e5ndhever denne oppf\u00f8rselen p\u00e5 nettadressesegmenter eller sidetall, bare faktiske siders nettadresser. Hvis du ikke har en preferanse, anbefales det at du lar dette settet v\u00e6re 'Ja'."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Ordning\/protokoll"
+        },
+        "ecb1f1de9e0f813e37e40e2aa016c008": {
+            "text": "Hvis nettstedet ditt har et SSL-sertifikat og er tilgjengelig med HTTPS, kan du gj\u00f8re sider som bruker denne malen, kun tilgjengelige via HTTPS eller HTTP. Hvis du for eksempel velger \"Bare HTTPS\" nedenfor, og en foresp\u00f8rsel om en side som bruker denne malen kommer inn via HTTP, blir den automatisk omdirigert til HTTPS-versjonen. Som standard tillater ProcessWire tilkoblinger fra b\u00e5de HTTP eller HTTPS."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Hvis du ikke er sikker, velger du \"Auto\"."
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(malfil og filer inkludert fra den)"
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Kompilering er ikke n\u00f8dvendig med mindre det er n\u00f8dvendig for moduler eller inkluderer."
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "="
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "*Header* til \u00e5 sende med malfilutdata. Hvis ingen er valgt, vil ikke ProcessWire sende en *content-type header*, og i de fleste tilfeller antas *text\/html*. Det anbefales \u00e5 velge en *content-type* n\u00e5r utdata vil v\u00e6re noe annet enn html."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "For \u00e5 legge til flere *content types*, se *contentTypes* i \/wire\/config.php (og legg dem til i \/site\/config.php)."
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "Fil som lastes inn f\u00f8r"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "Fil som skal lastes inn like f\u00f8r malfilen under gjengivelse av siden. M\u00e5 v\u00e6re relativt til \/site\/templates\/."
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "Fil som lastes inn etter"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "Fil som skal lastes inn like etter malfilen under gjengivelse av siden. M\u00e5 v\u00e6re relativt til \/site\/templates\/."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "Deaktiver automatisk lasting inn av fil f\u00f8r: %s"
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Dette alternativet deaktiverer bare $config->prependTemplateFile-innstillingen i \/site\/config.php for denne malen."
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "Deaktiver automatisk lasting inn av fil etter: %s"
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Dette alternativet deaktiverer bare $config-> appendTemplateFile-innstillingen i \/site\/config.php for denne malen."
+        },
+        "22ac5f69365966a7ce509e349b23539a": {
+            "text": "Hvis du velger 'Ja', kan du definere hvilke roller som har tilgang til sider ved hjelp av denne malen. Hvis du velger 'Nei', arver sider som bruker denne malen tilgang fra foreldresidene."
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Videresender til en annen nettadresse eller gjengi en side med ID"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "Innloggingsadresse for vidersending eller side-ID som skal gjengis"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Skriv inn nettadressen du vil videresende til ELLER side-ID-en du vil gjengi n\u00e5r en bruker ikke har tilgang."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Hvis du spesifiserer en side-ID, m\u00e5 du v\u00e6re oppmerksom p\u00e5 at den resulterende siden blir gjengitt for brukeren enten de har visningstillatelse eller ikke."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "Dette er nyttig i tilfeller der p\u00e5loggingssiden din selv kan v\u00e6re tilgangsbeskyttet."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Denne innstillingen gjelder bare hvis du valgte alternativet \"C\" i feltet ovenfor."
+        },
+        "2f2055affca16d8404e278fc1d6c3a07": {
+            "text": "Valgfritt: I nettadressen din kan du ta med merket '{id}' (kanskje som en GET-variabel), og den vil bli erstattet av ID-nummeret til den forespurte siden, hvis du vil ha det."
+        },
+        "6ceb6814781363fa5e58fc38fe5910a1": {
+            "text": "N\u00e5r en bruker ikke har tilgang til \u00e5 vise en side ved hjelp av denne malen, hva skal skje i s\u00f8k og sidelister?"
+        },
+        "724da4546b6908025f8a9fa99885297f": {
+            "text": "API-merknad: Denne innstillingen p\u00e5virker resultatene som returneres av `$pages->find()`, `$page->children()` og andre funksjoner som returnerer *PageArrays*."
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Som standard arves alle tilgangsinnstillinger i denne malen gjennom sidetreet, helt til en side som bruker en annen tilgangskontrollert mal overstyrer innstillingene."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Velg alternativet \"Nei\" her hvis du vil forhindre at redigeringsrelatert tilgang blir arvet utover sider ved hjelp av denne malen. Visningstilgang fortsetter \u00e5 arve p\u00e5 begge m\u00e5ter."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Tillat redigeringsrelatert tilgang \u00e5 arve til barn som ikke er tilgangskontrollert"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Begrens redigeringsrelatert tilgang til sider som bare bruker denne malen"
+        },
+        "cd0cf5a5ee30d30f0261238f5875a33b": {
+            "text": "Forhindre direkte tilgang til filressurser som eies av sider som bruker denne malen?"
+        },
+        "e29fbd4b3ab93bd36ba02701195f7267": {
+            "text": "N\u00e5r direkte tilgang til en fil i [u]\/site\/assets\/files\/[\/u] er blokkert, kan ProcessWire administrere levering av filen i stedet for Apache."
+        },
+        "f0e7c1fdf80a62ce6751727bdba68f47": {
+            "text": "Dette gj\u00f8r det mulig \u00e5 f\u00e5 tilgang til filen p\u00e5 samme m\u00e5te som siden som eier den, mens den fortsatt bruker den opprinnelige nettadressen til filen."
+        },
+        "cb3c9250730efdee741ff650f807d56a": {
+            "text": "Merk at det tar mer ressurser \u00e5 levere en fil p\u00e5 denne m\u00e5ten, s\u00e5 bare velg alternativet \"Ja alltid\" hvis du trenger det."
+        },
+        "09af5db524e775b4a1f701ef67479387": {
+            "text": "Test alltid at tilgangskontrollen fungerer slik du forventer ved \u00e5 pr\u00f8ve \u00e5 f\u00e5 tilgang til de beskyttede filene i nettleseren din."
+        },
+        "825eaff6cfdbcc09fd32758d056e4742": {
+            "text": "Gj\u00f8r dette n\u00e5r du forventer \u00e5 ha tilgang (innlogget) og n\u00e5r du ikke har det (logget ut)."
+        },
+        "eae07a5d655bbc5b0b66030482669d7b": {
+            "text": "(bruker i stedet konfigurasjon for hele nettstedet)"
+        },
+        "60b7601149e4f71061b2518b1fb1369f": {
+            "text": "'Ja' n\u00e5r siden ikke er publisert, i s\u00f8ppelkurven eller ikke offentlig tilgjengelig"
+        },
+        "d761f031894f4f6b20d02ac34d62daa7": {
+            "text": "Alltid 'ja', uavhengig av sidestatus eller tilgangskontroll"
+        },
+        "e91c9dce55b792f0254aeb69ba314f17": {
+            "text": "Hvilke roller kan f\u00e5 tilgang til sider ved hjelp av denne malen (og de som arver fra den)?"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Merk: Alternativene redigere \/ opprette \/ legge til er deaktivert for roller som for \u00f8yeblikket ikke har tillatelse til sideredigering."
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Du kan eventuelt legge til eller tilbakekalle tillatelser som er tildelt hver rolle n\u00e5r du blir bedt om det for en side, ved hjelp av denne malen (eller arve tilgang fra den)."
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Opprettet klone av malen \"%1$s\" ved navn \"%2$s\"."
+        },
+        "06ac19612d34194fee5bcab738cefe62": {
+            "text": "Endringen av alternativet for sikre filer vil bli brukt n\u00e5r fil-\/bildefelt p\u00e5 hver av de %d ber\u00f8rte sidene er tilgjengelige."
+        },
+        "b2c26a5234b7fb3fa549883f7c211bd3": {
+            "text": "Merk at dette kan ta litt tid. For \u00e5 aktivere til alle n\u00e5, utf\u00f8r f\u00f8lgende API-kode fra en malfil:"
+        },
+        "a2b2765c9702ca543cd769b157062377": {
+            "text": "Feltet \"%s\" kan ikke fjernes fordi det er globalt p\u00e5krevd av alle feltgrupper"
+        },
+        "1a1e5b08d1538484177a49ce2168b297": {
+            "text": "Bekreft at du vil endre feltgruppen fra \"%1$s\" til \"%2$s\""
+        },
+        "95faabcca5ce9361cfbbfdac564540a6": {
+            "text": "Endre feltgruppe til mal: %s"
+        },
+        "62596dd3b1918d492b97f5945dc8aea8": {
+            "text": "Endret malfeltgruppe til: %s"
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Fjern feltet \"%1$s\" fra malen \"%2$s\""
+        },
+        "ea24ff7efc7e185e1c6f8d52266fefdc": {
+            "text": "Kan ikke gi nytt navn \"%1$s\" til \"%2$s\" i katalogen \"%3$s\". Du m\u00e5 gi nytt navn til filen manuelt i filsystemet ditt."
+        },
+        "29a2d50c9d90354a16943888d8e700da": {
+            "text": "Fjernet feltet \"%1$s\" fra malen\/feltgruppen \"%2$s\""
+        },
+        "da49c8bb3f9748634bedc77fac9221f9": {
+            "text": "La til feltet \"%1$s\" i malen\/feltgruppen \"%2$s\""
+        },
+        "b81ec9ff37dd594fd51bb7b72bc82e34": {
+            "text": "ingen-fil"
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Alternativene som er tilgjengelige her bestemmes av dine valg for \"Rediger sider\" ovenfor. Som et resultat, b\u00f8r du lagre denne malen og komme tilbake hit etter \u00e5 ha gjort endringer i roller med \"Rediger sider\"-tilgangen ovenfor."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Alternativene vises i formatet \"rolle: tillatelse\". For en beskrivelse av hva hver tillatelse gj\u00f8r, se [tillatelsesreferanse](% s)."
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "Endret navn p\u00e5 %d sidesti(er) for \u00e5 endre til alternativet for sikre filer"
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Feil ved plassering av feltsettet\/fanen \"%s\" - rett opp og lagre igjen"
+        },
+        "0cd878f5f6c3ecd2d309d74c608cf0e3": {
+            "text": "F\u00f8lgende felter slettes permanent p\u00e5 sider ved hjelp av denne malen:"
+        },
+        "794ed990b58e042f53c8e1b0f9c48b77": {
+            "text": "Bekreft at du forst\u00e5r det ovennevnte og at du vil endre feltgruppen ved \u00e5 merke av i boksen og sende inn dette skjemaet."
+        },
+        "297401f75a53c46e41a44c9d91738f1e": {
+            "text": "Du har bedt om \u00e5 fjerne ett eller flere felter fra malen. Dette vil f\u00f8re til at data tilknyttet feltene nedenfor blir slettet permanent. Hvis feltene som fjernes inneholder mye data, kan det ta tid f\u00f8r denne operasjonen er fullf\u00f8rt, etter at du har bekreftet og sendt inn dette skjemaet. Bekreft at du forst\u00e5r dette og \u00f8nsker \u00e5 slette feltet\/feltene ved \u00e5 merke av i ruten nedenfor."
+        },
+        "c69da3a709ad376098eb517be436a12b": {
+            "text": "Du har bedt om \u00e5 endre feltgruppen fra \"%1$s\" til \"%2$s\"."
+        },
+        "cbb29209ccd6a869e389572e793b1f1b": {
+            "text": "Malfilen \"%1$s\" ble ikke funnet i mappen \"%2$s\". Du m\u00e5 gi nytt navn til filen \"%3$s\" til \u00e5 bli \"%1$s\" manuelt p\u00e5 filsystemet."
+        },
+        "82ae9be0c318ed67592703448c77d4d6": {
+            "text": "Malfilen \"%s\" ser ut til \u00e5 v\u00e6re skrivbar, s\u00e5 vi vil pr\u00f8ve \u00e5 gi den nytt navn n\u00e5r du klikker p\u00e5 send inn."
+        },
+        "df3f89873c6527f24453345a6b7f263f": {
+            "text": "Malfilen \"%1$s\" er ikke skrivbar. Gi den filen nytt navn til \"%2$s\" f\u00f8r du klikker p\u00e5 send inn."
         }
     }
 }
