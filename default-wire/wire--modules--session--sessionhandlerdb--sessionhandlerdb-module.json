@@ -16,6 +16,24 @@
         },
         "ba361c497e1c5943748b4df7933d353f": {
             "text": "Ikke tillat parallelle sesjoner?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "N\u00e5r dette er aktivert, utl\u00f8per vellykket p\u00e5logging alle andre \u00f8kter for den brukeren p\u00e5 andre enheter\/nettlesere."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Hvis du merker av i denne boksen, tillates bare en enkelt \u00f8kt for en p\u00e5logget bruker om gangen."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Tidsavbrudd for \u00f8ktl\u00e5sing (sekunder)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Hvis en DB-l\u00e5s for \u00f8kten ikke kan oppn\u00e5s i l\u00f8pet av s\u00e5 mange sekunder, sendes en \"%s\"-feil som forteller klienten \u00e5 pr\u00f8ve p\u00e5 nytt om %d sekunder."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: For mange foresp\u00f8rsler"
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "Forrige p\u00e5loggings\u00f8kt for \u201c%s\u201d er fjernet \/ logget ut."
         }
     }
 }
