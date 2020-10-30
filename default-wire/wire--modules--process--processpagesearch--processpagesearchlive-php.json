@@ -73,6 +73,12 @@
         },
         "d6b75fe82918572d3828601219286147": {
             "text": "Eksemplene bruker \u201c%s\u201d-egenskapen."
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "S\u00f8ker i eiendommen \u201c%1$s\u201d til %2$s etter: %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Eksempler bruker erlikoperat\u00f8ren \u201c=\u201d."
         }
     }
 }
