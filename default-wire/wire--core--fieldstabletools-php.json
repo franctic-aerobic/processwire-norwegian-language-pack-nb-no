@@ -7,6 +7,24 @@
         },
         "d019979a29c88c8d69bab3a63388da97": {
             "text": "Unik"
+        },
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "Slettet %d tomme rad(er) for feltet %s"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Unik indeks kan ikke legges til enn\u00e5 fordi det allerede er ikke-unike rader:"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(side-ID-er: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "La til unik indeks"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Fjernet unik indeks"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "N\u00e5r det er merket av, kan det hende at en gitt verdi ikke brukes mer enn \u00e9n gang i dette feltet, og dermed ikke vises p\u00e5 mer enn en side."
         }
     }
 }
