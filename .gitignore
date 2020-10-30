@@ -1,1 +1,9 @@
+.DS_Store?
 .DS_Store
+.DS_STORE
+
+# non site files
+.phrase-index.txt
+default-site.zip
+default-wire.zip
+site--**
