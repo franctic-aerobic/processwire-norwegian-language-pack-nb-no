@@ -4,6 +4,21 @@
     "translations": {
         "82829c5912f395b029a87c565359835c": {
             "text": "Tekstformaterere"
+        },
+        "2ea61fab9633ba2efc3af0e85f8859f9": {
+            "text": "Markeringstekst"
+        },
+        "7b332ecb7817aa0e0d772e9220b5eae9": {
+            "text": "Velg formatet som din markeringstekst er i, eller formaterne du vil bruke p\u00e5 den, i den rekkef\u00f8lgen du vil at de skal brukes."
+        },
+        "0a803ca330899c7b7eb07d290ebbb5e8": {
+            "text": "Viss markeringsteksten din er ren HTML, vil du kanskje ikke velge noen tekstformaterere."
+        },
+        "e51e08a727173e8719e480316459991e": {
+            "text": "Markering"
+        },
+        "29513c0a079504b7b1ba10953d7270ac": {
+            "text": "Inneholder annen markering og eventuelt underordnede inndatafelter"
         }
     }
 }
