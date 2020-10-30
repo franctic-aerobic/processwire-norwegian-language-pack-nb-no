@@ -19,6 +19,21 @@
         },
         "4f8222964f9a317cef99dddc23a121bd": {
             "text": "="
+        },
+        "abef8912ef3f167ed726c6a56288dce5": {
+            "text": "Etikett til avkrysningsboks"
+        },
+        "ad96619d37c6ca42363be76aba496b26": {
+            "text": "Hvis du vil ha separate etiketter til felt- og avkrysningsbokser, angir du etiketten som vises ved siden av avkrysningsboksen her."
+        },
+        "fee76a03fa4f7d7f0cbb391c9474316d": {
+            "text": "Hvis ikke spesifisert, vil feltetiketten bli brukt i stedet."
+        },
+        "bdbaf837c2e8cab5eeaef3e1bcf32084": {
+            "text": "N\u00e5r det er fylt med noe annet enn \"1\", vil dette vises som en etikett rett ved siden av avkrysningsboksen."
+        },
+        "371048ea93404f39d61ae613be3a0b36": {
+            "text": "Dette vises bare i resultatoppf\u00f8ringer, ikke i selve skjemaet. Du b\u00f8r la dette v\u00e6re tomt med mindre du vil at det skal ha en bestemt verdi."
         }
     }
 }
