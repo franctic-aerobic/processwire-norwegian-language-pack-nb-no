@@ -115,6 +115,42 @@
         },
         "eb85010d3dccc246aa17a0a4671be4a4": {
             "text": "Roller"
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "For \u00e5 konfigurere dette m\u00e5 du f\u00f8rst installere en eller flere Tfa-moduler og deretter komme tilbake hit."
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(klikk for \u00e5 konfigurere)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Gjeldende foresp\u00f8rselsskjema, enten HTTP eller HTTPS"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Serverens vertsnavn (verdien til $config->httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "Brukerens IP-adresse (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Brukerens videresendte eller klientens IP-adresse (HTTP_X_FORWARDED_FOR eller HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Ikke tillat brukeren \u00e5 hoppe over kodeoppf\u00f8ringen n\u00e5r noen av disse egenskapene endres"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Endringer av passord, navn, e-post eller en tilfeldig informasjonskapsel i brukerens nettleser, vil alltid kreve kodeoppf\u00f8ring ved p\u00e5logging."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "I tillegg vil endringer i eventuelle avmerkede punkter under ogs\u00e5 kreve kodeoppf\u00f8ring ved p\u00e5logging."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Disse egenskapene danner et fingeravtrykk av brukerens nettleser utover den tilfeldige informasjonskapselen vi setter."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Denne innstillingen gjelder bare n\u00e5r alternativet for \u00e5 huske nettleser\/plassering er aktivert."
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Godta *header* (innholdstyper brukerens nettleseraksepter)"
         }
     }
 }
