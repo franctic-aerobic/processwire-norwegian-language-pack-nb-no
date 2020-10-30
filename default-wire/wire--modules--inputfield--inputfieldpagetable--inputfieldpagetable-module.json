@@ -64,6 +64,48 @@
         },
         "26fbcf76e1954ff7641a38a979ac4b62": {
             "text": "="
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Vennligst skriv inn en eller flere kolonner i feltinnstillingene dine f\u00f8r du bruker dette feltet."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Det ble funnet barn som kan legges til i denne tabellen. Merk av i boksen ved siden av det du vil legge til."
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "La til %d eksisterende side(r) i tabellen"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Tabellfelter som skal vises i administrasjonsgrensesnittet"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Skriv inn navnene p\u00e5 feltene (1 per linje) som du vil vise som kolonner i tabellen. For \u00e5 spesifisere en kolonnebredde for feltet, spesifiser \"field_name=30\" der \"30\" er bredden (i prosenter) av kolonnen. N\u00e5r du spesifiserer bredder, m\u00e5 summen av alle kolonnene bli til 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Du kan spesifisere hvilket som helst eget eller tilpasset felt. Du kan ogs\u00e5 bruke underfelt (field.subfield) med felter som inneholder flere egenskaper, som sidereferanser."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Tilpassede felter tilordnet de valgte malene inkluderer f\u00f8lgende:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "For \u00e5 se en liste over mulige egendefinerte felter her, velg en mal i fanen Detaljer, Lagre og kom tilbake hit."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Automatisk format for sidenavn"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "N\u00e5r de fylles ut, blir sider opprettet automatisk ved hjelp av dette navneformatet hver gang en bruker klikker p\u00e5 \"Legg til ny\"-knappen. Hvis det blir tomt, blir brukeren bedt om \u00e5 angi et navn p\u00e5 siden f\u00f8r den opprettes."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Hvis navneformatet inneholder ikkealfanumeriske tegn, regnes det som i [PHP-dato](http:\/\/www.php.net\/manual\/en\/function.date.php)-formatet. Hvis den bare inneholder alfanumeriske tegn, vil den brukes, med et nummer lagt til slutten (n\u00e5r det er n\u00f8dvendig) for \u00e5 sikre unikhet."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Eksempel: **Ymd:His** er et godt navneformat for dato-\/tidsbaserte sidenavn."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Modalredigeringsvinduoppf\u00f8rsel"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Inndatafeltet skal ledsage FieldtypePageTable"
         }
     }
 }
