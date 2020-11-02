@@ -367,6 +367,63 @@
         },
         "be777931cbea33cf8f3a5f5cd994ea93": {
             "text": "Innstillingsoverskridelser for feltnavnomr\u00e5de: %s"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "N\u00e5r dette er valgt, vises bare feltene fra en bestemt mal. Innebygde felter vises ogs\u00e5 n\u00e5r du filtrerer etter mal. Asterisk (*) indikerer systemmaler."
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "N\u00e5r det er spesifisert, vises bare felt av den valgte typen. Innebygde felter vises ogs\u00e5 n\u00e5r du filtrerer etter feltype."
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "N\u00e5r dette er avhuket, vil ogs\u00e5 innebygde felter vises. Disse inkluderer systemfelter og permanente felter. Systemfelter kreves av systemet og kan ikke slettes, og navn kan ikke endres. Permanente felter er de som ikke kan fjernes fra en mal. Disse feltene brukes internt av ProcessWire."
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Viser alle felter, inkludert innebygde systemfelter og permanente felter."
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Vis som skjult i feltlisten?"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Etiketter lar deg lage samlinger av felter for opplisting eller s\u00f8king."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Advarsel: Etiketten \u201c%s\u201d har samme navn som et felt."
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "n\u00e5r den brukes med: %s"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "n\u00e5r den brukes med malen \u201c%1$s\u201d i sammenhengen \u201c%2$s\u201d"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "n\u00e5r den brukes med malen: %s"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Sjekkfelt rapportert:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d foreldrel\u00f8se tabellrader funnet"
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "Kj\u00f8r \"Handlinger > Sjekk feltdata\" p\u00e5 feltet %s"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "F\u00f8lgende egenskaper ble funnet med dette feltet uten tilgang under konfigurasjonen. Noen ganger kan dette indikere at egenskapene ikke lenger er i bruk. Merk av i boksen ved siden av hver eiendom du vil fjerne. Hvis du ikke er sikker, er det ingen skade \u00e5 bare la dem v\u00e6re der."
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Potensielle ukjente egenskaper funnet i dette feltet. Se fanen \"Varsel\"."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Fjern %d foreldrel\u00f8se tabellrader?"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Vi fant datarader i tabellen til dette feltet som ikke samsvarer med noen side, eller samsvarer med sider som ikke har dette feltet."
+        },
+        "4ac3deb7dc60a1b4770ad126c84171f7": {
+            "text": "*Indikerer at feltet for \u00f8yeblikket overstyrer en standardverdi. Innstillinger som du angir i dette skjermbildet overstyrer bare standardinnstillingene n\u00e5r de brukes med \"%s\"-malen."
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "F\u00f8lgende innstillinger overstyres for dette feltet av den eller de indikerte malen(e). Merk av i boksen til h\u00f8yre for en hvilken som helst rad for \u00e5 fjerne overstyringen av innstillingen (gjenopprette den opprinnelige verdien)."
         }
     }
 }

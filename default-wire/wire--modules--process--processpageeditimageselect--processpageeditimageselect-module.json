@@ -178,6 +178,45 @@
         },
         "02b1a8c5ed34fba75d6ce56f68435743": {
             "text": "%1$d variasjoner av bildet %2$s"
+        },
+        "f586a5b42bcd327bea09641d0ac4a06a": {
+            "text": "="
+        },
+        "0a52da7a03a6de3beefe54f8c03ad80d": {
+            "text": "="
+        },
+        "4ea9ef823adbf374c74a5ef6316a18e2": {
+            "text": "%s av ovenfor"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Merk av i denne boksen for \u00e5 merke av for HiDPI\/Retina-avmerkingsboksen for nylig innsatte bilder som standard."
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Feltnavner \u00e5 hoppe over for valg"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Skriv inn navnene p\u00e5 bildefelter (atskilt med et mellomrom) som du ikke vil tillate \u00e5 bli valgt med denne modulen."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Hopp over breddeattributter i bildekoder?"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Som standard vil denne modulen inkludere breddeattributter i *img*-koden. Hvis du bruker responsive bilder, vil du kanskje deaktivere denne oppf\u00f8rselen. Merk av i boksen for \u00e5 deaktivere bredde- og h\u00f8ydeattributter."
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "Klasse for venstrejustering av bilde"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "Klasse for midtjustering av bilde"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "Klasse for h\u00f8yrejustering av bilde"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Laget for plassering i tekstomr\u00e5det"
+        },
+        "4e5c9b873df1e8716656250c63342361": {
+            "text": "="
         }
     }
 }

@@ -142,6 +142,21 @@
         },
         "0fdd2feb1a1625a723ebb9d9ec57533e": {
             "text": "Slutter som"
+        },
+        "be60d8e8a8aafeefb880343bcaddb16e": {
+            "text": "Match verdier med kommandoer: +ord M\u00c5 vises, -ord M\u00c5 IKKE vises, og uprefiksert ord kan vises."
+        },
+        "9004a4ff1e6a2ceda507ea1986986057": {
+            "text": "Legg til stjerne for delvis samsvar: Bar eller *+bar* sammensvarer med bar, barn, bart; mens -bar* hindrer \u00e5 sammensvarer med dem."
+        },
+        "1fb86755a88f3b2c83a11aaaaef0d6ad": {
+            "text": "Bruk anf\u00f8rselstegn for \u00e5 sammensvare setninger: +(m\u00e5 sammensvare), -(m\u00e5 ikke sammensvare) eller (kan sammensvare)."
+        },
+        "4ec9dc2c71f12f57dfccfc105045a3e0": {
+            "text": "Bitvis OG"
+        },
+        "ca03f0701dadffbc2a9b6b25da2792d3": {
+            "text": "Oppgitt heltall samsvarer med bitvis OG med sammenlignet heltall."
         }
     }
 }

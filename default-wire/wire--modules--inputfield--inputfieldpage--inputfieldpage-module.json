@@ -70,6 +70,126 @@
         },
         "38c3a6e66709a7bfc48e7450e726a9b5": {
             "text": "Ytterligere maler"
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "For \u00e5 tillate upubliserte sider, rediger \u201c%s\u201d-feltet og se innstillingen under \u201cDetaljer\u201d-fanen."
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "Velg malen for sidene som kan velges. Kan brukes i stedet for, eller i tillegg til, foreldrene ovenfor."
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Hvis du trenger flere maler for valgbare sider, velg dem her."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Dette st\u00f8ttes kanskje ikke av alle inndatatyper."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "Selv om dette overstyrer foreldre- og malvalg ovenfor, brukes disse valgene (hvis de finnes) fortsatt til validering."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Legg til ett eller flere felter nedenfor for \u00e5 opprette en sp\u00f8rring som finner sidene du vil gj\u00f8re valgbare."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Dette skaper en velger som finner sider ved kj\u00f8retid. Hvis du foretrekker \u00e5 angi dette manuelt, kan du bruke alternativet \u201cvelgerstreng\u201c nedenfor i stedet."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "Egendefinert funn"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Legg til felt i sp\u00f8rringen"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Velgerstreng"
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Hvis du vil finne valgbare sider ved hjelp av en ProcessWire-velger, skriver du inn velgerstrengen for \u00e5 finne de valgbare sidene. Denne velgeren vil bli sendt til et $pages->find(\"din velger\");`-kall."
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=\/produtker\/, template=produkt, sort=name"
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Hvis du vil finne valgbare sider ved hjelp av en PHP-kodebit i stedet for \u00e5 velge en overordnet side eller mal (over), skriv deretter inn koden for \u00e5 finne sidene som kan velges. Denne uttalelsen har tilgang til API-variablene $page og $pages, der $page refererer til siden som blir redigert."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Utdraget skal returnere enten et *PageArray*, *Page* eller *NULL*. Hvis den returnerer en side, brukes barnene til den siden som valgbare sider. \u00c5 bruke dette er valgfritt, og hvis det brukes, overstyrer det parent\/template\/selector-feltene ovenfor."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "MERK: Ikke kompatibel med PageListSelect eller Autocomple-inndatafelttypenr."
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "returner $page->parent->parent->children(\"name=lokasjoner\")->first()->children();"
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "Legg til f\u00f8lgende krok i en %s-fil og modifiser etter dine behov. Kroken skal finne og returnere valgbare sider i et *PageArray*."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "Hvis du trenger \u00e5 vite siden som redigeres, er den tilgjengelig fra: %s"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Velg sidefeltet du vil bruke til \u00e5 generere etikettene for hver side som kan velges."
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Velg \"Tilpasset format\" hvis du vil spesifisere flere felter, eller andre felter du ikke ser ovenfor."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Tilpasset format (flere felter)' . ' ..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Tilpasset sidetikettformat"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Angi ett eller flere feltnavn omgitt av {sl\u00f8yfeparenteser} sammen med eventuelle ekstra tegn, avstand eller tegnsetting."
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Inndatafelttype"
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "Type inndatafelt (Inputfield-modulen) som skal brukes til \u00e5 velge side(r) til dette feltet."
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "Velg en som er i samsvar med valget ditt for \"Verditype\" i kategorien \"Detaljer\" for valg av \u00e9n eller flere sider."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Etter at du har valgt en inndatafelttype og lagret endringene, v\u00e6r oppmerksom p\u00e5 at flere konfigurasjonsalternativer som er spesifikke for ditt valg, kan vises rett under dette."
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "Valg av flere sider"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Valg av enkel side"
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "Ang\u00e5ende inndatatypen \u201cSideliste\u201d"
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "Du har valgt en inndatatype som har spesifikke krav."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "Spesifiser bare alternativet \"Foreldre\" nedenfor n\u00e5r du konfigurerer \"Valgbare sider\"."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at foreldrene du spesifiserer, inneb\u00e6rer roten til treet p\u00e5 valgbare sider."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Hvis du vil gj\u00f8re alt valgbart, angir du ingenting."
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Hvis det er merket av, vil det ogs\u00e5 v\u00e6re et alternativ \u00e5 legge til nye sider hvis de angitte kravene er oppfylt."
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. B\u00e5de foreldre og en mal m\u00e5 spesifiseres i delen \"Valgbare sider\" ovenfor."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "1. B\u00e5de foreldre og en mal m\u00e5 spesifiseres i delen \"Valgbare sider\" ovenfor."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. \u201cEtikettfeltet\u201d m\u00e5 v\u00e6re satt til \u201ctitle (standard)\u201d."
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Inndatafeltmoduler tilgjengelig for sidevalg"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Velg inndatafeltmodulene som kan brukes til sidevalg. Dette b\u00f8r generelt v\u00e6re inndatafelter som lar deg velge ett eller flere alternativer."
         }
     }
 }

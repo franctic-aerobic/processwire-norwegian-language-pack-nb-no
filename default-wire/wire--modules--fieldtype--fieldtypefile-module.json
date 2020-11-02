@@ -64,6 +64,69 @@
         },
         "23f8d89e38fb131310ab885bad04b966": {
             "text": "Typen felt som vil bli brukt til \u00e5 samle inndata."
+        },
+        "ecc79534d4d067624a9ff21c9007cf0f": {
+            "text": "Filetternavnet %s m\u00e5 fjernes, godkjennes eller ha en [filvalideringsmodul](%s) installert."
+        },
+        "02c7048fd25999ef0196b9c702031e69": {
+            "text": "Filetternavnet som skal tillates uten validering (hviteliste)"
+        },
+        "8d0d44f9431f8dbb6599425c0d0a38a2": {
+            "text": "Disse filetternavnene trenger en [filvalideringsmodul](%s) installert. Ikke-merkede etternavn er deaktivert for sikkerhets skyld."
+        },
+        "3cf5aa280976802bec73910581f4dbe5": {
+            "text": "For \u00e5 ignorere og tillate filetternavn uten filvalidering, merker du av i boksen ved siden av det (anbefales ikke)."
+        },
+        "4c8ec65a891b88ab97e4c0ca89b1e161": {
+            "text": "Hvis du ikke trenger et etternavn, kan du fjerne den fra den listen over gyldige filetternavn."
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "N\u00e5r utdataformatering er av, er verdien alltid en matrise (WireArray)."
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Automatisk (enkelt element eller *null* n\u00e5r maksimalt antall filer er satt til 1, ellers en matrise med elementer)"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "Gjengitt tekststreng (som du oppgir)"
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "Gjengitt tekststreng"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Oppgi den gjengitte tekststrengen du vil vise som verdien for dette feltet. Hvis feltet inneholder flere elementer, blir denne strengen gjengitt flere ganger. Hvis feltet ikke inneholder noen elementer, brukes en tom streng."
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Du kan ogs\u00e5 velge en side som inneholder standardverdien (i samme felt). Det kan v\u00e6re lurt \u00e5 lage en side spesielt for dette form\u00e5let."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Tekstformaterere (for filbeskrivelser)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Velg en eller flere tekstformaterere (og deres rekkef\u00f8lge) som skal brukes p\u00e5 filbeskrivelsen n\u00e5r utdataformatering er aktiv. HTML-enhetskoderen anbefales som et minimum."
+        },
+        "e380459ef1125b0733738668d0bd747c": {
+            "text": "N\u00e5r dette er aktivert, vil feltet ogs\u00e5 inneholde et alternativ for koder i tillegg til beskrivelsen."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "Bruker velger fra listen over forh\u00e5ndsdefinerte koder"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "Bruker skriver inn etiketter som tekst"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "kan legge inn sine egne"
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Inndatafelttype"
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "Endre dette bare hvis instruksjonene om dette fra tredjeparts Inputfield-moduler instruerer det."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Tillatte felttypemoduler for tilpassede felt"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Typer med gjennomstrekning er sannsynligvis ikke 100 % kompatible."
         }
     }
 }

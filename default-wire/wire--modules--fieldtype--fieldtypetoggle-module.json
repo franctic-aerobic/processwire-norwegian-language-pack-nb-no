@@ -7,6 +7,36 @@
         },
         "87947648d1451650784ef832cbdc0983": {
             "text": "Veksle (Ja\/Nei)"
+        },
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Hva vil du at den formaterte verdien til vekselfeltet ditt skal v\u00e6re?"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "Velg den formaterte verdien som returneres av %s."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Se ogs\u00e5 fanen \u201cInndata\u201d for alle de andre innstillingene for vekslerfeltet."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "For alle de ovennevnte representeres *ikke-valget* av en tom streng."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Hvis et tredje\/annet alternativ er aktivert, blir det representert med heltallet 2."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "N\u00e5r en sides utdataformatering er av, er verdien alltid heltallene 0, 1, 2 (for Nei, Ja, Annet) eller en tom streng n\u00e5r ikke noen er valgt."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "**Boolsk:** Sann eller usann for ja\/nei-tilstander."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "**Streng:** Bruk tekstetiketter konfigurert med \u201cInndata\u201d-innstillinger."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "**Enheter:** Samme som ovenfor (streng), men enhet er kodet til \u00e5 v\u00e6re HTML-utdata."
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Konfigurerbart ja\/nei, av\/p\u00e5-alternativ for en avkrysningsrute, pluss valgfritt \u201cannet\u201c-alternativ."
         }
     }
 }

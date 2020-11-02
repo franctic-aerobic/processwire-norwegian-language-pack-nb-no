@@ -118,6 +118,180 @@
         },
         "127278ab533d9fcec53fa6c0947df913": {
             "text": "Et annet felt"
+        },
+        "33821a7c07464e5442de3b0aa1836854": {
+            "text": "Velg et bildefelt, en Gravatar eller ikon som skal vises for brukeravataren i hovednavigasjonsomr\u00e5det."
+        },
+        "8b5c3dc5e49d1be8ee1648a5bc454559": {
+            "text": "Det er ingen bildefelt til stede i \"user\"-malen for \u00f8yeblikket, s\u00e5 bare ikoner og Gravatar-er vises."
+        },
+        "08c95f3605e4e76b340174ba21b8462d": {
+            "text": "Du kan legge til bildefelt i brukermalen din [her](%s)."
+        },
+        "bb96132ad3ed6087cc9a11da0539a499": {
+            "text": "Etikettformat til brukernavigasjon"
+        },
+        "ef36780437bb9746cb9e4a684be3d0ae": {
+            "text": "Denne etiketten vises ved siden av brukerens avatarbilde\/-ikon."
+        },
+        "33f5c52210024a7906c33c262435d813": {
+            "text": "Angi felt(er) og format som skal brukes av brukeretiketten, eller tomt for ingen brukeretikett."
+        },
+        "9ac50f55fe0eb306162cdde72aee40db": {
+            "text": "Bruk felt \/ egenskaper fra [brukermalen](%s) din omgitt av {parentes}."
+        },
+        "e4e4bda20c3f3d73a0ab8a162324a5ef": {
+            "text": "Bruk {Navn} for store bokstaver, som er standardinnstillingen, eller bruk {navn} for sm\u00e5 bokstaver."
+        },
+        "94badcf29c95c51eb93549c399c1c91d": {
+            "text": "Eksempler: \u201c{navn}\u201d, \u201c{Navn}\u201d, \u201c{tittel}\u201d, \u201c{fornavn} {etternavn}\u201d, \u201c{bedrift.tittel}\u201d, osv."
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "Logobildefil"
+        },
+        "35c45261e46b5a1400aef3ecbf237879": {
+            "text": "Filen m\u00e5 v\u00e6re PNG, GIF, JPG eller SVG, p\u00e5 gjennomsiktig bakgrunn og minst 100 piksler i begge retninger."
+        },
+        "9bc773c48947ebcedc8c2e0a4cfe8f8f": {
+            "text": "Logoens klikkhandling"
+        },
+        "96f31592de4b37ce5ff61db935fbfa81": {
+            "text": "Administrasjonsgrensesnittet rotsideliste"
+        },
+        "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
+            "text": "\u00c5pne gjemt navigasjon"
+        },
+        "fd248b03e2d006b305f4a7896defe9cc": {
+            "text": "Oppsett + grensesnitt"
+        },
+        "d4d0ee9985bf14169e809b164524b0b0": {
+            "text": "Oppsettype"
+        },
+        "21924d98c4f369c97991af1760e5fc64": {
+            "text": "Tradisjonell med hovednavigasjonsomr\u00e5de"
+        },
+        "77c0933cca4f9492cb03f4a2d091901e": {
+            "text": "Sidetrenavigasjon i sidestolpen"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Sidestolpenavigasjon (venstre) + sidetrenavigasjon (h\u00f8yre)"
+        },
+        "cd49cb29b2424eb2cfa6526153e12f3f": {
+            "text": "*Sidestolpeoppsett er ikke kompatibelt med SystemNotifications-modulen og kan ogs\u00e5 by p\u00e5 problemet med andre moduler."
+        },
+        "ed81bfff2c494916fd8a4f7f0526e14c": {
+            "text": "Kolonnebredde til inndatafelt"
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "Velg alternativ B hvis du har problemer med \u00e5 oppn\u00e5 tiltenkte kolonnebredder til inndatafelt."
+        },
+        "3ae2bf644696505c219965a72b7cbb70": {
+            "text": "Prosentbaserte bredder (ekstra fleksibilitet)"
+        },
+        "029ec5ac76207f4e7627a0e3ffbdb15b": {
+            "text": "Maksimum oppsettbredde"
+        },
+        "c0a71759159badff6c9c45f730402dd6": {
+            "text": "Angi maksimal bredde p\u00e5 oppsettet (i piksler) eller 0 uten maksimum."
+        },
+        "d4b002181224e7985e75a3913eb4ac2d": {
+            "text": "Gjelder kun tradisjonelt oppsett."
+        },
+        "37243206806c555c2dbce190b1f49f37": {
+            "text": "Varslingsstil"
+        },
+        "dff1a43f94a6ab1d04bef81420510e6c": {
+            "text": "Gjelder ikke hvis SystemNotifications-modulen er installert."
+        },
+        "afae44a9309db56726837157afdd1a2a": {
+            "text": "Grupper etter type med utvid\/skjul-kontroll"
+        },
+        "fd57cabd74aeddd5a95d662e680dd5ef": {
+            "text": "Vi anbefaler ikke \u00e5 endre dette med mindre du er temautvikler for adminsitrasjonsgrensesnittet."
+        },
+        "21909eb7e7cbb04d9c804458848a7af3": {
+            "text": "Disse innstillingene p\u00e5virker alle skjemafelt i administrasjonsgrensesnittet."
+        },
+        "f695996235a3c704a6780cf5515b6fdb": {
+            "text": "Alle disse innstillingene (og andre) kan ogs\u00e5 spesifiseres individuelt for et gitt felt."
+        },
+        "0b28aca953c7100643fcacab33dbf502": {
+            "text": "Hvis du spesifiserer en innstilling her, overstyrer den individuelle feltinnstillinger."
+        },
+        "15367a85a0239326ebf3b0294edd61ce": {
+            "text": "Se: Oppsett > Felter > [hvilket som helst felt] > Inndata (fane) > Innstillinger for administrasjonsgrenesnittema."
+        },
+        "16b7c3d9f12cdd91bac81d618a62f357": {
+            "text": "Eksempler p\u00e5 inndatast\u00f8rrelse"
+        },
+        "8863450d1e8ee628cf02531395c1fb14": {
+            "text": "Velg eksempler p\u00e5 st\u00f8rrelser"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Ramme"
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Disposisjon"
+        },
+        "190d86032ba8b2f2522f36d983700c72": {
+            "text": "Dette p\u00e5virker utseendet til mange tekst-, tekstomr\u00e5de- og velgerfelter."
+        },
+        "3be905d0e0e23fa3e645f3d70e7d28d3": {
+            "text": "Ikke alle inndatafeltene st\u00f8tter de \u201csm\u00e5\u201c eller \u201cstore\u201c alternativene."
+        },
+        "6dcf297b0d223e7a27081a7c4bd6497f": {
+            "text": "Inndatatypene som ikke skal ha noen kantlinjer"
+        },
+        "141c494a39b11098554fc3d327578895": {
+            "text": "Denne innstillingen gjelder alle valgte typer n\u00e5r de brukes i 100 % bredde."
+        },
+        "dcf96c65e2763ec9e77c895af9d25cbe": {
+            "text": "Inndatatyper som skal kompenseres med ytterligere topp-\/bunnmarg."
+        },
+        "0d638e3ac46bc8f0cf58d60281ff4ebc": {
+            "text": "Som et eksempel bruker feltene i dette feltsettet dette alternativet."
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "Vertikal forskyvning av ALLE inndatatyper?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "N\u00e5r dette er avhuket, legges det til en vertikal marg i hvert felt."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "Dette kan gi ekstra klarhet i noen tilfeller, men bruker mer loddrett plass."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "Inndatatyper som skal bruke \"Kort\"-stilen"
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "Dette feltet er et eksempel p\u00e5 kortstilen."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Gjelder ikke for typer valgt uten ramme."
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Disse innstillingene p\u00e5virker hvordan dette feltet vises n\u00e5r det brukes med UIkit-administrasjonsgrensesnittemaet."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "N\u00e5r du velger alternativet \u201cAuto\u201d, vil innstillingene bli bestemt ved kj\u00f8retid."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "Innstillingen \u201dMarg\u201d gjelder bare felt med 100 % bredde."
+        },
+        "741b3715dff40fc66d023ffe7d2ec932": {
+            "text": "Alternativet \u201cAuto\u201d er anbefalt standard for alle innstillinger."
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Marg"
+        },
+        "2bd5addcf7653a473e310fc64bcbac60": {
+            "text": "Minimer utformingen av skjemakontroller"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Dette feltet viser bare innstillingene du valgte ovenfor."
+        },
+        "661262f88b0f998e147baacf8778d340": {
+            "text": "\u00c5pne \u201c%s\u201d-feltet ovenfor for et levende eksempel p\u00e5 kolonnebredde."
         }
     }
 }

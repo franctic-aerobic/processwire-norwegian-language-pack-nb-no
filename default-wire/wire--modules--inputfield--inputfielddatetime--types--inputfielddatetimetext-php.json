@@ -37,6 +37,72 @@
         },
         "6f6cb72d544962fa333e2e34ce64f719": {
             "text": "St\u00f8rrelse"
+        },
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Tekstinndata med jQuery UI-datovelger"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "="
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "="
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "I linjen datovelger er alltid synlig (ingen tidsvelger)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Inndataformater for dato\/tid"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "Velg formatet som skal brukes for brukerinndata i dette feltet. Ditt valg vil fylle ut feltet under dette, som du kan tilpasse videre om n\u00f8dvendig."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(unix tidsstempel)"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "Velg et valgfritt tidsformat som skal brukes til inndata. Hvis det brukes, vil kalenderalternativet inneholde en tidsvelger."
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Glidebrytere (standard) lar brukeren skyve kontrollene for \u00e5 velge tid, og tiden fra et rullegardinvalg."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Glidere"
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "Kode for format for datoinndata"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Dette bygges automatisk fra datoen som er valgt ovenfor, med mindre du endrer den."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Se funksjonsreferansen p\u00e5 [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) for mer informasjon om hvordan du tilpasser disse formatene."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Du kan ogs\u00e5 angi formater for andre spr\u00e5k her. Alle spr\u00e5k som er blanke, arver standardinnstillingen."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "Kode for format for tidsinndata"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Dette bygges automatisk fra tidspunktet du velger ovenfor, med mindre du endrer det."
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Valgfri plassholdertekst som vises i feltet n\u00e5r det er tomt."
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "Den viste bredden p\u00e5 dette feltet (i tegn)."
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "\u00c5rsrekkevidde"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "N\u00e5r forh\u00e5ndsdefinert \u00e5rsvalg er mulig, er det en rekkevidde p\u00e5 pluss minus 10 \u00e5r fra innev\u00e6rende \u00e5r."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "For \u00e5 endre rekkevidden, spesifiser antall \u00e5r f\u00f8r og etter innev\u00e6rende \u00e5r i dette formatet: `-30: +20`, som vil vises 30 \u00e5r f\u00f8r n\u00e5 og 20 \u00e5r etter n\u00e5."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "Standard er `-10: +10` som viser et \u00e5rsspenn 10 \u00e5r f\u00f8r og etter n\u00e5."
         }
     }
 }

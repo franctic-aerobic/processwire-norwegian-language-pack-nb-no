@@ -1,5 +1,45 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeSelect.php",
     "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimeselect-php",
-    "translations": []
+    "translations": {
+        "e45be5a84fb046a2901a141feca36774": {
+            "text": "Separate inndataalternativer for m\u00e5ned, dag og \u00e5r (og valgfritt tid)"
+        },
+        "7cbb885aa1164b390a0bc050a64e1812": {
+            "text": "M\u00e5ned"
+        },
+        "537c66b24ef5c83b7382cdc3f34885f2": {
+            "text": "\u00c5r"
+        },
+        "03727ac48595a24daed975559c944a44": {
+            "text": "Dag"
+        },
+        "38d0bdaf4659579f129657667b2c9eca": {
+            "text": "Ugyldig dato \u201c%1$s\u201d endret til \u201c%2$s\u201d"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "8d7893980db01e78e3ca1cc8c9c5fdb2": {
+            "text": "(forkortet)"
+        },
+        "73a63277825cde533cd60a9f84349f20": {
+            "text": "Datovalgformat som skal brukes"
+        },
+        "f4b3993e8447bd72f668dd7b50c08475": {
+            "text": "M\u00e5neders navn er spr\u00e5k-\/lokasjonsbasert"
+        },
+        "01a0290039c2bbaa8b164a2f05e537a3": {
+            "text": "Tidvalgformat som skal brukes"
+        },
+        "d50069df39408c10d40fd64c39f501b6": {
+            "text": "F\u00f8rste valgbare \u00e5r"
+        },
+        "99b44505fea9c1c1907b502024fa9dc8": {
+            "text": "Siste valgbare \u00e5r"
+        },
+        "b5ca52e96e16f944580f12d90986d514": {
+            "text": "Begrens utvalget til disse \u00e5rene?"
+        }
+    }
 }

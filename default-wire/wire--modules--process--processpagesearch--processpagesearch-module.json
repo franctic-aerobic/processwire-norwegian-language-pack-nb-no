@@ -73,6 +73,51 @@
         },
         "e1eee8c1f21fe51aa15f3006cd6419f4": {
             "text": "Sidefelter \u00e5 s\u00f8ke i"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Levende s\u00f8k i administrasjonsgrensesnittet"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Dette er typene s\u00f8k som vil bli utf\u00f8rt under et levende s\u00f8k i administrasjonsgrensesnittet."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Dra dem til rekkef\u00f8lgen du vil at s\u00f8keresultatene skal vises i."
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Velg hvilke s\u00f8ketyper du vil ekskludere fra direktes\u00f8k. Dette kan v\u00e6re typer du ikke ofte trenger \u00e5 s\u00f8ke etter."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Jo flere typer du ekskluderer, jo raskere vil det levende s\u00f8ket utf\u00f8res."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Alle valgte typer kan fremdeles s\u00f8kes i hvis du du ber om det spesielt i s\u00f8ket."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Hvis du for eksempel ekskluderte typen \u201ctrash\u201c (s\u00f8ppel), kan det fremdeles s\u00f8kes hvis du foran s\u00f8ket med \"trash=\", som \"trash=heisann\"."
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(innstillinger for typen sider)"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Dette gjelder bare s\u00f8keresultater fra \u201csider\u201c og \u201cs\u00f8ppel\u201c."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Vi anbefaler \u00e5 begrense dette til maksimalt 1 eller 2 felt for \u00e5 sikre at direktes\u00f8ket er raskt. Vanligvis vil du bare s\u00f8ke i \u201ctittel\u201c-feltet."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Sidefelter som skal s\u00f8ke i viss en bruker trykker p\u00e5 \u201denter\u201d i s\u00f8keboksen"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Vanligvis vil dette v\u00e6re det samme som ovenfor, men du vil kanskje ogs\u00e5 legge til flere felt(er)."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "For eksempel, i stedet for bare \u00e5 s\u00f8ke i \u201dtittel\u201d-feltet, vil du kanskje ogs\u00e5 s\u00f8ke i et \u201dtekstomr\u00e5de\"-felt ogs\u00e5."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Standards\u00f8koperat\u00f8r for enkle og delvise ords\u00f8k"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Standards\u00f8koperat\u00f8r for flerords\u00f8k (frases\u00f8k)"
         }
     }
 }

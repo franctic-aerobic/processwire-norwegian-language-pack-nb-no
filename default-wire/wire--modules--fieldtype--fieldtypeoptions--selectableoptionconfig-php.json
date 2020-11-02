@@ -25,6 +25,39 @@
         },
         "0581f7830fb426e1d56efadbc1a09edb": {
             "text": "Hvilke valg \u00f8nsker du \u00e5 ha forh\u00e5ndsvalgt? (om noen)"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Hva skal brukes som inndata?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Avhengig av hvilken inndatatype du velger, vil brukeren kunne velge enten et enkelt alternativ eller flere alternativer. Noen inndatatyper (som AsmSelect) st\u00f8tter ogs\u00e5 valg som kan sorteres av brukere. Noen inndatatyper gir ogs\u00e5 flere innstillinger i *Inndata*-fanen (som blir synlig etter at du har lagret)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Hva er valgbare alternativer?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Skriv inn ett valgbart alternativ per linje. Etter at du har lagret, tildeles et ID-nummer til hvert av alternativene dine, som du for eksempel vil se som `123=tittel`. Se [instruksjonene for bruk av dette feltet](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Flerspr\u00e5ksnotat: Definer alternativer p\u00e5 standardspr\u00e5ket og lagre f\u00f8r du oversetter dem til andre spr\u00e5k."
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Dette feltet fungerer ogs\u00e5 som en forh\u00e5ndsvisning av valgt inndatatype (%s) og alternativer."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Merk: Valgene dine her blir ikke aktive med mindre en verdi *alltid * kreves for dette feltet. Se alternativet \"p\u00e5krevd\" i Inndata-fanen i feltinnstillingene."
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "Eksempel p\u00e5 bruk av API"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Produser et enkelt valg:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Produser flere valg:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Hvis du vil produsere verdier i stedet for titler, erstatter du \u201ctittel\u201d med \u201cverdi\u201d i eksemplene ovenfor."
         }
     }
 }

@@ -16,6 +16,36 @@
         },
         "e6b391a8d2c4d45902a23a8b6585703d": {
             "text": "="
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Hvis denne nettadressen vil bli brukt til utdata, anbefales det p\u00e5 det sterkeste at du velger \"HTML-enhetskoder\" som \"Tekstformaterer\" i Detaljer-fanen."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Tillate relative\/lokale nettadresser uten \"http:\/\/\" i begynnelsen?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "Lokale\/relative nettadresser er de uten ordning og domene."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Tillate internasjonaliserte domenenavn (IDN-er)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "N\u00e5r aktivert, er ikke domenenavn som ikke er ASCII tillatt."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Tillate enkle\/doble sitattegn i nettadresser?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "N\u00e5r aktivert, b\u00f8r du v\u00e6re helt sikker p\u00e5 at slike nettadresser er enhetskodet n\u00e5r de brukes i markering."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Legg til nettstedets rotsti f\u00f8rst i lokale\/relative nettadresser?"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Dette alternativet vil automatisk legge til nettstedets rotsti f\u00f8rst til alle nettadresser som starter med en skr\u00e5strek, som \/en\/sti\/. Dette er nyttig hvis nettstedet kj\u00f8rer fra en underkatalog fordi du ikke trenger \u00e5 inkludere den underkatalogen i nettadressene du skriver inn i dette feltet. Skulle du senere flytte nettstedet ditt til roten til et domene (eller en annen underkatalog), trenger du ikke \u00e5 bekymre deg for \u00f8delagte nettadresser. Med dette alternativet aktivert, skriv alltid inn nettadresser som om nettstedet kj\u00f8rte fra roten til et domene, uavhengig av om det kj\u00f8rer fra en underkatalog eller ikke. Dette gjelder naturligvis bare hvis du valgte 'Ja' for \u00e5 tillate lokale\/relative nettadresser i feltet ovenfor. Utviklere vil kanskje ogs\u00e5 merke seg at dette alternativet bare gjelder n\u00e5r utdataformateringen p\u00e5 en side er p\u00e5."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Sikrer at nettadresser ikke brytes n\u00e5r du flytter et nettsted fra en underkatalog til rotniv\u00e5 (det vanligste eksemplet)."
         }
     }
 }

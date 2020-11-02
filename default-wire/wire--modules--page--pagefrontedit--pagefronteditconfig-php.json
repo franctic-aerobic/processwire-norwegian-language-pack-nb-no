@@ -70,6 +70,51 @@
         },
         "06b9281e396db002010bde1de57262eb": {
             "text": "="
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Disse tekstbaserte feltene kan redigeres i frontenden, direkte p\u00e5 siden, ganske enkelt ved \u00e5 merke av i ruten nedenfor."
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Felter kan bare redigeres hvis de er fra siden som gjengis (anbefales)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Felter kan redigeres uavhengig av side"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Det er noen forskjellige m\u00e5ter du kan aktivere frontenderedigering for dette feltet p\u00e5. Uansett hvilket alternativ du velger, vises frontenderedigeringen bare n\u00e5r brukeren har passende tillatelser til siden og feltet."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "N\u00f8dvendige tillatelser er [page-edit](%s) og [page-edit-front](%s)."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "N\u00e5r et felt kan redigeres, viser det en kontekstmuspeker i stedet for en vanlig peker. For \u00e5 redigere feltet via frontenden, m\u00e5 du **dobbeltklikke** p\u00e5 det."
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "N\u00e5r den formaterte verdien av feltet hentes fra en `$page`, kan den redigeres uten at du trenger \u00e5 skrive noen markering\/kode for den. Dette forutsetter at brukeren har tillatelse til \u00e5 redigere den."
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Dette alternativet er for \u00f8yeblikket AKTIVERT for dette feltet."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Alternativ B: API-metodeanrop"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Bruk $page->edit(\"%s\"); heller enn $page->%s; n\u00e5r du vil produsere verdien."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Et av f\u00f8lgende syntaksalternativer st\u00f8ttes (velg en). \"1001\" kan v\u00e6re hvilken som helst side-ID eller bane, og \"...\" kan v\u00e6re hvilken som helst markering eller kode, vanligvis der du viser feltverdien."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Alternativ C: Legg til HTML-redigeringskoder for \u00e5 opprette en redigerbar region"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Alternativ D: Legg til HTML-redigeringsattributter til eksisterende markeringstag for \u00e5 opprette redigerbar region"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "*Div*-koden vist nedenfor kan v\u00e6re en hvilken som helst eksisterende HTML-kode som omslutter den redigerbare regionen din."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Merk at n\u00e5r du bruker redigeringsattributter, brukes alltid modalredigereren. Alle de andre alternativene vil bruke den innebygde redigereren n\u00e5r den st\u00f8ttes."
         }
     }
 }

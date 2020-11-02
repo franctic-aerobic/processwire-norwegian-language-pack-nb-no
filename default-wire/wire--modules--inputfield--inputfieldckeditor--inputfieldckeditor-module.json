@@ -121,6 +121,117 @@
         },
         "8cd140c060d298234e0079cb77ee8190": {
             "text": "De f\u00f8lgende innstikkene ble funnet. Vennligst kryss av i boksen ved siden av hvert innstikk du vil laste inn."
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Tilgjengelige verkt\u00f8ylinjeelementer fra kjernen:"
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "* I linjen-modus krever at *HTML Purifier*-modulen er installert (MarkupHTMLPurifier)."
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "N\u00e5r ja, vil *CKEditor Advanced Content Filter (ACF)* v\u00e6re aktivt. Dette filteret fjerner automatisk ukjent markering eller attributter fra HTML-koden. Anbefalt."
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "N\u00e5r ja, kj\u00f8res innsendt innhold gjennom [HTML Purifier](http:\/\/htmlpurifier.org\/) for sanering. Dette er et must n\u00e5r du bruker CKEditor for enten i linjen-modus eller ikke-p\u00e5litelige brukere. Anbefales uansett."
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Bilderfelter som kan brukes til \u00e5 dra inn eller lime inn bilder"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Hvis ingen felt er valgt, velges et tilgjengelig bilderfelt automatisk ved kj\u00f8retid. Hvis alternativet merket \u201cIngen\u201d er valgt, blir funksjonen deaktivert."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Ingen (deaktiver dra \/ lim inn bilder som lastes opp)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Side som skal brukes til lagring av bilder\/ressurser"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Som standard lagres opplastede bilder med siden som redigeres. Hvis du vil bruke en delt side for disse ressursene i stedet, velg den her."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "="
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Fjern mellomrom som ikke bryter (nbsp)"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Dette er ekstra rengj\u00f8ringsalternativer (utover ACF og HTML Purifier) som vi synes er nyttige i mange situasjoner. De utf\u00f8res n\u00e5r siden blir lagret. Det anbefales \u00e5 krysse av for alle disse, med mindre du har behov for \u00e5 slippe noen av disse igjennom i markeringen."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Formatkoder"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Semikolonseparert liste med valgbare koder som vises i rullegardinmenyen \"format\"."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "Standardformatkoder er:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Ekstra tillatt innhold"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "Tillatte regler for innhold per CKEditor-alternativet [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent). Gjelder bare hvis avkrysningsruten \"Bruk ACF\" ovenfor er merket av."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Du kan angi flere regler ved \u00e5 sette hver p\u00e5 sin egen linje."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "Ovennevnte eksempel tillater attributtne alt, src, width og height i img-koder, med attributtet src som alltid p\u00e5krevd."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "Stier skal v\u00e6re i forhold til ProcessWire-installasjonsroten (dvs. hvis nettstedet kj\u00f8rer fra en underkatalog, ekskluder den delen)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Dette alternativet lar deg endre m\u00e5ten tekst og andre elementer vises i redigeringsprogrammet ditt. Dette dekker hvordan de bare ser ut i det administrasjonsgrensesnittet, og har ingenting \u00e5 gj\u00f8re med frontenden p\u00e5 nettstedet ditt."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Se [instruksjonene](%s) om hvordan du bruker dette."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Egendefinert CSS-fil til redigeringen (vanlig modus)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Egendefinert CSS-fil til redigeringen (i linjen-modus)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Egendefinert JS-stilsett til redigeringen"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Dette alternativet lar deg spesifisere tilpassede stiler for valg i redigeringsprogrammet. Det krever at du har et \"Styles\"-element i innstillingene p\u00e5 verkt\u00f8ylinjen ovenfor."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Hvis brukt, skriv inn en per linje med **property: value**, eller bruk en JSON-streng."
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Egendefinerte konfigurasjonsalternativer"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Bruk dette n\u00e5r du vil spesifisere CKEditor-konfigurasjonsinnstillinger utover det som er tilgjengelig i dette skjermbildet."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Egendefinerte konfigurasjonsalternativer feilet JSON-validering"
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Hvis \u00f8nsket, kan disse innstillingene ogs\u00e5 angis i en av disse filene:"
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "For \u00e5 legge til flere innstikk, plasser dem i **\/site\/modules\/InputfieldCKEditor\/plugins\/[navn]\/**, og bytt ut **[navn]** med navnet p\u00e5 innstikket."
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "Innstikkinnstillingene til \"%s\" feilet JSON-validering."
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "Kommaseparert liste over ekstra innstikk som CKEditor skal laste inn."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Eksempel: pwlink,pwimage,mittinnstikk,annetinnstikk"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "Kommaseparert liste over fjernede plugins som CKEditor ikke skal laste inn."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor-tekstomr\u00e5de, rik tekstredigering."
         }
     }
 }
