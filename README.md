@@ -1,6 +1,6 @@
 # ProcessWire-Norwegian-Language-Pack-nb-NO
 
-## Version
+## Latest Version
 ProcessWire 3.0.168 dev
 
 ## default-wire
