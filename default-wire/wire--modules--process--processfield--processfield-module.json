@@ -424,6 +424,204 @@
         },
         "b98e1358fd47b54afceecd12ace8e18c": {
             "text": "F\u00f8lgende innstillinger overstyres for dette feltet av den eller de indikerte malen(e). Merk av i boksen til h\u00f8yre for en hvilken som helst rad for \u00e5 fjerne overstyringen av innstillingen (gjenopprette den opprinnelige verdien)."
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "Overstyringsinnstillinger til malen: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "Overstyringsinnstillinger av mal"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "For \u00e5 redigere en overstyringsinnstilling eller overstyre andre innstillinger, rediger en hvilken som helst mal og klikk p\u00e5 feltnavnet i feltlisten."
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "For \u00e5 justere hvilke innstillinger som er tillatt for overstyringer, se feltet nedenfor."
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Det er for \u00f8yeblikket ingen innstillinger som overstyres av malen."
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Avhukede innstillinger vises som konfigurasjonsalternativer n\u00e5r du redigerer dette feltet i sammenheng med en bestemt mal."
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**ADVARSEL:** Aktivering av innstillinger utover de som er spesifisert av Fieldtype\/Inputfield-modulen, fungerer ikke alltid eller kan for\u00e5rsake problemer."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Som et resultat anbefaler vi at du f\u00f8rst tester eventuelle endringer i disse innstillingene i et ikke-produksjonsmilj\u00f8 (utviklingsmilj\u00f8)."
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "Innstillinger med **fet skrift** er de som Fieldtype\/Inputfield-modulen har utpekt som alltid tillatt for overstyring."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Andre innstillinger fungerer eller fungerer kanskje ikke til kontekstoverstyringer."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Du b\u00f8r fjerne merket for innstillingene du oppdager at ikke fungerer, eller som for\u00e5rsaker problemer p\u00e5 annen m\u00e5te."
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Installer redigeringsmodulen for frontendesiden for \u00e5 aktivere frontenderedigering for felter. Etter installasjonen, last inn og kom tilbake hit for flere alternativer."
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Bruk bare ASCII-bokstaver (a-z A-Z), tall (0-9) eller understrekninger."
+        },
+        "ab2e4f95a7971ee8077df62efa20d437": {
+            "text": "Etter \u00e5 ha valgt felttype og lagring, kan du bli presentert med flere konfigurasjonsalternativer som er spesifikke for felttypen du valgte."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Ytterligere informasjon som beskriver dette feltet og\/eller instruksjoner om hvordan du skriver inn innholdet."
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Bruksnotater eller tilleggsinformasjon som vises under inngangen."
+        },
+        "50a4257e8c785ebeb46a186bb2c3e08e": {
+            "text": "Du kan raskt legge til eller fjerne dette feltet fra maler, ved \u00e5 merke av eller fjerne avhukingen for de aktuelle boksene, og klikke p\u00e5 lagre."
+        },
+        "8e4fd886f63504810bb594b41a48d32b": {
+            "text": "Du blir bedt om \u00e5 bekrefte tilf\u00f8yelser og fjerninger p\u00e5 neste skjermbilde etter at du har lagret."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "%d systemmaler vises ikke fordi avansert modus er av."
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Sjekk feltet for ubrukte data eller andre mulige optimaliseringer. Hvis det oppdages problemer, vil du f\u00e5 muligheten til \u00e5 rette dem fra varselfanen etter lagring."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "Vil du administrere tilgangskontroll til dette feltet?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "N\u00e5r aktivert, kan du begrense visning og redigere tilgang til dette feltet etter brukerrolle."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Hvilke roller kan se og\/eller redigere dette feltet?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Brukere m\u00e5 ogs\u00e5 ha sidevisnings eller redigeringstilgang p\u00e5 siden der feltet finnes f\u00f8r disse tillatelsene gjelder."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "N\u00e5r ingen bokser er avhuket, er det bare superbruker som kan se\/redigere innholdet i feltet."
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Tilgangvekslere"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Vis felt i sideredigering hvis det kan vises men ikke kan redigeres (bruker kan se men ikke endre)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Gj\u00f8r feltverdien tilgjengelig fra API selv om den ikke kan ses (se nedenfor)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "N\u00e5r et felt ikke er synlig (p\u00e5 frontenden med utdataformatering p\u00e5), vil $page->% s-verdien v\u00e6re en tom versjon av den forventede typen, som forhindrer at verdien vises."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Merk av i boksen ovenfor for \u00e5 omg\u00e5 denne oppf\u00f8rselen, slik at verdien alltid blir tilgjengelig via API. Dette lar deg utf\u00f8re tilgangskontroll."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Du kan sjekke visningstilgang fra API for dette feltet slik:"
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Hvis du vil knytte et ikon til feltet, velger du et ikon nedenfor. Klikk p\u00e5 lenken \"Vis alle ikoner\" for visuelt valg."
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Hvis du \u00f8nsker \u00e5 gruppere dette feltet visuelt med andre i feltlisten, skriver du inn en etikett p\u00e5 ett ord. Skriv inn samme etikett i andre felter du vil gruppere med. For \u00e5 spesifisere flere koder, skiller du hver med et mellomrom. Bruk av etiketter kan l\u00f8nne seg hvis nettstedet ditt har et stort antall felter."
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Feil ved oppretting av klon for dette feltet"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Feltnavn kan bare inneholde ASCII-bokstaver, sifre eller understreking."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "Feltnavnet \"%s\" er allerede i bruk"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "Feltnavnet \"%s\" er et reservert ord"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Feltnavn kan ikke begynne med \"_\" eller sifre"
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "Feltnavnet er kanskje ikke det samme som et spr\u00e5knavn"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Dette fungerer ikke fordi verdiene m\u00e5 v\u00e6re side-ID-er"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Fjernet kontekstoverstyring"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Endre type for felt: %s"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Endre felttype fra \"%1$s\" til \"%2$s\""
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at endring av felttype endrer databaseskjemaet. Hvis den nye feltypen ikke er kompatibel med den gamle, eller hvis den inneholder et vesentlig annet skjema, er det mulig at datatap oppst\u00e5r. Som et resultat, anbefales det at du sikkerhetskopierer databasen f\u00f8r du fullf\u00f8rer en feltendring."
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Hvis du er sikker p\u00e5 at du vil endre felttype, merker du av i boksen nedenfor og sender inn dette skjemaet."
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Merk av i denne boksen for \u00e5 beholde alle de tilpassede innstillingene for dette feltet (fra fanene Detaljer og Inndata). Dette er \u00f8nskelig hvis den nye felttypen har samme eller lignende konfigurasjonsegenskaper som den gamle felttypen. Imidlertid kan det ogs\u00e5 resultere i un\u00f8dvendige eller overfl\u00f8dige konfigurasjonsdata som tar plass i feltet. Du kan alltid analysere dette senere fra: Avansert > Kontroller feltdata."
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Fjern feltet \"%1$s\" fra malen \"%2$s\""
+        },
+        "e84730e92daf0ff6f2ff21874c281f4e": {
+            "text": "Bekreft fjerning av feltet \"%1$s\" fra malen \"%2$s\""
+        },
+        "d3abfd9fce44bd366ad49c2614136c14": {
+            "text": "ADVARSEL: Dette vil f\u00f8re til at data tilknyttet feltet blir permanent slettet."
+        },
+        "cdd2e54d443ebc672c6a53d756e682cd": {
+            "text": "N\u00e5r du har sendt inn, m\u00e5 du v\u00e6re t\u00e5lmodig, da det kan ta litt tid f\u00f8r denne operasjonen er fullf\u00f8rt."
+        },
+        "501a7415f8881524421e7a19287a2c62": {
+            "text": "Det ser ikke ut til \u00e5 v\u00e6re noen rader med data tilknyttet denne kombinasjonen av felt\/mal"
+        },
+        "8aa6cad0a41ed8f9776dd6a09805c5ae": {
+            "text": "Legg til feltet \"%1$s\" til malen \"%2$s\""
+        },
+        "968c4c39df4617d7356ee14137658f3f": {
+            "text": "Hvor vil du legge til \"%s?\""
+        },
+        "c7d0e111bad6f0fd32c701944fb16475": {
+            "text": "Gjennomg\u00e5 og juster eller bekreft endringene"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "La til feltet \"%1$s\" i malen \"%2$s\" f\u00f8r \"%3$s\""
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "La til feltet \"%1$s\" i malen \"%2$s\" etter \"%3$s\""
+        },
+        "2dc7474fc7cd98da4c757c25d5acd451": {
+            "text": "Fjernet feltet \"%1$s\" fra malen \"%2$s\""
+        },
+        "092a2d93903f42f67e257ba6fb82d6a2": {
+            "text": "Feil ved fjerning av \"%1$s\" fra malen \"%2$s\""
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Feltpresentasjon\/-synlighet"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Roller har lov til \u00e5 se dette feltet"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Roller har lov til \u00e5 redigere dette feltet"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Gj\u00f8r API for feltverdi tilgjengelig, selv n\u00e5r det ikke er synlig"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Gj\u00f8r API for feltverdi UTILGJENGELIG n\u00e5r den ikke kan vises"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Skjul i sideredigering n\u00e5r den ikke kan redigeres"
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "G\u00e5 tilbake til feltlisten etter at du har lagret et felt?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "Som standard forblir du i feltredigereren etter at du har lagret et felt. Hvis du i stedet vil g\u00e5 tilbake til feltlisten, merker du av i denne boksen."
         }
     }
 }

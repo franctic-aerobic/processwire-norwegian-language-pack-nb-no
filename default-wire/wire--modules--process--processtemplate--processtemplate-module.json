@@ -108,7 +108,7 @@
             "text": "Endret"
         },
         "ce74097d91e1181f033e39e38736dd5a": {
-            "text": "mellomlager"
+            "text": "hurtigbuffer"
         },
         "0630333bf0b09b371182fe756dec526a": {
             "text": "URL-segmenter"
@@ -135,7 +135,7 @@
             "text": "Filer"
         },
         "ff2e33d2066471fd192bf41c39322cd1": {
-            "text": "Mellomlager"
+            "text": "Hurtigbuffer"
         },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avansert"
@@ -156,7 +156,7 @@
             "text": "Felter"
         },
         "3542eba15a5738faa3ec20dac5e8c2b1": {
-            "text": "Mellomlagertid"
+            "text": "Hurtigbuffertid"
         },
         "3050063a3917b13308a0470879b3259f": {
             "text": "Etikett til innholdsfanen"
@@ -270,31 +270,31 @@
             "text": "Deaktivert"
         },
         "399c72ebbb8b618eeb11aab334a88369": {
-            "text": "Aktiver (malmellomlager)"
+            "text": "Aktiver (malhurtigbuffer)"
         },
         "6d490a96685b13339b51530ee05a7c9a": {
             "text": "Aktiver (ProCache, konfigurert her)"
         },
         "b0349bb2d18f943c6aa52c5c038850a0": {
-            "text": "Dersom du bruker [ProCache](%s) er det ikke behov \u00e5 justere mellomlagerets innstillinger her."
+            "text": "Dersom du bruker [ProCache](%s) er det ikke behov \u00e5 justere hurtibufferens innstillinger her."
         },
         "7ff5f438d6cc10c5f333e97329c72daa": {
-            "text": "N\u00e5r en side som bruker denne malen lagres, hva skal skje med mellomlageret?"
+            "text": "N\u00e5r en side som bruker denne malen lagres, hva skal skje med hurtibufferen?"
         },
         "fe4a994d36e75cfb408bdf0b5dd7af09": {
-            "text": "T\u00f8m mellomlager kun for lagret side (standard)"
+            "text": "T\u00f8m hurtigbuffer kun for lagret side (standard)"
         },
         "e83d2e6601e2f724159034563ad4fde0": {
-            "text": "T\u00f8m mellomlager for hele siden*"
+            "text": "T\u00f8m hurtigbuffer for hele siden*"
         },
         "3bba41317ab3da84fd247ebaa32ea821": {
-            "text": "T\u00f8m mellomlager for lagret side og foreldre (inkludert hjemsiden)"
+            "text": "T\u00f8m hurtigbuffer for lagret side og foreldre (inkludert hjemsiden)"
         },
         "f841b3150a439220f669e77e12ea0bda": {
-            "text": "T\u00f8m mellomlager for lagret side og andre sider som jeg spesifiserer..."
+            "text": "T\u00f8m hurtigbuffer for lagret side og andre sider som jeg spesifiserer..."
         },
         "70445e42e2f9089020b0ba1c23063287": {
-            "text": "T\u00f8m mellomlager for lagret side og andre sider som passer selektor..."
+            "text": "T\u00f8m hurtigbuffer for lagret side og andre sider som passer selektor..."
         },
         "5124b02da7ffa5ef666dc8bde11cd10d": {
             "text": "Enten \/ betyr ingenting"
@@ -363,7 +363,7 @@
             "text": "Om du vil duplisere felter brukt av en annen mal, velg det her. Felter som allerede er i denne malen vil bli v\u00e6rende."
         },
         "c5abeb6189c82d5b9d81bbcac604408b": {
-            "text": "Mellomlagerstatus"
+            "text": "Hurtigbufferstatus"
         },
         "404deca0459b84d7308fb7c434301657": {
             "text": "Sider som bruker denne malen er for tiden mellomlagret i ProCache, men konfigurert direkte i ProCache. For \u00e5 konfigurerer ProCache-innstillingene her, velg ProCache-valget over."
@@ -375,19 +375,19 @@
             "text": "For eksempel: 60 = 1 minutt, 600 = 10 minutter, 3600 = 1 time, 86400 = 1 dag, 604800 = 1 uke, 2419200 = 1 m\u00e5ned."
         },
         "fa15c33b6ad59f9f8183f1b3c68ab082": {
-            "text": "Sidelagring \/ mellomlager utg\u00e5r"
+            "text": "Sidelagring\/hurtigbuffer utg\u00e5r"
         },
         "cac7796ca8e88c31d8b23733cb7aaf03": {
             "text": "*For \u00e5 maksimere ytelsen, utg\u00e5r mellomlagrede filer som en gruppe heller en \u00e5 bli fjernet individuelt."
         },
         "7ebdcad871020558be972578bdf46a10": {
-            "text": "Spesifiser de andre sidene som skal f\u00e5 mellomlageret t\u00f8mt"
+            "text": "Spesifiser de andre sidene som skal f\u00e5 hurtigbufferen t\u00f8mt"
         },
         "501a09415d30cab1819195e5566a0c0d": {
-            "text": "N\u00e5r sider som bruker denne malen blir lagret, vil mellomlageret bli t\u00f8mt. Velg de andre sidene som ogs\u00e5 skal f\u00e5 sitt mellomlager t\u00f8mt under."
+            "text": "N\u00e5r sider som bruker denne malen blir lagret, vil hurtigbufferen bli t\u00f8mt. Velg de andre sidene som ogs\u00e5 skal f\u00e5 sitt hurtigbuffer t\u00f8mt under."
         },
         "f62b09e2a4c1eb3583afe9c213b981c8": {
-            "text": "Selector for \u00e5 finne andre sider som skal f\u00e5 sitt mellomlagert t\u00f8mt."
+            "text": "Selector for \u00e5 finne andre sider som skal f\u00e5 sitt hurtigbufferen t\u00f8mt."
         },
         "dcbec326309994892030ce4aa6f72f75": {
             "text": "Lagre denne malen og kom tilbake her for \u00e5 konfigurerer selector-en."

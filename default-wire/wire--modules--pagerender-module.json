@@ -3,25 +3,25 @@
     "textdomain": "wire--modules--pagerender-module",
     "translations": {
         "af4137a5254dfe8654d87ff05286b80e": {
-            "text": "T\u00f8mte mellomlagret fil:"
+            "text": "T\u00f8mte hurtigbufferfil:"
         },
         "22a38306ce7556a0a5eeebca65cd9b58": {
-            "text": "Utg\u00e5tt sidemellomlager for hele siden"
+            "text": "Utg\u00e5tt sidens hurtigbuffer for hele siden"
         },
         "b091c65f589c970f6084669796efb995": {
-            "text": "T\u00f8mte mellomlagerfil: %s"
+            "text": "T\u00f8mte hurtifbufferfil: %s"
         },
         "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
-            "text": "T\u00f8m mellomlagerfil til %d side(r)"
+            "text": "T\u00f8m hurtigbufferfil til %d side(r)"
         },
         "403c89515b16b3417cd2e426612b4a53": {
-            "text": "T\u00f8mte %d mellomlagrede filer til %d sider"
+            "text": "T\u00f8mte %d hurtigbufrede filer til %d sider"
         },
         "3a160df105e3d9d54575466354bdd312": {
             "text": "="
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
-            "text": "For tiden er det %d sider mellomlagret i %s"
+            "text": "For tiden er det %d sider hurtigbufret i %s"
         },
         "0c22fad509c478c3442a310a7a2b2c52": {
             "text": "Rydde Page Render Disk-hurtigbufferen?"
