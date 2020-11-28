@@ -235,6 +235,12 @@
         },
         "e9f6051c655ca4a6773af3f2d8458815": {
             "text": "Vurderingsbeskrivelser gitt av (Gravatar)[https:\/\/en.gravatar.com\/site\/implement\/images\/]."
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Tillate kommentartekst i varsler?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "N\u00e5r dette er merket av, vil hele kommentarteksten ogs\u00e5 vises i e-postmeldingene, i stedet for bare en lenke til den."
         }
     }
 }

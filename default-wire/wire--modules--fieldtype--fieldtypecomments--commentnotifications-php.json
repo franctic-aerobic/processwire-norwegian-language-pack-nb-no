@@ -41,9 +41,6 @@
         "92295f3f7fe39fd61f8ce27b523aa341": {
             "text": "Postet av: %s"
         },
-        "c835168989fcff535a5d12f1fe9a9d51": {
-            "text": "Deaktiver beskjeder"
-        },
         "c7c47e22cdf07075fbc40c3197b822e0": {
             "text": "Vennligst bekreft beskjed"
         },
@@ -74,9 +71,6 @@
         "15ede22296b59c623fa73c28c6dbe629": {
             "text": "Tekst"
         },
-        "1e0d36c28b3b237af18c36e171a50484": {
-            "text": "="
-        },
         "5be3f30f5db8303d4baac9920be07c45": {
             "text": "="
         },
@@ -85,6 +79,15 @@
         },
         "2bdedaef502bd65a7190ee7077fc9d23": {
             "text": "Oppdaterte kommentar %d til \u201c%s\u201d"
+        },
+        "3b5617424ffc943d996c686a376e807c": {
+            "text": "Avmeld deg fra \u00e5 f\u00e5 disse varslene"
+        },
+        "f6c4779fa5259e211efefe8cae45f4b2": {
+            "text": "Vis eller svar"
+        },
+        "27d7f48b990974bef40abd6a857c4e0c": {
+            "text": "Lagt ut %s av %s"
         }
     }
 }
