@@ -29,23 +29,8 @@
         "141e30f2de96660020efd996cc916413": {
             "text": "Moduleavhengighet feilet: %s krever %s"
         },
-        "f0116bd76230140a92cbd37cc524488e": {
-            "text": "vil bli anvendt neste gang hver modul lastes"
-        },
         "3ba3666c48feabf2f2506e1f835ea92e": {
             "text": "Oppgraderer modul"
-        },
-        "edf71dd6396541cf37f54bf079e21006": {
-            "text": "Oppdaget %d ny modul: %s"
-        },
-        "8d36abbc1aa8f167970999175380a355": {
-            "text": "Oppdaget %d nye moduler: %s"
-        },
-        "99cf7718c48f783d19e8c8b463a6e704": {
-            "text": "Oppdaget %d endring i modulversjon"
-        },
-        "7cbf3b34133e54263a1242eb74a5008e": {
-            "text": "Oppdaget % endringer i modulversjoner"
         },
         "0a6712f704d759c81cdc4416397e7faf": {
             "text": "Feilet \u00e5 konstruere modulen: %s"
@@ -79,6 +64,18 @@
         },
         "dc3fd488f03d423a04da27ce66274c1b": {
             "text": "Advarsel!"
+        },
+        "5a2fc11bf796d8311be4cbec0b42de6a": {
+            "text": "Oppdaget %d ny modul(er):"
+        },
+        "c6c027ba8c6c5d40e280070bd29ded16": {
+            "text": "Oppdaget %d flyttet\/flyttede modul(er):"
+        },
+        "6ea5c2eaa01aed58a21b407c8e6dfd98": {
+            "text": "Oppdaget %d manglende modulfil(er):"
+        },
+        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
+            "text": "Oppdaget %d modulversjonendring(er) (brukes n\u00e5r hver modul lastes inn):"
         }
     }
 }

@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Tillatte filetternavn for opplasting"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "\u00c9n eller flere filetternavn atskilt med et mellomrom."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maks antall tillatte filer"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0 = Ingen grense"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Filopplastinger"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Dekomprimere ZIP-filer?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Hvis dette er avmerket, blir ZIP-arkiver dekomprimert og alle gyldige filer lagt til som opplastinger (hvis de st\u00f8ttes av vertsmilj\u00f8et). Maks filer m\u00e5 settes til 0 (ingen maks) for at ZIP-opplastinger skal fungere."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Overskriv eksisterende filer?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Hvis det er merket av, vil en fil som er lastet opp med samme navn som en eksisterende fil erstatte den eksisterende filen (beskrivelse og merkelapper blir v\u00e6rende). Hvis det ikke er merket av, blir opplastede filnavn omd\u00f8pt til \u00e5 v\u00e6re unike."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at n\u00e5r dette alternativet er aktivert, lagres AJAX-opplastede filer med siden umiddelbart ved opplasting, i stedet for n\u00e5r du klikker \"lagre\". Som et resultat kan det v\u00e6re lurt \u00e5 ikke la dette alternativet v\u00e6re avkrysset med mindre du har et spesifikt behov for det."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Filbeskrivelser"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Antall rader for beskrivelsesfeltet?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Angi antall rader som er tilgjengelige for filbeskrivelsesfeltet, eller skriv 0 for \u00e5 ikke ha et beskrivelsesfelt."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Deaktivere beskrivelser p\u00e5 flere spr\u00e5k?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Som standard er beskrivelsene flerspr\u00e5klige n\u00e5r du har Language Support installert."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Hvis du ikke trenger flerspr\u00e5ksbeskrivelser for filer, kan du deaktivere dem her."
+        }
+    }
+}

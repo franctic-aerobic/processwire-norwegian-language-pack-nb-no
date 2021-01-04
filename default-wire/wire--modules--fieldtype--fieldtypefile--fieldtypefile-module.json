@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Feltet \"%s\" er enn\u00e5 ikke klart til bruk og m\u00e5 konfigureres."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Innstillingene er enn\u00e5 ikke bekreftet."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Vennligst se gjennom innstillingene p\u00e5 denne siden og lagre igjen (selv om du ikke endrer noe) for \u00e5 bekrefte at du godtar dem."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "filnavn"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Filer"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Felt som lagrer en eller flere filer"
+        }
+    }
+}

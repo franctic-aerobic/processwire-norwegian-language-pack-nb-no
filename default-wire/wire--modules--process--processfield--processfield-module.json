@@ -23,9 +23,6 @@
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(alle)"
         },
-        "ee2d3754b6e7f57898d9d8670f78ae71": {
-            "text": "Avanserte valg"
-        },
         "817434295a673aed431435658b65d9a7": {
             "text": "Ikon"
         },
@@ -119,9 +116,6 @@
         "a360c947f7ea8bd51220987c073edf15": {
             "text": "Innstilling"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Slett"
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Grunnleggende"
         },
@@ -184,9 +178,6 @@
         },
         "158b56553ee2e91623b2568e46a4fb82": {
             "text": "Klon eksisterende felt"
-        },
-        "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Dette er merkelappen som vises over feltinntastingen. Om tom vil navnet bli brukt i stedet."
         },
         "c32404a847502e9920d7582aa7fcd811": {
             "text": "Legg til eller fjern felt fra maler"
@@ -622,6 +613,12 @@
         },
         "503eff76a9f0b3c0c78997aa4370e2f0": {
             "text": "Som standard forblir du i feltredigereren etter at du har lagret et felt. Hvis du i stedet vil g\u00e5 tilbake til feltlisten, merker du av i denne boksen."
+        },
+        "28ac344e871bb5931c25502670d3e2fd": {
+            "text": "Etikett som vises over feltinntastingen."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "Beskrivelse vises her og ser slik ut."
         }
     }
 }

@@ -38,29 +38,11 @@
         "b896cdc3267a288d8a0082126a91cb06": {
             "text": "Maks st\u00f8rrelse p\u00e5 filopplasting n\u00e5dd"
         },
-        "bed8a5795ff53ecfd7b9dab0face84b6": {
-            "text": "Pakk ut ZIP-filer?"
-        },
-        "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Om avkrysset vil ZIP-arkiv bli pakket ut og alle gyldige filer lagt til som opplastinger (dersom det st\u00f8ttes av hosting-milj\u00f8et). Maks antall filer m\u00e5 settes til 0 (ingen maksgrense) for at ZIP-opplastinger skal fungere."
-        },
-        "4839f7d2588943e6763c3c91cbd8d7f2": {
-            "text": "Overskrive eksisterende filer?"
-        },
-        "91015caeadb6afed86544257b5d796f5": {
-            "text": "Antall rader for beskrivelsesfeltet?"
-        },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Filer"
         },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "En eller flere filopplastinger (sorterbart)"
-        },
-        "27eebd9281cfaa6f4173d02986c9ad71": {
-            "text": "Skriv inn antall rader tilgjengelig til feltet for filbeskrivelse, eller skriv inn 0 for \u00e5 la v\u00e6re \u00e5 ha et felt for beskrivelse."
-        },
-        "1aac69c83eb57d215a710401956430f1": {
-            "text": "Deaktiver flerspr\u00e5kvalg i beskrivelser?"
         },
         "e635032a5f71d809146d3872389f5b0c": {
             "text": "Velg fil"
@@ -74,17 +56,8 @@
         "d7c8c85bf79bbe1b7188497c32c3b0ca": {
             "text": "Feilet"
         },
-        "9c0e34e99b5acfb622d682dabefa5578": {
-            "text": "Beskrivelser er flerspr\u00e5klige som standard, dersom du har Language Support installert. Om du \u00f8nsker \u00e5 deaktivere flerspr\u00e5klige beskrivelser, kryss av i denne boksen."
-        },
         "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
             "text": "Filen er for store - maksimum tillatte st\u00f8rrelse er MAX_KB kb"
-        },
-        "35a96944722fb825db8bf04ab791c209": {
-            "text": "Hvis avkrysset, vil en fil som er lastet opp med samme navn som en eksisterende fil erstatte den eksisterende filen (beskrivelse og koder forblir). Hvis ikke avkrysset, blir opplastede filnavn gitt nytt navn til \u00e5 v\u00e6re unike."
-        },
-        "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "V\u00e6r oppmerksom p\u00e5 at n\u00e5r dette alternativet er aktivert, blir AJAX-opplastede filer lagret med siden umiddelbart ved opplasting, i stedet for n\u00e5r du klikker p\u00e5 \"lagre\". Som et resultat kan det v\u00e6re lurt \u00e5 la dette alternativet ikke v\u00e6re merket med mindre du har et spesifikt behov for det."
         },
         "c62fc670ac122455cc5853bf97130711": {
             "text": "Felt \u201c%1$s\u201d type \u201c%2$s\u201d er ikke st\u00f8ttet i felt \u201c%3$s\u201d"

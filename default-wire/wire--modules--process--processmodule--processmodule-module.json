@@ -439,6 +439,33 @@
         },
         "76ff1156be021b9f8cc2597febd46133": {
             "text": "Kroker til"
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "Manglende modulfil(er) i: %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Mangler"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Moduler i databasen som ikke finnes p\u00e5 filsystemet. Klikk p\u00e5 et hvilket som helst modulnavn nedenfor for \u00e5 fikse alternativer."
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "modulfil ikke funnet"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Modulen \u201c%s\u201d finnes i databasen, men ikke i filsystemet."
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Vurder \u00e5 plassere modulfilene i %s eller fjerne modulen fra databasen."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Vil du fjerne denne modulen fra databasen?"
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Fjernet modulen fra databasen"
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "Oppdaterte modul %1$s for \u00e5 bruke filen: %2$s"
         }
     }
 }

@@ -50,9 +50,6 @@
         "189f63f277cd73395561651753563065": {
             "text": "Merkelapper"
         },
-        "f9c716f29bd379e49e4485ea8afd1556": {
-            "text": "Gi nytt navn til malen"
-        },
         "817434295a673aed431435658b65d9a7": {
             "text": "Ikon"
         },
@@ -338,9 +335,6 @@
         "5dd56426fff182e0610cc0bf9d389437": {
             "text": "Systemspesifikke malinnstillinger"
         },
-        "bef497d3a07d13fedba143fc543e606d": {
-            "text": "Importer felter fra en annen mal"
-        },
         "a6cdf6c364498c02bdaa499492780445": {
             "text": "En valgfri merkelapp for \u00e5 beskrive denne malen."
         },
@@ -355,12 +349,6 @@
         },
         "ae89f7319ca951efb3ce055e92b8ade2": {
             "text": "Definer felter som er brukt av denne malen. Du kan ogs\u00e5 dra og slippe felter i \u00f8nsket rellef\u00f8lge eller [opprette nytt felt](..\/field\/add)."
-        },
-        "71bb941583eef6e3e5ed3eaad39cc315": {
-            "text": "Dupliser felter brukt av en annen mal"
-        },
-        "0a18045f3c2d800b18fc146d3f16b97e": {
-            "text": "Om du vil duplisere felter brukt av en annen mal, velg det her. Felter som allerede er i denne malen vil bli v\u00e6rende."
         },
         "c5abeb6189c82d5b9d81bbcac604408b": {
             "text": "Hurtigbufferstatus"
@@ -415,9 +403,6 @@
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Malens filnavn er ikke skrivbar, s\u00e5 du m\u00e5 selv gi det nytt navn manuelt (instruksjoner vil bli gitt etter at du lagrer)."
-        },
-        "30281e3b2fa626d5f52c833c541c84ac": {
-            "text": "Dupliser\/klon denne malen?"
         },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Ikke tillat upubliserte sider"
@@ -514,9 +499,6 @@
         },
         "3617ad2fed81de1357bb35b0459bf8b8": {
             "text": "Denne malen kan ikke gis nytt navn fordi det er en systemmal"
-        },
-        "ac97a1ad01bd7b48508de449e229a73d": {
-            "text": "Importer"
         },
         "7328590933d4202f89220d6b435b0e8f": {
             "text": "Lister med felter som skal vises i admins sideliste"
@@ -1030,6 +1012,27 @@
         },
         "df3f89873c6527f24453345a6b7f263f": {
             "text": "Malfilen \"%1$s\" er ikke skrivbar. Gi den filen nytt navn til \"%2$s\" f\u00f8r du klikker p\u00e5 send inn."
+        },
+        "af6397fe799c6883d32c1904e226a176": {
+            "text": "Ikke tilgjengelig av grunn listet opp nedenfor"
+        },
+        "78f0addb345c31ce3601b53076e87281": {
+            "text": "Definer de egendefinerte feltene for \u201c%s\u201d. Det er ikke n\u00f8dvendig \u00e5 konfigurere noe annet her."
+        },
+        "6d54a6464afb9baefe6dc9b5bb9407ba": {
+            "text": "Gi nytt navn til malen"
+        },
+        "50b8391d080056ff0fef83460aec05c2": {
+            "text": "Dupliser\/klon denne malen"
+        },
+        "6a40b08ae62e68a7c0d75fbe482422bb": {
+            "text": "Kopier felter fra en annen mal"
+        },
+        "8daeee7ba24747388991aebbef424aca": {
+            "text": "Om du vil kopiere felter brukt av en annen mal, velg det her. Felter som allerede er i denne malen vil bli v\u00e6rende."
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Handlinger"
         }
     }
 }

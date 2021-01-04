@@ -17,15 +17,6 @@
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Bilder"
         },
-        "e69ccb31941d2fd7923c6b0c01957db3": {
-            "text": "Maks bredde for opplastede bilder"
-        },
-        "c58e466902d0ff945d0677114e41682b": {
-            "text": "Maks h\u00f8yde for oppastede bilder"
-        },
-        "dffe78c5f55b8a4187b91c40a03cf904": {
-            "text": "Nekt bilder som overg\u00e5r maksst\u00f8rrelsene?"
-        },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Beskj\u00e6r"
         },
@@ -50,44 +41,14 @@
         "96733a97d96b04ddd6e06cdf3147df1e": {
             "text": "Ikke redigerbar."
         },
-        "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Eventuelt skriv inn maks bredde og\/eller h\u00f8gde p\u00e5 opplastede bilder. Hvis spesifisert, vil bildene bli endret ved opplasting n\u00e5r de overstiger enten maks bredde eller h\u00f8gde. Endring av st\u00f8rrelse utf\u00f8res ved opplasting, og p\u00e5virker dermed ikke noen bilder i systemet, eller bilder lagt via API."
-        },
-        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Skriv inn verdien som et antall bildepunkter eller la feltet v\u00e6re tomt for \u00e5 ikke ha noen grense."
-        },
-        "a195023920e6ece61b6211755c9af27f": {
-            "text": "Eventuelt skriv minimum bredde og\/eller h\u00f8gde p\u00e5 opplastede bilder. Hvis spesifisert, vil bilder som ikke oppfyller disse minimumskravene nektes."
-        },
-        "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Minste bredde for opplastede bilder"
-        },
-        "b477617de997199bdd26761085aea486": {
-            "text": "Minste h\u00f8gde for opplastede bidler"
-        },
         "36400352f439e8894099e79dc33fada1": {
             "text": "Gjenskap alle arvede miniatyrbilder"
         },
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "En eller flere bildeopplastinger (sorterbare)"
         },
-        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
-            "text": "Standard rutenettmodus for bilder"
-        },
-        "a188c29fb8020eee47113073e366f78e": {
-            "text": "Kvadrate rutenettbilder"
-        },
-        "06d5ddb736061086ad90f364eca1c56d": {
-            "text": "Proposjonale rutenettbilder"
-        },
         "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
             "text": "Det er miniatyrbilder over av eldre \/ lavere kvalitet \u2013 kryss av denne boksen for \u00e5 lage p\u00e5 nytt."
-        },
-        "fa996d5ac4351e7e603f3ab1b9f77afe": {
-            "text": "Vertikal liste (verbose)"
-        },
-        "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Om du nylig har brukt dette bilderfeltet, m\u00e5 du t\u00f8mme informasjonskapslene f\u00f8r du ser endringer gjort til denne innstillingene."
         },
         "e24ee2487879116dcab772c0ac4fe341": {
             "text": "Fokus"
@@ -134,12 +95,6 @@
         "60e7841801c8734e320b527cbfa8d022": {
             "text": "S&H"
         },
-        "b9f5c797ebbf55adccdd8539a65a0241": {
-            "text": "+"
-        },
-        "c719e0f0e40f5193e0bbe6f9afc408e5": {
-            "text": "Andre eksempler:"
-        },
         "f4795ac01103c68bc75e637665b7bd12": {
             "text": "Dette bilderfeltet kan ha ulagrede endringer som kan g\u00e5 tapt etter denne handlingen. Lagre f\u00f8r beskj\u00e6ring, eller dobbeltklikk p\u00e5 knappen fortsett uansett."
         },
@@ -154,78 +109,6 @@
         },
         "b84a9a38377dc1ab6c6d5005cb461f0d": {
             "text": "="
-        },
-        "c53c009277b900e7292c4b49f07ddaec": {
-            "text": "I administrasjonsgrensesnittet vises listen over bilder i denne modusen som standard. Brukeren kan n\u00e5r som helst endre det ved \u00e5 klikke p\u00e5 ikonene \u00f8verst til h\u00f8yre i feltet."
-        },
-        "e0f4085735da81540154c2c351147301": {
-            "text": "Valg av fokuspunkt"
-        },
-        "f6a9e8b3977d98dd0e4b7b13720c858b": {
-            "text": "Gj\u00f8r det mulig \u00e5 dra et fokuseringspunkt for \u00e5 velge motivet til et bilde. Dette hjelper med \u00e5 generere ikke-proporsjonale beskj\u00e6ringer."
-        },
-        "17450a5a8844e5a36f3911d94bea2b72": {
-            "text": "En forh\u00e5ndsvisning av fokuspunktet vises ogs\u00e5 n\u00e5r bildene er i \"Kvadratisk rutenett\"-modus."
-        },
-        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
-            "text": "Fokuspunkt"
-        },
-        "2d07823e1de7d7eb6f09477f9070524f": {
-            "text": "Fokuspunkt og forst\u00f8rrelse"
-        },
-        "84a327773a9172357f703ebdbb28680b": {
-            "text": "Maksimale bildedimensjoner"
-        },
-        "16e3e850ce20fe9fa8340e6d27693f61": {
-            "text": "Gjelder JPG-, PNG- og GIF-bilder."
-        },
-        "9fdc5bac96032d0465aa6cc6543d1871": {
-            "text": "Hvordan endre st\u00f8rrelse til maksimale dimensjoner"
-        },
-        "434352c2b6134b909827f386b3644f0f": {
-            "text": "Ved \u00e5 endre st\u00f8rrelse p\u00e5 klientsiden kan du redusere filst\u00f8rrelsen og dimensjonene f\u00f8r du laster opp bildet."
-        },
-        "c265ab5c0405e78595f05a15d5279278": {
-            "text": "N\u00e5r du bruker endring av st\u00f8rrelse p\u00e5 klientsiden, m\u00e5 du spesifisere b\u00e5de maks bredde *og* maks h\u00f8yde i feltene over, eller maks antall megapiksler i feltet nedenfor."
-        },
-        "edcf99dacdc6160d6eb8d2efb90ee189": {
-            "text": "Bruk endring av st\u00f8rrelse p\u00e5 klientsiden n\u00e5r det er mulig"
-        },
-        "4421a363b922af1808ae2b258c9d11bb": {
-            "text": "Bruk bare endring av st\u00f8rrelsen p\u00e5 serversiden"
-        },
-        "41d833b452340b52caa65fdcfe181945": {
-            "text": "Maks antall megapiksler for opplastede bilder"
-        },
-        "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Dette kan brukes som et alternativ til maks bredde\/h\u00f8yde. Spesifiser en flytende verdi."
-        },
-        "bd035d6e1aa04d38e61f36c27150e39d": {
-            "text": "Gjelder kun endring av st\u00f8rrelsen p\u00e5 klientsiden."
-        },
-        "fe64c68c1aa30e687be4aa011b33f15f": {
-            "text": "En god verdi for nettsteder er 1,7, som er omtrent 1600 x 1000 piksler, hvor 1600 og 1000 kan v\u00e6re enten bredde eller h\u00f8yde."
-        },
-        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
-            "text": "Kvalitetsprosent for JPEG-filer ved endring av st\u00f8rrelse p\u00e5 klientsiden"
-        },
-        "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "Angi et tall mellom 10 (laveste kvalitet \/ minste filst\u00f8rrelse) og 100 (h\u00f8yeste kvalitet \/ st\u00f8rste filst\u00f8rrelse). Standard er 90."
-        },
-        "aa09d92fbba4044af814b7504798dec3": {
-            "text": "Hvis dette er avhuket, vil bilder som overstiger maks bredde\/h\u00f8yde (hvor st\u00f8rrelse ikke kan endres p\u00e5 klientsiden) bli avvist i stedet for \u00e5 f\u00e5 endret st\u00f8rrelse."
-        },
-        "2d77facadb02370d5dd7c076b5afbee7": {
-            "text": "Minimum bildedimensjoner"
-        },
-        "a39e1de5e7b995d90322ab7d047428bc": {
-            "text": "Bytt minste\/st\u00f8rste-dimensjoner for portrettbilder?"
-        },
-        "7f3d934927a1c106f5191c01b36c7766": {
-            "text": "Hvis dette er avhuket, vil minimum bredde-\/h\u00f8yde- og maksimum bredde-\/h\u00f8ydedimensjoner byttes mot portrettbilder for \u00e5 im\u00f8tekomme det forskjellige st\u00f8rrelsesforholdet."
-        },
-        "98ebe60c452735dc2ef2249c835eddfe": {
-            "text": "Gjelder kun endring av st\u00f8rrelsen p\u00e5 serversiden."
         },
         "0cb9400e4e73f627d6587cf549c60907": {
             "text": "Duplisert fil %1$s => %2$s"
