@@ -1,7 +1,7 @@
 # ProcessWire-Norwegian-Language-Pack-nb-NO
 
 ## Latest Version
-ProcessWire 3.0.174 dev
+ProcessWire 3.0.175 dev
 
 ## default-wire
 Theres are json-files to be placed in default-wire.
