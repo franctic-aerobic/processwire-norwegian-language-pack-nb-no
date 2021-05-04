@@ -383,9 +383,6 @@
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Hvert merke m\u00e5 v\u00e6re et ord (bindestrek er ok)."
         },
-        "9238cda6a9c91cd5cc846791a49ba3ab": {
-            "text": "For \u00e5 kollapse et merke i maloversikten, tast inn en bindestrek foran, som dette: -hallo"
-        },
         "f578ef5a7330291e151dc6052fe85bfe": {
             "text": "Valgfri overskrivelse av den standard \"Innhold\"-fanemerkelappen."
         },
@@ -1033,6 +1030,39 @@
         },
         "a698a809093ad1c25ea277ff03ae5fc7": {
             "text": "Handlinger"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "9b2692fa9c25a63ff93341c03734c067": {
+            "text": "H\u00e5ndter merkelapper"
+        },
+        "8b3a3179c770d5cda3e5d38d7eb45ca2": {
+            "text": "Velg alle maler som skal ha denne merkelappen"
+        },
+        "cb1828d1114a1e3b73c8ffd78723339c": {
+            "text": "Vise som skjult i mallisten?"
+        },
+        "cdffd81250dc6c457665e79016900133": {
+            "text": "For \u00e5 slette denne merkelappen, fjern alle malene fra den."
+        },
+        "8958860efca6192ab40af3a1f2e17d48": {
+            "text": "La til merkelappen \"%1$s\" i malen: %2$s"
+        },
+        "7a53b43fab8ccbe670792e7832ef2588": {
+            "text": "Fjernet merkelappen \"%1$s\" fra malen: %2$s"
+        },
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "Merkelapper lar deg lage samlinger av maler for oppf\u00f8ring."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Legg til ny merkelapp"
         }
     }
 }

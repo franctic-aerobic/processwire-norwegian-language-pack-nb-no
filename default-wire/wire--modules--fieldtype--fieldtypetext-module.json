@@ -5,11 +5,32 @@
         "ed0f8be4615cf14dc76c1bb2629edf41": {
             "text": "For ren tekst som ikke vil inneholdet HTML eller markup anbefaler vi \u00e5 velge **HTML Entity Encoder** over."
         },
-        "82829c5912f395b029a87c565359835c": {
+        "d8519baaabde7d5b04b001afff86b1c9": {
+            "text": "Tekstinnstillinger"
+        },
+        "41d534244071f567ec8887353f125f86": {
             "text": "Tekstformaterere"
         },
-        "965a2e6ce23bd9e9ca5122fb9862be60": {
-            "text": "Hvis du vil bruke automatisk formatering p\u00e5 feltet n\u00e5r det er forberedt for utdata, velger du en eller flere tekstformater ovenfor. Hvis du velger mer enn en, drar du dem i den rekkef\u00f8lgen de skal brukes."
+        "9bf6e7e02fcf9320c882455021560f5b": {
+            "text": "Hvis du vil bruke automatisk formatering i feltet n\u00e5r det er klargjort for utskrift, velger du en eller flere tekstformaterere her."
+        },
+        "8b77c2ae8c7851a0bbc6c4a7914815c2": {
+            "text": "Hvis du velger mer enn \u00e9n, drar du dem til den rekkef\u00f8lgen de skal brukes."
+        },
+        "7c09c7fa6cd2ade15be9247528c4d4e9": {
+            "text": "Finn mer i katalogen for [tekstformateringsmoduler](%s)."
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standard"
+        },
+        "8642da31c9c6a7ef78514cac2276dac9": {
+            "text": "Inndatamodul"
+        },
+        "9f66b905cac6adfee97389b0d11b2db2": {
+            "text": "Lagre etter at du har endret dette, da det kan p\u00e5virke hvilke innstillinger som er tilgjengelige i \"Inndata\"-fanen."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
         }
     }
 }
