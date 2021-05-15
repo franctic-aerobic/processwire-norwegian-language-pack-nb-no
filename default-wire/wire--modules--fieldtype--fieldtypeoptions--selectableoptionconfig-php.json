@@ -14,9 +14,6 @@
         "06a7c76b256c778d08e1c9548a9e679d": {
             "text": "Flere verdier"
         },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Denne funksjonen er aktiv fordi en verdi alltid kreves."
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Slett dette valget"
         },
@@ -44,9 +41,6 @@
         "ad560982b535502d63dbf2f46ea8b3a6": {
             "text": "Dette feltet fungerer ogs\u00e5 som en forh\u00e5ndsvisning av valgt inndatatype (%s) og alternativer."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "Merk: Valgene dine her blir ikke aktive med mindre en verdi *alltid * kreves for dette feltet. Se alternativet \"p\u00e5krevd\" i Inndata-fanen i feltinnstillingene."
-        },
         "7a55572484844c1b337505ee266d3007": {
             "text": "Eksempel p\u00e5 bruk av API"
         },
@@ -61,6 +55,12 @@
         },
         "d8773b3c985910685f4f4aca03604c14": {
             "text": "Flere sorterbare verdier"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Merk: Forvalget ditt er ikke aktivt, siden dette feltet ikke er et obligatorisk felt. Aktiver alternativet \u201cobligatorisk\u201d i inndatafanen til feltet."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Forvalget er aktivt fordi dette feltet er et obligatorisk felt."
         }
     }
 }

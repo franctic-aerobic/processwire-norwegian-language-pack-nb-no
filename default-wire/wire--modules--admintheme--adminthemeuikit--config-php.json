@@ -292,6 +292,36 @@
         },
         "661262f88b0f998e147baacf8778d340": {
             "text": "\u00c5pne \u201c%s\u201d-feltet ovenfor for et levende eksempel p\u00e5 kolonnebredde."
+        },
+        "03bc7984b022876df391184e362104c2": {
+            "text": "Hvis du bruker SVG, kan du eventuelt legge til \"?uk-svg\" til URLen for \u00e5 f\u00e5 det til \u00e5 legge til [uk-svg](%s)-attributtet."
+        },
+        "d63e134e027a638f911ac2e099758c3e": {
+            "text": "Inputfield-etiketten bytter oppf\u00f8rsel"
+        },
+        "be91d7f8b5e6fd1f0c5cdca8d18a04b5": {
+            "text": "Inputfield-elementer i ProcessWire kan ha en \u00e5pen eller lukket tilstand."
+        },
+        "0dcb71ef852b35149ab9c3445b480953": {
+            "text": "Denne innstillingen avgj\u00f8r hva som skjer n\u00e5r en bruker klikker p\u00e5 en Inputfield-etikett, som vises som en overskrift over inndataene."
+        },
+        "7675e95bb6ab79a2b07bc1d32530e20d": {
+            "text": "Alternativet \u201cStandard\u201d gj\u00f8r at et klikk p\u00e5 en etikett p\u00e5 et \u00e5pent Inputfield fokuserer inndataelementet, en standard oppf\u00f8rsel til HTML-skjema."
+        },
+        "08f2a1074dae6032681157b928a93dac": {
+            "text": "Mens et klikk p\u00e5 en lukket Inputfield-etikett \u00e5pnes og deretter fokuserer Inputfield (og lukker det n\u00e5r du klikker p\u00e5 det igjen)."
+        },
+        "b18ca92e72ab16203ccf67e4cfffb1c0": {
+            "text": "Alternativet \u201cKonsekvent\u201d gj\u00f8r at Inputfield-etiketten alltid oppf\u00f8rer seg konsekvent som en \u00e5pen\/steng-bryter, uavhengig av hvilken tilstand Inputfield er i."
+        },
+        "c5fb3c81ba85771e0f107fc5a57efc62": {
+            "text": "Uansett hvilken innstilling du velger, veksler ikonet \u00f8verst til h\u00f8yre i hvert Inputfield alltid den \u00e5pne\/lukkede tilstanden."
+        },
+        "eb6d8ae6f20283755b339c0dc273988b": {
+            "text": "="
+        },
+        "30a61870b0726430151d669fd3459ac1": {
+            "text": "Konsekvent"
         }
     }
 }
