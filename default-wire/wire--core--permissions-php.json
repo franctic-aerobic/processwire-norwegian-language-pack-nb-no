@@ -37,6 +37,15 @@
         },
         "021ae36974d48cf90a6b204c4abe221b": {
             "text": "Rediger enkeltspr\u00e5ksfelter p\u00e5 flerspr\u00e5ksside"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "Brukeren kan se brukere i hvilken som helst rolle (inkludert superbruker)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "Brukeren kan se seg selv (n\u00e5r ikke allerede med annen tillatelse)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Se brukere i rolle: %s"
         }
     }
 }

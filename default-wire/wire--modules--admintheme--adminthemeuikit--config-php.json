@@ -322,6 +322,15 @@
         },
         "30a61870b0726430151d669fd3459ac1": {
             "text": "Konsekvent"
+        },
+        "28fb66ed224d7a166862203d74cacb8b": {
+            "text": "De mest avanserte innstillingene er tilgjengelige fra `$config->AdminThemeUikit`-innstillingsmatrisen."
+        },
+        "c03e0af8dbd18d53753b92b02753e865": {
+            "text": "Du finner den i \/wire\/config.php. Kopier til \/site\/config.php filen for \u00e5 endre den."
+        },
+        "59a3041f943c85af8edcf623308809e0": {
+            "text": "Advarsel: Dette overstyrer egendefinerte `$config->AdminThemeUikit`-innstillinger, basestil og tilpassede stiler."
         }
     }
 }
