@@ -347,9 +347,6 @@
         "b6b0afb901a4db116f6b8403cf434280": {
             "text": "For din referanse, dette er en liste med felter brukt av denne malen. Denne malen fr\u00e5 feltene sine fra malen '%s'."
         },
-        "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "Definer felter som er brukt av denne malen. Du kan ogs\u00e5 dra og slippe felter i \u00f8nsket rellef\u00f8lge eller [opprette nytt felt](..\/field\/add)."
-        },
         "c5abeb6189c82d5b9d81bbcac604408b": {
             "text": "Hurtigbufferstatus"
         },
@@ -1063,6 +1060,15 @@
         },
         "9fc8691fab39cc1433cd39430edb0501": {
             "text": "Legg til ny merkelapp"
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "Velg feltene som brukes av denne malen og dra\/slipp til \u00f8nsket rekkef\u00f8lge."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Du kan ogs\u00e5 klikke p\u00e5 feltnavnet eller etiketten for \u00e5 redigere i sammenheng med denne malen, klikke\/dra prosentindikatoren for \u00e5 justere bredden, eller [opprette et nytt felt](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Lagre denne malen for \u00e5 gj\u00f8re nylig lagt til felter redigerbare her."
         }
     }
 }

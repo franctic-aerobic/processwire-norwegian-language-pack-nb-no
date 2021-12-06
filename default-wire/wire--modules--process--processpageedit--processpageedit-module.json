@@ -125,9 +125,6 @@
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(alle)"
         },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Tilgang er bestemt av sidens mal: %s"
-        },
         "890e4f4dd63b6c580cbf534f25914565": {
             "text": "Tilgang er arvet fra siden \"%1$s\" og definert med malen: %2$s"
         },
@@ -373,6 +370,18 @@
         },
         "c71458ba699635fcdbc6a15dd2b81c4c": {
             "text": "Fjernet flagget status fordi ingen feilmeldinger oppstod under lagring"
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "Tilgang er definert med denne sidens mal: %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Kan vises med URL-en hvis siden hadde en malfil (det har den ikke for \u00f8yeblikket)."
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Lagt til status: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Fjernet status: %s"
         }
     }
 }

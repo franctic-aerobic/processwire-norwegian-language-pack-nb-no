@@ -35,9 +35,6 @@
         "485c9b5a61ede20a8ccc332f120da1f9": {
             "text": "Klikk for \u00e5 sl\u00e5 element p\u00e5(av, eller dobbelklikk for \u00e5 \u00e5pne\/lukke alle elementer"
         },
-        "60f5703a75c6e7fa21be4247f0626dfb": {
-            "text": "Klon dette elmentet?"
-        },
         "b5fab487adaf66b676d31b8fd16af85b": {
             "text": "\u00c5pne alle elementer?"
         },
@@ -55,6 +52,45 @@
         },
         "2ca001ee3992ee08c53099d65cbde4eb": {
             "text": "Vis innstillinger?"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Lim inn"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Klon \/ kopier \/ lim inn-handlinger"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Sett inn et nytt element f\u00f8r dette"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Sett inn nytt element etter denne"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Sett inn nytt element her"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "Velg en handling for dette elementet"
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "KOPIER dette elementet i minnet for \u00e5 lime det inn et annet sted"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Element i kopier \/ lim inn-minne"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "KLON dette elementet og sett inn OVER dette"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "KLON dette elementet og sett inn UNDER dette"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "LIM inn kopiert element OVER dette"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "LIM inn kopiert element UNDER dette"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "T\u00d8M kopier \/ lim inn-minne"
         }
     }
 }

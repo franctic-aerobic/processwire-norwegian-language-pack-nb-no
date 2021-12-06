@@ -92,12 +92,6 @@
         "d4705c271d7e1e75a05e9b6236ad836c": {
             "text": "(se %s-loggen)"
         },
-        "91032d1254768e880dbbeede54e35a79": {
-            "text": "%d lokale a[href]-koder', 'lenke-type"
-        },
-        "5fcef18456ba78863a5a57e162279d2d": {
-            "text": "%d lokale img[src]-koder', 'lenke-type"
-        },
         "d53200ec5949152baffbeed6c4d58966": {
             "text": "Oppdaterte %1$d av %2$d sider med HTML-alterantivene."
         },
@@ -133,6 +127,12 @@
         },
         "bf488dca57621015b17e715b49053f72": {
             "text": "%d tomme img[alt]-koder som skal fylles ut ved kj\u00f8retid"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d lokale a[href]-koder"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d lokale img[src]-koder"
         }
     }
 }

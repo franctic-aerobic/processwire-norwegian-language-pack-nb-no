@@ -8,8 +8,26 @@
         "b198072961bf47ed9c790c1006f98372": {
             "text": "Oppdaterte % stier"
         },
-        "0e620fb070fcc5279681b61f5720fb6e": {
-            "text": "Vennligst avinstaller Kjerne > PagePaths-modulen (den er ikke kompatibel med LanguageSupportPageNames)"
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Fullf\u00f8rte gjenoppbyggingen p\u00e5 %d sekunder"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Gjenoppbygg sidebaneindeks for %d sider"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Gjeoppbygg n\u00e5"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Estimert gjenoppbyggingstid er opptil 5 sekunder per 1000 sider."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "Det er %d sider \u00e5 behandle."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Det er for \u00f8yeblikket %d rader lagret av denne modulen (stibaner og versjoner av stibaner)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Velg alternativet \"Gjeoppbygg n\u00e5\" for \u00e5 lage sidebaneindeksen."
         }
     }
 }

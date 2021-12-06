@@ -17,9 +17,6 @@
         "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "Standard verdi"
         },
-        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
-            "text": "Denne verdien er gitt som standard for dette feltet ved nye opprettede sider. Det virker ikke inn p\u00e5 eksisterende sider."
-        },
         "07be370e5cef3ea5961cdf07cb34f390": {
             "text": "Dersom 0 og tom er like (Ja-valget) s\u00e5 vil et s\u00f8k som felt=0 eller felt=\"\" vise de samme resultatene."
         },
@@ -28,6 +25,9 @@
         },
         "47ae95efefc63fa28854884d8c871228": {
             "text": "Et annet eksempel er at med Ja-valget s\u00e5 vil **felt<1** vise resultater b\u00e5de for verdien 0 og ingen verdier, og med Nei-valget vil det kun vise treff for 0."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Denne verdien er gitt som standard for dette feltet p\u00e5 sider hvor ingen verdi er lagt til."
         }
     }
 }

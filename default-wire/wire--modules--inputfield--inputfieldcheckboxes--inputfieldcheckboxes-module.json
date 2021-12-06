@@ -2,17 +2,38 @@
     "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
     "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
     "translations": {
-        "d3f3236393ce7a48198cde99acaed365": {
-            "text": "Kolonner med avhukingsbokser"
-        },
         "632ae34b804c1914c3a51af327a3379d": {
             "text": "Flere av\/p\u00e5-avhukingsbokser"
         },
-        "50bad9e0658dd79a35545ebcd18f92ac": {
-            "text": "Om du \u00f8nsker at avkryssingsboksene skal vises i kolonner (heller enn stablet), skriv inn nummeret for antall kolonner du vil bruke (opp til 10). For \u00e5 vise avkryssingsboksene side-ved-side (inline) skriv inn 1."
-        },
         "c425f296c6b905c91fb3f6da1a1702b6": {
             "text": "="
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Valg kolonnebredde"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Bruk denne innstillingen for \u00e5 vise alternativer i kolonner med fast bredde som flyter eller kollapser i henhold til visningsportens bredde."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Skriv inn et CSS-breddenummer og -enhet, for eksempel `100px` eller `10em`. Hvis ingen enhet er spesifisert, antas `px` (piksler)."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Skriv inn tallet `1` for automatisk \u00e5 beregne en passende bredde under kj\u00f8ring."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "`For best utseende, skriv inn en bredde som kan passe til det lengste alternativet uten tekstbryting, eller skriv inn `1` til for automatisk bredde."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Valg kolonnemengde"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Hvis du vil at alternativene skal vises i kolonner, skriv inn antall kolonner du vil bruke (opptil 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "For \u00e5 vise alternativer inline side ved side, skriv inn tallet `1`."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at \"valget kolonnebredde\"-innstillingen er \u00e5 foretrekke for responsiv oppf\u00f8rsel."
         }
     }
 }

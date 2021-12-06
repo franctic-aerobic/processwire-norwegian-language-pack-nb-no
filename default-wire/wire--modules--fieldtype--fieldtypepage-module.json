@@ -47,11 +47,11 @@
         "e28f86b62065207ceeb0b5057eb98537": {
             "text": "Hvis feltet ditt vil inneholde flere sider, b\u00f8r du velge det f\u00f8rste alternativet (PageArray). Hvis feltet ditt bare trenger \u00e5 inneholde en enkelt side, velger du et av de enkelte sidealternativene (hvis du ikke er sikker p\u00e5 hvilken, velger du det siste alternativet)."
         },
-        "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "N\u00e5r dette er merket av, er upubliserte sider tillatt i feltverdien. Upubliserte sider vises ikke utad p\u00e5 nettsiden, bortsett fra til de som har redigeringstilgang."
-        },
         "f7e35a334f1501cc0365458563f90cf5": {
             "text": "Dette rydder opp i et problem i eldre versjoner av ProcessWire som kan la foreldrel\u00f8se sidereferanser for slettede sider bli v\u00e6rende. Hvis du f\u00e5r un\u00f8yaktige resultater fra sides\u00f8king (spesielt med velgerne som bruker pageref.count), kan det v\u00e6re lurt \u00e5 kj\u00f8re dette."
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "N\u00e5r det er merket av, vil upubliserte sider kunne velges for inndata og tillates i den *uformaterte* feltverdien. De vil fortsatt bli ekskludert fra den *formaterte* feltverdien uansett."
         }
     }
 }

@@ -77,9 +77,6 @@
         "dfabf65177db13369e6f60e33d626a25": {
             "text": "Redigeringsmodus"
         },
-        "0e0da14bdea5e80af97115d05779bdc4": {
-            "text": "Vanlig redigering"
-        },
         "5131613c3ef9d562a3e0e095e0f1fba8": {
             "text": "*Den p\u00e5krevde HTML Purifier-modulen er installert."
         },
@@ -91,9 +88,6 @@
         },
         "e8ddfb44ace2866e54880497acd251e3": {
             "text": "Plasser en hash \"#\" ved starten av en linje om du vil at den skal bli ignorert."
-        },
-        "9f1f94725c69ad201b156e002476104c": {
-            "text": "I linjen-redigerer"
         },
         "f4bbbce516de30f80d2025ca9cc9a595": {
             "text": "N\u00e5r i linjen-modus er aktivert, vil ikke redigereren lastes f\u00f8r du trykker i teksten. Dette er raskere og mer effektivt n\u00e5r du har mangfoldige CKEditor-felter p\u00e5 side. Men, den st\u00f8tter ikke n\u00f8dvendigvis s\u00e5 mange funksjoner eller tilpasninger som vanlig modus."
@@ -232,6 +226,21 @@
         },
         "b6c2682ed322b5c3625338a5849b9794": {
             "text": "CKEditor-tekstomr\u00e5de, rik tekstredigering."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "I linjen-redigering"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Vanlig redigering"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(fleksibel h\u00f8yde, brukerjusterbar)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(variabel h\u00f8yde, samsvarer med innhold)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(fast h\u00f8yde, bruker radinnstilling)"
         }
     }
 }
