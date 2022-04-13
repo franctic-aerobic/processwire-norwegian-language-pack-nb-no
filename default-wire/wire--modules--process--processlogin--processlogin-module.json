@@ -65,9 +65,6 @@
         "9e70a5d3dab1960c04b55a29f310331e": {
             "text": "Enten eller"
         },
-        "d619a734f94b65d5137233c7d9a8fe69": {
-            "text": "For \u00e5 bruke e-postinnlogging, m\u00e5 du [aktivere \"unik\"-innstillingen](https:\/\/www.snobjorn.no\/kontrollpanel\/setup\/language-translator\/edit\/%s) p\u00e5 e-postfeltet."
-        },
         "c32dc189adbf7de6a1277780634d1a75": {
             "text": "Fant de f\u00f8lgende Tfa-modulene:"
         },
@@ -151,6 +148,18 @@
         },
         "cff941a9aa13dfcab50294eeaa022925": {
             "text": "Godta *header* (innholdstyper brukerens nettleseraksepter)"
+        },
+        "5682f33e4050198546baa582422d61aa": {
+            "text": "Du m\u00e5 [aktivere \"unik\"-innstillingen](%s) p\u00e5 e-postfeltet ditt"
+        },
+        "59a4a5414d86131a42c9e2715b82bb21": {
+            "text": "Alle superbrukere m\u00e5 ha en oppgitt e-postadresse"
+        },
+        "190c0e4ccd74444bc05cda57fa0465fe": {
+            "text": "Se notatene under for \u00e5 aktivere"
+        },
+        "0300fd7b40fcdc00704dac9cff1a831f": {
+            "text": "For \u00e5 bruke innnlogging med e-post:"
         }
     }
 }

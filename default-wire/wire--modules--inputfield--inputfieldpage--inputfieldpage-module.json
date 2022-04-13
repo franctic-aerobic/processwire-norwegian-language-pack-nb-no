@@ -190,6 +190,21 @@
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
             "text": "Velg inndatafeltmodulene som kan brukes til sidevalg. Dette b\u00f8r generelt v\u00e6re inndatafelter som lar deg velge ett eller flere alternativer."
+        },
+        "4475920d50a2c224b86ebf6e79d38dc7": {
+            "text": "Verditype"
+        },
+        "2486017626b5debfccb828303675e52c": {
+            "text": "="
+        },
+        "0b139983f1e4b0d9c4674e0aa1f965a1": {
+            "text": "(fungerer for alle tilfeller, men kreves for flervalg)"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "="
+        },
+        "88bf31e0ab1be50432ec67a96ce41787": {
+            "text": "(valgfritt for enkeltsidevalg)"
         }
     }
 }

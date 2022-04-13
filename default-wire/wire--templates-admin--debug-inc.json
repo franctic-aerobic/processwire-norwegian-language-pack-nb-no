@@ -55,6 +55,9 @@
         },
         "38dee61bfa5e86e18c76e272c4c830fa": {
             "text": "Ikke la feils\u00f8kingsmodus v\u00e6re aktivert i live- eller produksjonsmilj\u00f8er (se $config->debug i filen \/site\/config.php)."
+        },
+        "38e5588953e5e25cfc5e821ff1128514": {
+            "text": "Treg lasting"
         }
     }
 }

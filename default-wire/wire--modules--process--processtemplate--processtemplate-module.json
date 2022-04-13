@@ -137,9 +137,6 @@
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avansert"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Slett"
-        },
         "d5778a8b84efb3233d070016adb93326": {
             "text": "Lagre"
         },
@@ -197,12 +194,6 @@
         "957ba77c721f931f1ad38ed47b98fd0d": {
             "text": "Malen er i bruk av %d sider"
         },
-        "65f037a0e08b94d9e42932b68c5eaf29": {
-            "text": "Denne malens feltgruppe er i bruk av 1 annen mal"
-        },
-        "18dec3122ea08276dd94476904bcef7b": {
-            "text": "Denne malens feltgrupper er i bruk av %d andre maler"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "Velg et felt og kun maler som bruker det feltet vil bli vist."
         },
@@ -257,9 +248,6 @@
         "207ab96f9895f87f78f6c6162f323a4f": {
             "text": "%d sider"
         },
-        "7a91f878f0e4c02c502a8d0583b0c6be": {
-            "text": "Valgfri bruk av plassering i sidetreet"
-        },
         "c64518704ce0c0d5501a45763f464276": {
             "text": "Bruk"
         },
@@ -271,9 +259,6 @@
         },
         "6d490a96685b13339b51530ee05a7c9a": {
             "text": "Aktiver (ProCache, konfigurert her)"
-        },
-        "b0349bb2d18f943c6aa52c5c038850a0": {
-            "text": "Dersom du bruker [ProCache](%s) er det ikke behov \u00e5 justere hurtibufferens innstillinger her."
         },
         "7ff5f438d6cc10c5f333e97329c72daa": {
             "text": "N\u00e5r en side som bruker denne malen lagres, hva skal skje med hurtibufferen?"
@@ -320,21 +305,6 @@
         "545d923164ab07a1b18e48e526f51259": {
             "text": "Sider som bruker denne malen er ikke synlige fordi malens fil (%s) ikke finnes [no-file]."
         },
-        "b5b8f523cefee8895f19a223c85f431f": {
-            "text": "H\u00e5ndter maltilgang"
-        },
-        "501dba7089bbfb45c7c1a733477bcdc5": {
-            "text": "Valgfrie innstillinger for URL-er til sider som bruker denne malen"
-        },
-        "23f23b8b2e4cc5c8517468a6d001b3fd": {
-            "text": "Utdata-mellomlagring"
-        },
-        "244561833b6ce4599891cf9e33fb33d6": {
-            "text": "Valgfrie avanserte malinnstillinger"
-        },
-        "5dd56426fff182e0610cc0bf9d389437": {
-            "text": "Systemspesifikke malinnstillinger"
-        },
         "a6cdf6c364498c02bdaa499492780445": {
             "text": "En valgfri merkelapp for \u00e5 beskrive denne malen."
         },
@@ -343,9 +313,6 @@
         },
         "0968f67bf85224770756cc134016da2b": {
             "text": "Standard er at hver mal h\u00e5ndterer sin en gruppe med felter. Om du \u00f8nsker at denne malen skal bruke felter fra en ann mal, vel det her."
-        },
-        "b6b0afb901a4db116f6b8403cf434280": {
-            "text": "For din referanse, dette er en liste med felter brukt av denne malen. Denne malen fr\u00e5 feltene sine fra malen '%s'."
         },
         "c5abeb6189c82d5b9d81bbcac604408b": {
             "text": "Hurtigbufferstatus"
@@ -433,9 +400,6 @@
         },
         "991dba5ecf8a850b42ffc2e6d0697c2b": {
             "text": "N\u00e5r avhuke vil sider som bruker denne malen st\u00f8tte paginering."
-        },
-        "4ee65b65a7329e4d76cce40b69075c2d": {
-            "text": "N\u00e5 det n\u00e5v\u00e6rende sidenummeret fra malfilen din med $input->pageNum."
         },
         "fb72654fb51cb493c6d0123505d9e596": {
             "text": "Skal sidenummers URL ha p\u00e5f\u00f8lgende skr\u00e5strek?"
@@ -782,9 +746,6 @@
         "5cf485ae4559df60232a5ff0f87783cb": {
             "text": "Du kan eventuelt angi et format for sidenavn som brukes n\u00e5r en ny underordnet side blir lagt til. Dette gj\u00f8r det mulig \u00e5 hoppe over trinnet \"Legg til side\" n\u00e5r du legger til en ny side. For \u00e5 fungere, m\u00e5 det velges en (1) mal for feltet \"Tillatt mal(er) for barn\" ovenfor."
         },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "La st\u00e5 tomt for \u00e5 deaktivere. Skriv inn \"title\" (uten anf\u00f8rselstegn) for \u00e5 generere navnet automatisk fra sidetittelen. Flere alternativer inkludert datoformater er ogs\u00e5 tilgjengelige. [Mer](http:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "eaf9115aadc503ff009e4c769963a877": {
             "text": "N\u00e5r denne er avhuket, kan malen vises p\u00e5 snarveiknappen\/menyen \"Legg til ny side\" som vises p\u00e5 hovedsiden. Dette forutsetter at alle andre betingelser er oppfylt (se nedenfor)."
         },
@@ -802,9 +763,6 @@
         },
         "4295c2949c604273ad18a82924a06684": {
             "text": "Hvis dette er merket av, st\u00f8tter sider som bruker denne malen tilpassede nettadressesegmenter etter sidens nettadresse."
-        },
-        "3f967ce93af0de3a0457071f3d743f14": {
-            "text": "F\u00e5 tilgang til gjeldende nettadressesegment(er) fra malfilene dine med $input->urlSegmentStr."
         },
         "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
             "text": "Angi ett tillatt segment, segmentbane eller *regular expression* per linje, eller la det v\u00e6re tomt for \u00e5 tillate hva som helst."
@@ -851,14 +809,8 @@
         "ab6b38f8849f9837a2fbb24721ab5e99": {
             "text": "Deaktiver automatisk lasting inn av fil f\u00f8r: %s"
         },
-        "07bbc1cae53fb8d26759b5564e6a5824": {
-            "text": "Dette alternativet deaktiverer bare $config->prependTemplateFile-innstillingen i \/site\/config.php for denne malen."
-        },
         "95dac43782405c335b194c4f4ff28436": {
             "text": "Deaktiver automatisk lasting inn av fil etter: %s"
-        },
-        "438f365e84607c69184559ff2e9d974b": {
-            "text": "Dette alternativet deaktiverer bare $config-> appendTemplateFile-innstillingen i \/site\/config.php for denne malen."
         },
         "22ac5f69365966a7ce509e349b23539a": {
             "text": "Hvis du velger 'Ja', kan du definere hvilke roller som har tilgang til sider ved hjelp av denne malen. Hvis du velger 'Nei', arver sider som bruker denne malen tilgang fra foreldresidene."
@@ -1069,6 +1021,24 @@
         },
         "5b55d084858290c6852cb1b0bd6be400": {
             "text": "Lagre denne malen for \u00e5 gj\u00f8re nylig lagt til felter redigerbare her."
+        },
+        "6a0219d2a4cc5325013a373b1da9fa8f": {
+            "text": "For din referanse, dette er en liste med felter brukt av denne malen. Denne malen fr\u00e5 feltene sine fra malen '%s'."
+        },
+        "9fbbf36953078c8761263aac49cbcc76": {
+            "text": "La st\u00e5 tomt for \u00e5 deaktivere. Skriv inn \u201ctitle\u201c (uten anf\u00f8rselstegn) for \u00e5 generere navnet automatisk fra sidetittelen. [Flere alternativer](%s) inkludert egne felter og datoformater er ogs\u00e5 tilgjengelige."
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Merkelappnavn"
+        },
+        "91f0d9531bc0864da763086363af90e5": {
+            "text": "Du kan bruke bokstaver, tall, binderstreker og understreking."
+        },
+        "482957b0d6d5c5d4c8de3dd316750d04": {
+            "text": "Denne malens feltgruppe er brukt av 1 annen mal"
+        },
+        "19403f055f2e2c7f03b5dab680880b3d": {
+            "text": "Denne malens feltgruppe er brukt av %d andre maler"
         }
     }
 }

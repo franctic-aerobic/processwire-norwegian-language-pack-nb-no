@@ -10,6 +10,9 @@
         },
         "211efcb1aa9b0567969d0ce5a18d850c": {
             "text": "Antall desimaler som skal avrundes til"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Eller bruk et negativt nummer som -1 for \u00e5 deaktivere avrunding."
         }
     }
 }

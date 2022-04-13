@@ -79,6 +79,12 @@
         },
         "aeb9dc1c219e430958416b2390306776": {
             "text": "Ekstraherte %d filer"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Banen til %s er for \u00f8yeblikket ikke skrivbar."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Den m\u00e5 gj\u00f8res skrivbar til ProcessWire f\u00f8r du kan aktivere dette modulinstallasjonsalternativet."
         }
     }
 }

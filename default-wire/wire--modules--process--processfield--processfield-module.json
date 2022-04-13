@@ -634,6 +634,15 @@
         },
         "f78cb52b393842a378dcbee7bd241ffe": {
             "text": "%d maler"
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Merkelappnavn"
+        },
+        "0056888ec574ec487da813f9c577b27c": {
+            "text": "Du kan bruke bokstaver, tall og understreking."
+        },
+        "6809fda0cf4fa4c12e63de08c0aa8b45": {
+            "text": "Dette er et systemfelt. \u00c5 gi tilgangskontrol er IKKE anbefalt."
         }
     }
 }

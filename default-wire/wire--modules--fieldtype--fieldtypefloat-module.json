@@ -10,6 +10,9 @@
         },
         "21ddca6ecb798f48a109c2289ff413ec": {
             "text": "Feltet som lagrer et flytende punkt-nummer (tall med desimaler)"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Eller bruk et negativt nummer som -1 for \u00e5 deaktivere avrunding."
         }
     }
 }

@@ -43,6 +43,18 @@
         },
         "1177fb816ddc2935c2a8bc55d22b93b1": {
             "text": "Tom verditype"
+        },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Modultilpasningstype"
+        },
+        "716de874a0d74f25c0aa8c444c3a7539": {
+            "text": "Prefiks"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "Arv"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "Prefiksalternativet anbefales for bedre ytelse med mindre det ikke samsvarer med en modul du har tenkt."
         }
     }
 }
