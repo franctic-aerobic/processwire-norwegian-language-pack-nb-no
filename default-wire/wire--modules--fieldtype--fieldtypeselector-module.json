@@ -10,6 +10,15 @@
         },
         "edcca7404d60fa39e1e56bbb6c85c519": {
             "text": "Innledende Selector-verdi"
+        },
+        "8de040fe605622e9683d5c72a79d28b4": {
+            "text": "Forh\u00e5ndsvis kolonner"
+        },
+        "e4dad406b489c052036f2de2bd7dc3a5": {
+            "text": "Skriv inn en CSV-streng med kolonner\/feltnavn som skal vises i forh\u00e5ndsvisningen generert av dette feltet."
+        },
+        "9079d8cb5302982d2d861798bc2a2d38": {
+            "text": "Eksempel: name, template, parent, id"
         }
     }
 }
