@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "For eksempel:"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Desimal"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Felt som lagrer et desimalnummer"
+        },
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Oppdatert felt \u00ab%1$s\u00bb-skjema: %2$s => %3$s"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Totalt antall st\u00f8ttede sifre"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Inkluderer sifre b\u00e5de f\u00f8r og etter desimaltegn."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 er totalt 5 sifre, s\u00e5 det kreves en verdi p\u00e5 5 eller h\u00f8yere."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Antall sifre tilstede etter desimal"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Denne verdien vil v\u00e6re mindre enn (eller i noen tilfeller lik) det totale antallet sifre."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 og 100,00 har 2 sifre etter desimalen"
+        }
+    }
+}

@@ -643,6 +643,30 @@
         },
         "6809fda0cf4fa4c12e63de08c0aa8b45": {
             "text": "Dette er et systemfelt. \u00c5 gi tilgangskontrol er IKKE anbefalt."
+        },
+        "db1620090ae1c6d74219a84f00a71360": {
+            "text": "Etikett for fane"
+        },
+        "4cadbe25399aaee62e9d2f735703a5ec": {
+            "text": "Hvis feltet vises i sin egen fane, kan du eventuelt angi en alternativ faneetikett hvis den er forskjellig fra feltetiketten."
+        },
+        "9578890ecca660be2de225f2a4339c8d": {
+            "text": "Faneetiketten b\u00f8r ideelt sett v\u00e6re veldig kort, som bare ett ord."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Bruk"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mal"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "4dd35391663d2adc8123a95b3d725399": {
+            "text": "Se fanen Handlinger for \u00e5 legge til \/ fjerne fra maler."
+        },
+        "f0165e158f427105fe57cb91d5fa53df": {
+            "text": "Dette feltet er ikke i bruk for \u00f8yeblikket."
         }
     }
 }

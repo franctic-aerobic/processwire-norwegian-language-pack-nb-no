@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Spesifiser de her"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Bruk ajax valg\/sider?"
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "Ajax-nettadresse"
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Tillatt brukere \u00e5 skrive inn egne merkelapper?"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Mellomrom"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Komma"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "R\u00f8rtegn"
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Plassholdertekst"
+        },
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Fjernet ugyldig kodeverdi: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Valgbare alternativer\/merkekilde"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Last fra nettadresse du angir (ajax)"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "N\u00e5r den er aktivert, vil den oppf\u00f8re seg som en autofullf\u00f8ring der brukeren begynner \u00e5 skrive og den sp\u00f8r etter en nettadresse for samsvarende sider."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Du m\u00e5 ogs\u00e5 oppgi en \"Ajax-nettadressen\" (vist nedenfor n\u00e5r \"Ja\" er valgt) for \u00e5 utf\u00f8re sp\u00f8rringen. Arbeidseksempelkode er inkludert."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "N\u00e5r det ikke er aktivert, vil alle valgbare alternativer fylles ut under kj\u00f8ring."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "\u00c5 bruke ajax-alternativer\/-sider er nyttig n\u00e5r det potensielle antallet valgbare sider er stort."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Vurder det n\u00e5r det er flere hundre eller tusenvis (eller flere) sider som kan velges."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Forh\u00e5ndsdefinerte alternativer\/etiketter"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Skriv inn forh\u00e5ndsdefinerte tagger, 1 per linje. For \u00e5 definere egen verdi og etikett for taggen, spesifiser verdi=etikett p\u00e5 linjen."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Merkelapper inneholder kanskje ikke skilletegnet som er valgt nedenfor, men etiketter kan."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "For \u00e5 definere separate etiketter per spr\u00e5k, skriv inn hver tag `value=label` for hvert spr\u00e5k p\u00e5 nytt, der `verdien` er den samme for hver mens `etiketten` er forskjellig."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Nettadressebehandler eksempel i filen %s for nettadressen %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Kopier og lim inn denne nettadressen i feltet ovenfor hvis du vil bruke eksempelet nedenfor."
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "N\u00e5r du skriver inn en nettadresse, vil den bli spurt etter elementer som samsvarer med brukerinndata p\u00e5 autofullf\u00f8ringsm\u00e5te."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Den gitte nettadressen m\u00e5 inneholde plassholderen `{q}` et sted, som vil bli erstattet med teksten brukeren skriver inn."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Du kan spesifisere en fullstendig http\/https-nettadresse, eller en relativ nettadresse."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Hvis du spesifiserer en relativ nettadresse (uten skjema\/vert), vil gjeldende skjema, vert og rotnettadresse bli lagt foran den under kj\u00f8ring."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Du m\u00e5 ogs\u00e5 definere en nettadressebehandler som i eksemplet vist nedenfor."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "Nettadressebanen `%s`0 er bare et eksempel, erstatt den gjerne med hva du vil."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "Dette eksemplet finner titler fra sider som kan brukes som merkelapper, men du kan bruke hvilken datakilde du vil."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "din velger for \u00e5 finne sider her"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at hvis du endrer innstillingene for \"Velgbare sider\" eller \"Etikettfelt\", m\u00e5 du ogs\u00e5 oppdatere nettadressebehandlerkoden for den."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Plassholderen \u201c{q}\u201c kreves et sted i Ajax-nettadressen din."
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Vil du lukke rullegardinmenyen etter hvert valg?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(for merkelapper med ett ord)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(for merkelapper med flere ord)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Merkelappavgrensning"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Maks merkelapper\/valg"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Bruk 0 for ingen grense eller skriv inn det maksimale antallet alternativer\/merkelapper brukeren kan velge eller skrive inn."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Legg merke til at hvis du skriver inn 1, ser du mer ut som en markering enn en tekstinntasting."
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Valgfri plassholdertekst som vises i feltet n\u00e5r det er tomt."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Tekstmerkelapper"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Muliggj\u00f8r inntasting av brukerangitte merkelapper eller valg av forh\u00e5ndsdefinerte merkelapper."
+        }
+    }
+}

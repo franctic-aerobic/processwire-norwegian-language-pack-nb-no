@@ -241,6 +241,36 @@
         },
         "47d8cf2fe51854ad3028ba151ef9f3a1": {
             "text": "(fast h\u00f8yde, bruker radinnstilling)"
+        },
+        "c0f3672718e5216548a369b4fa6d8baf": {
+            "text": "Innstillinger er importert fra feltet \"%s\"."
+        },
+        "dd3cb0e0ae693323923326112f52c5c0": {
+            "text": "Se gjennom innstillingene p\u00e5 \"Inndata\"-fanen \"CKEditor innstillinger\"-feltsettet og deretter Lagre for \u00e5 foreta dem."
+        },
+        "562a0d4331a8219587e48d0dca0efba5": {
+            "text": "DU M\u00c5 LAGRE P\u00c5 NYTT FOR \u00c5 FORPLIKTE DISSE INNSTILLINGENE."
+        },
+        "34cebadb188dcc37e52cd4c7468f94a0": {
+            "text": "Endringer: %s"
+        },
+        "55194ee969e62a0c12386b05cc68c8a8": {
+            "text": "Ingen endringer oppdaget fra import av innstillinger."
+        },
+        "8ab1ca6059220b941a20c75c28c3ac55": {
+            "text": "Arv innstillinger fra et annet CKE-felt"
+        },
+        "5d35e5c18c01ae09021c67387e6d525e": {
+            "text": "N\u00e5r et felt er valgt, vil CKEditor-innstillingene arves fra det feltet i stedet for de som er konfigurert her."
+        },
+        "8a797b000e826cb39b4f8fc54ce59934": {
+            "text": "Etter \u00e5 ha gjort et valg og lagret dette feltet, vil alle innstillingene nedenfor ikke lenger vises."
+        },
+        "4d354f5b452ecc54b1e8fa44b7d40b14": {
+            "text": "Importer innstillinger fra et annet CKE-felt"
+        },
+        "45e9c209c6f0967b6a41db728068f04a": {
+            "text": "Innstillinger vil bli importert fra det valgte feltet n\u00e5r du lagrer, og erstatter de gjeldende CKEditor-innstillingene nedenfor."
         }
     }
 }

@@ -190,6 +190,42 @@
         },
         "aaf9ed605d0193362321ba0def15c9b7": {
             "text": "Gi beskjed"
+        },
+        "d63635a63603e4ef806df97294a902ed": {
+            "text": "Metadata for kommentaren #%d"
+        },
+        "ca962ca6f37c2772794953e327cd7cb2": {
+            "text": "Kommentaren har for \u00f8yeblikket ingen metadata"
+        },
+        "78159fc614d1e3df7d39aa351f0578e2": {
+            "text": "Meta JSON-redigering"
+        },
+        "daa6b483e9f6ca081ec7e0b4a352f9e9": {
+            "text": "Lagre endringer"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Ingen endringer oppdaget"
+        },
+        "646282aa96109d00b491937c02c1753a": {
+            "text": "Oppdatert meta for kommentaren #%d"
+        },
+        "77f942f02a3e44e4d3f2ad6d7fbc973c": {
+            "text": "Feil ved oppdatering av meta for kommentaren #%d"
+        },
+        "663cac8a406b356e671fb273a143ab84": {
+            "text": "Kan ikke lagre fordi JSON ikke er gyldig"
+        },
+        "e9a23cbc455158951716b440c3d165e0": {
+            "text": "="
+        },
+        "a35fa72f9544ae5e79a5ec2fab77a292": {
+            "text": "%d verdi"
+        },
+        "98c29131727c2ed01bf8da85368e996b": {
+            "text": "%d verdier"
         }
     }
 }
