@@ -74,9 +74,6 @@
         "230420a05edcb2323c858d6c410d93cf": {
             "text": "Ingen moduler funnet."
         },
-        "844ced21eac449bca19cf378ae770720": {
-            "text": "Ugyldig modulnavn: %s"
-        },
         "addec426932e71323700afa1911f8f1c": {
             "text": "mer"
         },
@@ -211,9 +208,6 @@
         },
         "0e1b7d725ac07f97cf9181f6cea25cf5": {
             "text": "T\u00f8m kompilerte filer"
-        },
-        "617650497438099e992520bf3a664ba6": {
-            "text": "http:\/\/domene.no\/ModulNavn.zip"
         },
         "356025c686f0f84759d1762a071903ad": {
             "text": "Denne modulen har en tilgjengelig oppdatering!"
@@ -410,9 +404,6 @@
         "f629d0ec5b19860b76ae88da3ea10273": {
             "text": "Feil ved dekoding av JSON fra nettjeneste"
         },
-        "9e5fd09ae1c89e20aa28deee64d7f631": {
-            "text": "Beklager, moduler av typen \"%s\" kan ikke installeres fra administratorgrensesnittet."
-        },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
             "text": "Denne modulen indikerer ikke kompatibilitet med denne versjonen av ProcessWire. Den kan fortsatt fungere, men det kan v\u00e6re lurt \u00e5 ta kontakt med modulskaperen."
         },
@@ -547,6 +538,21 @@
         },
         "8a59745d5142e82bd08e3d1291f7ab8e": {
             "text": "+"
+        },
+        "9ce8cbfc28789646dfd5d735f4da3d0b": {
+            "text": "https:\/\/domene.no\/ModulNavn.zip"
+        },
+        "fe7c3111443178661e69b4b83f04bdfd": {
+            "text": "Ugyldig modulnavn: \u201c%s\u201c"
+        },
+        "ca400fb4206c743189c906d352bd4830": {
+            "text": "Bruk store bokstaver [A-Z] til f\u00f8rste tegn, sm\u00e5 bokstaver [a-z] til andre tegn, og [a-z A-Z 0-9] til resten."
+        },
+        "4b0877a5e7f5ee4cc39e6fdfc4cd00dd": {
+            "text": "For eksempel: \u201c%s\u201d"
+        },
+        "d21a932cf85cfc399d6410838ece9e9c": {
+            "text": "Beklager, moduler av typen \"%s\" kan ikke installeres fra administratorgrensesnittet."
         }
     }
 }

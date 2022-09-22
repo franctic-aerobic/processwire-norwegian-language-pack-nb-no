@@ -26,11 +26,11 @@
         "7b9ea642d1b10d7efc18d2c64a8940f8": {
             "text": "Dato\/tid vil bli vist som formatet beskriver under. Dette er automatisk bygget fra dato\/tid-valgene over, men du kan endre det som du beh\u00f8ver til \u00e5 passe dine behov."
         },
-        "e606a86ec2852d83f2ea4622de245889": {
-            "text": "Se [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) funksjonsreferansen for mer informasjon om hvordan du tilpasser dette formatet. Alternativt kan du bruke [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) formatet om du vil lokalisere."
-        },
         "b4857dd659bf6e86731ccda0a3b581fb": {
             "text": "(unix datostempel)"
+        },
+        "933a4e03586f37e44d1daeff7431cf9b": {
+            "text": "Se [PHP date](https:\/\/www.php.net\/manual\/en\/function.date.php)-funksjonsreferansen for mer informasjon om hvordan du tilpasser dette formatet. Alternativt kan du bruke [PHP strftime](https:\/\/www.php.net\/manual\/en\/function.strftime.php)-formatet om du vil lokalisere."
         }
     }
 }

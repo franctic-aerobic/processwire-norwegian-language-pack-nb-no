@@ -158,12 +158,6 @@
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
             "text": "Vennligst bekreft at du skj\u00f8nner det som st\u00e5r over ved \u00e5 krysset av boksen under."
         },
-        "6b102e11bd33fb8f4be6a6cecf2c491b": {
-            "text": "Du har ikke tilgang til \u00e5 endre malen p\u00e5 denne siden."
-        },
-        "854de5f33bda667c67117b0aaee5a9cf": {
-            "text": "Denne malen er ikke tillat"
-        },
         "d4ad7f8661990f191def1fb3a6accbd9": {
             "text": "Endret mal til '%s'"
         },
@@ -385,6 +379,9 @@
         },
         "16e420c38c1ef8f3708d849146207b74": {
             "text": "Skriv inn den opprettede brukerens ID."
+        },
+        "a9581db07856efb481fddef1b3e168f8": {
+            "text": "Ingen side funnet"
         }
     }
 }

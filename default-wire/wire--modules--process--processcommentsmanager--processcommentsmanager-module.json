@@ -226,6 +226,84 @@
         },
         "98c29131727c2ed01bf8da85368e996b": {
             "text": "%d verdier"
+        },
+        "5d25563c1a89451d742876569bc17e1c": {
+            "text": "Rediger kommentar #%d"
+        },
+        "a8232bdb3f7f5bd453b463e79fbf9864": {
+            "text": "Kommentar #%d av %s"
+        },
+        "d754a9e8cb640da12849a040f3ca8176": {
+            "text": "Ditt svar"
+        },
+        "90f2f5cb0d375a1b5d2ef2888c551e1e": {
+            "text": "Den valgte siden kan ikke redigeres"
+        },
+        "62f6fe8b39b423d3d3c6056557b86f78": {
+            "text": "Den valgte siden har ikke feltet: %s"
+        },
+        "42c2e3ae4b782ca91970d7420496f69f": {
+            "text": "Lagt til kommentar #%d"
+        },
+        "30d34af303a36cdbee9d37d27980cdfe": {
+            "text": "Feil under lagring av kommentar"
+        },
+        "b692fa2b57872b7a287d9acb6c616828": {
+            "text": "Sitere \/ forfatter"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-post"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Opprettet"
+        },
+        "4c9d8240b71a9037b069004ccaa62aad": {
+            "text": "Webside\/URL"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "5d97927a6eed8f7f5a628428615d1174": {
+            "text": "Varsle e-posten listet over n\u00e5r"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Aldri"
+        },
+        "988c8ef2841b65928303615052466c17": {
+            "text": "Det er et svar p\u00e5 denne kommentaren"
+        },
+        "67ac3c361b7fe0ebf62c067bf3e31500": {
+            "text": "N\u00e5r som helst en ny kommentar legges ut p\u00e5 denne siden"
+        },
+        "7cc293f9e7daf09af51e3e04210059af": {
+            "text": "Vil du tillate varsler til andre?"
+        },
+        "1a595440a8aebad5a30f09f2fd73cf66": {
+            "text": "N\u00e5r \u201cJa\u201c, vil e-poster om denne nye kommentaren bli sendt til brukere som har valgt \u00e5 motta varsler."
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Handling"
+        },
+        "e84afaab83ecb301b3d97ce4174d2773": {
+            "text": "svar"
+        },
+        "5aee9dbd2a188839105073571bee1b1f": {
+            "text": "redigerer"
+        },
+        "f64f516a321829f21a8686d7411c184e": {
+            "text": "Vis side"
+        },
+        "3fa4031425bbfdb55a03849422d8d9dc": {
+            "text": "Rediger side"
+        },
+        "cd8c15f27abadeefe68a23b7333543aa": {
+            "text": "Kommentarredigerer"
+        },
+        "bc9e60a9d89ccff64f5282425aa1374e": {
+            "text": "Svar p\u00e5 denne kommentaren"
+        },
+        "02334c757771bda658242d624c167dc7": {
+            "text": "Se\/rediger metadata"
         }
     }
 }
