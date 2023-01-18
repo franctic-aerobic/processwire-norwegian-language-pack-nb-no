@@ -76,6 +76,15 @@
         },
         "0d61f8370cad1d412f80b84d143e1257": {
             "text": "="
+        },
+        "bac4951f14a17b95173f02192629e8b3": {
+            "text": "Din PHP-minnegrense (memory_limit) er for tiden satt til %s."
+        },
+        "c57b443779cf3185492a1248dbead5a0": {
+            "text": "Vi anbefaler \u00e5 \u00f8ke den til minst %s."
+        },
+        "cec93480f3d9c56dd41deb0dd62594bf": {
+            "text": "For optimalisering av ytelsen, vuder \u00e5 \u00f8ke den til minst %s."
         }
     }
 }

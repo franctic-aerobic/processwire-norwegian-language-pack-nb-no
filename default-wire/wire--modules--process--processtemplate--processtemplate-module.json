@@ -1039,6 +1039,12 @@
         },
         "19403f055f2e2c7f03b5dab680880b3d": {
             "text": "Denne malens feltgruppe er brukt av %d andre maler"
+        },
+        "f24acee881db1337b08b7890e294f358": {
+            "text": "Ikke bare bruk tall."
+        },
+        "21c9aab0c5b8085a7b4a9267c6db3820": {
+            "text": "Malnavnet \u201c%s\u201d ble ikke lagt til fordi det bare inneholder tall."
         }
     }
 }

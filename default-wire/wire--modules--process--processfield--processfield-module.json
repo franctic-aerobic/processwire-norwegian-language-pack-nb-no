@@ -410,9 +410,6 @@
         "d94836b689b2cd95f920084c5f27e770": {
             "text": "Vi fant datarader i tabellen til dette feltet som ikke samsvarer med noen side, eller samsvarer med sider som ikke har dette feltet."
         },
-        "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "*Indikerer at feltet for \u00f8yeblikket overstyrer en standardverdi. Innstillinger som du angir i dette skjermbildet overstyrer bare standardinnstillingene n\u00e5r de brukes med \"%s\"-malen."
-        },
         "b98e1358fd47b54afceecd12ace8e18c": {
             "text": "F\u00f8lgende innstillinger overstyres for dette feltet av den eller de indikerte malen(e). Merk av i boksen til h\u00f8yre for en hvilken som helst rad for \u00e5 fjerne overstyringen av innstillingen (gjenopprette den opprinnelige verdien)."
         },
@@ -451,12 +448,6 @@
         },
         "b35a1460619c7aebb19fddf043d4953d": {
             "text": "Installer redigeringsmodulen for frontendesiden for \u00e5 aktivere frontenderedigering for felter. Etter installasjonen, last inn og kom tilbake hit for flere alternativer."
-        },
-        "927e2bece8a3ee4ce5f53aca157c04ec": {
-            "text": "Bruk bare ASCII-bokstaver (a-z A-Z), tall (0-9) eller understrekninger."
-        },
-        "ab2e4f95a7971ee8077df62efa20d437": {
-            "text": "Etter \u00e5 ha valgt felttype og lagring, kan du bli presentert med flere konfigurasjonsalternativer som er spesifikke for felttypen du valgte."
         },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Ytterligere informasjon som beskriver dette feltet og\/eller instruksjoner om hvordan du skriver inn innholdet."
@@ -613,9 +604,6 @@
         },
         "503eff76a9f0b3c0c78997aa4370e2f0": {
             "text": "Som standard forblir du i feltredigereren etter at du har lagret et felt. Hvis du i stedet vil g\u00e5 tilbake til feltlisten, merker du av i denne boksen."
-        },
-        "28ac344e871bb5931c25502670d3e2fd": {
-            "text": "Etikett som vises over feltinntastingen."
         },
         "405231013da488699f3761636027e651": {
             "text": "Beskrivelse vises her og ser slik ut."
