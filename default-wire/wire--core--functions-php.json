@@ -1,24 +1,5 @@
 {
     "file": "wire\/core\/Functions.php",
     "textdomain": "wire--core--functions-php",
-    "translations": {
-        "4b3a6218bb3e3a7303e8a171a60fcf92": {
-            "text": "byte"
-        },
-        "3e56c011b37f0bc78fb9eb175c1181c6": {
-            "text": "="
-        },
-        "9d5ed678fe57bcca610140957afab571": {
-            "text": "="
-        },
-        "8d8fcc1abd550c5f25dbfaa57d59cb67": {
-            "text": "="
-        },
-        "79cba1185463850dedba31f172f1dc5b": {
-            "text": "="
-        },
-        "40ea57d3ee3c07bf1c102b466e1c3091": {
-            "text": "="
-        }
-    }
+    "translations": []
 }

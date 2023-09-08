@@ -11,9 +11,6 @@
         "5243227b5f4a58e7cc1be6b30f4bbce8": {
             "text": "Om ingen foreldre er valgt, vil elementene bli plassert som undersider til siden som redigeres."
         },
-        "fcb2facea33821286bfd4cad3f7ac76d": {
-            "text": "Slett elementene n\u00e5r side slettes?"
-        },
         "f80a4ad87fee7c9fdc19b7769495fdb5": {
             "text": "Ingenting"
         },
@@ -53,14 +50,8 @@
         "7a25f2fb1df8b415ae376a1bc744ddc1": {
             "text": "Sideoppf\u00f8rsler"
         },
-        "276fe80c8306b8f1211c933c5b0789dd": {
-            "text": "Dette valget tr\u00e5r kun i kraft dersom du har valgt en foreldreside over."
-        },
         "23eb7651d596fbeec11e64a6c67925d9": {
             "text": "Dette er malene som skal brukes av sider som administreres fra dette feltet. Det kan v\u00e6re lurt \u00e5 lage en ny mal som er spesifikk for behovene til dette feltet."
-        },
-        "08f53f44f5a22058682ec7c305c2f37b": {
-            "text": "N\u00e5r de er avkrysset, blir objekter som er opprettet\/administrert av en gitt side automatisk s\u00f8ppel n\u00e5r siden blir slettet. Hvis ikke avkrysset, forblir elementene under den overordnede du valgte ovenfor."
         },
         "bad3d943c1f7443d2205de6edd995d6e": {
             "text": "Du kan skrive inn flere sorteringsfelter ved \u00e5 skille de med en komma, f.eks. \"etternavn, fornavn, -bursdag\"."

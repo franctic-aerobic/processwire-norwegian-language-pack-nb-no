@@ -140,9 +140,6 @@
         "b3dc4b8696a26f0852afc3df1785ce24": {
             "text": "Dato\/tid-format (for kommentarliste)"
         },
-        "ea706988dcb6ea169518eb97da49df9d": {
-            "text": "Skriv inn dato\/tid-format du vil ha i standard kommentarliste. Kan v\u00e6re i PHP [date](http:\/\/php.net\/manual\/en\/function.date.php) eller [strftime](http:\/\/php.net\/manual\/en\/function.strftime.php) format. Kan ogs\u00e5 v\u00e6re \"relative\" til relative datoformat."
-        },
         "9fbc91b8ace5ac4afdc754d6d81d1f28": {
             "text": "Tillatt kommentarstemmer?"
         },
@@ -241,6 +238,15 @@
         },
         "898ded7b2375a02a2642e39971e59cd3": {
             "text": "N\u00e5r dette er merket av, vil hele kommentarteksten ogs\u00e5 vises i e-postmeldingene, i stedet for bare en lenke til den."
+        },
+        "d8b14b9294abd99cef7ccd468f92282e": {
+            "text": "Skriv inn dato-\/klokkeslettformatet du vil at standard kommentarlisteutdata skal bruke."
+        },
+        "033acb4cf2bad26f8dc0a9263c3bbe40": {
+            "text": "Kan v\u00e6re PHP [%s](date)- eller [%s](strftime)-format"
+        },
+        "9b627919cf0a2a80c2feaa17bac8f299": {
+            "text": "Kan ogs\u00e5 v\u00e6re \"relative\" for relativt datoformat."
         }
     }
 }

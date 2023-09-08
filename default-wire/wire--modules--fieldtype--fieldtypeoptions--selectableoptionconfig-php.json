@@ -8,12 +8,6 @@
         "69e27cd6eff790dbbd4b6f65275ebaf7": {
             "text": "SLETT:"
         },
-        "2193a0641b7380e976778074efdfec0a": {
-            "text": "Enkel verdi"
-        },
-        "06a7c76b256c778d08e1c9548a9e679d": {
-            "text": "Flere verdier"
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Slett dette valget"
         },
@@ -52,9 +46,6 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Hvis du vil produsere verdier i stedet for titler, erstatter du \u201ctittel\u201d med \u201cverdi\u201d i eksemplene ovenfor."
-        },
-        "d8773b3c985910685f4f4aca03604c14": {
-            "text": "Flere sorterbare verdier"
         },
         "69a114a946943d26c4ea03ba031b4124": {
             "text": "Merk: Forvalget ditt er ikke aktivt, siden dette feltet ikke er et obligatorisk felt. Aktiver alternativet \u201cobligatorisk\u201d i inndatafanen til feltet."

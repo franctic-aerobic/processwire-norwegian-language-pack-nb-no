@@ -4,18 +4,6 @@
     "translations": {
         "d35d926654fdaeed481722384826e32b": {
             "text": "Lagret hurtigbuffer"
-        },
-        "a188964d2912198a985f7bcd9564c530": {
-            "text": "T\u00f8mte hurtigbuffer"
-        },
-        "8a4a48cd3a709f985d5ea015c2db76c0": {
-            "text": "Generelt vedlikehold t\u00f8mte %d hutigbuffer"
-        },
-        "f64daf743a238aa0cd75ee82bff43332": {
-            "text": "Vedlikehold t\u00f8mte %d hurtigbuffer for lagret side"
-        },
-        "fb00a11e56682a1fc9456f910b1ebcff": {
-            "text": "Vedlikehold t\u00f8mte %d hurtigbuffer for lagret mal"
         }
     }
 }

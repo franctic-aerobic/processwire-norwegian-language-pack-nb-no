@@ -77,12 +77,6 @@
         "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
             "text": "Tabellfelter som skal vises i administrasjonsgrensesnittet"
         },
-        "420fb882b998481add0d526522ffff81": {
-            "text": "Skriv inn navnene p\u00e5 feltene (1 per linje) som du vil vise som kolonner i tabellen. For \u00e5 spesifisere en kolonnebredde for feltet, spesifiser \"field_name=30\" der \"30\" er bredden (i prosenter) av kolonnen. N\u00e5r du spesifiserer bredder, m\u00e5 summen av alle kolonnene bli til 100."
-        },
-        "290cc1b749092b6f62035343a4e4f9eb": {
-            "text": "Du kan spesifisere hvilket som helst eget eller tilpasset felt. Du kan ogs\u00e5 bruke underfelt (field.subfield) med felter som inneholder flere egenskaper, som sidereferanser."
-        },
         "c775db1b4b86e060f703a4e7cedc292f": {
             "text": "Tilpassede felter tilordnet de valgte malene inkluderer f\u00f8lgende:"
         },
@@ -92,12 +86,6 @@
         "34ff6bbc0c075f35e92dc68a218b7cc2": {
             "text": "Automatisk format for sidenavn"
         },
-        "9264201faa8a6ca75fc27583eafe1e88": {
-            "text": "N\u00e5r de fylles ut, blir sider opprettet automatisk ved hjelp av dette navneformatet hver gang en bruker klikker p\u00e5 \"Legg til ny\"-knappen. Hvis det blir tomt, blir brukeren bedt om \u00e5 angi et navn p\u00e5 siden f\u00f8r den opprettes."
-        },
-        "e4f63a8ac32b32675310ab45dd15e6cb": {
-            "text": "Hvis navneformatet inneholder ikkealfanumeriske tegn, regnes det som i [PHP-dato](http:\/\/www.php.net\/manual\/en\/function.date.php)-formatet. Hvis den bare inneholder alfanumeriske tegn, vil den brukes, med et nummer lagt til slutten (n\u00e5r det er n\u00f8dvendig) for \u00e5 sikre unikhet."
-        },
         "9ad1067becc6f575ac4c13c7294fdffe": {
             "text": "Eksempel: **Ymd:His** er et godt navneformat for dato-\/tidsbaserte sidenavn."
         },
@@ -106,6 +94,33 @@
         },
         "0a897fae6e81285f1da55dd87457ec94": {
             "text": "Inndatafeltet skal ledsage FieldtypePageTable"
+        },
+        "d074a1c108c36f5cd1ad08b7b1af956f": {
+            "text": "Skriv inn navnene p\u00e5 feltene (1 per linje) som du vil vise som kolonner i tabellen."
+        },
+        "b4defb37338400f9b9d8fea43ce91d5d": {
+            "text": "For \u00e5 angi en kolonnebredde for feltet, spesifiser \"feltnavn=30\" der \"30\" er bredden (i prosent) av kolonnen."
+        },
+        "13d4ce65721e3a572b5f089398240c50": {
+            "text": "N\u00e5r du spesifiserer bredder, gj\u00f8r slik at summen av alle kolonner blir 100."
+        },
+        "8da668acfc6b5861c2d277e8045dabb8": {
+            "text": "Du kan spesifisere et hvilket som helst innf\u00f8dt eller tilpasset felt."
+        },
+        "ef69a322821bbe5d9851f05bd132068d": {
+            "text": "Du kan ogs\u00e5 bruke underfelt (felt.underfelt) med felt som inneholder flere egenskaper, som sidereferanser."
+        },
+        "a5049200083d5f9dc1767587f109869f": {
+            "text": "N\u00e5r de er fylt ut, opprettes sider automatisk med dette navneformatet hver gang en bruker klikker p\u00e5 \"Legg til ny\"-knappen."
+        },
+        "50716328038d96ec903e9aa46536fba9": {
+            "text": "Hvis det st\u00e5r tomt, vil brukeren bli bedt om \u00e5 skrive inn et navn p\u00e5 siden f\u00f8r den opprettes."
+        },
+        "0c0b6a3b9dd7e6b8885490d74f2306e7": {
+            "text": "Hvis navneformatet inneholder ikke-alfanumeriske tegn, anses det \u00e5 v\u00e6re et [PHP Date](%s)-datoformat."
+        },
+        "6fd483af216b700d4e5a1cbaecfc170f": {
+            "text": "Hvis den bare inneholder alfanumeriske tegn, vil den bli brukt direkte, med et nummer vedlagt p\u00e5 slutten (n\u00e5r n\u00f8dvendig) for \u00e5 sikre unikhet."
         }
     }
 }

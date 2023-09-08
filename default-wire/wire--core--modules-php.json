@@ -5,77 +5,8 @@
         "3919fe955716c54c409b522a1003f3e0": {
             "text": "Du har ikke tilgang til \u00e5 kj\u00f8re denne modulen"
         },
-        "de7a358da1292f56861c726d3c860dc0": {
-            "text": "Ikke i stand til \u00e5 installere den p\u00e5krevde modulen"
-        },
-        "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
-            "text": "La til tilgang: %s"
-        },
-        "e349b4d55d1eb71f3b313924149aa242": {
-            "text": "Feil ved tillegging av tilgang: %s"
-        },
-        "d8b74ebbc7d2d9e0bb9860f5875e6a58": {
-            "text": "Modul autoinstallering"
-        },
-        "2ccb0669e8a2f6a3117f340bb36e8d4b": {
-            "text": "Modul autoavinstallering"
-        },
-        "37ab3f591b07274ff3b4c891af63e4d1": {
-            "text": "Fjernet tilgang: %s"
-        },
-        "7dd5a577bde82df3631263cfd04a07bb": {
-            "text": "Feil ved fjerning av tilgang: %s"
-        },
-        "141e30f2de96660020efd996cc916413": {
-            "text": "Moduleavhengighet feilet: %s krever %s"
-        },
-        "3ba3666c48feabf2f2506e1f835ea92e": {
-            "text": "Oppgraderer modul"
-        },
         "0a6712f704d759c81cdc4416397e7faf": {
             "text": "Feilet \u00e5 konstruere modulen: %s"
-        },
-        "7f5ebaf3241ff21764054580a96a3b11": {
-            "text": "Feilet \u00e5 initiere modulen: %s"
-        },
-        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
-            "text": "Feilet \u00e5 klargj\u00f8re modulen: %s"
-        },
-        "1f8ef8340fd2af55ecdf88e4a9ea3d8e": {
-            "text": "Modulen rapporterte feil under installasjon"
-        },
-        "46e2d06b80d816b2916f1f27492fbabd": {
-            "text": "Ute av stand til \u00e5 installere modul"
-        },
-        "5c4f3cc8a1cdcfa7759b4d0a199bcfa0": {
-            "text": "Modulen er ikke installert"
-        },
-        "8ffefc63396ecaf77fdcafe5163f2bfe": {
-            "text": "Modulen er permanent"
-        },
-        "926c4c5bf92909f4225cafbe323a1ea9": {
-            "text": "Modulen kreves av andre moduler som m\u00e5 fjernes f\u00f8rst"
-        },
-        "d710b0151d568a1efa24617b78fa1f25": {
-            "text": "Denne modulen er en felttype som for tiden brukes av en eller flere felter"
-        },
-        "7ac5a75a8a79dc9b9e8d40dbed9c4124": {
-            "text": "Modulen %s krever: %s"
-        },
-        "dc3fd488f03d423a04da27ce66274c1b": {
-            "text": "Advarsel!"
-        },
-        "5a2fc11bf796d8311be4cbec0b42de6a": {
-            "text": "Oppdaget %d ny modul(er):"
-        },
-        "c6c027ba8c6c5d40e280070bd29ded16": {
-            "text": "Oppdaget %d flyttet\/flyttede modul(er):"
-        },
-        "6ea5c2eaa01aed58a21b407c8e6dfd98": {
-            "text": "Oppdaget %d manglende modulfil(er):"
-        },
-        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
-            "text": "Oppdaget %d modulversjonendring(er) (brukes n\u00e5r hver modul lastes inn):"
         }
     }
 }

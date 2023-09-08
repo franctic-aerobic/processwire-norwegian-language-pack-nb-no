@@ -31,6 +31,12 @@
         },
         "9dffbf69ffba8bc38bc4e01abf4b1675": {
             "text": "Tekst"
+        },
+        "6fb98d2426f4f6bbaf507e9033c89d5b": {
+            "text": "Dette feltet tillater for \u00f8yeblikket Markup\/HTML i formatert utdata."
+        },
+        "47fd39f8a1299b77e81a238129154c95": {
+            "text": "Hvis du ikke har til hensikt \u00e5 tillate Markup\/HTML, vennligst velg \"HTML Entity Encoder\" som \"Tekstformaterere\"."
         }
     }
 }

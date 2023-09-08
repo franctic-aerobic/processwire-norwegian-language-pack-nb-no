@@ -212,9 +212,6 @@
         "646282aa96109d00b491937c02c1753a": {
             "text": "Oppdatert meta for kommentaren #%d"
         },
-        "77f942f02a3e44e4d3f2ad6d7fbc973c": {
-            "text": "Feil ved oppdatering av meta for kommentaren #%d"
-        },
         "663cac8a406b356e671fb273a143ab84": {
             "text": "Kan ikke lagre fordi JSON ikke er gyldig"
         },
@@ -304,6 +301,9 @@
         },
         "02334c757771bda658242d624c167dc7": {
             "text": "Se\/rediger metadata"
+        },
+        "7126c205afb1135079ad7a47630a2cba": {
+            "text": "Feil ved oppdatering av meta for kommentar #%d"
         }
     }
 }

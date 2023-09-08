@@ -46,6 +46,9 @@
         },
         "9d7f65dc30d669d9000ef19ed549228e": {
             "text": "Se brukere i rolle: %s"
+        },
+        "1cde74a0dce30621ce5a3d6541fb428d": {
+            "text": "Brukeren kan legge til \/ redigere \/ slette omdirigeringsadresser i sideredigeringsprogrammet"
         }
     }
 }

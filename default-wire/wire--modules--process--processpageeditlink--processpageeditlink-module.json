@@ -5,9 +5,6 @@
         "0f1d07df1a82d22e187c72bacabc1117": {
             "text": "Velg side"
         },
-        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
-            "text": "Skriv inn en URL, velg en side, eller velg en fil \u00e5 lenke til:"
-        },
         "97e7c9a7d06eac006a28bf05467fcc8b": {
             "text": "Lenke"
         },
@@ -92,14 +89,8 @@
         "22d6eb83c9e9109699daa15ef964e88f": {
             "text": "Du kan tilpasse tilgjengelige attributter som vist over i modulinnstillingene til %s."
         },
-        "b31cbfca485dbc22cfb79ea992fa8e98": {
-            "text": "Skriv in en attributtverdi per linje. Brukeren vil kunne velge blant disse alternativene n\u00e5r den legger til lenker. For \u00e5 gj\u00f8re at et alterantiv er valgt som standard (p\u00e5 nye lenker), skriv \" + \" foran."
-        },
         "a09630836c5a01bfa93c8cdfbbb065d3": {
             "text": "Egenskaper for eksterne lenker"
-        },
-        "9b291241830397114b711a98ca6695d6": {
-            "text": "Angi standard valgt attributt som automatisk fylles ut n\u00e5r en ekstern lenke oppdages."
         },
         "7f4fd9351aed8f03ec4559872d125eb4": {
             "text": "Hvis den brukes, m\u00e5 verdien v\u00e6re en du har forh\u00e5ndsdefinert ovenfor."
@@ -121,6 +112,30 @@
         },
         "63a11faa3a692d4e00fa8e03bbe8a0d6": {
             "text": "Lenketekst"
+        },
+        "61cafe4d184180188afc6ae4ec17f4a3": {
+            "text": "Skriv inn en av attributtebe `verdi`, `verdi=etikett` eller `verdi=\"etikett\"` per linje (se merknader for detaljer)."
+        },
+        "5bc6b41974c85a4c0c1294baa5c1df6b": {
+            "text": "Brukeren vil kunne velge disse som alternativer n\u00e5r de legger til lenker."
+        },
+        "4ab1b6e87b9bca976ee22a682f2b83ff": {
+            "text": "For \u00e5 velge et alternativ som standard (for nye lenker), f\u00f8r verdien med et pluss \u201c+\u201c."
+        },
+        "6d30081bc30ae23fbca0a3266b239bc1": {
+            "text": "For \u00e5 inkludere etiketter, spesifiser `verdi=etikett` for \u00e5 vise **\u201cverdi (etikett)\u201c** for hvert valgbart alternativ."
+        },
+        "c1911c8116edd857ca7ade57e8e6dbb6": {
+            "text": "Eller spesifiser `value=\"label\"` (etikett i anf\u00f8rselstegn) for \u00e5 vise bare **\u201clabel\u201c** (skjuler verdien) for hvert valgbart alternativ."
+        },
+        "e9dddc56cb31e7187911409b28313905": {
+            "text": "Spesifiser de valgte standardattributtene som automatisk fylles ut n\u00e5r en ekstern kobling oppdages."
+        },
+        "9491696e5b7bee831c2ec3a3c7459b0b": {
+            "text": "Vil du deaktivere redigeringsfunksjonen for lenketekster?"
+        },
+        "22b321657da8101c6637060a8dbd0e37": {
+            "text": "Deaktiverer \u201cRediger lenketekst\u201c-funksjonen, slik at du kan st\u00f8tte lenker som kan inneholde eksisterende markeringer."
         }
     }
 }

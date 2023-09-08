@@ -50,17 +50,11 @@
         "bb8bbda58833ce19eef6193e1918e8cf": {
             "text": "Sl\u00e5 av automatisk publisering"
         },
-        "13148993e6c4399880e879c88a664347": {
-            "text": "Standard innstilling er at sider med kun globale felter (mest kjente er \"tittel\") vil bli publisert automatisk n\u00e5r de blir lagt til, og forbig\u00e5r den vanlige upubliserte tilstanden. Dette er gjerne en god m\u00e5te \u00e5 spare tid p\u00e5. Men du kan stoppe denne oppf\u00f8rselen ved \u00e5 krysse av i boksen under."
-        },
         "e0f8c45404ac3252900cc035530cd905": {
             "text": "Malsnarvei sorteringsrekkef\u00f8lge"
         },
         "557335482992652fdefe6cc17332688f": {
             "text": "For \u00e5 legge til eller fjerne maler fra disse snarveiene, se malredigeringens familiefane."
-        },
-        "b0324fdebb63032317bba7c66bff89fc": {
-            "text": "Det er ingen maler med definerte foreldre\/underside-forhold som kreves for \u00e5 vise \"Legg til ny\"-hurtiglenkene her. For \u00e5 konfigurere dette, rediger hvilken som helst mal (Oppsett > Maler) og trykk p\u00e5 \"Familie\"-fanen."
         },
         "591d3e7786bdfa26890da22a5565f1f5": {
             "text": "Lagre + Publiser + Legg til en annen"
@@ -79,6 +73,36 @@
         },
         "bd71df4fde063d60b0fe33d87f52f7ff": {
             "text": "Advarsel, det valgte navnet \"%1$s var allerede i bruk og har blitt endret til \"%2$s\"."
+        },
+        "2298e69a8c95260f81457d8bb74b91ba": {
+            "text": "Det er for \u00f8yeblikket ingen maler med definerte foreldre\/barn-relasjoner som trengs for \u00e5 vise \u201cLegg til ny\u201c-snarveier her."
+        },
+        "bf4ac1b27288d052237b266bafed78a5": {
+            "text": "For \u00e5 konfigurere dette, rediger hvilken som helst mal (Oppsett > Maler) og klikk p\u00e5 \"Familie\"-fanen."
+        },
+        "46b60bab6d1b7ba1219e3e973f798bb8": {
+            "text": "Foreldremalen har spesifisert at ingen barn kan legges til her"
+        },
+        "4adda0ba499618f088c016218590568a": {
+            "text": "Malen \"%1$s\" tillater ikke foreldre av typen \"%2$s\""
+        },
+        "8ac79db907beb1536bae6c8bebcd2d8f": {
+            "text": "Forelderen av typen \"%1$s\" tillater ikke barn av typen \"%2$s\""
+        },
+        "66734a327a9407446a6c13da6d7e88ad": {
+            "text": "Du har ikke tilgang til \u00e5 legge til sider til overordnet %s"
+        },
+        "950464785f49f016bb3488b4bead5c7e": {
+            "text": "Spesifisert forelder er ikke tillatt (%s)"
+        },
+        "b2a25c3747d55c5c17c8fdd9df6b4fb5": {
+            "text": "Som standard vil sider med bare globale felt (oftest \"title\") publiseres automatisk n\u00e5r de legges til."
+        },
+        "586ac396098f671914f6d39ca427dfe8": {
+            "text": "Dette omg\u00e5r den upubliserte tilstanden, som kan v\u00e6re en \u00f8nskelig tidsbesparelse i noen tilfeller."
+        },
+        "fdea6cb8047656097fa26264565210a0": {
+            "text": "Du kan eventuelt avbryte denne oppf\u00f8rselen ved \u00e5 merke av i boksen nedenfor."
         }
     }
 }

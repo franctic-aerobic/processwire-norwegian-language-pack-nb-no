@@ -2,7 +2,7 @@
 
 ## Latest Version
 
-ProcessWire 3.0.210 master
+ProcessWire 3.0.226 master
 
 ## default-wire
 

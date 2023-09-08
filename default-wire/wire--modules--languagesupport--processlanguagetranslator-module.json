@@ -163,6 +163,12 @@
         },
         "24e75fc33422e42d84ba0fc01cdc8579": {
             "text": "Du kan ogs\u00e5 [laste ned](%1$s) eller [se](%2$s) en CSV-fil med disse oversettelsene, redigere dem og deretter [laste dem opp her](%3$s)."
+        },
+        "c65348dab3dac8d8eea9c3d8839ce5c6": {
+            "text": "St\u00f8ttede filutvidelser for oversettbare filer"
+        },
+        "dbb38b2c4ea4d2a790c90d6ab74b145d": {
+            "text": "Skriv inn en mellomromseparert liste over filutvidelser (`php` og `module` kreves)."
         }
     }
 }
